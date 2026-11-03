@@ -2701,11 +2701,13 @@ itemsfile version 3
 
  itm_necrohelm6 Shadowlord's_Aura Shadowlord's_Aura 1  SWHead 0  2684354572 0 142 704643236 0.000000 100 33 0 0 7 0 0 0 0 0 0 0
  0
-0
+1
+-50.000000  2 1955 3 0 0 15 1965 1 1008806316530991150 
 
  itm_necroarmor6 Shadowlord's_Projection Shadowlord's_Projection 1  SWBody 0  553648141 0 3680 704643236 0.000000 100 0 56 18 7 0 0 0 0 0 0 0
  0
-0
+1
+-50.000000  1 1965 1 1008806316530991150 
 
  itm_necrogauntlets6 Shadowlord's_Telekinesis Shadowlord's_Telekinesis 1  necrogauntlet6_L 0  536870927 0 1100 704643236 0.000000 100 0 6 0 0 0 0 0 0 0 0 0
  0
