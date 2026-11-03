@@ -1,0 +1,209 @@
+﻿p_temp_party|临 时 部 队 
+p_camp_bandits|营 地 强 盗 
+p_temp_party_2|临 时 部 队 2
+p_temp_casualties|伤 亡 人 员 
+p_temp_casualties_2|伤 亡 人 员 
+p_temp_casualties_3|伤 亡 人 员 
+p_temp_wounded|受 伤 的 敌 人 
+p_temp_killed|被 杀 的 敌 人 
+p_main_party_backup| 
+p_encountered_party_backup| 
+p_collective_friends_backup| 
+p_player_casualties| 
+p_enemy_casualties| 
+p_ally_casualties| 
+p_collective_enemy|集 合 的 敌 人 
+p_collective_ally|集 合 的 盟 友 
+p_collective_friends|集 合 的 盟 友 
+p_zendar|旧 曾 扎 尔 
+p_town_1|萨 尔 戈 特 
+p_town_2|蒂 赫 尔 
+p_town_3|弗 吕 卡 
+p_town_4|苏 诺 
+p_town_5|热 尔 卡 拉 
+p_town_6|普 拉 芬 
+p_town_7|乌 克 斯 哈 尔 
+p_town_8|雷 瓦 金 
+p_town_9|胡 丹 
+p_town_10|图 勒 和 
+p_town_11|楚 拉 辅 
+p_town_12|韦 尔 克 格 
+p_town_13|里 瓦 切 格 
+p_town_14|哈 里 麻 儿 
+p_town_15|亚 朗 
+p_town_16|迪 里 姆 
+p_town_17|也 察 末 儿 
+p_town_18|那 剌 
+p_town_19|神 秘 之 地 
+p_castle_1|屈 尔 马 尔 城 堡 
+p_castle_2|马 拉 玉 儿 哥 城 堡 
+p_castle_3|布 卢 加 城 堡 
+p_castle_4|拉 多 吉 尔 城 堡 
+p_castle_5|特 赫 尔 罗 格 城 堡 
+p_castle_6|蒂 尔 包 特 城 堡 
+p_castle_7|孙 合 忒 者 城 堡 
+p_castle_8|叶 伊 尔 别 城 堡 
+p_castle_9|雅 米 什 城 堡 
+p_castle_10|阿 尔 布 尔 克 城 堡 
+p_castle_11|库 林 城 堡 
+p_castle_12|卡 尔 伯 克 城 堡 
+p_castle_13|克 尔 勒 丹 城 堡 
+p_castle_14|马 拉 斯 城 堡 
+p_castle_15|厄 尔 热 隆 城 堡 
+p_castle_16|阿 尔 梅 拉 城 堡 
+p_castle_17|底 斯 塔 儿 城 堡 
+p_castle_18|伊 斯 米 拉 拉 城 堡 
+p_castle_19|伊 鲁 马 城 堡 
+p_castle_20|德 尔 希 奥 斯 城 堡 
+p_castle_21|伊 布 德 勒 斯 城 堡 
+p_castle_22|玉 奴 即 答 乞 城 堡 
+p_castle_23|特 瓦 林 城 堡 
+p_castle_24|赖 因 迪 城 堡 
+p_castle_25|里 伯 勒 特 城 堡 
+p_castle_26|塞 努 茨 格 达 城 堡 
+p_castle_27|林 迪 阿 尔 城 堡 
+p_castle_28|格 兰 瓦 尔 德 尔 城 堡 
+p_castle_29|涅 拉 格 城 堡 
+p_castle_30|阿 书 敢 城 堡 
+p_castle_31|温 科 乌 尔 德 城 堡 
+p_castle_32|克 努 达 尔 城 堡 
+p_castle_33|厄 特 罗 斯 克 城 堡 
+p_castle_34|赫 鲁 斯 城 堡 
+p_castle_35|哈 林 戈 特 城 堡 
+p_castle_36|耶 尔 伯 伊 城 堡 
+p_castle_37|德 拉 穆 格 城 堡 
+p_castle_38|土 立 八 哥 城 堡 
+p_castle_39|斯 列 兹 赫 城 堡 
+p_castle_40|月 浑 城 堡 
+p_village_1|亚 拉 加 尔 
+p_village_2|布 尔 格 伦 
+p_village_3|阿 茨 加 德 
+p_village_4|诺 马 尔 
+p_village_5|库 卢 姆 
+p_village_6|埃 米 林 
+p_village_7|阿 默 勒 
+p_village_8|海 恩 
+p_village_9|比 夫 朗 
+p_village_10|梅 钦 
+p_village_11|笃 思 图 邻 
+p_village_12|厄 梅 尔 
+p_village_13|内 默 亚 
+p_village_14|孙 布 亚 
+p_village_15|里 伯 勒 特 
+p_village_16|沙 佩 什 捷 
+p_village_17|马 曾 
+p_village_18|乌 尔 布 尔 班 
+p_village_19|哈 农 
+p_village_20|乌 斯 卢 姆 
+p_village_21|巴 泽 茨 克 
+p_village_22|舒 卢 斯 
+p_village_23|伊 尔 维 阿 
+p_village_24|吕 尔 迪 
+p_village_25|答 失 必 哥 虎 
+p_village_26|帕 甘 迪 尔 
+p_village_27|格 兰 马 尔 
+p_village_28|塔 失 阔 栾 
+p_village_29|布 伊 林 
+p_village_30|鲁 瓦 尔 
+p_village_31|安 伯 安 
+p_village_32|托 斯 德 哈 尔 
+p_village_33|鲁 伦 斯 
+p_village_34|埃 勒 尔 达 
+p_village_35|费 亚 里 肯 
+p_village_36|亚 伊 厄 克 
+p_village_37|阿 答 阔 栾 
+p_village_38|伊 比 兰 
+p_village_39|勒 弗 朗 
+p_village_40|萨 朗 
+p_village_41|朵 干 
+p_village_42|底 里 哈 班 
+p_village_43|咱 古 失 
+p_village_44|伯 失 迷 
+p_village_45|布 鲁 兀 尔 
+p_village_46|费 德 内 尔 
+p_village_47|厄 珀 斯 
+p_village_48|韦 达 尔 
+p_village_49|铁 思 密 儿 
+p_village_50|卡 林 季 
+p_village_51|耶 尔 伯 伊 
+p_village_52|阿 马 失 客 
+p_village_53|巴 兰 利 
+p_village_54|希 德 
+p_village_55|塔 察 梅 什 
+p_village_56|费 纳 达 
+p_village_57|乌 斯 库 鲁 
+p_village_58|韦 津 
+p_village_59|迪 马 尔 
+p_village_60|塔 尔 伯 尔 
+p_village_61|阿 尔 德 伦 
+p_village_62|列 巴 切 
+p_village_63|勒 杜 纳 
+p_village_64|塞 兰 迪 阿 尔 
+p_village_65|因 达 
+p_village_66|菲 斯 德 纳 尔 
+p_village_67|捷 班 德 拉 
+p_village_68|伊 布 德 勒 斯 
+p_village_69|克 温 
+p_village_70|迪 里 格 桑 
+p_village_71|特 希 布 廷 
+p_village_72|埃 尔 伯 尔 
+p_village_73|沙 厄 扎 
+p_village_74|艾 克 
+p_village_75|布 拉 班 
+p_village_76|克 德 勒 哥 
+p_village_77|里 锡 
+p_village_78|萨 里 米 斯 
+p_village_79|伊 斯 蒂 尼 阿 尔 
+p_village_80|瓦 伊 厄 约 格 
+p_village_81|奥 达 桑 
+p_village_82|亚 利 伯 
+p_village_83|伊 西 姆 
+p_village_84|舍 勒 兹 
+p_village_85|伊 斯 米 拉 拉 
+p_village_86|斯 列 兹 赫 
+p_village_87|乌 迪 尼 阿 德 
+p_village_88|土 立 八 哥 
+p_village_89|月 浑 
+p_village_90|雅 米 什 
+p_salt_mine|旧 盐 矿 场 
+p_four_ways_inn|四 方 客 栈 
+p_barter_town|巴 特 尔 
+p_test_scene|测 试 场 景 
+p_battlefields|战 场 
+p_dhorak_keep|多 拉 克 要 塞 
+p_training_ground|训 练 场 地 
+p_training_ground_1|旧 石 刑 场 
+p_training_ground_2|旧 裂 刑 场 
+p_training_ground_3|旧 吊 刑 场 
+p_training_ground_4|旧 火 刑 场 
+p_training_ground_5|旧 水 刑 场 
+p_bridge_1|1
+p_bridge_2|2
+p_bridge_3|3
+p_bridge_4|4
+p_bridge_5|5
+p_bridge_6|6
+p_bridge_7|7
+p_bridge_8|8
+p_bridge_9|9
+p_bridge_10|10
+p_bridge_11|11
+p_bridge_12|12
+p_bridge_13|13
+p_bridge_14|14
+p_bridge_15|15
+p_looter_spawn_point|掠 夺 者 产 生 点 
+p_steppe_bandit_spawn_point|草 原 强 盗 产 生 点 
+p_forest_bandit_spawn_point|森 林 强 盗 产 生 点 
+p_mountain_bandit_spawn_point|山 地 强 盗 产 生 点 
+p_sea_raider_spawn_point_1|海 洋 突 袭 者 产 生 点 
+p_sea_raider_spawn_point_2|海 洋 突 袭 者 产 生 点 
+p_bloodfountain_spawn_point|喷 血 池 产 生 点 
+p_greenmeteorite|开 放 场 地 
+p_spiritcircle|上 古 立 石 
+p_homestead|席 拉 斯
+p_sherwood|厄 舍 伍 德 
+p_sherwood2|盗 贼 之 巢 
+p_deadantihero|堕 落 之 地
+p_spawn_points_end|最 后 的 产 生 点 
+p_ivorytemple|象 牙 寺 

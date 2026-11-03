@@ -1,0 +1,1142 @@
+[
+  {
+    "orig_id": "p_main_party",
+    "name": "Main Party",
+    "type": "village",
+    "raw_line": "1 0 0 p_main_party Main_Party 1048576 0 0 13 0 0 0 0 0 17.000000 52.500000 17.000000 52.500000 17.000000 52.500000 0.0 1 0 1 0 0",
+    "orig_x": 17.0,
+    "orig_y": 52.5,
+    "norm_x": -120.5,
+    "norm_y": 17.5
+  },
+  {
+    "orig_id": "p_zendar",
+    "name": "Zendar",
+    "type": "village",
+    "raw_line": "1 72 72 p_zendar Zendar 2114828 0 0 3 0 0 0 0 0 18.000000 60.000000 18.000000 60.000000 18.000000 60.000000 0.0 0",
+    "orig_x": 18.0,
+    "orig_y": 60.0,
+    "norm_x": -119.5,
+    "norm_y": 25.0
+  },
+  {
+    "orig_id": "p_town_8",
+    "name": "Szeged",
+    "type": "town",
+    "raw_line": "1 80 80 p_town_8 Szeged 4219916 0 0 3 0 0 0 0 0 98.610001 95.000000 98.610001 95.000000 98.610001 95.000000 0.0 0",
+    "orig_x": 98.610001,
+    "orig_y": 95.0,
+    "norm_x": -38.89,
+    "norm_y": 60.0
+  },
+  {
+    "orig_id": "p_town_11",
+    "name": "Krakow",
+    "type": "town",
+    "raw_line": "1 83 83 p_town_11 Krakow 4219916 0 0 3 0 0 0 0 0 85.330002 204.130005 85.330002 204.130005 85.330002 204.130005 0.0 0",
+    "orig_x": 85.330002,
+    "orig_y": 204.130005,
+    "norm_x": -52.17,
+    "norm_y": 169.13
+  },
+  {
+    "orig_id": "p_town_18",
+    "name": "Smyrna",
+    "type": "town",
+    "raw_line": "1 90 90 p_town_18 Smyrna 4219918 0 0 3 0 0 0 0 0 224.960007 -94.230003 224.960007 -94.230003 224.960007 -94.230003 0.0 0",
+    "orig_x": 224.960007,
+    "orig_y": -94.230003,
+    "norm_x": 87.46,
+    "norm_y": -129.23
+  },
+  {
+    "orig_id": "p_town_31",
+    "name": "Vienna",
+    "type": "town",
+    "raw_line": "1 103 103 p_town_31 Vienna 4219916 0 0 3 0 0 0 0 0 45.279999 139.490005 45.279999 139.490005 45.279999 139.490005 0.0 0",
+    "orig_x": 45.279999,
+    "orig_y": 139.490005,
+    "norm_x": -92.22,
+    "norm_y": 104.49
+  },
+  {
+    "orig_id": "p_town_33",
+    "name": "Salonika",
+    "type": "town",
+    "raw_line": "1 105 105 p_town_33 Salonika 4219916 0 0 3 0 0 0 0 0 155.960007 -43.549999 155.960007 -43.549999 155.960007 -43.549999 0.0 0",
+    "orig_x": 155.960007,
+    "orig_y": -43.549999,
+    "norm_x": 18.46,
+    "norm_y": -78.55
+  },
+  {
+    "orig_id": "p_town_37",
+    "name": "Constantinople",
+    "type": "town",
+    "raw_line": "1 109 109 p_town_37 Constantinople 4219916 0 0 3 0 0 0 0 0 245.619995 -8.610000 245.619995 -8.610000 245.619995 -8.610000 0.0 0",
+    "orig_x": 245.619995,
+    "orig_y": -8.61,
+    "norm_x": 108.12,
+    "norm_y": -43.61
+  },
+  {
+    "orig_id": "p_town_38",
+    "name": "Kolozsvar",
+    "type": "town",
+    "raw_line": "1 110 110 p_town_38 Kolozsvar 4219916 0 0 3 0 0 0 0 0 160.339996 106.750000 160.339996 106.750000 160.339996 106.750000 0.0 0",
+    "orig_x": 160.339996,
+    "orig_y": 106.75,
+    "norm_x": 22.84,
+    "norm_y": 71.75
+  },
+  {
+    "orig_id": "p_town_39",
+    "name": "Pest",
+    "type": "town",
+    "raw_line": "1 111 111 p_town_39 Pest 4219916 0 0 3 0 0 0 0 0 78.580002 121.000000 78.580002 121.000000 78.580002 121.000000 0.0 0",
+    "orig_x": 78.580002,
+    "orig_y": 121.0,
+    "norm_x": -58.92,
+    "norm_y": 86.0
+  },
+  {
+    "orig_id": "p_town_40",
+    "name": "Edirne",
+    "type": "town",
+    "raw_line": "1 112 112 p_town_40 Edirne 4219916 0 0 3 0 0 0 0 0 203.429993 -4.500000 203.429993 -4.500000 203.429993 -4.500000 0.0 0",
+    "orig_x": 203.429993,
+    "orig_y": -4.5,
+    "norm_x": 65.93,
+    "norm_y": -39.5
+  },
+  {
+    "orig_id": "p_town_41",
+    "name": "Sofia",
+    "type": "town",
+    "raw_line": "1 113 113 p_town_41 Sofia 4219916 0 0 3 0 0 0 0 0 141.679993 11.210000 141.679993 11.210000 141.679993 11.210000 0.0 0",
+    "orig_x": 141.679993,
+    "orig_y": 11.21,
+    "norm_x": 4.18,
+    "norm_y": -23.79
+  },
+  {
+    "orig_id": "p_town_42",
+    "name": "Targoviste",
+    "type": "town",
+    "raw_line": "1 114 114 p_town_42 Targoviste 4219916 0 0 3 0 0 0 0 0 170.880005 62.080002 170.880005 62.080002 170.880005 62.080002 0.0 0",
+    "orig_x": 170.880005,
+    "orig_y": 62.080002,
+    "norm_x": 33.38,
+    "norm_y": 27.08
+  },
+  {
+    "orig_id": "p_town_47",
+    "name": "Visoko",
+    "type": "town",
+    "raw_line": "1 119 119 p_town_47 Visoko 4219916 0 0 3 0 0 0 0 0 66.970001 31.820000 66.970001 31.820000 66.970001 31.820000 0.0 0",
+    "orig_x": 66.970001,
+    "orig_y": 31.82,
+    "norm_x": -70.53,
+    "norm_y": -3.18
+  },
+  {
+    "orig_id": "p_castle_2",
+    "name": "Filibe",
+    "type": "castle",
+    "raw_line": "1 128 128 p_castle_2 Filibe 4215839 0 0 3 0 0 0 0 0 171.389999 0.940000 171.389999 0.940000 171.389999 0.940000 0.0 0",
+    "orig_x": 171.389999,
+    "orig_y": 0.94,
+    "norm_x": 33.89,
+    "norm_y": -34.06
+  },
+  {
+    "orig_id": "p_castle_4",
+    "name": "Sirmium",
+    "type": "castle",
+    "raw_line": "1 130 130 p_castle_4 Sirmium 4215840 0 0 3 0 0 0 0 0 90.800003 60.500000 90.800003 60.500000 90.800003 60.500000 0.0 0",
+    "orig_x": 90.800003,
+    "orig_y": 60.5,
+    "norm_x": -46.7,
+    "norm_y": 25.5
+  },
+  {
+    "orig_id": "p_castle_5",
+    "name": "Zagreb",
+    "type": "castle",
+    "raw_line": "1 131 131 p_castle_5 Zagreb 4215840 0 0 3 0 0 0 0 0 40.130001 71.059998 40.130001 71.059998 40.130001 71.059998 0.0 0",
+    "orig_x": 40.130001,
+    "orig_y": 71.059998,
+    "norm_x": -97.37,
+    "norm_y": 36.06
+  },
+  {
+    "orig_id": "p_castle_7",
+    "name": "Sibiu",
+    "type": "castle",
+    "raw_line": "1 133 133 p_castle_7 Sibiu 4215843 0 0 3 0 0 0 0 0 164.429993 85.169998 164.429993 85.169998 164.429993 85.169998 0.0 0",
+    "orig_x": 164.429993,
+    "orig_y": 85.169998,
+    "norm_x": 26.93,
+    "norm_y": 50.17
+  },
+  {
+    "orig_id": "p_castle_9",
+    "name": "Athens",
+    "type": "castle",
+    "raw_line": "1 135 135 p_castle_9 Athens 4215838 0 0 3 0 0 0 0 0 162.750000 -108.980003 162.750000 -108.980003 162.750000 -108.980003 0.0 0",
+    "orig_x": 162.75,
+    "orig_y": -108.980003,
+    "norm_x": 25.25,
+    "norm_y": -143.98
+  },
+  {
+    "orig_id": "p_castle_18",
+    "name": "Trencsen",
+    "type": "castle",
+    "raw_line": "1 144 144 p_castle_18 Trencsen 4215843 0 0 3 0 0 0 0 0 68.110001 164.199997 68.110001 164.199997 68.110001 164.199997 0.0 0",
+    "orig_x": 68.110001,
+    "orig_y": 164.199997,
+    "norm_x": -69.39,
+    "norm_y": 129.2
+  },
+  {
+    "orig_id": "p_castle_19",
+    "name": "Szabolcs",
+    "type": "castle",
+    "raw_line": "1 145 145 p_castle_19 Szabolcs 4215843 0 0 3 0 0 0 0 0 117.930000 137.330002 117.930000 137.330002 117.930000 137.330002 0.0 0",
+    "orig_x": 117.93,
+    "orig_y": 137.330002,
+    "norm_x": -19.57,
+    "norm_y": 102.33
+  },
+  {
+    "orig_id": "p_castle_22",
+    "name": "Bursa",
+    "type": "castle",
+    "raw_line": "1 148 148 p_castle_22 Bursa 4215838 0 0 3 0 0 0 0 0 253.529999 -39.799999 253.529999 -39.799999 253.529999 -39.799999 0.0 0",
+    "orig_x": 253.529999,
+    "orig_y": -39.799999,
+    "norm_x": 116.03,
+    "norm_y": -74.8
+  },
+  {
+    "orig_id": "p_castle_28",
+    "name": "Bari",
+    "type": "castle",
+    "raw_line": "1 154 154 p_castle_28 Bari 4215838 0 0 3 0 0 0 0 0 52.470001 -47.740002 52.470001 -47.740002 52.470001 -47.740002 0.0 0",
+    "orig_x": 52.470001,
+    "orig_y": -47.740002,
+    "norm_x": -85.03,
+    "norm_y": -82.74
+  },
+  {
+    "orig_id": "p_castle_32",
+    "name": "Kanizsa",
+    "type": "castle",
+    "raw_line": "1 158 158 p_castle_32 Kanizsa 4215838 0 0 3 0 0 0 0 0 50.500000 95.919998 50.500000 95.919998 50.500000 95.919998 0.0 0",
+    "orig_x": 50.5,
+    "orig_y": 95.919998,
+    "norm_x": -87.0,
+    "norm_y": 60.92
+  },
+  {
+    "orig_id": "p_castle_37",
+    "name": "Varad",
+    "type": "castle",
+    "raw_line": "1 163 163 p_castle_37 Varad 4215840 0 0 3 0 0 0 0 0 128.679993 112.820000 128.679993 112.820000 128.679993 112.820000 0.0 0",
+    "orig_x": 128.679993,
+    "orig_y": 112.82,
+    "norm_x": -8.82,
+    "norm_y": 77.82
+  },
+  {
+    "orig_id": "p_castle_40",
+    "name": "Tirnova",
+    "type": "castle",
+    "raw_line": "1 166 166 p_castle_40 Tirnova 4215841 0 0 3 0 0 0 0 0 176.360001 26.879999 176.360001 26.879999 176.360001 26.879999 0.0 0",
+    "orig_x": 176.360001,
+    "orig_y": 26.879999,
+    "norm_x": 38.86,
+    "norm_y": -8.12
+  },
+  {
+    "orig_id": "p_castle_74",
+    "name": "Sandomierz",
+    "type": "castle",
+    "raw_line": "1 200 200 p_castle_74 Sandomierz 4215841 0 0 3 0 0 0 0 0 113.779999 214.410004 113.779999 214.410004 113.779999 214.410004 0.0 0",
+    "orig_x": 113.779999,
+    "orig_y": 214.410004,
+    "norm_x": -23.72,
+    "norm_y": 179.41
+  },
+  {
+    "orig_id": "p_castle_76",
+    "name": "Przemysl",
+    "type": "castle",
+    "raw_line": "1 202 202 p_castle_76 Przemysl 4215841 0 0 3 0 0 0 0 0 137.669998 189.589996 137.669998 189.589996 137.669998 189.589996 0.0 0",
+    "orig_x": 137.669998,
+    "orig_y": 189.589996,
+    "norm_x": 0.17,
+    "norm_y": 154.59
+  },
+  {
+    "orig_id": "p_castle_77",
+    "name": "Halicz",
+    "type": "castle",
+    "raw_line": "1 203 203 p_castle_77 Halicz 4215841 0 0 3 0 0 0 0 0 173.220001 166.199997 173.220001 166.199997 173.220001 166.199997 0.0 0",
+    "orig_x": 173.220001,
+    "orig_y": 166.199997,
+    "norm_x": 35.72,
+    "norm_y": 131.2
+  },
+  {
+    "orig_id": "p_castle_79",
+    "name": "Vinnytsia",
+    "type": "castle",
+    "raw_line": "1 205 205 p_castle_79 Vinnytsia 4215841 0 0 3 0 0 0 0 0 217.940002 182.940002 217.940002 182.940002 217.940002 182.940002 0.0 0",
+    "orig_x": 217.940002,
+    "orig_y": 182.940002,
+    "norm_x": 80.44,
+    "norm_y": 147.94
+  },
+  {
+    "orig_id": "p_castle_83",
+    "name": "Soli",
+    "type": "castle",
+    "raw_line": "1 209 209 p_castle_83 Soli 4215841 0 0 3 0 0 0 0 0 74.519997 49.580002 74.519997 49.580002 74.519997 49.580002 0.0 0",
+    "orig_x": 74.519997,
+    "orig_y": 49.580002,
+    "norm_x": -62.98,
+    "norm_y": 14.58
+  },
+  {
+    "orig_id": "p_castle_84",
+    "name": "Kotor",
+    "type": "castle",
+    "raw_line": "1 210 210 p_castle_84 Kotor 4215841 0 0 3 0 0 0 0 0 77.169998 -7.290000 77.169998 -7.290000 77.169998 -7.290000 0.0 0",
+    "orig_x": 77.169998,
+    "orig_y": -7.29,
+    "norm_x": -60.33,
+    "norm_y": -42.29
+  },
+  {
+    "orig_id": "p_castle_85",
+    "name": "Split",
+    "type": "castle",
+    "raw_line": "1 211 211 p_castle_85 Split 4215841 0 0 3 0 0 0 0 0 37.130001 17.600000 37.130001 17.600000 37.130001 17.600000 0.0 0",
+    "orig_x": 37.130001,
+    "orig_y": 17.6,
+    "norm_x": -100.37,
+    "norm_y": -17.4
+  },
+  {
+    "orig_id": "p_castle_87",
+    "name": "Krusevac",
+    "type": "castle",
+    "raw_line": "1 213 213 p_castle_87 Krusevac 4215841 0 0 3 0 0 0 0 0 116.599998 28.500000 116.599998 28.500000 116.599998 28.500000 0.0 0",
+    "orig_x": 116.599998,
+    "orig_y": 28.5,
+    "norm_x": -20.9,
+    "norm_y": -6.5
+  },
+  {
+    "orig_id": "p_castle_88",
+    "name": "Varna",
+    "type": "castle",
+    "raw_line": "1 214 214 p_castle_88 Varna 4215841 0 0 3 0 0 0 0 0 228.100006 38.799999 228.100006 38.799999 228.100006 38.799999 0.0 0",
+    "orig_x": 228.100006,
+    "orig_y": 38.799999,
+    "norm_x": 90.6,
+    "norm_y": 3.8
+  },
+  {
+    "orig_id": "p_castle_89",
+    "name": "Severin",
+    "type": "castle",
+    "raw_line": "1 215 215 p_castle_89 Severin 4215841 0 0 3 0 0 0 0 0 125.790001 58.599998 125.790001 58.599998 125.790001 58.599998 0.0 0",
+    "orig_x": 125.790001,
+    "orig_y": 58.599998,
+    "norm_x": -11.71,
+    "norm_y": 23.6
+  },
+  {
+    "orig_id": "p_castle_90",
+    "name": "Dristra",
+    "type": "castle",
+    "raw_line": "1 216 216 p_castle_90 Dristra 4215841 0 0 3 0 0 0 0 0 206.869995 53.169998 206.869995 53.169998 206.869995 53.169998 0.0 0",
+    "orig_x": 206.869995,
+    "orig_y": 53.169998,
+    "norm_x": 69.37,
+    "norm_y": 18.17
+  },
+  {
+    "orig_id": "p_castle_91",
+    "name": "Suceava",
+    "type": "castle",
+    "raw_line": "1 217 217 p_castle_91 Suceava 4215841 0 0 3 0 0 0 0 0 186.119995 123.199997 186.119995 123.199997 186.119995 123.199997 0.0 0",
+    "orig_x": 186.119995,
+    "orig_y": 123.199997,
+    "norm_x": 48.62,
+    "norm_y": 88.2
+  },
+  {
+    "orig_id": "p_castle_93",
+    "name": "Larissa",
+    "type": "castle",
+    "raw_line": "1 219 219 p_castle_93 Larissa 4215841 0 0 3 0 0 0 0 0 150.970001 -65.589996 150.970001 -65.589996 150.970001 -65.589996 0.0 0",
+    "orig_x": 150.970001,
+    "orig_y": -65.589996,
+    "norm_x": 13.47,
+    "norm_y": -100.59
+  },
+  {
+    "orig_id": "p_castle_97",
+    "name": "Edremit",
+    "type": "castle",
+    "raw_line": "1 223 223 p_castle_97 Edremit 4215841 0 0 3 0 0 0 0 0 221.199997 -69.360001 221.199997 -69.360001 221.199997 -69.360001 0.0 0",
+    "orig_x": 221.199997,
+    "orig_y": -69.360001,
+    "norm_x": 83.7,
+    "norm_y": -104.36
+  },
+  {
+    "orig_id": "p_castle_101",
+    "name": "Cosenza",
+    "type": "castle",
+    "raw_line": "1 227 227 p_castle_101 Cosenza 4215841 0 0 3 0 0 0 0 0 36.880001 -92.220001 36.880001 -92.220001 36.880001 -92.220001 0.0 0",
+    "orig_x": 36.880001,
+    "orig_y": -92.220001,
+    "norm_x": -100.62,
+    "norm_y": -127.22
+  },
+  {
+    "orig_id": "p_castle_111",
+    "name": "Moncastro",
+    "type": "castle",
+    "raw_line": "1 237 237 p_castle_111 Moncastro 4215841 0 0 3 0 0 0 0 0 246.210007 111.410004 246.210007 111.410004 246.210007 111.410004 0.0 0",
+    "orig_x": 246.210007,
+    "orig_y": 111.410004,
+    "norm_x": 108.71,
+    "norm_y": 76.41
+  },
+  {
+    "orig_id": "p_village_11",
+    "name": "Nesebar",
+    "type": "village",
+    "raw_line": "1 257 257 p_village_11 Nesebar 2114575 0 0 3 0 0 0 0 0 223.720001 24.129999 223.720001 24.129999 223.720001 24.129999 0.0 0",
+    "orig_x": 223.720001,
+    "orig_y": 24.129999,
+    "norm_x": 86.22,
+    "norm_y": -10.87
+  },
+  {
+    "orig_id": "p_village_20",
+    "name": "Uslum",
+    "type": "village",
+    "raw_line": "1 266 266 p_village_20 Uslum 2114575 0 0 3 0 0 0 0 0 119.660004 150.000000 119.660004 150.000000 119.660004 150.000000 0.0 0",
+    "orig_x": 119.660004,
+    "orig_y": 150.0,
+    "norm_x": -17.84,
+    "norm_y": 115.0
+  },
+  {
+    "orig_id": "p_village_24",
+    "name": "Ruldi",
+    "type": "village",
+    "raw_line": "1 270 270 p_village_24 Ruldi 2114575 0 0 3 0 0 0 0 0 28.840000 -48.500000 28.840000 -48.500000 28.840000 -48.500000 0.0 0",
+    "orig_x": 28.84,
+    "orig_y": -48.5,
+    "norm_x": -108.66,
+    "norm_y": -83.5
+  },
+  {
+    "orig_id": "p_village_30",
+    "name": "Pozsony",
+    "type": "village",
+    "raw_line": "1 276 276 p_village_30 Pozsony 2114575 0 0 3 0 0 0 0 0 57.490002 136.449997 57.490002 136.449997 57.490002 136.449997 0.0 0",
+    "orig_x": 57.490002,
+    "orig_y": 136.449997,
+    "norm_x": -80.01,
+    "norm_y": 101.45
+  },
+  {
+    "orig_id": "p_village_41",
+    "name": "Gumulcine",
+    "type": "village",
+    "raw_line": "1 287 287 p_village_41 Gumulcine 2114575 0 0 3 0 0 0 0 0 188.759995 -27.430000 188.759995 -27.430000 188.759995 -27.430000 0.0 0",
+    "orig_x": 188.759995,
+    "orig_y": -27.43,
+    "norm_x": 51.26,
+    "norm_y": -62.43
+  },
+  {
+    "orig_id": "p_village_44",
+    "name": "Razgrad",
+    "type": "village",
+    "raw_line": "1 290 290 p_village_44 Razgrad 2114575 0 0 3 0 0 0 0 0 194.990005 40.830002 194.990005 40.830002 194.990005 40.830002 0.0 0",
+    "orig_x": 194.990005,
+    "orig_y": 40.830002,
+    "norm_x": 57.49,
+    "norm_y": 5.83
+  },
+  {
+    "orig_id": "p_village_45",
+    "name": "Szatmar",
+    "type": "village",
+    "raw_line": "1 291 291 p_village_45 Szatmar 2114575 0 0 3 0 0 0 0 0 147.220001 127.349998 147.220001 127.349998 147.220001 127.349998 0.0 0",
+    "orig_x": 147.220001,
+    "orig_y": 127.349998,
+    "norm_x": 9.72,
+    "norm_y": 92.35
+  },
+  {
+    "orig_id": "p_village_52",
+    "name": "Zolyom",
+    "type": "village",
+    "raw_line": "1 298 298 p_village_52 Zolyom 2114575 0 0 3 0 0 0 0 0 81.860001 157.190002 81.860001 157.190002 81.860001 157.190002 0.0 0",
+    "orig_x": 81.860001,
+    "orig_y": 157.190002,
+    "norm_x": -55.64,
+    "norm_y": 122.19
+  },
+  {
+    "orig_id": "p_village_63",
+    "name": "Brindisi",
+    "type": "village",
+    "raw_line": "1 309 309 p_village_63 Brindisi 2114575 0 0 3 0 0 0 0 0 68.550003 -54.160000 68.550003 -54.160000 68.550003 -54.160000 0.0 0",
+    "orig_x": 68.550003,
+    "orig_y": -54.16,
+    "norm_x": -68.95,
+    "norm_y": -89.16
+  },
+  {
+    "orig_id": "p_village_74",
+    "name": "Szombathely",
+    "type": "village",
+    "raw_line": "1 320 320 p_village_74 Szombathely 2114575 0 0 3 0 0 0 0 0 51.450001 117.040001 51.450001 117.040001 51.450001 117.040001 0.0 0",
+    "orig_x": 51.450001,
+    "orig_y": 117.040001,
+    "norm_x": -86.05,
+    "norm_y": 82.04
+  },
+  {
+    "orig_id": "p_village_78",
+    "name": "Belgrade",
+    "type": "village",
+    "raw_line": "1 324 324 p_village_78 Belgrade 2114575 0 0 3 0 0 0 0 0 107.260002 61.000000 107.260002 61.000000 107.260002 61.000000 0.0 0",
+    "orig_x": 107.260002,
+    "orig_y": 61.0,
+    "norm_x": -30.24,
+    "norm_y": 26.0
+  },
+  {
+    "orig_id": "p_village_84",
+    "name": "Mystras",
+    "type": "village",
+    "raw_line": "1 330 330 p_village_84 Mystras 2114575 0 0 3 0 0 0 0 0 143.210007 -136.149994 143.210007 -136.149994 143.210007 -136.149994 0.0 0",
+    "orig_x": 143.210007,
+    "orig_y": -136.149994,
+    "norm_x": 5.71,
+    "norm_y": -171.15
+  },
+  {
+    "orig_id": "p_village_88",
+    "name": "Kalocsa",
+    "type": "village",
+    "raw_line": "1 334 334 p_village_88 Kalocsa 2114575 0 0 3 0 0 0 0 0 77.410004 101.279999 77.410004 101.279999 77.410004 101.279999 0.0 0",
+    "orig_x": 77.410004,
+    "orig_y": 101.279999,
+    "norm_x": -60.09,
+    "norm_y": 66.28
+  },
+  {
+    "orig_id": "p_village_90",
+    "name": "Eger",
+    "type": "village",
+    "raw_line": "1 336 336 p_village_90 Eger 2114575 0 0 3 0 0 0 0 0 99.760002 133.789993 99.760002 133.789993 99.760002 133.789993 0.0 0",
+    "orig_x": 99.760002,
+    "orig_y": 133.789993,
+    "norm_x": -37.74,
+    "norm_y": 98.79
+  },
+  {
+    "orig_id": "p_village_105",
+    "name": "Izmit",
+    "type": "village",
+    "raw_line": "1 351 351 p_village_105 Izmit 2114575 0 0 3 0 0 0 0 0 257.890015 -22.510000 257.890015 -22.510000 257.890015 -22.510000 0.0 0",
+    "orig_x": 257.890015,
+    "orig_y": -22.51,
+    "norm_x": 120.39,
+    "norm_y": -57.51
+  },
+  {
+    "orig_id": "p_village_116",
+    "name": "Brno",
+    "type": "village",
+    "raw_line": "1 361 361 p_village_116 Brno 2114575 0 0 3 0 0 0 0 0 45.700001 173.179993 45.700001 173.179993 45.700001 173.179993 0.0 0",
+    "orig_x": 45.700001,
+    "orig_y": 173.179993,
+    "norm_x": -91.8,
+    "norm_y": 138.18
+  },
+  {
+    "orig_id": "p_village_130",
+    "name": "Bribir",
+    "type": "village",
+    "raw_line": "1 375 375 p_village_130 Bribir 2114575 0 0 3 0 0 0 0 0 18.620001 55.200001 18.620001 55.200001 18.620001 55.200001 0.0 0",
+    "orig_x": 18.620001,
+    "orig_y": 55.200001,
+    "norm_x": -118.88,
+    "norm_y": 20.2
+  },
+  {
+    "orig_id": "p_village_131",
+    "name": "Linz",
+    "type": "village",
+    "raw_line": "1 376 376 p_village_131 Linz 2114575 0 0 3 0 0 0 0 0 26.190001 146.089996 26.190001 146.089996 26.190001 146.089996 0.0 0",
+    "orig_x": 26.190001,
+    "orig_y": 146.089996,
+    "norm_x": -111.31,
+    "norm_y": 111.09
+  },
+  {
+    "orig_id": "p_village_132",
+    "name": "Temesvar",
+    "type": "village",
+    "raw_line": "1 377 377 p_village_132 Temesvar 2114575 0 0 3 0 0 0 0 0 116.000000 80.300003 116.000000 80.300003 116.000000 80.300003 0.0 0",
+    "orig_x": 116.0,
+    "orig_y": 80.300003,
+    "norm_x": -21.5,
+    "norm_y": 45.3
+  },
+  {
+    "orig_id": "p_village_133",
+    "name": "Pecs",
+    "type": "village",
+    "raw_line": "1 378 378 p_village_133 Pecs 2114575 0 0 3 0 0 0 0 0 67.480003 84.910004 67.480003 84.910004 67.480003 84.910004 0.0 0",
+    "orig_x": 67.480003,
+    "orig_y": 84.910004,
+    "norm_x": -70.02,
+    "norm_y": 49.91
+  },
+  {
+    "orig_id": "p_village_135",
+    "name": "Terebolv",
+    "type": "village",
+    "raw_line": "1 380 380 p_village_135 Terebolv 2114575 0 0 3 0 0 0 0 0 183.910004 179.169998 183.910004 179.169998 183.910004 179.169998 0.0 0",
+    "orig_x": 183.910004,
+    "orig_y": 179.169998,
+    "norm_x": 46.41,
+    "norm_y": 144.17
+  },
+  {
+    "orig_id": "p_village_137",
+    "name": "Zhitomir",
+    "type": "village",
+    "raw_line": "1 382 382 p_village_137 Zhitomir 2114575 0 0 3 0 0 0 0 0 211.580002 210.000000 211.580002 210.000000 211.580002 210.000000 0.0 0",
+    "orig_x": 211.580002,
+    "orig_y": 210.0,
+    "norm_x": 74.08,
+    "norm_y": 175.0
+  },
+  {
+    "orig_id": "p_village_138",
+    "name": "Bratslav",
+    "type": "village",
+    "raw_line": "1 383 383 p_village_138 Bratslav 2114575 0 0 3 0 0 0 0 0 229.820007 169.919998 229.820007 169.919998 229.820007 169.919998 0.0 0",
+    "orig_x": 229.820007,
+    "orig_y": 169.919998,
+    "norm_x": 92.32,
+    "norm_y": 134.92
+  },
+  {
+    "orig_id": "p_village_139",
+    "name": "Pereyaslavl",
+    "type": "village",
+    "raw_line": "1 384 384 p_village_139 Pereyaslavl 2114575 0 0 3 0 0 0 0 0 249.919998 212.559998 249.919998 212.559998 249.919998 212.559998 0.0 0",
+    "orig_x": 249.919998,
+    "orig_y": 212.559998,
+    "norm_x": 112.42,
+    "norm_y": 177.56
+  },
+  {
+    "orig_id": "p_village_144",
+    "name": "Gacko",
+    "type": "village",
+    "raw_line": "1 389 389 p_village_144 Gacko 2114575 0 0 3 0 0 0 0 0 72.459999 13.440000 72.459999 13.440000 72.459999 13.440000 0.0 0",
+    "orig_x": 72.459999,
+    "orig_y": 13.44,
+    "norm_x": -65.04,
+    "norm_y": -21.56
+  },
+  {
+    "orig_id": "p_village_145",
+    "name": "Kljuc",
+    "type": "village",
+    "raw_line": "1 390 390 p_village_145 Kljuc 2114575 0 0 3 0 0 0 0 0 48.889999 49.150002 48.889999 49.150002 48.889999 49.150002 0.0 0",
+    "orig_x": 48.889999,
+    "orig_y": 49.150002,
+    "norm_x": -88.61,
+    "norm_y": 14.15
+  },
+  {
+    "orig_id": "p_village_146",
+    "name": "Prijepolje",
+    "type": "village",
+    "raw_line": "1 391 391 p_village_146 Prijepolje 2114575 0 0 3 0 0 0 0 0 89.500000 18.100000 89.500000 18.100000 89.500000 18.100000 0.0 0",
+    "orig_x": 89.5,
+    "orig_y": 18.1,
+    "norm_x": -48.0,
+    "norm_y": -16.9
+  },
+  {
+    "orig_id": "p_village_147",
+    "name": "Srebrenica",
+    "type": "village",
+    "raw_line": "1 392 392 p_village_147 Srebrenica 2114575 0 0 3 0 0 0 0 0 86.629997 36.049999 86.629997 36.049999 86.629997 36.049999 0.0 0",
+    "orig_x": 86.629997,
+    "orig_y": 36.049999,
+    "norm_x": -50.87,
+    "norm_y": 1.05
+  },
+  {
+    "orig_id": "p_village_148",
+    "name": "Bucharest",
+    "type": "village",
+    "raw_line": "1 393 393 p_village_148 Bucharest 2114575 0 0 3 0 0 0 0 0 177.929993 56.540001 177.929993 56.540001 177.929993 56.540001 0.0 0",
+    "orig_x": 177.929993,
+    "orig_y": 56.540001,
+    "norm_x": 40.43,
+    "norm_y": 21.54
+  },
+  {
+    "orig_id": "p_village_149",
+    "name": "Arges",
+    "type": "village",
+    "raw_line": "1 394 394 p_village_149 Arges 2114575 0 0 3 0 0 0 0 0 158.229996 65.000000 158.229996 65.000000 158.229996 65.000000 0.0 0",
+    "orig_x": 158.229996,
+    "orig_y": 65.0,
+    "norm_x": 20.73,
+    "norm_y": 30.0
+  },
+  {
+    "orig_id": "p_village_150",
+    "name": "Braila",
+    "type": "village",
+    "raw_line": "1 395 395 p_village_150 Braila 2114575 0 0 3 0 0 0 0 0 207.899994 82.820000 207.899994 82.820000 207.899994 82.820000 0.0 0",
+    "orig_x": 207.899994,
+    "orig_y": 82.82,
+    "norm_x": 70.4,
+    "norm_y": 47.82
+  },
+  {
+    "orig_id": "p_village_151",
+    "name": "Rovine",
+    "type": "village",
+    "raw_line": "1 396 396 p_village_151 Rovine 2114575 0 0 3 0 0 0 0 0 144.149994 52.660000 144.149994 52.660000 144.149994 52.660000 0.0 0",
+    "orig_x": 144.149994,
+    "orig_y": 52.66,
+    "norm_x": 6.65,
+    "norm_y": 17.66
+  },
+  {
+    "orig_id": "p_village_152",
+    "name": "Jassy",
+    "type": "village",
+    "raw_line": "1 397 397 p_village_152 Jassy 2114575 0 0 3 0 0 0 0 0 201.740005 118.709999 201.740005 118.709999 201.740005 118.709999 0.0 0",
+    "orig_x": 201.740005,
+    "orig_y": 118.709999,
+    "norm_x": 64.24,
+    "norm_y": 83.71
+  },
+  {
+    "orig_id": "p_village_153",
+    "name": "Chilia",
+    "type": "village",
+    "raw_line": "1 398 398 p_village_153 Chilia 2114575 0 0 3 0 0 0 0 0 232.929993 83.629997 232.929993 83.629997 232.929993 83.629997 0.0 0",
+    "orig_x": 232.929993,
+    "orig_y": 83.629997,
+    "norm_x": 95.43,
+    "norm_y": 48.63
+  },
+  {
+    "orig_id": "p_village_154",
+    "name": "Constanta",
+    "type": "village",
+    "raw_line": "1 399 399 p_village_154 Constanta 2114575 0 0 3 0 0 0 0 0 229.600006 60.000000 229.600006 60.000000 229.600006 60.000000 0.0 0",
+    "orig_x": 229.600006,
+    "orig_y": 60.0,
+    "norm_x": 92.1,
+    "norm_y": 25.0
+  },
+  {
+    "orig_id": "p_village_155",
+    "name": "Kosovo",
+    "type": "village",
+    "raw_line": "1 400 400 p_village_155 Kosovo 2114575 0 0 3 0 0 0 0 0 114.860001 5.030000 114.860001 5.030000 114.860001 5.030000 0.0 0",
+    "orig_x": 114.860001,
+    "orig_y": 5.03,
+    "norm_x": -22.64,
+    "norm_y": -29.97
+  },
+  {
+    "orig_id": "p_village_156",
+    "name": "Prilep",
+    "type": "village",
+    "raw_line": "1 401 401 p_village_156 Prilep 2114575 0 0 3 0 0 0 0 0 129.419998 -27.209999 129.419998 -27.209999 129.419998 -27.209999 0.0 0",
+    "orig_x": 129.419998,
+    "orig_y": -27.209999,
+    "norm_x": -8.08,
+    "norm_y": -62.21
+  },
+  {
+    "orig_id": "p_village_157",
+    "name": "Lamia",
+    "type": "village",
+    "raw_line": "1 402 402 p_village_157 Lamia 2114575 0 0 3 0 0 0 0 0 156.990005 -84.260002 156.990005 -84.260002 156.990005 -84.260002 0.0 0",
+    "orig_x": 156.990005,
+    "orig_y": -84.260002,
+    "norm_x": 19.49,
+    "norm_y": -119.26
+  },
+  {
+    "orig_id": "p_village_158",
+    "name": "Kastoria",
+    "type": "village",
+    "raw_line": "1 403 403 p_village_158 Kastoria 2114575 0 0 3 0 0 0 0 0 126.739998 -47.230000 126.739998 -47.230000 126.739998 -47.230000 0.0 0",
+    "orig_x": 126.739998,
+    "orig_y": -47.23,
+    "norm_x": -10.76,
+    "norm_y": -82.23
+  },
+  {
+    "orig_id": "p_village_161",
+    "name": "Aydin",
+    "type": "village",
+    "raw_line": "1 406 406 p_village_161 Aydin 2114575 0 0 3 0 0 0 0 0 230.110001 -103.720001 230.110001 -103.720001 230.110001 -103.720001 0.0 0",
+    "orig_x": 230.110001,
+    "orig_y": -103.720001,
+    "norm_x": 92.61,
+    "norm_y": -138.72
+  },
+  {
+    "orig_id": "p_village_163",
+    "name": "Canakkale",
+    "type": "village",
+    "raw_line": "1 408 408 p_village_163 Canakkale 2114575 0 0 3 0 0 0 0 0 214.490005 -47.939999 214.490005 -47.939999 214.490005 -47.939999 0.0 0",
+    "orig_x": 214.490005,
+    "orig_y": -47.939999,
+    "norm_x": 76.99,
+    "norm_y": -82.94
+  },
+  {
+    "orig_id": "p_village_164",
+    "name": "Akhisar",
+    "type": "village",
+    "raw_line": "1 409 409 p_village_164 Akhisar 2114575 0 0 3 0 0 0 0 0 236.130005 -77.620003 236.130005 -77.620003 236.130005 -77.620003 0.0 0",
+    "orig_x": 236.130005,
+    "orig_y": -77.620003,
+    "norm_x": 98.63,
+    "norm_y": -112.62
+  },
+  {
+    "orig_id": "p_village_165",
+    "name": "Usak",
+    "type": "village",
+    "raw_line": "1 410 410 p_village_165 Usak 2114575 0 0 3 0 0 0 0 0 262.010010 -72.000000 262.010010 -72.000000 262.010010 -72.000000 0.0 0",
+    "orig_x": 262.01001,
+    "orig_y": -72.0,
+    "norm_x": 124.51,
+    "norm_y": -107.0
+  },
+  {
+    "orig_id": "p_village_177",
+    "name": "Graz",
+    "type": "village",
+    "raw_line": "1 422 422 p_village_177 Graz 2114575 0 0 3 0 0 0 0 0 35.599998 111.199997 35.599998 111.199997 35.599998 111.199997 0.0 0",
+    "orig_x": 35.599998,
+    "orig_y": 111.199997,
+    "norm_x": -101.9,
+    "norm_y": 76.2
+  },
+  {
+    "orig_id": "p_village_179",
+    "name": "Siracuse",
+    "type": "village",
+    "raw_line": "1 424 424 p_village_179 Siracuse 2114575 0 0 3 0 0 0 0 0 24.870001 -134.309998 24.870001 -134.309998 24.870001 -134.309998 0.0 0",
+    "orig_x": 24.870001,
+    "orig_y": -134.309998,
+    "norm_x": -112.63,
+    "norm_y": -169.31
+  },
+  {
+    "orig_id": "p_village_180",
+    "name": "Pescara",
+    "type": "village",
+    "raw_line": "1 425 425 p_village_180 Pescara 2114575 0 0 3 0 0 0 0 0 10.520000 -5.810000 10.520000 -5.810000 10.520000 -5.810000 0.0 0",
+    "orig_x": 10.52,
+    "orig_y": -5.81,
+    "norm_x": -126.98,
+    "norm_y": -40.81
+  },
+  {
+    "orig_id": "p_village_181",
+    "name": "Termoli",
+    "type": "village",
+    "raw_line": "1 426 426 p_village_181 Termoli 2114575 0 0 3 0 0 0 0 0 22.950001 -16.120001 22.950001 -16.120001 22.950001 -16.120001 0.0 0",
+    "orig_x": 22.950001,
+    "orig_y": -16.120001,
+    "norm_x": -114.55,
+    "norm_y": -51.12
+  },
+  {
+    "orig_id": "p_village_183",
+    "name": "Rodoscuk",
+    "type": "village",
+    "raw_line": "1 428 428 p_village_183 Rodoscuk 2114575 0 0 3 0 0 0 0 0 223.880005 -19.940001 223.880005 -19.940001 223.880005 -19.940001 0.0 0",
+    "orig_x": 223.880005,
+    "orig_y": -19.940001,
+    "norm_x": 86.38,
+    "norm_y": -54.94
+  },
+  {
+    "orig_id": "p_village_199",
+    "name": "Budejovice",
+    "type": "village",
+    "raw_line": "1 444 444 p_village_199 Budejovice 2114575 0 0 3 0 0 0 0 0 18.520000 174.550003 18.520000 174.550003 18.520000 174.550003 0.0 0",
+    "orig_x": 18.52,
+    "orig_y": 174.550003,
+    "norm_x": -118.98,
+    "norm_y": 139.55
+  },
+  {
+    "orig_id": "p_village_213",
+    "name": "Lvov",
+    "type": "village",
+    "raw_line": "1 458 458 p_village_213 Lvov 2114575 0 0 3 0 0 0 0 0 159.679993 193.759995 159.679993 193.759995 159.679993 193.759995 0.0 0",
+    "orig_x": 159.679993,
+    "orig_y": 193.759995,
+    "norm_x": 22.18,
+    "norm_y": 158.76
+  },
+  {
+    "orig_id": "p_village_215",
+    "name": "Nicopolis",
+    "type": "village",
+    "raw_line": "1 460 460 p_village_215 Nicopolis 2114575 0 0 3 0 0 0 0 0 162.259995 42.189999 162.259995 42.189999 162.259995 42.189999 0.0 0",
+    "orig_x": 162.259995,
+    "orig_y": 42.189999,
+    "norm_x": 24.76,
+    "norm_y": 7.19
+  },
+  {
+    "orig_id": "p_village_216",
+    "name": "Nis",
+    "type": "village",
+    "raw_line": "1 461 461 p_village_216 Nis 2114575 0 0 3 0 0 0 0 0 126.800003 25.070000 126.800003 25.070000 126.800003 25.070000 0.0 0",
+    "orig_x": 126.800003,
+    "orig_y": 25.07,
+    "norm_x": -10.7,
+    "norm_y": -9.93
+  },
+  {
+    "orig_id": "p_village_218",
+    "name": "Zara",
+    "type": "village",
+    "raw_line": "1 463 463 p_village_218 Zara 2114575 0 0 3 0 0 0 0 0 25.920000 36.290001 25.920000 36.290001 25.920000 36.290001 0.0 0",
+    "orig_x": 25.92,
+    "orig_y": 36.290001,
+    "norm_x": -111.58,
+    "norm_y": 1.29
+  },
+  {
+    "orig_id": "p_village_219",
+    "name": "Arad",
+    "type": "village",
+    "raw_line": "1 464 464 p_village_219 Arad 2114575 0 0 3 0 0 0 0 0 119.089996 92.779999 119.089996 92.779999 119.089996 92.779999 0.0 0",
+    "orig_x": 119.089996,
+    "orig_y": 92.779999,
+    "norm_x": -18.41,
+    "norm_y": 57.78
+  },
+  {
+    "orig_id": "p_village_220",
+    "name": "Scutari",
+    "type": "village",
+    "raw_line": "1 465 465 p_village_220 Scutari 2114575 0 0 3 0 0 0 0 0 88.540001 -18.530001 88.540001 -18.530001 88.540001 -18.530001 0.0 0",
+    "orig_x": 88.540001,
+    "orig_y": -18.530001,
+    "norm_x": -48.96,
+    "norm_y": -53.53
+  },
+  {
+    "orig_id": "p_village_221",
+    "name": "Tighina",
+    "type": "village",
+    "raw_line": "1 466 466 p_village_221 Tighina 2114575 0 0 3 0 0 0 0 0 229.440002 120.959999 229.440002 120.959999 229.440002 120.959999 0.0 0",
+    "orig_x": 229.440002,
+    "orig_y": 120.959999,
+    "norm_x": 91.94,
+    "norm_y": 85.96
+  },
+  {
+    "orig_id": "p_village_222",
+    "name": "Caomao Camp",
+    "type": "village",
+    "raw_line": "1 467 467 p_village_222 Caomao_Camp 2114575 0 0 3 0 0 0 0 0 258.200012 144.000000 258.200012 144.000000 258.200012 144.000000 0.0 0",
+    "orig_x": 258.200012,
+    "orig_y": 144.0,
+    "norm_x": 120.7,
+    "norm_y": 109.0
+  },
+  {
+    "orig_id": "p_salt_mine",
+    "name": "Salt Mine",
+    "type": "village",
+    "raw_line": "1 479 479 p_salt_mine Salt_Mine 2114831 0 0 3 0 0 0 0 0 14.200000 -31.000000 14.200000 -31.000000 14.200000 -31.000000 0.0 0",
+    "orig_x": 14.2,
+    "orig_y": -31.0,
+    "norm_x": -123.3,
+    "norm_y": -66.0
+  },
+  {
+    "orig_id": "p_test_scene",
+    "name": "test scene",
+    "type": "village",
+    "raw_line": "1 481 481 p_test_scene test_scene 2114831 0 0 3 0 0 0 0 0 10.800000 -19.600000 10.800000 -19.600000 10.800000 -19.600000 0.0 0",
+    "orig_x": 10.8,
+    "orig_y": -19.6,
+    "norm_x": -126.7,
+    "norm_y": -54.6
+  },
+  {
+    "orig_id": "p_battlefields",
+    "name": "battlefields",
+    "type": "village",
+    "raw_line": "1 482 482 p_battlefields battlefields 2114831 0 0 3 0 0 0 0 0 10.800000 -16.600000 10.800000 -16.600000 10.800000 -16.600000 0.0 0",
+    "orig_x": 10.8,
+    "orig_y": -16.6,
+    "norm_x": -126.7,
+    "norm_y": -51.6
+  },
+  {
+    "orig_id": "p_training_ground_3",
+    "name": "Training Field",
+    "type": "village",
+    "raw_line": "1 487 487 p_training_ground_3 Training_Field 2118951 0 0 3 0 0 0 0 0 259.500000 181.000000 259.500000 181.000000 259.500000 181.000000 0.0 0",
+    "orig_x": 259.5,
+    "orig_y": 181.0,
+    "norm_x": 122.0,
+    "norm_y": 146.0
+  },
+  {
+    "orig_id": "p_bridge_1",
+    "name": "{!}1",
+    "type": "village",
+    "raw_line": "1 490 490 p_bridge_1 {!}1 541756 0 0 3 0 0 0 0 0 41.730000 65.100000 41.730000 65.100000 41.730000 65.100000 0.0 0",
+    "orig_x": 41.73,
+    "orig_y": 65.1,
+    "norm_x": -95.77,
+    "norm_y": 30.1
+  },
+  {
+    "orig_id": "p_looter_spawn_point",
+    "name": "{!}looter sp",
+    "type": "village",
+    "raw_line": "1 491 491 p_looter_spawn_point {!}looter_sp 1280 0 0 2 0 0 0 0 0 26.000000 77.000000 26.000000 77.000000 26.000000 77.000000 0.0 1 279 15 0 0",
+    "orig_x": 26.0,
+    "orig_y": 77.0,
+    "norm_x": -111.5,
+    "norm_y": 42.0
+  },
+  {
+    "orig_id": "p_steppe_bandit_spawn_point",
+    "name": "the steppes",
+    "type": "village",
+    "raw_line": "1 492 492 p_steppe_bandit_spawn_point the_steppes 1280 0 0 2 0 0 0 0 0 125.000000 9.000000 125.000000 9.000000 125.000000 9.000000 0.0 1 279 15 0 0",
+    "orig_x": 125.0,
+    "orig_y": 9.0,
+    "norm_x": -12.5,
+    "norm_y": -26.0
+  },
+  {
+    "orig_id": "p_taiga_bandit_spawn_point",
+    "name": "the tundra",
+    "type": "village",
+    "raw_line": "1 493 493 p_taiga_bandit_spawn_point the_tundra 1280 0 0 2 0 0 0 0 0 78.000000 84.000000 78.000000 84.000000 78.000000 84.000000 0.0 1 279 15 0 0",
+    "orig_x": 78.0,
+    "orig_y": 84.0,
+    "norm_x": -59.5,
+    "norm_y": 49.0
+  },
+  {
+    "orig_id": "p_sea_raider_spawn_point_1",
+    "name": "the coast",
+    "type": "village",
+    "raw_line": "1 496 496 p_sea_raider_spawn_point_1 the_coast 1280 0 0 2 0 0 0 0 0 48.500000 110.000000 48.500000 110.000000 48.500000 110.000000 0.0 1 279 15 0 0",
+    "orig_x": 48.5,
+    "orig_y": 110.0,
+    "norm_x": -89.0,
+    "norm_y": 75.0
+  },
+  {
+    "orig_id": "p_desert_bandit_spawn_point",
+    "name": "the deserts",
+    "type": "village",
+    "raw_line": "1 498 498 p_desert_bandit_spawn_point the_deserts 1280 0 0 2 0 0 0 0 0 110.000000 -100.000000 110.000000 -100.000000 110.000000 -100.000000 0.0 1 279 15 0 0",
+    "orig_x": 110.0,
+    "orig_y": -100.0,
+    "norm_x": -27.5,
+    "norm_y": -135.0
+  },
+  {
+    "orig_id": "p_looter_spawn_point",
+    "name": "{!}looter sp",
+    "type": "village",
+    "raw_line": "1 499 499 p_looter_spawn_point {!}looter_sp 1280 0 0 2 0 0 0 0 0 26.000000 77.000000 26.000000 77.000000 26.000000 77.000000 0.0 1 279 15 0 0",
+    "orig_x": 26.0,
+    "orig_y": 77.0,
+    "norm_x": -111.5,
+    "norm_y": 42.0
+  },
+  {
+    "orig_id": "p_type_2_spawn_point_1",
+    "name": "Rhode island",
+    "type": "village",
+    "raw_line": "1 502 502 p_type_2_spawn_point_1 Rhode_island 541952 0 0 1 0 0 0 0 0 248.190000 -139.040000 248.190000 -139.040000 248.190000 -139.040000 0.0 1 279 15 0 0",
+    "orig_x": 248.19,
+    "orig_y": -139.04,
+    "norm_x": 110.69,
+    "norm_y": -174.04
+  },
+  {
+    "orig_id": "p_steppe_bandit_spawn_point_1",
+    "name": "the steppes 1",
+    "type": "village",
+    "raw_line": "1 510 510 p_steppe_bandit_spawn_point_1 the_steppes_1 1280 0 0 2 0 0 0 0 0 258.000000 144.000000 258.000000 144.000000 258.000000 144.000000 0.0 1 279 15 0 0",
+    "orig_x": 258.0,
+    "orig_y": 144.0,
+    "norm_x": 120.5,
+    "norm_y": 109.0
+  },
+  {
+    "orig_id": "p_steppe_bandit_spawn_point_2",
+    "name": "the steppes 2",
+    "type": "village",
+    "raw_line": "1 511 511 p_steppe_bandit_spawn_point_2 the_steppes_2 1280 0 0 2 0 0 0 0 0 124.000000 214.000000 124.000000 214.000000 124.000000 214.000000 0.0 1 279 15 0 0",
+    "orig_x": 124.0,
+    "orig_y": 214.0,
+    "norm_x": -13.5,
+    "norm_y": 179.0
+  },
+  {
+    "orig_id": "p_mountain_bandit_spawn_point_5",
+    "name": "the highlands 5",
+    "type": "village",
+    "raw_line": "1 523 523 p_mountain_bandit_spawn_point_5 the_highlands_5 1280 0 0 3 0 0 0 0 0 127.938000 -19.550000 127.938000 -19.550000 127.938000 -19.550000 0.0 1 279 15 0 0",
+    "orig_x": 127.938,
+    "orig_y": -19.55,
+    "norm_x": -9.562,
+    "norm_y": -54.55
+  }
+]

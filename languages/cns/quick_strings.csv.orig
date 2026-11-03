@@ -1,0 +1,1348 @@
+﻿qstr_Next_Page|下 一 页 
+qstr_Candidate_#1:_{s1}|候 选 者 #1： {s1}
+qstr_Candidate_#2:_{s1}|候 选 者 #2： {s1}
+qstr_{s3}_of_{s4}_wishes_|{s4}的 {s3}想 选 一 位 新 元 帅 并 邀 请 他 的 封 臣 来 商 议。 {s1}与 {s2}是 适 当 的 候 选 人。
+qstr_Continue...|继 续……  
+qstr_Who_do_you_wish_to_s|你 想 支 持 谁？ 
+qstr_{s1}|{s1}
+qstr_{s1}_gives_his_suppo|{s1}支 持 {s2}。 
+qstr_Number_of_Supporters|支 持 者 人 数： {reg0}
+qstr_{s2}_has_heard_his_v|{s2}听 了 他 的 封 臣 的 劝 告。 他 选 了 {s1}为 {s3}的 元 帅。 
+qstr_Action|行 动 
+qstr_Mount|骑 上 坐 骑 
+qstr_Attack_Type|攻 击 类 型 
+qstr_Hold_This_Position|守 住 此 据 点 
+qstr_Follow_Me|跟 随 我 
+qstr_Charge|冲 锋 
+qstr_Advance|前 进 
+qstr_Fall_Back|后 退 
+qstr_Stand_Closer|站 拢 
+qstr_Spread_Out|散 开 
+qstr_Stand_Ground|站 在 地 面 
+qstr_Dismount|离 开 坐 骑 
+qstr_Use_Any_Weapon|使 用 任 何 武 器 
+qstr_Use_Blunt_Weapons|使 用 钝 的 武 器 
+qstr_Hold_Your_Fire|停 止 射 击 
+qstr_Fire_At_Will|任 意 射 击 
+qstr_Us|我 军 
+qstr_Enemies|敌 军 
+qstr_Ready|准 备 
+qstr_Wounded|受 伤 
+qstr_Dead|死 亡 
+qstr_Allies|盟 军 
+qstr_Number_of_men_knocke|被 击 倒 的 人 数： {reg1}
+qstr_Number_of_men_left:_|余 下 的 人 数： {reg1}
+qstr_Opponents_Beaten:_{r|被 击 倒 的 对 手 人 数： {reg1}
+qstr_Opponents_Remaining:|余 下 的 对 手 人 数： {reg1}
+qstr_Remain_in_retirement|保 持 退 役。 
+qstr_Go_back_to_the_adven|回 到 冒 险。 
+qstr_You_have_retired_at_|冒 险 {reg5}日 后， 你 在 {reg4}级 时 退 休。 
+qstr_Effect_on_Score|分 数 结 果 
+qstr_Settlements_owned_by|你 的 领 地： {reg0}
+qstr_{reg0?+:}{reg0}|{reg0?+:}{reg0}
+qstr_Friendly_Settlements|友 方 领 地： {reg0}
+qstr_Hostile_Settlements:|敌 方 领 地： {reg0}
+qstr_{reg0}|{reg0}
+qstr_Friendly_Lords:_{reg|友 方 领 主： {reg0}
+qstr_Enemy_Lords:_{reg0}|敌 方 领 主： {reg0}
+qstr_Victories:_{reg0}|战 斗 胜 利： {reg0}
+qstr_Defeats:_{reg0}|战 斗 失 败： {reg0}
+qstr_Quests_Completed:_{r|完 成 任 务： {reg0}
+qstr_Companions_Found:_{r|找 到 同 伴： {reg0}
+qstr_Companions_Lost/Depa|失 去 同 伴： {reg0}
+qstr_Wealth:_{reg0}_denar|财 富 金 额： {reg0}第 纳 尔 
+qstr_Inventory:_{reg0}_de|物 品 存 储： {reg0}第 纳 尔 
+qstr_Renown:_{reg0}|声 望 数 值： {reg0}
+qstr_Experience:_{reg0}|经 验 数 值： {reg0}
+qstr_Days_Passed:_{reg0}|过 去 天 数： {reg0}
+qstr_Difficulty:_{reg0}%|游 戏 难 度： {reg0}%
+qstr_{reg3?+:}{reg0}|{reg3?+:}{reg0}
+qstr_TOTAL_SCORE:_{reg0}|总 共 分 数： {reg0}
+qstr_{s1}_of_{s3}_was_def|{s3}的 {s1}在 战 斗 中 被 击 败 了 但 是 设 法 逃 走 了。 
+qstr_DEBUG:_{s1}_no_longe|除 去 故 障： {s1}不 再 领 导 一 支 队 伍。 
+qstr_DEBUG:_{s1}_is_no_lo|除 去 故 障： {s1}不 再 是 一 名 俘 虏。 
+qstr_DEBUG:_{s1}_is_now_a|除 去 故 障： {s1}现 在 是 玩 家 的 俘 虏。 
+qstr_DEBUG:_{s1}_is_now_a_|除 去 故 障： {s1}现 在 是 {s2}的 俘 虏。 
+qstr_+{reg1}_to_party_mor|+{reg1}到 队 伍 士 气 
+qstr_Requires_{reg1}_inte|要 求 {reg1}点 智 慧 才 能 阅 读 
+qstr_Reading_Progress:_{r|阅 读 进 度： {reg1}%
+qstr_wound_treament|疗 伤 
+qstr_trainer|教 练 
+qstr_surgery|手 术 
+qstr_tracking|追 踪 
+qstr_looting|掠 夺 
+qstr_pathfinding|寻 路 
+qstr_first_aid|急 救 
+qstr_trade|交 易 
+qstr_spotting|侦 察 
+qstr_tactics|战 术 
+qstr_prisoner_management|控 俘 
+qstr_engineer|工 程 
+qstr_wound_treatment|疗 伤 
+qstr_weapon_master|武 艺 
+qstr_+1_to_{s1}|{s1}+1
+qstr_+1_to_Looting_while_|装 备 时 掠 夺 +1
+qstr_+1_to_Trade_while_eq|装 备 时 交 易 +1
+qstr_+1_to_Trainer_while_|装 备 时 教 练 +1
+qstr_+1_to_Spotting_while|装 备 时 侦 察 +1
+qstr_+1_to_Wound_Treatmen|装 备 时 疗 伤 +1
+qstr_+1_to_First_Aid_whil|装 备 时 急 救 +1
+qstr_+1_to_Pathfinding_wh|装 备 时 寻 路 +1
+qstr_+1_to_Tracking_while|装 备 时 追 踪 +1
+qstr_+1_to_Surgery_while_|装 备 时 手 术 +1
+qstr_+1_to_Weapon_Master_|装 备 时 武 艺 +1
+qstr_+1_to_Prisoner_Manag|装 备 时 控 俘 +1
+qstr_+1_to_Tactics_while_|装 备 时 战 术 +1
+qstr_+1_to_Engineer_while|装 备 时 工 程 +1
+qstr_+1_to_Spotting|侦 查 +1
+qstr_+1_to_Looting|掠 夺 +1
+qstr_+1_to_Prisoner_Manage|控 俘 +1
+qstr_+1_to_13_skills_whil|装 备 时 13项 技 能 +1
+qstr_+1_to_Pathfinding|寻 路 +1
+qstr_+1_to_Engineer|工 程 +1
+qstr_+1_to_Tactics|战 术 +1
+qstr_+1_to_Tracking|追 踪 +1
+qstr_+1_to_First_Aid|急 救 +1
+qstr_+1_to_Trade|交 易 +1
+qstr_+1_to_Weapon_Master|武 艺 +1
+qstr_+1_to_Wound_Treatment|疗 伤 +1
+qstr__Press_Z_to_banish_f|（按 Z消 除 迷 雾） 
+qstr__Rob_graves_safely_|（安 全 地 洗 劫 墓 穴） 
+qstr__Cheat_death___destr|（逃 避 死 亡— —  会 在 此 过 程 中 毁 掉） 
+qstr__Permanently_cheat_d|（永 远 逃 避 死 亡） 
+qstr__Troubadour:_sell_mu|（吟 游 诗 人 ：通 过 城 镇 /城 堡 菜 单 演 奏 赚 钱 ，按 7，8或 9演 奏 音 乐） 
+qstr__Seer:_use_dactyloma|（先 知 ：通 过 营 地 菜 单 预 言） 
+qstr__Study_theories_via_|（通 过 营 地 菜 单 学 习 理 论） 
+qstr__Grind_corpses_via_c|（通 过 营 地 菜 单 研 磨 尸 体） 
+qstr__Chance_to_cure_Madn|（通 过 营 地 菜 单 尝 试 治 疗 疯 病） 
+qstr__Use_graverobbing_vi|（通 过 城 镇 /城 堡 菜 单 挖 坟）
+qstr__Use_necromancy_via_|（通 过 营 地 菜 单 使 用 《亡 灵 之 书》） 
+qstr__Teleport_via_camp_m|（通 过 营 地 菜 单 传 送） 
+qstr__You_can_hear_the_oc|（你 能 听 到 海 洋 ，吟 游 诗 人 ：通 过 城 镇 /城 堡 菜 单 演 奏 赚 钱 ，按 M演 奏 音 乐） 
+qstr__Some_people_are_jus|（有 些 人 生 来 就 是 幸 运 的 ，按 6来 掷 骰 子） 
+qstr__Troubadour:_sell_mus|（吟 游 诗 人 ：通 过 城 镇 /城 堡 菜 单 演 奏 赚 钱 ，按 7或 8演 奏 音 乐） 
+qstr__Troubadour:_sell_musi|（吟 游 诗 人 ：通 过 城 镇 /城 堡 菜 单 演 奏 赚 钱 ，按 B演 奏 音 乐） 
+qstr__Seer:_use/sell_exst|（先 知 ：通 过 营 地 /村 庄 菜 单 使 用 /兜 售 特 殊 能 力） 
+qstr__Use_agriculture_via|（通 过 村 庄 菜 单 发 展 农 业） 
+qstr__Use_industry_via_vi|（通 过 村 庄 菜 单 发 展 工 业） 
+qstr__Use_survival_via_vi|（通 过 村 庄 菜 单 使 用 生 存 技 能） 
+qstr__Seer:_read_the_taro|（先 知 ：通 过 营 地 菜 单 读 塔 罗 牌） 
+qstr_Acolyte_s_Ceremony|侍 祭 之 仪 式 
+qstr_Necromancer_s_Wither|亡 灵 巫 师 之 消 亡 
+qstr_Fleshburner_s_Char|肉 体 焚 烧 者 之 焦 炭 
+qstr_Plaguedoctor_s_Remed|鼠 疫 医 生 之 治 疗 
+qstr_Bloodpreserver_s_Eul|血 液 防 腐 者 之 悼 词 
+qstr_Hellraiser_s_Abattoi|地 狱 召 唤 者 之 屠 宰 场 
+qstr_Shadowlord_s_Presenc|暗 影 领 主 之 风 采 
+qstr_Artificer_s_Tools|巧 匠 之 工 具 
+qstr_Medusa_s_Blood|美 杜 莎 之 血 
+qstr_The_Alchemist_s_Adam|炼 金 术 士 之 硬 物 
+qstr_The_Horseman_s_Curse|骑 手 之 诅 咒 
+qstr_Hunter_s_Night|猎 手 之 夜 
+qstr_Khan_s_Fist|可 汗 之 拳 
+qstr_Misfortunate_Fortuna|不 幸 的 福 吐 纳 托 
+qstr_Oak_Ash_and_Thorn|橡 树· 青 榔 树· 刺 树 
+qstr_Lamia_s_Lament|拉 弥 亚 之 哀 悼 
+qstr_Crossbones__Craft|叉 骨 之 手 艺 
+qstr__Seer:_use_voodoo_vi|（先 知 ：通 过 营 地 菜 单 使 用 巫 毒 术 ，装 备 坏 骨 头 时 允 许 叉 骨 施 展 读 骨 术） 
+qstr__Seer:_use_voodoo_via|（先 知 ：通 过 营 地 菜 单 使 用 巫 毒 术 ，装 备 好 骨 头 时 允 许 叉 骨 施 展 读 骨 术） 
+qstr_The_Undying_Sword_of|弗 拉 德· 德 拉 库 拉 的 不 死 之 剑 
+qstr_Scales_of_the_Gorgon|丝 西 娜 之 鳞 
+qstr_The_Plague_of_the_Re|红 死 魔 之 瘟 疫 
+qstr_Rasputin_s_Requiem|拉 斯 普 京 之 安 魂 曲 
+qstr__Seer:_use_dactyloman|（先 知 ：通 过 营 地 菜 单 预 言 ，装 备 梅 塔 特 隆 （？）时 允 许 拉 斯 普 京 询 问 它)
+qstr_The_Wolfsbane_Pack|附 子 草 包 
+qstr_The_Great_Artificer|大 巧 匠 
+qstr_Quoth_the_Raven__Nev|乌 鸦 说：“永 不 复 焉！” 
+qstr_Gifts_of_the_Gods|诸 神 之 礼 物 
+qstr__Troubadour:_sell_music|（吟 游 诗 人 ：通 过 城 镇 /城 堡 菜 单 演 奏 赚 钱 ，按 7，8，9或 0演 奏 音 乐） 
+qstr_The_Vampire_s_Livery|吸 血 鬼 之 装 束 
+qstr_The_Werewolf_s_Howl|狼 人 之 咆 哮
+qstr_The_Behemoth_Worm|巨 虫 
+qstr_Poe_s_Shade|爱 伦· 坡 的 幽 灵 
+qstr_The_Rising_Sun|东 升 旭 日 
+qstr__Summon_the_Terracot|（通 过 营 地 菜 单 召 唤 兵 马 俑 大 军 ，并 使 盲 人 重 复 光 明） 
+qstr_The_Dark_Knight|暗 黑 骑 士 
+qstr__Use_graverobbing_via|（通 过 城 镇 /城 堡 菜 单 挖 坟 ，安 全 地 掘 墓）
+qstr__Turn_prisoners_into|（通 过 营 地 菜 单 将 俘 虏 转 化 为 史 莱 姆） 
+qstr_Here_There_Be_Monste|这 里 有 怪 物 ……
+qstr_Garments_of_Invisibi|隐 形 服 装 
+qstr_Pygmalion_and_Galate|皮 格 马 利 翁 和 伽 拉 泰 亚 
+qstr_The_Last_Unicorn|最 后 的 独 角 兽 
+qstr_The_Poppetmaster|木 偶 大 师 
+qstr__Turn_wheat_into_gol|（ 通 过 营 地 菜 单 将 小 麦 转 化 成 金 子） 
+qstr_The_Exorcist|驱 魔 师 
+qstr__Do_not_remove_|（ 不 要 移 除） 
+qstr_Ancient_Aliens|古 代 外 星 人 
+qstr_The_Plague_of_the_Bl|黑 死 病 瘟 疫 
+qstr__Troubadour:_sell_music_|（吟 游 诗 人 ：通 过 城 镇 /城 堡 菜 单 演 奏 赚 钱 ，按 7，8，9或 N演 奏 音 乐） 
+qstr__Troubadour:_May_sum|（吟 游 诗 人 ：通 过 城 镇 /城 堡 菜 单 演 奏 梅 菲 斯 特 之 赞 歌 时 可 能 召 唤 瘟 疫 之 鼠） 
+qstr_The_Demilich_s_Suffe|半 神 巫 妖 之 苦 难 
+qstr_The_Rising_Mist|弥 漫 之 雾 
+qstr_Move_here|移 动 到 此 
+qstr_View_notes|检 视 注 释 
+qstr__{s61}|{s61}
+qstr_ERROR:_More_than_15_|错 误： 15条 以 上 的 贸 易 路 线 被 给 了 {s1}。 
+qstr_{reg4}_killed_{reg5}|死 亡： {reg4}； 受 伤： {reg5}
+qstr_killed|死 亡
+qstr_wounded|受 伤
+qstr_{reg3?{reg3}:}_{s1}_|{reg3?{reg3}个 :}{s1}（{s2}） 
+qstr_{s0}_{reg3?{reg3}:}_|{s0}， {reg3?{reg3}个 :}{s1}（{s2}） 
+qstr_{s0}^{reg3?{reg3}:}_|{s0}^{reg3?{reg3}个 :}{s1}（{s2}） 
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^总 共： {reg3}（{s2}） 
+qstr_None|无 
+qstr_^None|^无 
+qstr_nothing|无 
+qstr_{reg0}_village{reg1?|{reg0}座 村 庄
+qstr_{reg0}_castle{reg1?s|{reg0}座 城 堡
+qstr_{reg0}_castle{reg1?s:|{reg0}座 城 堡 与 {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0}座 城 镇
+qstr_{reg0}_town{reg1?s:}_|{reg0}座 城 镇 与 {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0}座 城 镇， {s0}
+qstr_Battle_Advantage_=_{|战 斗 优 势 ={reg0}。
+qstr_{s9}_wants_you_to_re|{s9}想 要 你 继 续 跟 随 他 的 军 队 直 到 进 一 步 的 通 知。 
+qstr__Being_Raided_|（正 在 被 突 袭） 
+qstr__Looted_|（被 掠 夺 了） 
+qstr__Under_Siege_|（被 包 围 了） 
+qstr_The_village_of_{s1}_|{s1}村 被 {s2}掠 夺 了。 
+qstr_{s3}_is_no_longer_un|{s3}不 再 被 包 围 了。 
+qstr_Enemies_spotted_near|在 {s1}附 近 发 现 了 敌 人。 
+qstr_{s1}_has_been_besieg|{s1}被 {s3}的 {s2}围 困 了。 
+qstr_{s1}_is_chosen_as_th|{s1}被 选 为 了 {s2}的 元 帅。 
+qstr_{s1}_is_the_new_mars|{s1}是 {s2}的 新 元 帅。 
+qstr_{s1}_decided_to_do_n|{s1}决 定 什 么 都 不 做。 
+qstr_{s1}_decided_to_gath|{s1}决 定 召 集 军 队。 
+qstr_{s1}_decided_to_besi|{s1}决 定 围 攻 {s2}。 
+qstr_{s1}_decided_to_raid|{s1}决 定 突 袭 {s2}。 
+qstr_{s1}_decided_to_atta|{s1}决 定 攻 击 {s2}。 
+qstr_{s1}_decided_to_attac|{s1}决 定 攻 击 {s2}附 近 的 敌 人。 
+qstr_You_gained_{reg12}_r|你 得 到 {reg12}点 声 望。 
+qstr_You_lose_{reg12}_ren|你 失 去 {reg12}点 声 望。 
+qstr_Your_relation_with_{|你 与 {s1}的 关 系 提 升。 
+qstr_Your_relation_with_{s|你 与 {s1}的 关 系 恶 化。 
+qstr_You_gain_honour.|你 得 到 荣 誉。 
+qstr_You_lose_honour.|你 失 去 荣 誉。 
+qstr_{s1}_has_declared_wa|{s1}向 {s2}宣 战。 
+qstr_{s1}_and_{s2}_have_m|{s1}与 {s2}达 成 和 平。 
+qstr_{s2}_{reg3?was:is_cu|{s2}{reg3?曾:最 近} 在 {s3}。 
+qstr_{s2}_{reg3?was:is}_t|{s2}{reg3?曾:正} 在 赶 往 {s3}并 且 {reg4?她:他} {reg3?曾:此 刻 应 该} 在 {s4}附 近。 
+qstr_{s2}_{reg3?was:is}_i|{s2}{reg3?曾:正} 在 野 外 并 且 {reg4?她:他} {reg3?曾:此 刻 应 该} 在 {s3}附 近。 
+qstr_{s2}_{reg3?was:is}_b|{s2}{reg3?曾:正} 被 囚 禁 于 {s3}。 
+qstr_{s2}_{reg3?was:has_b|{s2}{reg3?曾:已} 被 {reg4?她:他} 的 敌 人 俘 虏。 
+qstr_{reg3?{s2}_s_locatio|{reg3?{s2}的 位 置 不 明:我 不 知 道 {s2}在 哪 里}。 
+qstr_{s6}_has_joined_your|{s6}加 入 了 你 的 队 伍。 
+qstr_You_now_owe_{reg2}_d|你 现 在 欠 {s1}{reg2}第 纳 尔。 
+qstr_Renown_value_for_thi|这 场 战 斗 的 声 望 值 为 {reg8}。 
+qstr_You_have_run_into_a_|你 中 了 圈 套！ 
+qstr_You_are_attacked_by_|你 被 一 群 强 盗 袭 击！ 
+qstr_Holding|正 在 坚 守 
+qstr_Following|正 在 跟 随 
+qstr_Charging|正 在 冲 锋 
+qstr_Advancing|正 在 前 进 
+qstr_Falling_Back|正 在 后 退 
+qstr_Standing_Closer|正 在 站 拢 
+qstr_Spreading_Out|正 在 散 开 
+qstr_Standing|正 在 站 立 
+qstr_N/A|不 适 用 
+qstr_Free|正 在 自 由 行 动 
+qstr_Any_Weapon|任 何 武 器 
+qstr_Blunt_Weapons|钝 的 武 器 
+qstr_Infantry__{reg1}_|步 兵（{reg1}） 
+qstr_Archers__{reg2}_|射 手（{reg2}） 
+qstr_Cavalry__{reg3}_|骑 兵（{reg3}） 
+qstr_{reg4}|{reg4}
+qstr_{reg5}|{reg5}
+qstr_{reg6}|{reg6}
+qstr_{reg7}|{reg7}
+qstr_{reg8}|{reg8}
+qstr_{reg9}|{reg9}
+qstr_{reg10}|{reg10}
+qstr_{reg11}|{reg11}
+qstr_{reg12}|{reg12}
+qstr_{s1}_Rebels|{s1}叛 军 
+qstr_Given_by:_{s62}|给 予 者： {s62}
+qstr_Given_on:_{s60}|始 于： {s60}
+qstr_You_have_{reg0}_days|你 有 {reg0}天 来 完 成 此 任 务。 
+qstr_This_quest_has_been_|任 务 已 结 束。 与 {s59}对 话 来 完 成 它。 
+qstr_This_quest_has_been_s|任 务 已 被 成 功 完 成。 与 {s59}对 话 来 索 要 你 的 报 酬。 
+qstr_This_quest_has_faile|任 务 已 失 败。 与 {s59}对 话 来 解 释 情 况。 
+qstr_At_the_time_quest_wa|在 任 务 被 给 出 时： ^{s1}
+qstr_{s4}_is_in_{s5}|{s4}在 {s5}
+qstr_{s1}_is_infested_by_|{s1}正 被 强 盗 骚 扰。 
+qstr_nowhere|无 
+qstr_{s7}_and_{s8}|{s7}和 {s8}
+qstr_{s7}_{s8}|{s7}、 {s8}
+qstr_noone|无 
+qstr_{s9}_and_{s10}|{s9}和 {s10}
+qstr_{s9}_{s10}|{s9}、 {s10}
+qstr_{s11}_and_{s12}|{s11}和 {s12}
+qstr_{s11}_{s12}|{s11}、 {s12}
+qstr_{s5}_is_ruled_by_{s6|{s5}被 {s6}统 治 着。 ^它 占 据 着 {s8}。 ^它 的 封 臣 是 {s10}。 ^{s5}在 与 {s12}交 战。 
+qstr_{s5}_has_been_defeat|{s5}已 被 击 败！ 
+qstr_{s5}_has_a_strength_|{s5}的 总 兵 力 为 {reg1}人。 
+qstr_{s54}_is_a_claimant_|{s54}是 {s56}王 位 的 一 位 索 要 者。 
+qstr_{s57}_and_{s58}|{s57}和 {s58}
+qstr_{s57}_{s58}|{s57}、 {s58}
+qstr_{reg3?She:He}|{reg3?她:他} 
+qstr_^{s59}|^{s59}
+qstr_{reg6?:{reg4?{s54}_i|{reg6?:{s54}是 {s56}的 {reg4?统 治 者:{s55}的 一 位 封 臣}。 ^}声 望： {reg5}。 ^{reg3?她:他} {reg9?是 {s58}的 {reg3?女 :}主 人:没 有 封 地}。 {s59}
+qstr_The_last_time_you_sa|上 次 你 见 到 {reg1?她:他} 时， {s1}
+qstr_The_last_time_you_he|上 次 你 听 说 到 {reg1?她:他} 时， {s1}
+qstr_The_town_of_{s50}|{s50}镇 
+qstr_The_village_of_{s50}|{s52}附 近 的 {s50}村 
+qstr_{s50}|{s50}
+qstr_{s51}_belongs_to_{s1|{s51}属 于 {s2}的 {s1}。 ^
+qstr_{s2}It_has_no_villag|{s2}它 没 有 下 属 村 庄。 ^
+qstr_{s2}{reg0?Its_villag|{s2}它 的 下 属 村 庄 是 {s8}。 ^
+qstr_{s2}Its_prosperity_i|{s2}它 的 繁 荣 度 是： {s50}
+qstr_Current_garrison_con|当 前 的 驻 军 有 {reg5}人。 ^储 存 的 食 物 可 供 {reg6}天。 
+qstr_Very_Poor|很 穷
+qstr_Poor|穷
+qstr_Average|一 般
+qstr_Rich|富
+qstr_Very_Rich|很 富
+qstr_Manor|庄 园
+qstr_A_manor_lets_you_res|庄 园 让 你 在 村 庄 休 息 并 让 你 在 休 息 时 只 支 付 你 的 部 队 一 半 的 薪 水。 
+qstr_Mill|磨 坊
+qstr_A_mill_increases_vil|磨 坊 提 高 村 庄 繁 荣 度 的 5%。 
+qstr_Watch_Tower|瞭 望 塔
+qstr_A_watch_tower_lets_t|瞭 望 塔 让 村 民 更 早 地 发 出 警 报， 让 敌 人 掠 夺 村 庄 所 花 费 的 时 间 提 高 25%。 
+qstr_School|学 校
+qstr_A_school_increases_t|学 校 每 月 提 高 1点 村 民 对 你 的 忠 诚 度。 
+qstr_Messenger_Post|信 使 站
+qstr_A_messenger_post_let|信 使 站 让 居 民 在 敌 人 处 在 附 近 时 向 你 发 送 消 息， 即 使 你 远 离 于 此。 
+qstr_Prison_Tower|监 狱 塔
+qstr_A_prison_tower_reduc|监 狱 塔 降 低 被 关 押 于 此 的 俘 虏 成 功 逃 走 的 机 会。 
+qstr_Prosperity_of_{s2}_h|{s2}的 繁 荣 度 从 {s3} 变 为 了 {s4}。 
+qstr_{s4}_looks_upset.|{s4}看 起 来 不 满。 
+qstr_your_party|你 的 队 伍 
+qstr_{reg0?One_of_your_pr|{reg0?你 的 一 名 俘 虏， :}{s3}的 {s1}从 囚 禁 中 逃 脱 了！ 
+qstr_You_brought_{reg3}_h|你 带 了 {reg3}头 牛 到 {s1}。 
+qstr_I_heard_that_there_w|我 听 说 在 {s62}即 将 有 一 场 竞 技 大 会。 
+qstr_I_heard_that_one_can|我 听 说 在 {s63}买 {s62}很 便 宜。 
+qstr_I_heard_that_they_pa|我 听 说 在 {s63}{s62}的 卖 价 很 高。 
+qstr_Log_entry_{reg3}:_ty|进 入 记 录 {reg3}： 类 型 {reg4}
+qstr_Center:_{s4}|中 心： {s4}
+qstr_Troop:_{s4}|部 队： {s4}
+qstr_Lord:_{s4}|领 主： {s4}
+qstr_Ally_party_is_presen|友 军 部 队 在 当 前 
+qstr_{s4}_is_present_at_e|{s4}现 在 在 项 目 中 
+qstr_Event_#{reg5}_type_{|事 件 #{reg5}， 类 型 {reg6}， 时 间 {reg8}： 玩 家 的 王 国 对 队 伍 目 标 的 关 系 ={reg7}
+qstr_Event_#{reg5}_type_{r|事 件 #{reg5}， 类 型 {reg6}， 时 间 {reg8}： 玩 家 的 王 国 对 中 心 目 标 阵 营 的 关 系 ={reg7}
+qstr_Event_#{reg5}_type_{re|事 件 #{reg5}， 类 型 {reg6}， 时 间 {reg8}： 玩 家 的 王 国 对 阵 营 目 标 的 关 系 ={reg7}
+qstr_Event_#{reg5}_type_{reg|事 件 #{reg5}， 类 型 {reg6}， 时 间 {reg8}。 无 相 关 王 国 关 系 
+qstr_Event_#{reg5}_type_{reg6|事 件 #{reg5}， 类 型 {reg6}， 时 间 {reg8}。 独 立 的 玩 家 
+qstr_Elapsed_hours:_{reg7|经 过 小 时 数： {reg7}
+qstr_Reputation_type:_{s1|声 誉 类 型： {s15}
+qstr_Entries_up_to_#{reg5|进 入 至 #{reg5}跳 过 
+qstr_BLOODBATH!|浴 血！ 
+qstr_You_cannot_escape_Th|你 无 法 逃 脱 命 运！ 
+qstr_The_Fates_have_spoke|命 运 开 口 了！ 
+qstr_Khan_s_Fist_drops_to|可 汗 之 拳 掉 到 地 上 了！ 
+qstr_Bloodstone_the_Robe_|哈 得 斯 之 袍“血 星 石” 掉 到 地 上 了！ 
+qstr_The_Infinity_Stone_d|无 限 之 石 掉 到 地 上 了 。
+qstr_Imhotep_crumbles_int|伊 姆 霍 特 普 碎 成 红 色 的 灰 尘，并 吹 走！唉，他 的 坟 墓 已 用 完 了 喜 来 芝！
+qstr_Crossbones_cringes..|叉 骨 开 始 打 颤……
+qstr_The_werewolves_stumb|狼 人 们 步 履 蹒 跚……
+qstr_You_feel_weak..._the|你 感 到 虚 弱…… 这 附 近 有 银……
+qstr_The_full_moon_makes_|满 月 使 叉 骨 发 狂！ 
+qstr_The_full_moon_makes_t|满 月 使 狼 人 们 发 狂！ 
+qstr_The_full_moon_makes_y|满 月 使 你 发 狂！ 你 发 出 了 嗜 血 的 嗥 叫！ 
+qstr_Lamia_gasps...|拉 米 亚 喘 息 着……
+qstr_The_vampires_hesitat|吸 血 鬼 们 仿 徨 着……
+qstr_The_salt_is_overwhel|盐 正 在 将 你 压 倒！ 
+qstr_You_feel_weak..._ther|你 感 到 虚 弱…… 这 附 近 有 盐……
+qstr_The_new_moon_makes_L|新 月 使 拉 米 亚 发 狂！ 
+qstr_The_new_moon_makes_t|新 月 使 吸 血 鬼 们 发 狂！ 
+qstr_The_new_moon_makes_y|新 月 使 你 发 狂！ 你 发 出 了 嗜 血 的 嘶 嘶 声！ 
+qstr_Poseidon_heals_you!_|波 塞 冬 治 愈 了 你！ 赞 美 海 洋 之 力！ 
+qstr_The_sapper_charges_b|工 兵 的 背 上 燃 烧 了 起 来！ 
+qstr_The_ghostwood_nymphs|鬼 木 蜂 鸟 看 起 来 让 人 不 舒 服……
+qstr_You_feel_disoriented|你 感 到 头 晕 目 眩……  这 附 近 有 铁 块…… 
+qstr_Ghostwood_makes_you_|鬼 木 使 你 感 觉 就 像 一 个 林 地 之 王！ 
+qstr_You_feel_invigorated|手 中 的 木 头 物 品 使 你 感 到 振 奋！ 
+qstr_You_take_a_bite_of_a|你 咬 了 一 口 人 的 尸 体 ， 对 你 的 敌 人 大 发 脾 气 ！
+qstr_You_eat_a_crocus_pet|你 吃 了 番 红 花 ，感 觉 好 了 点 ！
+qstr_Your_feet_ache...|你 感 到 头 疼……
+qstr_You_feel_terribly_il|你 感 到 病 很 重 ！
+qstr_DANGER!|危 险！ 
+qstr_You_suffer_a_concuss|你 遭 受 了 脑 震 荡！ 但 你 快 速 地 恢 复 了。 
+qstr_You_are_mortally_wou|你 受 了 致 命 伤……  但 是 你 又 站 起 来 了， 因 为 你 是 死 人 ！
+qstr_You_are_mortally_woun|你 受 了 致 命 伤……  但 是 你 又 站 起 来 了， 因 为 你 是 死 人 ！
+qstr_Overflow!_See_Camp_M|溢 出 了！ 查 看 营 地 菜 单！ 
+qstr_A_Vampire_infects_yo|一 个 吸 血 鬼 感 染 了 你， 并 像 一 个 残 忍 的 玩 笑 一 样 留 了 你 一 条 命！ 
+qstr_You_burn_with_a_thir|你 燃 烧 起 了 对 鲜 血 的 渴 望！ 你 成 为 吸 血 鬼 了！ 
+qstr_Agility_+6!_Charisma|敏 捷 +6！ 魅 力 -6！ 
+qstr_{s28}{s31}{s29}{s20}|{s28}{s31}{s29}{s20}{s21}{s22}{s23}{s24}{s25}{s30}{s26}{s27}
+qstr_A_Werewolf_infects_y|一 个 狼 人 感 染 了 你， 并 像 一 个 残 忍 的 玩 笑 一 样 留 了 你 一 条 命！
+qstr_You_howl_with_bestia|你 以 野 兽 的 狂 怒 而 嗥 叫！ 你 成 为 狼 人 了！ 
+qstr_Strength_+6!_Intelli|力 量 +6！ 智 慧 -6！ 
+qstr_You_wake_up_and_shak|你 醒 来， 并 拍 落 了 你 肩 上 的 尘 土…… 似 乎 你 的 敌 人 已 经 让 你 去 死 了， 黑 猫……
+qstr_Bad_idea!|真 是 个 坏 主 意 ！
+qstr_The_magic_works_back|魔 法 消 退 了！ 
+qstr_The_Eye_of_Izanagi_l|伊 邪 那 岐 之 眼 让 你 重 复 光 明 了！ 
+qstr_The_Evil_Eye_lets_yo|伊 邪 那 岐 之 眼 让 你 重 复 光 明 了！ 只 是 依 稀 的……
+qstr_You_banish_the_fog!|你 消 退 了 雾！ 
+qstr_You_smell_fresh_dry_|你 闻 到 新 鲜 的， 干 燥 的 木 头……
+qstr_You_smell_damp_wood.|你 闻 到 潮 湿 的 木 头。 还 有 些 烂 掉 的 东 西……
+qstr_You_smell_burnt_wood|你 闻 到 烧 焦 的 木 头……
+qstr_You_feel_very_excite|你 感 到 十 分 激 动！ 
+qstr_You_smell_apples_and|你 闻 到 了 苹 果 的 香 气，和…… 一 些 别 的 东 西……
+qstr_You_smell_death...|你 闻 到 了 死 亡……
+qstr_The_hairs_stand_up_o|你 脖 子 后 的 汗 毛 竖 了 起 来！ 
+qstr_You_sense_something_|你 感 到 有 些 不 祥 和 致 命 的 东 西……
+qstr_You_hear_a_faint_tap|你 听 到 微 弱 的 的 敲 击 声 并 感 到 恐 惧 紧 紧 抓 住 了 你 的 灵 魂……
+qstr_You_feel_weak_and_di|你 感 到 虚 弱 和 迷 茫， 听 到 响 亮 的 敲 击 声……
+qstr_Your_pulse_races!_Yo|你 的 脉 搏 振 动 着！ 你 变 得 强 壮！ 
+qstr_You_feel_a_cold_draf|你 感 到 有 冷 风。 腐 朽 的 味 道 很 强 烈。 
+qstr_You_can_barely_breat|你 难 以 呼 吸…… 有 什 么 东 西 在 看 着 你……
+qstr_There_is_a_musty_sme|从 哪 传 来 了 发 霉 的 味 道。 
+qstr_There_is_a_malevolen|这 所 房 间 里 存 在 着 恶 意。 你 有 些 发 抖……
+qstr_There_is_a_faint_sme|有 什 么 烂 掉 的 东 西 发 出 的 微 弱 气 息……
+qstr_The_stench_of_death_|死 亡 的 恶 臭！ 你 生 病 了。
+qstr_You_feel_very_strang|你 觉 得 很 奇 怪……
+qstr_You_smell_salt._And_|你 闻 到 盐 和 血。
+qstr_The_sound_of_the_oce|海 洋 的 声 音 在 这 里 大 声 回 响。
+qstr_There_is_a_smell_of_|有 一 种 油，化 学 物 质 的 味 道…… 还 有 别 的 东 西……
+qstr_The_strong_scent_of_|葡 萄 酒 浓 浓 的 气 味 在 空 气 中 挥 之 不 去。
+qstr_You_hear..._whisperi|你 听 到……耳 语， 它 会 使 你 冷 到 骨 髓 中。
+qstr_Observed_by_some_awe|通 过 观 察 一 些 可 怕 的 存 在，你 的 膝 盖 微 微 颤 抖。
+qstr_You_thrill_to_the_so|你 对 远 处 狼 嚎 的 声 音 感 到 兴 奋。
+qstr_The_air_is_fresh_her|这 里 的 空 气 很 新 鲜，带 着 淡 淡 气 味 的 烟 雾……
+qstr_Chemicals_salt_blood|化 工、盐、血 和 烟…… 像 一 些 可 怕 的 实 验 室……
+qstr_You_smell_mildew...|你 闻 到 霉 味 了……
+qstr_The_odor_of_burning_|肉 体 燃 烧 的 气 味 刺 鼻……
+qstr_You_smell_something_|你 闻 到 甜 腻 的 气 味……
+qstr_You_hear_the_soundin|你 听 到 大 海 的 声 音……
+qstr_There_is_an_awful_lo|有 很 多 沙 子……
+qstr_You_smell_spices_and|你 闻 到 香 料 和 泥 土…… 和 腐 肉……
+qstr_You_feel_a_chill._So|你 感 到 一 阵 寒 意。 有 人 在 看 着 你……
+qstr_You_smell_something.|你 闻 到 东 西 了…… 辛 辣 的，令 人 不 快 的。
+qstr_Something_smells_ter|什 么 东 西 闻 起 来 很 糟 糕…
+qstr_You_smell_a_rat...|你 闻 到 老 鼠 的 味 道…
+qstr_There_is_a..._very_s|有 一 个…… 很 奇 怪 很 强 大 的 存 在 在 这 里。
+qstr_You_hear_a_snap!_You|啪 的 一 声！或 许 是 小 偷 的 尖 叫，你 紧 紧 盯 着 黑 暗 的 胡 同……
+qstr_You_hear_a_snap!_Your|啪 的 一 声！或 许 是 小 偷 的 尖 叫，你 的 捕 鼠 器 坏 了！
+qstr_You_ve_been_merciles|你 已 经 被 无 情 地 偷 了！你 所 有 的 第 纳 尔 似 乎 失 踪 了，你 发 誓 你 刚 才 听 到 嘲 弄 的 笑 声……
+qstr_You_ve_been_pickpock|你 已 经 被 偷 了！幸 运 的 是，你 父 亲 教 你 把 一 半 的 钱 放 在 你 的 靴 子 里……
+qstr_You_ve_been_pickpocke|你 已 经 被 偷 了！
+qstr_You_smell_like_old_s|你 闻 起 来 像 旧 香 料…
+qstr_Your_odor_offends_a_|你 的 气 味 使 一 个 路 人 反 感…
+qstr_Your_Alchemist_s_Rip|你 的 炼 金 术 士 之 回 击 完 美 的 隐 藏 你…
+qstr_Your_Plaguedoctor_s_|你 的 鼠 疫 医 生 之 滤 器 是 一 个 完 美 的 伪 装……
+qstr_Your_Plague_Wraps_hi|你 的 瘟 疫 包 裹 足 够 隐 藏 你 的 病 情……
+qstr_Wear_Plague_Wraps_or|穿 上 瘟 疫 外 衣，否 则 你 很 快 就 会 受 不 了 欢 迎 的…
+qstr_The_creature_devours|生 物 吞 噬 天 鹅 绒 的 尖 叫 声 比 以 前 更 响 亮！ 茧 在 中 间 裂 开！
+qstr_The_creature_devours_|生 物 吞 噬 天 鹅 绒 的 尖 叫 更 响 亮！
+qstr_You_sing_The_Burning|你 唱 着 燃 烧 的 村 庄，一 首 悲 伤 的 歌……
+qstr_You_play_The_Cold_He|你 演 奏 着 冰 冷 的 炉 边，一 首 流 浪 的 歌……
+qstr_You_play_Siege_at_Dh|你 演 奏 着 保 卫，一 首 战 歌……
+qstr_You_play_The_Wedding|你 演 奏 着 冥 王 和 冥 后 珀 耳 塞 福 涅 的 婚 礼，一 首 爱 的 歌…
+qstr_You_play_Dirge_of_Th|你 唱 着 大 墓 地 的 挽 歌，一 首 黑 暗 的 歌…
+qstr_Crossbones_chants_Da|图 咏 舞 的 骨 头，恍 惚 的 歌…
+qstr_Lamia_sings_Weeping_|拉 米 娅 唱 着 哀 伤 之 孀 妇，一 首 哀 乐 的 歌…… 
+qstr_You_play_Hymn_to_Mep|你 演 奏 梅 菲 斯 特 的 赞 美 诗，瘟 疫 之 歌……
+qstr_You_play_Siren_Song_|你 演 奏 潜 水 歌，悼 念 淹 死 的 水 手…
+qstr_The_Tsukumogami_play|付 丧 神 演 奏 伊 邪 那 歧 的 战 号 《 东 方 之 歌 》 … 
+qstr_Shiner_plays_Shining|希 纳 演 奏 的 是 《 耀 光 》 ， 一 首 关 于 - 是 的 ， 你 猜 对 了 … 
+qstr_Smitty_plays_Smiting|史 密 蒂 演 奏 史 密 特 ， 一 首 哀 悼 人 类 自 寻 死 路 的 歌 …  
+qstr_You_sing_Hiraeth_a_s|你 唱 的 是 希 雷 厄 斯 ， 一 首 关 于 寻 找 家 园 的 歌 …   
+qstr_You_sing_Redemption_|你 唱 着 救 赎 ， 一 首 关 于 因 果 的 歌 …… 
+qstr_The_Code_Disk_plays_|密 码 盘 播 放 月 亮 之 齿 ， 一 首 关 于 在 无 尽 的 星 空 中 航 行 的 歌 …  
+qstr_1|投 骰 子：1 
+qstr_2|投 骰 子：2 
+qstr_3|投 骰 子：3 
+qstr_4|投 骰 子：4 
+qstr_5|投 骰 子：5 
+qstr_6|投 骰 子：6 
+qstr_Heads!|投 硬 币：正 面！
+qstr_Tails!|投 硬 币：反 面！
+qstr_Your_army_shouts_the|你 的 军 队 齐 声 高 喊： 给 卡 拉 迪 亚 死 亡！！！ 
+qstr_You_invoke_the_name_|你 呼 唤 波 塞 冬 之 名， 并 且 大 地 轰 隆 作 响 起 来 了！ 
+qstr_A_black_light_oozes_|赫 柏 之 杯 散 发 出 黑 色 的 光 芒……
+qstr_A_succubus_appears_a|魅 魔 在 你 面 前 凭 空 出 现……
+qstr_She_looks_at_her_han|她 看 着 她 的 手，然 后 看 着 你，开 始 高 兴 地 哭 了 起 来…
+qstr_She_looks_down_and_b|她 观 察 着 自 己，开 始 摸 索 她 身 上 的 裘 革 和 珠 宝，高 兴 地 笑 着…
+qstr_She_turns_and_kneels|她 转 身 跪 在 你 面 前，她 是 你 单 纯 可 爱 的 仆 人，你 的 所 有 愿 望 亦 为 她 心 之 所 向…
+qstr_She_bares_her_fangs_|她 露 出 了 獠 牙 和 发 出 低 沉 的 声 音，她 甚 至 比 你 还 要 高 大，这 是 你 梦 想 中 的 恶 魔 情 妇……
+qstr_She_licks_her_luscio|她 充 满 欲 望 地 舔 着 她 的 性 感 的 嘴 唇，说出一句话：“渴 了……
+qstr_She_stares_through_y|她 冷 冷 地 盯 着 你 的 眼 睛，让 你 不 寒 而 栗，她 说 了 一 句 话：“死 亡”。
+qstr_Her_eyes_sparkle_wit|她 的 眼 睛 充 满 好 奇，尽 管 她 只 说 了 一 句 话：“知 识？”
+qstr_She_giggles_as_she_t|她 握 着 你 的 手，笑 着 说：“我 的！”
+qstr_With_bread_and_wine_|享 受 面 包 和 红 酒 ，在 亚 麻 布 上 完 成 你 的 地 狱 之 爱……
+qstr_By_candlelight_and_b|以 烛 光 和 鲜 血 为 见 证，你 们 的 结 为 灵 魂 之 伴 侣！
+qstr_An_incubus_appears_a|梦 魇 在 你 面 前 凭 空 出 现……
+qstr_He_looks_at_his_hand|他 看 着 他 的 手，然 后 看 着 你，开 始 高 兴 地 哭 了 起 来……
+qstr_He_explores_the_intr|他 正 在 面 带 微 笑 地 搜 索 他 正 在 穿 着 的 皮 革 裤 子。
+qstr_He_turns_and_kneels_|他 转 过 身 来，跪 在 你 面 前，瞪 着 你，闷 闷 不 乐，他 是 仆 人，你 的 所 有 愿 望 亦 为 他 毕 生 所 求……
+qstr_He_strides_forward_a|他 向 前 一 个 箭 步，狂 野 地 嘶 嚎 着，跨 在 你 身 上，他 要 发 泄 着 他 的 欲 望，，，， 当 然 也 有 你 的。。
+qstr_He_licks_his_generou|他 舔 了 舔 嘴 唇 ， 充 满 欲 望 和 慷 慨 的 说 了 一 句：“渴…
+qstr_He_stares_right_thro|他 凝 视 着 你，让 你 不 寒 而 栗，他 说 了 一 句 话：“死 亡”。
+qstr_His_eyes_sparkle_wit|他 的 眼 睛 充 满 好 奇 ，尽 管 他 只 说 了 一 句 话：“知 识？”
+qstr_He_takes_your_hand_p|他 握 着 你 的 手，亲 眼 看 着 他，注 视 着 你 的 眼 睛，说 出 一 句 话：“我 的！
+qstr_The_coursers_you_hav|你 带 来 了 喜 欢 疾 驰 通 过 村 里 的 波 塞 冬 神 庙 的 骏 马，消 失 在 海 浪 中！
+qstr_The_sea_becomes_calm|海 洋 变 得 平 静，你 有 一 种 平 静 的 感 觉…… 
+qstr_You_melt_the_eyes_wi|你 用 蜂 蜜 融 化 眼 睛，凝 结 成 粘 稠 的 物 质！
+qstr_The_cauldron_bubbles|大 锅 散 发 出 的 泡 沫，发 出 很 甜 的 气 味…
+qstr_You_stir_the_mixture|你 搅 拌 这 一 混 合 物， 并 且 大 地 轰 隆 作 响 起 来 了！ 
+qstr_You_invoke_the_name_o|你 召 唤 冥 后 珀 耳 塞 福 涅 的 名 字，地 面 发 出 隆 隆 声！
+qstr_You_stir_the_cauldro|你 用 扫 帚 逆 时 针 搅 拌 大 锅，同 时 倒 过 来 说 你 的 名 字…
+qstr_The_flying_ointment_|飞 行 软 膏 融 化 在 衣 服 上！
+qstr_Imhotep_comes_to_lif|伊 姆 霍 特 普 加 入 你 的 军 队！
+qstr_Cannot_wake_up_now.|现 在 不 能 醒 来。
+qstr_Cannot_leave_now.|现 在 不 能 离 开。 
+qstr_Thomas_drops_a_power|托 马 斯 放 下 了 一 件 强 大 的 武 器 ， 子 弹 打 在 了 他 的 手 上 !   
+qstr_Marian_saves_Robin_w|玛 丽 安 迅 速 的 治 疗 罗 宾！他 现 在 要 活 了！
+qstr_Marian_saves_John_wi|尽 管 伤 势 严 重，玛 丽 安 还 是 很 快 就 把 约 翰 救 了 起 来！他 现 在 要 活 了！
+qstr_Marian_saves_John_wit|玛 丽 安 迅 速 的 治 疗 了 约 翰！他 现 在 要 活 了！
+qstr_Marian_tries_to_save|玛 丽 安 试 图 节 省 很 多 钱…… 但 他 尖 叫 着 说 她 是 个 女 巫，挣 扎 着 离 开，加 重 了 他 的 伤 口…和 死 亡。
+qstr_Marian_saves_Much_wi|玛 丽 安 迅 速 的 拯 救 了 他！他 现 在 要 活 了！
+qstr_Marian_saves_Tuck_wi|玛 丽 安 迅 速 的 拯 救 了 他！他 现 在 要 活 了！
+qstr_Marian_saves_Alan_wi|玛 丽 安 迅 速 的 拯 救 了 他！他 现 在 要 活 了！
+qstr_Marian_saves_Will_wi|玛 丽 安 迅 速 的 拯 救 了 他！他 现 在 要 活 了！
+qstr_John_pulls_his_hair_|约 翰 把 头 发 拔 出 来，痛 苦 地 哭 着 说 他 尽 力 了…… 并 将 匕 首 刺 向 自 己 的 心！
+qstr_John_sacrifices_hims|约 翰 为 了 罗 宾 牺 牲 自 己！他 虽 然 受 了 致 命 伤，但……
+qstr_John_sacrifices_himse|约 翰 为 了 玛 丽 安 牺 牲 自 己！他 虽 然 受 了 致 命 伤，但……
+qstr_John_sacrifices_himsel|约 翰 为 了 马 奇 牺 牲 自 己！他 虽 然 受 了 致 命 伤，但……
+qstr_John_sacrifices_himself|约 翰 为 了 塔 克 牺 牲 自 己！他 虽 然 受 了 致 命 伤，但……
+qstr_John_sacrifices_himself_|约 翰 为 了 艾 伦 牺 牲 自 己！他 虽 然 受 了 致 命 伤，但……
+qstr_John_sacrifices_himself_f|约 翰 为 了 自 己 而 打 架！他 虽 然 受 了 致 命 伤，但……
+qstr_Robin_is_dead!|罗 宾 死 了！
+qstr_Marian_is_dead!|玛 丽 安 死 了！
+qstr_John_is_dead!|约 翰 死 了！
+qstr_Much_is_dead!|马 奇 死 了！
+qstr_Tuck_is_dead!|塔 克 死 了！
+qstr_Alan_is_dead!|艾 伦 死 了！
+qstr_Will_is_dead!|威 尔 死 了！
+qstr_Circe_is_dead!|瑟 茜 死 了！
+qstr_You_were_born_a_boy|你 生 来 就 是 个 男 孩
+qstr_You_were_born_a_girl|你 生 来 就 是 个 女 孩
+qstr__on_the_first_day_|在 第 一 天
+qstr__on_the_second_day_| 在 第 二 天
+qstr__on_the_third_day_| 在 第 三 天
+qstr__on_the_fourth_day_| 在 第 四 天
+qstr__on_the_fifth_day_| 在 第 五 天
+qstr__on_the_sixth_day_| 在 第 六 天
+qstr__on_the_seventh_day_| 在 第 七 天
+qstr__on_the_eighth_day_| 在 第 八 天
+qstr__on_the_ninth_day_|在 第 九 天
+qstr__on_the_tenth_day_| 在 第 十 天
+qstr__on_the_eleventh_day| 在 第 十 一 天
+qstr__on_the_twelfth_day_| 在 第 十 二 天
+qstr__on_the_thirteenth_d| 在 第 十 三 天
+qstr__on_the_fourteenth_d| 在 第 十 四 天
+qstr__on_the_fifteenth_da| 在 第 十 五 天
+qstr__on_the_sixteenth_da| 在 第 十 六 天
+qstr__on_the_seventeenth_| 在 第 十 七 天
+qstr__on_the_eighteenth_d| 在 第 十 八 天
+qstr__on_the_nineteenth_d| 在 第 十 九 天
+qstr__on_the_twentieth_da| 在 第 二 十 天
+qstr__on_the_twenty_first| 在 第 二 十 一 天
+qstr__on_the_twenty_secon| 在 第 二 十 二 天
+qstr__on_the_twenty_third| 在 第 二 十 三 天
+qstr__on_the_twenty_fourt| 在 第 二 十 四 天
+qstr__on_the_twenty_fifth| 在 第 二 十 五 天
+qstr__on_the_twenty_sixth| 在 第 二 十 六 天
+qstr__on_the_twenty_seven| 在 第 二 十 七 天
+qstr__on_the_twenty_eight| 在 第 二 十 八 天
+qstr__on_the_twenty_ninth| 在 第 二 十 九 天
+qstr__on_the_thirtieth_da| 在 第 三 十 天
+qstr__on_the_thirty_first| 在 第 三 十 一 天
+qstr_of_the_month_of_Wolf| 狼 月
+qstr_of_the_month_of_Cand| 烛 月
+qstr_of_the_month_of_Deat| 死 月
+qstr_of_the_month_of_Drou| 旱 月
+qstr_of_the_month_of_With| 枯 月
+qstr_of_the_month_of_Locu| 蝗 月
+qstr_of_the_month_of_Plag| 瘟 月
+qstr_of_the_month_of_Stor| 风 月
+qstr_of_the_month_of_Fami| 荒 月
+qstr_of_the_month_of_Bloo| 血 月
+qstr_of_the_month_of_Ice_| 冰 月
+qstr_of_the_month_of_Ghos| 鬼 月
+qstr__under_the_sign_of_t| 在 匕 首 的 标 志 下
+qstr___Int_1_| （智 -1）
+qstr__under_the_sign_of_th| 在 笔 者 的 签 名 下
+qstr___Cha_1_| （魅 -1）
+qstr__under_the_sign_of_the| 在 头 骨 的 标 志 下
+qstr___Agi_1_| （敏 -1）
+qstr__under_the_sign_of_the_| 在 枯 树 的 标 志 下
+qstr___Str_1_| （力 -1）
+qstr__under_the_sign_of_the_C| 在 瘸 子 的 标 志 下
+qstr__under_the_sign_of_the_S| 在 裹 尸 布 的 标 志 下
+qstr__under_the_sign_of_the_D|在 医 生 的 标 志 下
+qstr__under_the_sign_of_the_L|在 疯 子 的 标 志 下
+qstr__under_the_sign_of_the_Cr| 在 王 冠 的 标 志 下
+qstr__under_the_sign_of_the_Ca| 食 人 者 的 标 志 下
+qstr__under_the_sign_of_the_R| 乌 鸦 的 标 志 下
+qstr__under_the_sign_of_the_Do| 在 门 的 标 志 下
+qstr__under_the_omen_of_t|在 野 兽 标 记 的 征 兆 下 。 你 有  一 个 恶 魔 的 胎 记 。
+qstr___Silver_Resist_|抵 制 白 银 
+qstr__under_the_omen_of_th|在 日 食 的 征 兆 下 。 你 出 生 的 那 一 刻 太 阳 变 黑 了 。 
+qstr___Salt_Resist_|抵 制 盐
+qstr__under_the_omen_of_the|在 黑 克 特 洪 水 的 征 兆 下 。 在 你 出 生 的 那 天 ， 天 上 降 下 了 倾 盆 大 雨 的 青 蛙 。   
+qstr___Iron_Resist_|抵 制 铁
+qstr_A_{reg3?daughter:son|作 为 一 位 殡 葬 承 办 人 之 {reg3?女:子}， 你 的 早 期 生 活 是 忧 郁 而 平 静 的。 由 于 你 父 亲 的 停 尸 间 是 在 你 们 家 的 地 下 室， 死 亡 成 为 了 你 生 活 中 的 一 个 常 见 的 部 分。 你 甚 至 偶 尔 在 他 工 作 的 时 候， 被 允 许 去 观 察， 并 且 他 会 跟 你 说 你 未 来 的 职 业 也 许 会 是 医 学 方 面 的。 你 们 的 生 活 是 免 税 的。 尽 管 你 很 好 地 记 住 了 镇 里 的 几 乎 每 个 人 的 脸， 但 是 死 神 最 后 还 是 没 有 放 掉 任 何 人— —  一 个 接 一 个 地， 许 多 曾 经 表 情 兴 奋 的 面 容 最 后 在 冰 冷 的 天 花 板 下 都 变 得 茫 然。 今 日 在 此， 明 日 便 去。 这 就 是 生 命 的 本 质。 
+qstr_As_the_{reg3?daughte|作 为 一 位 动 物 标 本 剥 制 者 之 {reg3?女:子}， 你 的 早 期 生 活 既 有 城 市 的， 也 有 乡 村 的。 因 为 你 父 亲 的 剥 制 术， 你 的 家 庭 住 在 城 市 的 一 个 繁 忙 部 分 的 一 所 大 型 的 宅 子 里， 但 是 你 们 也 时 常 去 乡 村， 为 了 事 业 而 捕 获 猎 物、 采 集 新 死 的 动 物。 你 在 仅 仅 十 岁 大 时， 就 射 中 了 你 的 第 一 只 母 兽， 而 你 的 第 一 只 公 兽 是 在 十 二 岁。 恰 当 地 给 尸 体 剥 皮， 才 能 使 它 们 能 被 保 存 与 缝 合， 以 成 为 众 多 的 木 仿 制 品 中 的 一 个。 你 自 豪 地 在 你 父 亲 的 小 棚 里 完 成 了 这 项 任 务。 你 很 快 在 技 术 上 胜 过 了 你 的 父 亲。 你 的 家 庭 吃 得 很 好， 为 舒 适 的 生 活 赚 了 足 够 的 钱。 
+qstr_The_life_of_a_chandl|作 为 一 位 蜡 烛 商 人 之 {reg3?女:子} 的 生 活 是 艰 苦 而 需 要 耐 心 的， 你 学 习 了 烛 芯、 石 蜡 与 油 的 制 作 手 法。 为 烛 芯 涂 油 是 你 的 第 一 个 职 责， 你 很 小 的 时 候 便 开 始 认 真 着 手 了。 很 快 你 的 父 亲 教 了 你 正 确 的 用 长 杆 子 搅 拌 大 桶 石 蜡 然 后 将 它 倒 进 模 子， 以 及 轻 拍 它 们 以 避 免 水 泡 伤 害 了 其 表 面 的 方 法。 你 的 家 庭 将 会 周 期 性 地 去 海 滨 收 集 沙 粒 以 炼 制 玻 璃— —  瓶 子 和 油 灯 的 制 作 成 为 了 你 最 后 的 课 程， 也 成 为 了 你 的 熟 练 之 道。 至 今， 油 的 气 味 仍 能 为 你 带 来 和 家 人 一 起 在 煤 烟 与 火 光 中 的 温 柔 的 童 年 回 忆。 
+qstr_An_executioner_s_{re|作 为 一 名 刽 子 手 的 {reg3?女 儿:儿 子}， 你 很 早 就 了 解 了 正 义 之 道 和 锋 刃 之 道。 你 的 父 亲 是 个 好 人， 并 且 精 于 自 己 的 职 业— —  你 们 从 没 挨 过 饿， 并 且 你 父 亲 的 技 艺 在 全 卡 拉 迪 亚 都 有 名。 即 使 是 在 你 小 时 候 最 稚 嫩 的 年 代， 你 的 家 庭 也 经 常 会 赶 去 进 行 死 刑。 死 亡 成 了 生 活 中 正 常 的 一 部 分， 而 剑 术 也 是— —  你 的 父 亲 过 去 总 是 龇 牙 笑 着 说：“剑 造 就 了 人。 一 生 如 果 不 趁 早 习 剑， 那 最 后 就 会 被 剑 砍。” 而 剑 真 正 造 就 的 是 肌 肉。 现 在 不 管 用 不 用 武 器， 你 都 几 乎 不 会 在 决 斗 中 输 掉。 
+qstr_You_came_into_the_wo|你 作 为 一 个 没 落 的 贵 族 之 {reg3?女:子} 来 到 这 个 世 界， 只 拥 有 他 们 曾 经 居 住 过 的 房 子。 不 过， 尽 管 你 的 家 庭 生 活 艰 苦， 他 们 还 是 为 你 提 供 了 良 好 的 教 育 并 从 你 童 年 起 就 教 导 你 贵 族 的 严 格 与 宫 廷 的 生 活。 
+qstr_You_were_born_the_{r|你 生 来 便 是 旅 行 商 人 之 {reg3?女:子}， 你 们 总 是 为 了 寻 找 财 富 而 一 个 地 方 又 一 个 地 方 地 迁 移。 虽 然 你 的 父 母 比 其 余 大 多 数 人 富 有 并 且 尽 其 所 能 地 给 了 你 教 育， 但 是 你 极 少 有 机 会 在 路 上 交 到 朋 友， 你 几 乎 生 来 就 是 为 了 以 后 能 卖 东 西 给 别 人。 
+qstr_As_a_child_your_fami|当 你 还 是 个 孩 子 时， 你 的 家 庭 靠 你 父 亲 为 当 地 的 领 主 当 卫 兵 的 薪 水 过 着 穷 困 的 生 活。 生 活 并 不 轻 松， 并 且 你 们 太 过 贫 穷 以 至 于 不 能 给 你 多 少 教 育。 你 在 街 道 上 主 要 学 会 了 如 何 在 手 中 有 武 器 或 无 武 器 时 保 护 你 自 己。 
+qstr_{reg3?daughter:son}|{reg3?女:子}
+qstr_You_were_the_{reg3?d|你 是 一 个 靠 树 林 生 活 的 家 庭 的 {reg3?女 儿:儿 子}， 你 们 做 任 何 你 们 需 要 做 的 以 维 持 收 支 平 衡。 狩 猎、 伐 木、 制 作 箭 支， 甚 至 在 日 子 不 好 过 的 时 候 去 偷 猎。 对 于 你 的 家 庭， 冬 天 从 不 是 个 好 时 间， 寒 冷 会 带 走 动 物 的 生 命， 也 会 带 走 人 的， 但 是 你 总 是 能 活 着 见 到 下 一 个 黎 明， 尽 管 你 的 兄 弟 姐 妹 也 许 不 这 么 幸 运。 
+qstr_You_were_a_child_of_|你 是 一 个 草 原 的 孩 子， 你 生 于 一 个 游 牧 部 落， 你 们 部 落 生 活 在 遍 布 于 干 草 地 的 大 帐 篷 中。 如 同 其 他 的 族 人， 你 的 家 庭 比 敬 重 其 余 一 切 更 加 敬 重 马 匹， 并 且 几 乎 在 你 学 会 如 何 走 路 之 前 他 们 就 教 你 如 何 骑 马 了。 
+qstr_As_the_{reg3?daughter|作 为 一 名 盗 贼 之 {reg3?女:子}， 你 几 乎 没 有 学 过 什 么“正 规” 教 育。 作 为 替 代， 你 离 家 在 外， 在 街 上 乞 讨， 直 到 你 学 会 如 何 割 钱 包， 你 割 钱 包， 直 到 你 学 会 如 何 撬 锁， 所 有 的 这 些 生 活 方 式 遍 布 于 你 的 童 年。 然 而， 这 些 漫 长 的 岁 月 使 你 熟 悉 了 民 间 的 疾 苦 和 城 市 与 阴 暗 的 后 巷 的 秘 密。 
+qstr_Some_people_are_simp|有 些 人 只 是 对 政 治 和 经 济 感 到 厌 恶。所 有 封 建 领 主 在 整 个 土 地 上 的 战 斗，压 迫 性 的 税 收，通 货 膨 胀，饥 饿 和 其 他 腐 败 的 迹 象 最 终 剥 夺 了 他 们 对 制 度 的 信 仰。你 的 父 亲 是 那 种 人。所 以 他 相 信 自 给 自 足，不 依 赖 于 任 何 联 盟， 他 告 诉 了 你 需 要 用 自 己 的 双 手 - 没 关 系，有 时 候 你 不 得 不 抢 富 人 给 穷 人。当 你 成 为 了 年 轻 的 {reg3?女:男}人， 他 把 自 己 的 食 谱《 生 存 与 自 律 》托 付 给 你，从 此 你 就 一 直 保 留 下 去 了。他 还 向 你 展 示 了 如 何 在 野 外 和 战 斗 中 生 存，他 的 方 法 从 未 让 你 失 望 过。
+qstr_As_a_child_You_were_|作 为 一 个 孩 子，你 在 某 些 方 面 有 点 特 别。无 论 是 你 的 力 量，你 的 敏 捷，你 的 狡 猾，还 是 你 的 性 格，你 总 是 站 出 来 的。也 可 能 是 因 为 你 父 亲 是 一 位 出 版 的 作 家 和 教 授，从 很 小 的 时 候 他 就 教 育 自 己， 你 总 是 走 在 最 前 面，你 父 亲 的 遗 产 伴 随 着 他 的 名 字 继 续 陪 伴 着 你。
+qstr_Slavery._It_s_a_livi|奴 隶 制。一 个 死 刑。你 很 少 在 你 年 轻 的 时 候 看 到 你 的 父 亲。他 总 是 出 去 打 猎，做 些 他 能 做 的 事。他 是 一 个 好 人，他 对 好 人 做 可 怕 的 事 来 养 活 他 的 家 人。他 是 一 个 严 厉 的 人，然 而，矛 盾 的 人 往 往 是，他 的 惩 罚 是 无 情 的。但 他 教 你 如 何 战 斗。他 甚 至 给 你 他 可 靠 的 权 杖，当 你 最 后 能 找 到 他 时。那 天 你 成 了 他 眼 中 的 一 个 男 人，你 常 常 怀 疑 那 个 在 他 睡 觉 时 最 终 谋 杀 他 的 海 盗 是 否 也 像 个 男 人 一 样。如 果 你 找 到 他，他 会 觉 得 死 要 好 得 多，这 是 肯 定 的……
+qstr_Your_father_seems_to|你 的 父 亲 似 乎 已 经 消 失 在 柴 堆 … 字 面 上 的 意 思。因 为 你 很 年 轻，很 明 显 你 的 血 液 里 有 超 自 然 的 东 西。虽 然 你 有 点 不 守 规 矩，但 你 很 有 魅 力，而 且 比 木 头 更 有 智 慧。你 的 朋 友 很 少 … 你 说 话 的 方 式 很 快，当 你 在 附 近 的 时 候 植 物 会 不 知 不 觉 地 成 长，打 扰 了 他 们。很 快 你 就 会 发 现 自 己 在 高 高 的 草 丛 中，忘 记 他 们 甚 至 走 了…
+qstr_Call_me_Ishmael._You|你 父 亲 的 老 笑 话 … 说 他 已 经 从 一 本。你 还 不 知 道 这 意 味 着 什 么。在 任 何 情 况 下，你 的 父 亲 是 相 当 厉 害 的 垂 钓 者，和 浮 子 不 远 极。还 有 他 那 篓 鱼，有 时 候 你 会 发 现 其 他 的 事 情 … 人 们 不 想 发 现 的 东 西。但 这 不 关 你 的 事。你 更 愿 意 去 钓 鱼…
+qstr_Your_father_never_to|你 父 亲 从 来 没 有 告 诉 过 你 他 在 你 年 轻 的 时 候 做 了 什 么。你 只 知 道 他 有 一 笔 可 观 的 存 款，而 不 知 道 他 是 怎 么 得 到 这 笔 钱 的。你 记 得 小 时 候 在 房 间 里 到 处 乱 转 时，他 被 激 怒 了 … 他 特 别 肯 定 地 告 诉 你 远 离 他 床 脚 下 的 一 个 锁 着 的 箱 子。你 无 论 如 何 也 不 可 能 在 你 这 个 年 纪 打 开 它，你 答 应 过，从 此 再 也 没 注 意 过 那 个 箱 子 … 直 到 他 死 后。你 收 到 了 一 把 钥 匙，当 你 把 那 把 钥 匙 插 在 那 把 坚 实 的 锁 里，打 开 盖 子，从 里 面 取 出 一 块 黑 色 的 盔 甲 来 解 释 一 切……
+qstr_There_is_power_in_th|我 们 的 肉 体 有 可 以 传 承 的 无 穷 之 力 。 这 是 你 父 亲 挂 在 嘴 边 上 的 ， 当 你 质 疑 自 己 的 家 人 时，，，，， 那 不 是 没 有 理 由 的 …… 真 是 不 寻 常 的 饮 食 习 俗 。 那 是 在 文 明 之 源 泉 涌 出 智 慧 之 水 滋 润 这 土 地 前 的 最 古 老 的 习 俗 ，那 真 是有 韵 味 ，，，，，， 它 是 一 种  古 文 化 传 统 ，你 的 家 庭 成 员 死 后 必 须 依 礼 法 吞 食 — — 父 食 祖 — — 子 食 父 — — 如 此 往 复 ， 直 到 终 结。 现 在 你 有 了 你 父 亲 的 尸 首 ， 又 一 古 老 的 誓 言 要 应 验 了 。 但 这 种 力 量 是 真 实 的 。 只 要 你 继 续 你 的 小 家 族 传 统 ， 你 就 会 收 获 几 个 世 纪 以 来 的 传 承 之 力 …… 
+qstr_You_were_born_the_{re|你 是 一 个 考 古 学 家 的 {reg3?女 儿:儿 子} ， 总 是 从 一 个 地 方 移 动 到 另 一 个 地 方 ， 寻 找 新 的 废 墟 和 墓 地 ， 尽 管 在 卡 尔 拉 迪 亚 的 野 外 ， 残 存 的 土 著 民 族 经 常 恶 毒 地 反 对 。 他 死 后 ， 你 继 承 了 很 多 遗 产 ， 包 括 一 个 你 从 未 见 过 的 上 锁 的 盒 子 和 一 把 钥 匙 。 要 是 有 人 看 见 你 把 钥 匙 插 进 那 把 结 实 的 锁 里 ， 打 开 盖 子 ， 从 里 面 取 出 那 张 具 有 很 多 任 务 的 神 秘 密 码 盘 ， 那 该 多 好 啊 ……
+qstr_As_a_{reg3?girl:boy}|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 就 在 本 地 的 公 墓 里 挖 坟 谋 生。 工 作 很 辛 苦， 但 很 充 实， 时 至 今 日， 你 手 里 拿 着 一 把 铲 子 都 比 一 把 剑 更 自 在。 你 仍 然 有 着 一 个 坚 挺 的 腰， 随 时 准 备 再 次 行 动。 并 且 在 晚 上 和 一 帮 人 围 绕 着 火 堆 讲 述 令 人 毛 骨 悚 然 的 故 事。 {reg3?女 人 :男 人 }。
+qstr_As_a_{reg3?girl:boy}_|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 就 为 本 地 屠 夫 切 肉 为 生。 牛 排、 排 骨、 肋 骨、 腰 肉 和 翅 膀 尖， 你 都 会 弄， 甚 至 教 别 人 怎 么 做。 当 然， 这 工 作 十 分 残 忍 的， 但 总 得 有 人 来 做， 而 且 你 似 乎 有 一 种 天 赋—— 你 不 仅 擅 长 用 剑，你 和 你 可 靠 的 刀 子， 这 世 上 没 有 你 不 能 剁 成 块 带 走 或 生 吃 的 尸 体。
+qstr_As_a_{reg3?girl:boy}_g|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 在 一 个 小 农 场 里 收 割 和 堆 放 干 草 为 生。 并 且 还 有 一 堆 其 他 任 务 需 要 完 成—— 给 奶 牛 挤 奶、 养 鸡， 包 括 收 集 鸡 蛋—— 到 了 收 获 的 季 节， 你 得 从 日 出 干 到 日 落 直 到 每 一 片 田 都 收 干 净。 你 父 母 说 劳 作 可 以 塑 造 人 格， 事 实 确 实 如 此。 你 与 荒 原 中 奴 隶 们 一 起 工 作， 学 会 了 许 多 歌 曲 和 笑 话。
+qstr_As_a_{reg3?girl:boy}_gr|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年，你 从 小 就 加 入 了 一 个 由 流 浪 艺 人 组 成 的 剧 团， 从 一 个 镇 子 到 另 一 个 镇 子 之间 举 行 哑 剧 表 演。 这 是 种 艰 苦 的 生 活， 从 蜂 拥 而 至 观 看 你 滑 稽 表 演 的 观 众 那 出 售 东 西、 向 他 们 乞 讨、 窃 取 他 们 的 钱 包。 随 着 时 间 推 移， 你 成 了 一 名 能 够 吸 引 观 众 的 演 员。
+qstr_As_a_{reg3?girl:boy}_gro|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 直 觉 就 非 常 好—— 你 倾 向 于 跟 随 你 的 直 觉， 它 们 对 你 很 有 帮 助。 你 特 别 擅 长 发 现 东 西—— 丢 失 的 钱、 珠 宝 和 其 他 贵 重 物 品—— 随 着 时 光 流 逝， 普 通 人 无 法 发 现 的 隐 蔽 通 道 和 特 意 被 人 藏 起 来 的 小 物 件 你 都 能 发 现。 最 终 你 开 始 协 助 调 查 盗 窃， 抢 劫， 甚 至 是 谋 杀， 每 次 都 带 来 令 人 目 瞪 口 呆 的 结 果。 如 果 有 什 么 谜 题 的 事 情 要 解 决， 你 就 是 他 们 要 找 的 人！
+qstr_As_a_{reg3?girl:boy}_grow|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 就 被 安 排 到 一 位 贵 族 的 宫 廷 居 住。 在 那 里 你 的 第 一 堂 课 是 谦 卑， 因 为 你 将 侍 候 贵 族 和 贵 族 夫 人 小 姐 们。 你 从 他 们 的 棋 局、 他 们 的 闲 话， 甚 至 是 吹 嘘 出 的 伟 大 事 迹 和 赞 扬 宫 廷 爱 情 的 诗 歌 当 中， 你 很 快 了 解 到 了 这 个 充 满 矛 盾 并 且 相 互 竞 争 的 成 人 世 界。 你 也 从 其 他 孩 子 的 野 蛮 游 戏 中 学 到 了 什 么， 他 们 假 装 手 里 的 木 棍 是 大 人 们 决 斗 时 的 剑。
+qstr_As_a_{reg3?girl:boy}_growi|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 就 跟 着 当 地 的 一 名 工 匠 学 习 一 门 手 艺。 在 师 傅 的 指 导 下， 经 过 多 年 的 努 力 学 习， 你 成 为 了 一 名 出 色 的 工 匠 并 和 你 的 师 傅 一 同 工 作， 直 到 你 决 定 离 开 家 乡。
+qstr_As_a_{reg3?girl:boy}_growin|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 作 为 一 名 富 商 的 学 徒， 从 事 了 多 年 的 商 铺 工 作 和 带 领 商 队。 你 很 快 就 学 会 了 低 价 买 进、 高 价 卖 出 的 艺 术， 让 顾 客 自 大 的 认 为 他 们 赚 到 了。
+qstr_As_a_{reg3?girl:boy}_growing|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 露 宿 街 头， 做 出 一 切 可 以 保 证 你 活 下 去 的 事 情， 乞 讨、 偷 窃、 为 帮 派 干 黑 活 赚 取 买 面 包 的 钱， 你 每 天 都 生 活 在 这 个 暴 力 的 世 界 里， 总 是 比 那 些 愿 你 不 得 好 死 的 家 伙 抢 先 一 步。
+qstr_As_a_{reg3?girl:boy}_growing_|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 就 骑 着 你 的 马 驹 行 走 于 大 草 原 上， 学 习 如 何 在 草 地 和 沙 漠 间 行 走。 虽 然 有 时 你 会 挨 饿， 但 你 成 为 了 这 个 荒 漠 国 家 上 的 一 名 猎 人 和 寻 路 者。 随 着 你 长 大 成 为 一 名 游 牧 民， 你 的 身 体 也 因 为 长 出 了 肌 肉 而 逐 渐 壮 实。 {reg3?女 人 :男 人 }。
+qstr_As_a_{reg3?girl:boy}_growing_o|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 就 是 一 名 当 地 糖 果 屋 的 助 手。 面 包、 糕 点、 蛋 糕、 布 丁 和 馅 饼—— 你 懂 得 如 何 使 用 烤 箱， 甚 至 可 以 教 导 别 人。 这 是 一 项 累 死 人 的 工 作， 但 它 既 是 一 门 艺 术， 也 是 一 种 锻 炼， 并 且 你 懂 得 诀 窍—— 你 擅 长 用 手， 打 出 来 的 面 团 十 分 精 致， 你 的 力 气 很 大， 没 有 你 扛 不 动 的 面 粉 。
+qstr_As_a_{reg3?girl:boy}_growing_ou|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年，你 从 小 就 在 一 个 小 农 场 里 以 赶 牲 口 为 生。 通 常 你 会 和 你 的 牛 群 在 田 野 里 呆 上 几 天—— 捕 食 者 在 捕 猎 时 会 非 常 安 静—— 你 的 耳 朵 很 尖， 即 使 是 在 牛 的 哞 哞 声 之 中， 你 的 眼 睛 也 很 尖， 即 使 是 在 黑 暗 之 中。 你 的 父 母 说 这 份 工 作 对 大 脑 有 好 处， 确 实 。 很 少 有 你 不 能 解 决 的 问 题， 你 所 学 到 的 关 于 预 测 兽 群 移 动 的 知 识 甚 至 可 以 应 用 到 战 斗 战 术 中。 你 也 永 远 不 会 忘 戴 你 的 帽 子。
+qstr_As_a_{reg3?girl:boy}_growing_out|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 就 喜 好 喝 酒， 为 了 被 他 们 聘 用， 你 故 意 欠 了 当 地 一 家 酿 酒 厂 的 钱…。。 你 成 功 了， 并 且 你 一 直 坚 持  下 去。 这 是 种 艰 苦 的 生 活， 如 同 一 只 地 窖 里 的 老 鼠—— 在 数 百 桶 葡 萄 酒 和 啤 酒 之 间 来 回 穿 梭， 以“ 检测” 它 们。 他 们 说： “ 酒 已 经 让 你 头 脑 发 昏 了” 你 告 诉 他 们， 你 有 着 苹 果 的 智 慧， 一 整 桶 的， 经 过 发 酵的。 他 们 大 笑 了 起 来。 此 外， 你 可 以 做 一 种 无 酒 精 饮 料… 如 果 你 记 得 住 配 方。
+qstr_As_a_{reg3?girl:boy}_growing_out_|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年，你 从 小 就 为 镇 上 的 警 卫 和 当 地 的 神 射 手 们 造 弓 与 箭 矢 谋 生。 这 项 工 作 虽 然 重 复 但 充 实， 时 至 今 日， 你 时 常 带 着 弓 箭 而 不 是 剑 。 你 不 是 个 难 对 付 的 人， 但 你 的 手 能 在 强 压 下 依 旧 移 动 自 如， 现 在 即 使 是 再 怎 么 令 人 毛 骨 悚 然 的 故 事 也 没 法 触 动 到 你， 用 你 值 得 信 赖 的 弓 箭 进 行 狩 猎 与 战 斗 已 经 成 为 了 你 的 一 部 分 {reg3?女 人 :男 人 }。
+qstr_As_a_{reg3?girl:boy}_growing_out_o|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 被 送 到 一 座 遥 远 的 寺 庙。 在 那 里 你 的 第 一 场 修 行 是 谦 卑， 你 与 其 他 无 论 老 少 的 僧 侣 一 起， 修 行 着 内 心 的 平 静。 在 自 主、自 律、 自 愿 秩 序 的 修 行 中， 你 很 快 明 白 了 世 俗 之 人 眼 中 的 一 个 充 满 矛 盾 并 且 相 互 竞 争 的 成 人 世 界。 当 其 他 僧 侣 休 息 时， 你 仍 然 坐 在 外 面， 当 其 他 孩 子 用 棍 子 互 相 攻 击， 模 仿 大 人 的 剑 时， 你 却 静 静 地 注 视 着 一 朵 即 将 凋 谢 的 花 朵。
+qstr_As_a_{reg3?girl:boy}_growing_out_of|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 就 是 一 名 裁 缝 的 学 徒。 你 很 有 天 赋， 马 上 就 有 了 自 己 的 店 铺， 对 一 个 如 此 年 幼 的 人 来 说， 这 给 人 留 下 了 深 刻 的 印 象。 时 代 变 了， 你 的 职 业 也 是， 但 你 仍 然 擅 长 使 用 剪 刀， 而 且 喜 欢 随 身 带 着 工 具 和 材 料 进 行 修 补。 毕 竟 你 也 不 清 楚 何 时 需 要 缝 一 条 裂 开 的 缝， 或 是 当 你 需 要 一 双 新 手 套 或 靴 子 的 时 候。 时 至 今 日， 没 有 人 怀 疑 过 你 作 品 的 质 量。
+qstr_As_a_{reg3?girl:boy}_growing_out_of_|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年，你 从 小 露 宿 街 头， 为 了 生 存 你 在 一 家 军 需 工 厂 找 到 了 一 份 工 作， 给 火 药 测 量、 包 装、 靠 着 装 填 子 弹 来 谋 生， 在 这 个 充 满 暴 力 的 世 界 寻 找 到 了 自 己 的 意 义。 枪 支 以 前 很 流 行， 现 在 甚 至 越 来 越 流 行 了。
+qstr_As_a_{reg3?girl:boy}_growing_out_of_c|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年，你 从 小 露 宿 街 头， 但 是 你 靠 着 用 谷 物 蒸 馏 器 酿 造 啤 酒、 葡 萄 酒， 甚 至 制 造 灯 油 来 谋 生， 在 这 个 充 满 暴 力 的 世 界 寻 找 到 了 自 己 的 意 义。 酒 精 可 以 缓 解 生 活 中 的 一 切 痛 苦 和 磨 难。
+qstr_{reg3?daughter:man}|{reg3?女 人:男 人}
+qstr_{reg3?女 人 :男 人 }|{reg3?女 人:男 人} 
+qstr_Though_the_distincti|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 死 亡 这 个 话 题 对 你 来 说 总 有 一 种 病 态 的 魅 力， 但 在 你 发 现 《 亡 灵 之 书》 之 前 你 永 远 无 法 完 全 理 解 正 在 强 烈 地 呼 唤 着 你 的 真 正 力 量。 这 本 书 是 在 那 个 决 定 你 命 运 的 日 子 里 你 遇 到 的 一 个 旅 行 商 人 所 出 售 的 书 之 一。 当 你 表 示 你 想 看 看 这 本 奇 怪 的 书 时， 商 人 表 现 出 困 惑 和 怀 疑。 他 坚 决 不 让 你 看， 尽 管 你 把 你 的 所 有 旅 费 都 给 他 只 为 了 看 一 眼 也 不 行， 然 后 你 愤 怒 地 杀 死 了 他， 你 无 法 控 制 你 自 己。 在 他 包 里 发 现 的 黑 袍 和 匕 首 已 经 足 够 有 趣 了， 但 你 还 发 现 他 藏 起 来 的 那 本 书 正 是 传 说 中 的 邪 恶 之 书， 用 未 知 的 语 言 撰 写 而 成， 《 亡 灵 之 书》 。 显 然 你 的 受 害 者 是 一 个 有 抱 负 的 亡 灵 巫 师！ 那 种 转 变 感 觉 很 公 平， 你 把 那 个 商 人 的 尸 体 扔 进 你 的 手 推 车 里， 并 再 次 启 程， 来 寻 找 一 些 方 法 翻 译 它。 
+qstr_Though_the_distinctio|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 你 身 体 里 的 某 些 东 西 在 某 一 天 崩 溃 了， 然 后 你 冷 血 地 杀 了 某 人。 从 警 察 那 里 逃 脱 后， 你 带 着 凶 器 逃 离 了 可 怕 的 案 发 现 场， 从 那 以 后 你 就 一 直 在 逃 跑。 你 用 乞 丐 的 破 衣 烂 衫 在 街 道 隐 藏 你 的 身 份， 但 你…… 那 反 社 会 的 天 性， 导 致 最 仁 慈 的 人 都 会 在 任 何 时 候 避 开 你。 总 是 保 持 小 心， 你 从 一 个 地 方 旅 行 到 另 一 个 地 方， 一 个 被 过 去 所 困 扰 的 {s13}—— 你 作 为 一 个 响 马， 甚 至 在 它 展 现 它 自 己 时 去 做 正 当 的 工 作。 无 论 是 谋 生 还 是 杀 生， 都 好 过 在 中 世 纪 法 庭 接 受 审 判， 然 后 不 可 避 免 地 被 血 腥 地 处 决。
+qstr_Though_the_distinction|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 从 你 年 轻 时 开 始，你 就 知 道 自 己 与 众 不 同。 异 象 与 征 兆 总 是 突 然 出 现 在 你 周 围—— 你 会 被 熊 熊 燃 烧 的 火 焰、 鱼 跃 出 水 面 溅 起 的 水 花、 甚 至 落 叶 的 图 案 所 吸 引。 不 仅 如 此， 你 还 很 快 学 会 了 如 何 极 其 精 准 地 解 读 这 些 迹 象。 一 年 春 天， 那 时 你 还 很 年 轻， 你 无 意 识 地 预 言 所 有 马 都 会 产 下 双 胞 胎，当 时 你 凝 视 着 云 彩。 而 与 此 同 时 一 些 母 马 死 于 并 发 症， 它 们 与 所 有 成 功 生 育 的 母 马 都 被 发 现 产 的 是 双 胞 胎。 那 之 后 你 被 当 地 的 先 知 收 为 学 徒， 并 教 给 你 古 老 的 占 卜 艺 术—— 通 过 检 查 一 种 被 选 中 的 献 祭 动 物 的 肝 脏 来 占 卜—— 对 你 来 说，就 是 马。 通 过 这 种 艺 术 你 得 以 在 一 生 中 维 持 生 计， 你 也 因 自 己 的 特 殊 能 力 在 本 地 得 到 了 高 度 的 尊 重。 
+qstr_Though_the_distinction_|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 政 治 是 一 门 棘 手的 生 意。 当 富 人 受 屈 时 他 们 就 雇 人 把 事 情 摆 平。 他 们 雇 佣 你， 如 果 他 们 雇 得 起 你 的 话。 以 及 如 果 他 们 找 得 到 你。 在 沙 漠 深 处 经 过 最 优 秀 的 射 手 训 练， 你 的 实 力 不 容 小 觑， 而 你 的 服 务 也 不 便 宜。 但 卡 拉 迪 亚 是 一 个 充 满 了 腐 败 的 大 陆， 而 腐 败 一 直 是 你 的 面 包 与 黄 油。 黑 夜 中 的 箭 矢； 窗 户 外 的 匕 首； 背 后 面 的 火 枪； 庙 宇 中 的 门 闩； 阴 影 以 及 诅 咒； 钱 包 中 的 硬 币。 这 是 你 被 授 予 的 诗 歌， 而 你 以 此 为 生。 就 这 样 夜 间 玩 着 游 戏 而 又 一 个 士 兵 棋 子 被 战 车 棋 子 消 灭 了…… 
+qstr_Though_the_distinction_f|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 海 盗 的 生 活 是 属 于 你 的 生 活。 白 天 掠 夺 与 剽 窃， 晚 上 则 是 麦 芽 酒、 葡 萄 酒 以 及 音 乐。 卡 拉 迪 亚 对 于 收 割 来 说 是 个 好 地 方—— 毕 竟 所 有 的 领 主 都 忙 于 勾 心 斗 角， 他 们 几 乎 没 有 任 何 时 间 去 守 护 一 个 位 于 他 们 领 土 边 缘 的 荒 凉 村 庄， 在 死 寂 的 夜 晚 中。 你 就 是 你 的 队 伍 所 攻 击 的 地 方， 拿 走 你 想 要 的， 并 烧 毁 剩 余 的。 战 场 上 的 硝 烟 对 你 来 说 就 如 同 香 水。 鲜 血 与 恐 惧 是 你 的 旗 帜。 卡 拉 迪 亚 的 死 亡! 
+qstr_Though_the_distinction_fe|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 你 意 识 到 你 是 一 个 大 城 市 的 大 学 的 学 生， 你 在 那 里 学 习 了 神 学、 哲 学、 和 医 学。 但 并 不 是 说 你 所 有 的 课 程 都 是 在 讲 堂 学 习 的。 你 可 能 有 也 可 能 没 有 加 入 你 那 些 在 大 街 小 巷 游 荡 的 同 伴 并 一 起 寻 找 葡 萄 酒、 女 人、 以 及 一 场 好 戏。 然 而， 你 无 疑 能 注 意 到 一 个 碎 裂 的 下 颌 是 如 何 被 固 定 的， 或 是 如 何 使 一 个 愤 怒 的 镇 民 放 下 他 的 棍 棒 并 接 受 对 于 他 店 铺 损 坏 的 现 金 赔 偿。
+qstr_Though_the_distinction_fel|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 当 你 被 任 命 为 一 名 贵 族 的 扈 从 时， 你 花 了 很 长 时 间 学 习 如 何 使 用 武 器， 也 学 会 了 如 何 招 架 敌 人 的 攻 击， 并 懂 得 了 如 何 反 击 敌 人。 你 被 教 导 要 敬 畏 你 的 主 人， 也 教 导 着 那 些 将 来 会 成 为 你 扈 从 的 侍 从 们。 但 除 了 学 习 骑 士 精 神 以 外， 你 还 了 解 到 了 不 那 么 光 荣 的 一 面—— 老 兵 们 讲 述 有 关 于 残 酷 的 强 权 政 治、 背 叛 和 篡 夺 权 利 的 故 事， 还 有 那 些 狡 诈 却 依 旧 英 勇 的 人 不 惜 一 切 实 现 个 人 目 标 的 故 事。
+qstr_Though_the_distinction_felt|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 你 加 入 了 关 系 紧 密 的 宫 廷 女 士 交 流 会， 她 们 都 做 着  一 本 正 经 的 淑 女 会 做 的 事 情， 圈 子 里 的 成 员 有 些 是 贵 族 男 人 的 妻 子 或 情 妇， 还 有 些 没 有 找 到 真 爱 的 少 女。 然 而 即 使 是 在 这 里 你 也 发 现 了 政 治 的 影 响 力， 因 为 女 士 们 都 在 策 划 着 怎 么 出 人 头 地， 为 了 吸 引 那 些 单 身 贵 族 男 子 的 眼 球， 宫 廷 里 的 女 士 们 相 互 勾 心 斗 角 是 很 常 见 的。 因 此 你 很 快 就 学 会 了 如 何 在 男 士 们 面 前 展 现 自 己 的 魅 力， 并 利 用 好 自 己 的 优 势。 你 的 宫 廷 生 活 也 逐 渐 使 你 意 识 到 只 要 运 用 一 点 点 自 己 的 小 诡 计， 你 就 可 以 在 这 个 世 界 拥 有 巨 大 的 影 响 力。 
+qstr_Though_the_distinction_felt_|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 你 独 自 离 开 家 乡， 除 了 背 上 的 乐 器 和 你 的 嗓 门 外， 你 一 无 所 有。 这 是 种 很 艰 苦 的 生 活， 你 经 常 挨 饿， 特 别 是 人 们 不 欣 赏 你 的 音 乐 时， 却 只 能 靠 着 手 里 的 乐 器 才 能 活 下 去。 随 着 时 光 流 逝， 你 善 于 在 酒 馆 的 醉 汉 之 间 演 奏， 也 善 于 说 服 别 人 放 弃 你 所 看 上 的 东 西。 
+qstr_Though_the_distinction_felt_s|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 听 从 开 阔 道 路 的 呼 唤， 你 从 一 个 村 庄 旅 行 到 另 一 个 村 庄 尽 你 所 能 地 买 和 卖。 这 并 不 是 一 种 富 裕 的 生 活 方 式， 但 你 成 为 了 一个 讨 价 还 价 的 大 师 以 至 于 最 吝 啬 的 长 者 们 都 能 给 你 一 个 好 价 钱。 不 久 后， 你 明 白 了， 你 将 于 一 个 合 适 的 地 方 开 创 你 自 己 的 贸 易 帝 国…… 
+qstr_Though_the_distinction_felt_su|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 你 获 得 了 一 份 铁 匠 的 工 作， 用 简 单 的 金 属 创 造 出 使 用 又 精 致 的 物 品。 随 着 时 间 的 流 逝 你 成 为 了 你 行 业 中 的 大 师， 而 那 精 湛 的 技 艺 开 始 变 得 能 卖 出 个 好 价 钱 了。 与 你 肚 中 的 食 物 和 火 中 的 干 柴 一 起， 你 可 以 为 你 的 工 作 以 及 你 日 益 增 长 的 声 望 而 感 到 自 豪。 
+qstr_Though_the_distinction_felt_sud|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 你 不 屑 于 世 人 那 人 为 财 死 鸟 为 食 亡 的 生 存 之 道， 所 以 你 决 定来 到 当 地 领 主 的 私 人 猎 场， 开 始 了 盗 猎 生 涯， 去 它 的 法 律。 你 猎 杀 牡 鹿、 野 猪 和 鹅， 私 底 下 出 售 它 们 的 皮 和 肉， 也 在 护 林 人 眼 皮 底 下 砍 树， 将 它 们 变 为 了 冬 日 每 家 每 户 炉 子 里 的 火 焰。 你 做 的 这 一 切 是 为 了 什 么 呢， 只 是 几 枚 硬 币 罢 了。 
+qstr_Though_the_distinction_felt_sudd|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 当 你 可 以 同 时 骗 两 人 的 时 候 为 什 么 要只 骗 一 人 呢？ 何 必 做 一 名 诚 实 的 人—— 这 是 你 的 座 右 铭。 你 没 有 伤 害 过 任 何 人—— 但 他 们 还 是 在 不 予 退 款 时 变 得 非 常 暴 力—— 也 不 乏 有 些 人 真 的 从 你 卖 的 蛇 油 中 获 得 好 处。 蛇 油 配 方 里 只 有 马 血 和 油—— 包 治 百 病！ 但 你 成 为 了 一个 讨 价 还 价 的 大 师 以 至 于 最 吝 啬 的 长 者 们 都 能 给 你 一 个 好 价 钱。 你 可 以 在 你 的 闲 暇 时 光 继 续 你 的 退 休 生 活， 或 继 续 你 的 骗 局。 
+qstr_Though_the_distinction_felt_sudde|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 无 论 是 偶 然 的，一 些 可 怕 的 战 伤，还 是 宗 教 仪 式， 你 被 变 成 了 一 个 阉 人， 因 此 你 适 合 守 卫 最 美 丽 的 妓 女。 你 一 直 都 很 瘦， 脚 尖 敏 捷。 顾 客 们 变 得 咄 咄 逼 人， 甚 至 对 你 或 你 的 珍 贵 商 品 施 暴， 但 你 的 刀 刃 总 是 很 锋 利 很 迅 速。 傻 瓜 们， 想 想 这 些 女 孩 对 你 来 说 意 味 着 什 么—— 你 觉 得 她 们 像 父 亲 一 样。 他 们 确 实 为 你 的 服 务 支 付 了 很 高 的 报 酬， 而 且 他 们 总 是 再 次 寻 找 你。 现 在 很 难 找 到 好 的 帮 助—— 卡 拉 迪 亚 的 街 上 和 酒 馆 都 不 是 一 个 不 设 防 的 女 孩 会 在 的 地 方，以 免 她 突 然 发 现 自 己 陷 入 困 境 痛 苦。 但 这 就 是 为 什 么 你 永 远 不 会 远 离—— 竖 起 的 耳 朵 和 持 剑 的 手。 
+qstr_Though_the_distinction_felt_sudden|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 你 欠 了 债， 而 你 被 卖 为 了 奴 隶。 你 以 前 总 是 漂 亮 的 女 孩 之 一， 而 且 很 有 魅 力—— 而 他 们 用 他 们 的 方 式 对 待 你， 你 拥 有 了 他 们 的 钱 包， 以 及 最 终 你 赎 回 了 你 的 自 由 之 身。 虽 然 你 已 经 学 会 了 交 易 中 的 所 有 标 准 流 程， 而 且 这 些 天 你 很 少 发 现 这 是 件 困 难 的 事 然 而…… 好 吧， 钱 比 预 期 的 要 多 得 多， 在 节 省 的 情 况 下。 富 人 花 钱 去 触 碰 其 他 人 可 以 任 意 想 象 的 事 情 是 极 易 被 误 导 的。 以 及 被 麻 醉。 以 及 绑 在 床 柱 上。 有 一 次， 一 个 你 的 忠 实 顾 客 的 妻 子 当 场 捉 住 了 你—— 而 说 服 她 并 不 困 难， 在 这 种 情 况 下， 你 被 她 丈 夫 野 蛮 地 虐 待。 尽 管 她 亲 手 打 伤 了 你， 对 你 大 打 出 手。 这都是一天的工作。
+qstr_Though_the_distinction_felt_sudden_|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 你 遇 到 了 一 伙 在 荒 漠 中 游 荡 的 草 原 强 盗 并 最 终 加 入 了 他 们。 卡 拉 迪 亚 对 于 收 割 来 说 是 个 好 地 方—— 毕 竟 所 有 的 领 主 都 忙 于 勾 心 斗 角， 他 们 几 乎 没 有 任 何 时 间 去 守 护 一 个 位 于 他 们 领 土 边 缘 的 荒 凉 村 庄， 在 死 寂 的 夜 晚 中。 你 就 是 你 的 队 伍 所 攻 击 的 地 方， 拿 走 你 想 要 的， 并 烧 毁 剩 余 的。 战 场 上 的 硝 烟 对 你 来 说 就 如 同 香 水。 鲜 血 与 恐 惧 是 你 的 旗 帜。 卡 拉 迪 亚 的 死 亡! 
+qstr_Though_the_distinction_felt_sudden_t|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 洁 净。 这 近 乎 于 信 仰， 无 论 他 们 是 最 光 明 或 是 最 黑 暗 的 神。 而 你 的 个 人 道 德 准 则， 无 论 它 们 是 什 么， 使 你 成 为 了 一 个 理 发 师。 给 头 发 修 剪 或 是 做 造 型、 修 剪 胡 子、 尤 其 是 剔 除 胡 须 成 为 了 你 的 专 长—— 以 及 修 剪 指 甲， 小 型 外 科 手 术， 拔 牙， 拔 火 罐， 放 血， 以 及 其 它 精 细 的 外 科 手 术。 一 个 理 发 师 的 职 务， 以 及 他 在 当 地 市 场 的 地 位， 在 社 会 上 都 是 非 常 重 要 的， 这 些 都 为 当 地 的 闲 聊 与 辩 论 提 供 了 话 题。 大 量 的 传 言， 真 实 的 和 不 实 的， 你 打 听 并 传 播， 连 同 你 对 这 些 事 的 博 学 意 见 一 起， 当 你 谨 慎 小 心 地 剔 除 那 些 定 期 来 到 作 为 你 艺 术 象 征 的 红 白 柱 子 周 围 的 男 人 们 的 胡 子 时。 理 发 师 是 值 得 尊 敬 的 人， 而 稳 重 的 手 和 理 性 的 行 为 举 止 是 关 键 所 在。
+qstr_Though_the_distinction_felt_sudden_to|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 劳 役。 而 不 是 奴 役。 一 个 是 祝 福，而 另 一 个 肯 定 是 诅 咒。 仆 人 的 职 责 非 常 明 确， 你 自 豪 地 承 担 了 它 们。 首 先， 为 了 轻 轻 地 叫 醒 女 主 人， 把 厨 师 做 好 的 早 餐 带 给 她， 你 经 常 轻 声 唱 着 歌 走 进 她 的 卧 室。 她 总 是 很 欣 赏 你 这 点。 修 补 与 裁 剪 衣 服 不 是 一 件 小 事， 因 为 女 主 人 确 实 需 要 而 且 应 该 感 到 舒 适。 她 总 是 称 赞 你 的 手 艺。 为 她 洗 浴 时， 你 会 选 择 最 香 的 花 朵， 并 确 保 水 温 适 合 她， 根 据 气 候 来 决 定—— 永 远 不 要 在 夏 天 弄 得 太 热， 且 永 远 不 要 在 冬 天 弄 得 太 冷。 她 从 不 让 你 弄 脏 你 的 手， 或 是 让 清 理 和 打 扫 工 作 弄 脏 你 的 裙 子—— 那 是 更 底 层 的 仆 人 要 做 的 工 作。 你 被 尊 为 她 最 亲 密 的 助 理， 而 且 薪 资 不 菲。 这 样 的 美 好 生 活 持 续 了 一 段 时 间， 但 无 论 出 于 什 么 原 因， 你 发 现 你 已 经 不 得 不 前 进。 你 的 才 能 是 被 高 度 需 要 的， 然 而， 你 应 该 不 难 找 到 另 一 个 人 来 协 助 你 的 旅 程。
+qstr_Though_the_distinction_felt_sudden_to_|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 你 的 创 造 欲 总 是 很 强 烈。 自 从 你 小 时 候 从 那 棵 树 上 掉 下 来 以 后， 你 就 梦 想 着 飞 行。 这 些 天 你 修 补 一 些 你 周 围 能 拿 到 的 东 西—— 你 修 复 钟 表， 而 且 你 因 修 复 首 饰、 网 和 链 子 而 出 名。 你 知 道 链 甲 与 鳞 片 间 基 本 的 秘 密。 你 甚 至 有 一 个 你 自 己 的 发 明——  一 个 你 将 其 称 之 为 自 行 车 的 机 器； 像 是 一 个 只 有 两 个 轮 子 的 自 走 式 推 车， 一 个 轮 子 在 另 一 个 的 前 面， 需 要 骑 手 来 保 持 它 们 的 平 衡。 它 并 不 比 驮 马 快 多 少， 而 且 需 要 更 多 的 体 力 去 驾 驭， 但 它 不 需 要 饲 料。 你 知 道 它 会 流 行 起 来 的—— 而 人 们 也 会 停 止 嘲 笑—— 一 旦 你 开 始 制 作 和 销 售 更 多……
+qstr_Though_the_distinction_felt_sudden_to_y|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 你 收 拾 好 东 西 背 上 行 囊， 向 全 世 界 传 授 亚 伯 兄 弟 会 的 福 音！ 随 着 你 向 那 些 愿 意 倾 听 的 民 众 们 布 道， 吸 引 到 了 许 多 志 同 道 合 的 人，他 们 被 你 那 充 满 了 信 念 的 激 情 演 讲 所 感 动—— 为 了 全 人 类 的 利 益 必 须 净 化 那 些 令 人 作 呕 的 巫 术 和 妖 术。 他 们 发 誓 在 你 的 旅 途 中 保 护 你， 而 许 多 村 庄 都 会 回 避 你—— 有 时 甚 至 会 诅 咒 你 并 用 石 头 砸 你—— 你 很 少 要 求 食 物、 饮 品 或 是 住 处； 不 那 么 迷 信 的 好 客 农 民 总 是 对 一 个 清 白 的 外 来 {reg3?女 人 :男 人 } 很 慷 慨，在 这 个 阴 暗 的 世 界 里…… 
+qstr_Only_you_know_exactl|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 你 的 想 法、 感 觉 和 行 为 都 不 再 是 你 自 己 的 了。 你 是 你 自 己 思 想 的 一 个 囚 犯 而…… 某 些 别 的 东 西； 某 些 邪 恶 的 东 西…… 利 用 你 的 权 力 和 势 力 作 为 手 段 以 达 到 它 自 己 那 些 恶 魔 般 的 目 的。 它 迫 使 你 放 弃 你 所 爱 的 人 和 你 的 旧 生 活。 你 的 尖 叫 声 于 你 的 头 骨 中 回 响 而 它 嘲 笑 着 你 并 以 你 的 名 义 去 犯 下 了 又 一 桩 罪 行……
+qstr_Only_you_know_exactly|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 不 是 你 的 错…… 真 的 不 是！ 你 完 全 正 常， 而 其 他 人 都 有 问 题。 他 们 是 怎 样 盯 着 你 的！ 简 直 就 像 他 们 无 法 看 见 与 你 说 话 的 人…… 嗯， 好 吧…… 你 也 并 不 是 总 能 看 到 他 们， 但 你 总 能 听 到 他 们， 而 且 不 回 答 会 有 些 太 过 不 礼 貌， 不 是 吗？ 是 的， 是 的 那 样 的 确 会…… 是 的， 真 的 非 常 粗 鲁……
+qstr_Only_you_know_exactly_|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 当 你 还 是 个 孩 子 的 时 候， 三 名 女 巫 来 到 你 的 父 母 面 前， 声 称 你 身 上 有 着 怪 物 的 印 记。 她 们 预 言 来 自 深 渊 的 存 在 将 会 渴 望 你 身 上 强 大 的 力 量， 在 未 来 某 天 你 会 得 到 它 们 的 保 护…… 代 价 则 是 你 所 爱 的 一 切。 最 终， 预 言 实 现 了， 你 身 无 分 文 的 被 丢 在 了 一 个 陌 生 的 地 方， 站 在 了 一 座 被 遗 弃 的 镇 子 外， 被 一 名 可 怕 的 存 在 护 送 至 今。 
+qstr_Only_you_know_exactly_w|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 有 些 人 就 是 生 来 幸 运， 而 那 些 人 的 其 中 之 一 似 乎 就 是 你。 你 甚 至 有 一 个 幸 运 符—— 一 个 旧 骨 制 骰 子 你 将 其 用 于 做 出 艰 难 的 决 定 以 及…… 没 错， 有 时 可 能 用 于 赌 博。 它 是 你 祖 父 送 给 你 的 一 个 礼 物…… 你 最 久 远 的 记 忆 是 他 微 笑 着， 洋 洋 得 意 地 把 它 拿 在 空 中 并 说 着 一 个 词： 幸 运！ 所 以 这 就 是 你 一 直 以 来 对 它 的 称 呼， 而 它 则 从 不 会 让 你 出 差 错……
+qstr_Only_you_know_exactly_wh|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 冲 突、 战 争、 屠 杀、 血液， 你 渴 望 它 们。 你 会 与 任 何 人、 在 任 何 地 方、 因 为 任 何 一 种 原 因 起 冲 突…… 有 着 这 种 生 活 态 度 的 人 同 时 也 擅 长 战 斗 不 是 吗？ 你 非 常， 非 常 的 擅 长 这 些。 当 你 击 败 了 每 位 试 图 挑 战 你 的 家 伙 时， 你 被 他 们 称 呼 为 恶 霸， 但 他 们 那 样 称 呼 你 时…… 他 们 的 牙 齿 却 被 你 打 上 了 天。 
+qstr_Only_you_know_exactly_wha|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 尽 管 如 此， 离 开 并 不 是 一 个 困 难 的 选 择， 伴 随 着 你 心 中 剧 烈 燃 烧 的 怒 火。 你 想 要 复 仇。 你 想 要 公 平。 你 曾 经 的 所 作 所 为 已 无 法 挽 回， 这 些 债 只 能 用 鲜 血 来 偿 还……
+qstr_Only_you_know_exactly_what|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 你 能 说 的 只 有 你 无 法 承 受 停 留， 无 法 与 你 和 你 爱 人 间 的 亲 密 和 伤 感 的 记 忆 一 起。 也 许 你 的 新 生 活 将 使 你 忘 记， 或 是 祭 奠 那 个 你 再 也 无 法 提 起 的 名 字…… 
+qstr_Only_you_know_exactly_what_|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 你 甚 至 不 知 道 你 的 家 于 何 时 变 为 了 一 个 监 狱， 熟 悉 的 于 何 时 变 为 了 平 凡 的， 但 你 流 浪 的 梦 想 已 经 充 斥 了 你 的 生 活。 无 论 你 是 渴 望 某 个 遥 远 的 地 方 或 是 仅 仅 只 是 开 阔 的 道 路 和 旅 行 的 自 由， 你 再 也 无 法 忍 受 待 在 同 一 个 地 方。 你 就 这 样 离 开 了 且 永 不 回 头……
+qstr_Only_you_know_exactly_what_c|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 然 而， 你 知 道 你 不 能 回 去。 也 没 什 么 地 方 可 以 回 去 了。 你 亲 自 冒 犯 了 哈 尔 劳 斯 国 王， 而 无 论 你 在 普 拉 芬 镇 有 什 么 对 于 未 来 的 希 望 和 梦 想 现 在 都 完 了， 并 且 你 必 须 直 面 你 到 了 广 阔 的、 广 阔 的 世 界 里、 孤 身 一 人 这 个 事 实。 另 一 个 王 国 可 能 会 更 加 宽 容， 但 在 斯 瓦 迪 亚， 你 的 名 声 就 和 淤 泥 一 样……
+qstr_Only_you_know_exactly_what_ca|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 对 于 其 他 任 何 人 来 说， 很 明 显 你 现 在 唯 一 的 动 机 就 是 个 人 利 益。 你 想 变 得 富 有、 强 大、 被 尊 敬、 被 惧 怕。 你 想 被 其 他 人 匆 忙 地 服 从。 你 想 让 人 们 知 晓 你 的 名 字， 且 无 论 在 何 时 提 起 都 令 人 颤 抖。 你 想 要 一 切， 而 且 你 不 会 让 任 何 人 阻 止 你 拥 有 那 些…… 
+qstr_Only_you_know_exactly_what_cau|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 你 从 记 事 起 就 是 个 盲 人。 人 们 试 图 把 你 当 成 乞 丐 对 待， 但 你 有 着 一 个 顽 固 的 性 格 使 你 一 直 坚 持 着 自 己 的 事 情 自 己 做。 尽 管 战 斗 和 读 书 这 两 种 事 情 对 你 来 说 有 些 不 切 实 际， 但 你 还 是 可 以 雇 保 镖…… 然 后 让 他 们 读 给 你 听， 如 果 他 们 会 的 话。 即 使 你 必 须 一 个 人 走， 你 也 会 想 方 设 法 过 去 的…… 
+qstr_Only_you_know_exactly_what_caus|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 你 身 上 携 带 着 瘟 疫。 你 可 能 还 不 知 道—— 毕 竟 症 状 需 要 一 段 时 间 才 会 出 现。 在 这 个 黑 暗 的 时 代， 无 论 是 城 里 人 或 村 里 人 都 会 在 家 里 或 储 藏 室 里 遇 到 老 鼠， 甚 至 在 他 们 的 床 上。 所 以 当 你 在 睡 梦 中 翻 身 时， 你 发 现 了 一 只 老 鼠 咬 了 你 的 后 臂， 你 认 为 这 只 是 一 场 噩 梦。 而 那 只 酸 痛 的 手 臂 很 快 就 会 成 为 一 场 真 正 的 噩 梦……
+qstr_Only_you_know_exactly_what_cause|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 你 对 超 自 然 现 象 感 兴 趣 并 完 全 不 是 因 为 那 个 相 机， 但 那 也 算 是 原 因 之 一。 有 一 天， 你 在 路 上 遇 到 了 一 个 江 湖 骗 子， 他 向 你 展 示 了 他 的 蛇 油 疗 法—— 但 真 正 吸 引 你 注 意 力 的 是 个 有 着 闪 闪 发 亮 玻 璃 片 的 笨 重 盒 子。 当 他 说 他 准 备 卖 出 那 玩 意 时， 你 有 点 不 情 愿 的 掏 出 了 腰 间 的 钱 包， 但 是 为 什 么—— 他 告 诉 你 要 让 相 机 运 作 得 用 上 银 和 盐。 这 玩 意 的 价 格 倒 是 无 所 谓， 但 人 们 似 乎 从 这 些 相 机 里 拍 到 了…… 呃， 鬼 神…… 
+qstr_Only_you_know_exactly_what_caused|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 呃…… 如 你 所 见， 你 死 了， 但 是 你 也 更 好 了。 多 亏 了 他， 如 此 善 良 的 一 个 人—— 他 待 你 如 父 亲 一 样。 虽 然 你 的 身 体 可 能 不 会 像 以 前 一 样 运 作 良 好， 这 取 决 于 你 如 何 看 待 它—— 但 你 也 为 自 己 还 活 着 而 高 兴。 相 对 而 言， 你 比 其 它 的 不 死 生 物 有 了 更 多 的 自 主 意 识， 因 为 他 非 常 细 心 的 找 回 了 属 于 你 的 灵 魂 和 躯 体。 所 以 你 还 是 你…… 或 者 说…… 一 只 僵 尸。 他 帮 了 你 许 多， 但 他 还 是 承 诺 在 他 离 去 之 前 将 协 助 你 变 得 更 加 强 大， 如 果 你 通 过 了 测 试 的 话…… 
+qstr_Only_you_know_exactly_what_caused_|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 作 为 一 名 水 手， 你 经 常 在 波 塞 冬 神 庙 前 献 祭 贡 品 以 确 保 旅 行 平 安—— 你 总 是 比 你 的 水 手 同 胞 们 过 得 更 好， 你 经 常 往 返 于 卡 拉 迪 亚 的 海 岸， 直 到 有 天 斯 库 拉 现 身 了。 啊…… 还 记 得 那 个 大 漩 涡 将 你 的 船 整 个 吞 下 时， 那 些 涌 出 的 泡 沫 顺 着 墙 壁 浮 向 甲 板， 随 之 飘 向 天 空—— 当 她 吞 下 你 时， 难 以 置 信。 当 你 逐 渐 在 深 渊 中 被 遗 忘 时， 你 依 旧 坚 信 波 塞 冬 会 饶 恕 作 为 他 最 虔 诚 的 信 徒 的 你。 当 你 在 沉 船 中 痛 苦 地 醒 来 时， 眼 前 即 是 波 塞 冬 的 神 庙， 你 屏 住 呼 吸， 向 他 再 次 宣 誓 你 的 命 是 属 于 他 的…… 
+qstr_Only_you_know_exactly_what_caused_y|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 学 习， 你 的 眼 里 只 有 这 个。 如 同 猪 吞 食 苹 果 一 样 不 断 的 吞 食 知 识。 他 们 总 是 叫 你 书 呆 子， 而 最 近 你 又 设 法 搞 到 了 一 本 新 书。 随 着 你 对 知 识 的 渴 望 越 来 越 强 烈， 你 开 始 意 识 到 这 个 世 界 上 有 很 多 很 多 东 西 是 你 做 梦 也 想 不 到 的—— 比 那 些 描 写 战 争 的 著 作 或 是 画 满 了 动 物 的 寓 言 集 的 很 大 一 部 分。 你 集 中 精 力，下 一 盘 叫 做 人 生 的 棋 局…… 
+qstr_Only_you_know_exactly_what_caused_yo|只 有 你 知 道 是 什 么 使 你 放 弃 了 旧 的 生 活 并 成 为 了 一 个 冒 险 者。 有 罪！ 这 就 是 判 决。 无 论 你 因 什 么 而 进 来—— 谋 杀、 抢 劫、 叛 国 或 袭 击 他 人—— 都 不 是 光 荣 的 事 迹， 现 在 该 付 出 代 价 了。 时 候 到 了， 你 判 决 的 第 一 部 分 将 迅 速 而 残 忍 地 执 行， 就 像 某 种 形 式 的 酷 刑 或 折 磨 的 替 代 品…… 第 二 部 分 是 你 坐 下 来 开 始 思 考 这 十 年 来 你 都 做 了 些 什 么。 并 不 是 说 你 会 坐 在 哈 里 麻 儿 的 粘 土 矿 中 无 所 事 事—— 在 卡 拉 迪 亚 没 有 任 何 一 名 囚 犯 会 被 浪 费， 隧 道 可 不 是 它 自 己 长 出 来， 甚 至 别 想 着 逃 跑， 警 卫 会 盯 着 你 的…… 
+qstr_{s4}:_M{reg3}_2M{reg|{s4}: M{reg3}， 2M{reg4}， PC{reg5}， 2PC{reg6}， PM{reg7}
+qstr_You_were_a_child_of_t|你 是 草 原 的 孩 子，  出 生 在 一 个 游 牧 部 落 位 于 干 旱 草 原 中 央 的 大 营 地 里。 像 其 他 部 落 民 一 样， 你 的 家 人 把 马 看 的 比 什 么 都 重 要， 而 且 他 们 在 你 学 会 如 何 走 路 之 前 就 已 经 教 会 你 如 何 骑 马 了。 
+qstr_As_a_child_You_were_a|在 仍 是 一 个 孩 子 的 时 候，你 就 在 某 些 方 面 有 点 特 别。 无 论 是 你 的 力 量，你 的 敏 捷，你 的 智 慧， 或 是 你 的 性 格， 你 总 是 出 类 拔 萃。 也 可 能 是 你 的 父 亲 是 一 位 出 版 作 家 的 缘 故， 从 很 小 的 时 候 起， 他 就 亲 自 教 育 你 每 一 门 用 得 到 的 学 问， 你 父 亲 的 遗 产 和 他 的 名 字 一 直 伴 随 着 你，即 使 现 在 他 已 经 离 开 了。 
+qstr_As_a_{reg3?girl:boy}_growing_out_of_ch|作 为 一 个 {reg3?女 孩 :男 孩 }度 过 童 年， 你 从 小 就 在 一 个 小 农 场 里 以 赶 牲 口 为 生。 通 常 你 会 和 你 的 牛 群 在 田 野 里 呆 上 几 天—— 捕 食 者 在 捕 猎 时 会 非 常 安 静—— 你 的 耳 朵 很 尖， 即 使 是 在 牛 的 哞 哞 声 之 中， 你 的 眼 睛 也 很 尖， 即 使 是 在 黑 暗 之 中。 但 是 这 也 是 你 闻 起 来 很 臭 的 原 因。 无 所 谓 的。 你 的 父 母 说 这 份 工 作 对 大 脑 有 好 处， 确 实 。 很 少 有 你 不 能 解 决 的 问 题， 你 所 学 到 的 关 于 预 测 兽 群 移 动 的 知 识 甚 至 可 以 应 用 到 战 斗 战 术 中。 你 也 永 远 不 会 忘 戴 你 的 帽 子。
+qstr_Though_the_distinction_felt_sudden_to_yo|虽 然 这 种 改 变 对 你 来 说 很 突 然， 但 在 此 途 中 你 成 为 了 一 个 {reg3?女 人 :男 人 }， 而 且 整 个 世 界 似 乎 都 围 绕 着 你 改 变 了。 无 论 是 偶 然 的，一 些 可 怕 的 战 伤， 还 是 宗 教 仪 式， 你 被 变 成 了 一 个 阉 人， 因 此 你 适 合 守 卫 最 美 丽 的 妓 女。 你 一 直 都 很 瘦， 脚 尖 敏 捷。 顾 客 们 变 得 咄 咄 逼 人， 甚 至 对 你 或 你 的 珍 贵 商 品 施 暴， 但 你 的 刀 刃 总 是 很 锋 利 很 迅 速。 傻 瓜 们， 想 想 这 些 女 孩 对 你 来 说 意 味 着 什 么—— 你 觉 得 她 们 像 父 亲 一 样。 他 们 确 实 为 你 的 服 务 支 付 了 很 高 的 报 酬， 而 且 他 们 总 是 再 次 寻 找 你。 现 在 很 难 找 到 好 的 帮 助—— 卡 拉 迪 亚 的 街 上 和 酒 馆 都 不 是 一 个 不 设 防 的 女 孩 会 在 的 地 方，以 免 她 突 然 发 现 自 己 陷 入 困 境 痛 苦。 但 这 就 是 为 什 么 你 永 远 不 会 远 离—— 竖 起 的 耳 朵 和 持 剑 的 手。 
+qstr_Character_History:^^|人 物 历 史:^^{s19} {s16} {s17} {s18}^^{s10}^^{s11}^^{s12}^^{s13}
+qstr_Back_to_the_beginnin|回 到 开 始……  
+qstr_View_next_segment...|检 视 下 一 部 分……  
+qstr___|-
+qstr__|
+qstr__+|+
+qstr_^No_food:___{reg7}|^没 有 食 物： -{reg7}
+qstr_^Wage_debt:___{reg6}|^拖 欠 工 资： -{reg6}
+qstr_Current_party_morale|当 前 队 伍 士 气 为 {reg5}。 ^当 前 队 伍 士 气 修 正 为： ^^基 础 士 气： +50^队 伍 规 模： {s2}{reg1}^统 御 技 能： {s3}{reg2}^食 物 品 种： {s4}{reg3}{s5}{s6}^最 近 事 件： {s7}{reg4}^共 计： {reg5}
+qstr_Defending|正 在 防 御 
+qstr_Gathering_army|正 在 集 结 军 队 
+qstr_Besieging_{s11}|正 在 包 围 {s11}
+qstr_Raiding_{s11}|正 在 突 袭 {s11}
+qstr_Attacking_enemies_ar|正 在 攻 击 {s11}附 近 的 敌 人 
+qstr_No_one|无 人 
+qstr_{s9}{s10}^Current_st|{s9}{s10}^当 前 状 态： {s11}^元 帅： {s12}^从 最 近 一 次 的 进 攻 已 过 了： {reg1}小 时 ^进 攻 的 最 大 追 随 者 数： {reg2}^^
+qstr_Selected_faction_is:|被 选 的 阵 营 为： {s10}^^{s9}
+qstr_You_are_currently_re|你 最 近 在 阅 读 {s8}。 
+qstr_You_are_not_reading_|你 没 在 阅 读 任 何 书。 
+qstr_none|无 
+qstr_{s5}_and_{s6}|{s5}和 {s6}
+qstr_{s5}_{s6}|{s5}、 {s6}
+qstr_Renown:_{reg2}.^Hono|声 望： {reg2}。 ^荣 誉： {reg3}。 ^朋 友： {s8}。 ^敌 人： {s6}。^{s9}
+qstr_Your_estates_are:_{s|你 的 封 地 是： {s8}。 ^{s9}
+qstr_You_are_a_lord_of_{s|你 是 {s8}的 领 主。 ^{s9}
+qstr_Current_party_size_l|当 前 队 伍 上 限 为 {reg5}。 ^队 伍 规 模 修 正 为： ^^基 础： +10^统 御： {s2}{reg1}^魅 力： {s3}{reg2}^声 望： {s4}{reg3}^共 计： {reg5}
+qstr_Loyal|忠 诚 的
+qstr_Devoted|忠 实 的
+qstr_Fond|喜 欢 的
+qstr_Gracious|亲 切 的
+qstr_Friendly|友 好 的
+qstr_Supportive|支 持 的
+qstr_Favorable|称 赞 的
+qstr_Cooperative|合 作 的
+qstr_Accepting|接 受 的
+qstr_Indifferent|冷 淡 的
+qstr_Suspicious|猜 疑 的
+qstr_Grumbling|抱 怨 的
+qstr_Hostile|敌 意 的
+qstr_Resentful|怨 恨 的
+qstr_Angry|愤 怒 的
+qstr_Hateful|憎 恨 的
+qstr_Revengeful|报 复 的
+qstr_Vengeful|复 仇 的
+qstr_{s2}^{s4}:_{reg1}__{|{s2}^{s4}： {reg1}（{s3}） 
+qstr_Your_relation_with_t|你 与 各 阵 营 的 关 系 为： ^{s2}
+qstr_The_disk_suddenly_ac|磁 盘 突 然 激 活 ！
+qstr_The_disk_no_longer_f|磁 盘 不 再 起 作 用！
+qstr_Nothing_happens!|什 么 都 没 发 生！
+qstr_You_fry_your_brain!_|你 很 愤 怒！ -1 Int!
+qstr_Your_madness_is_cure|你 的 疯 狂 被 治 愈 了！ 你 的 恶 梦 和 头 脑 中 的 声 音 和 声 音 都 消 失 了！
+qstr_Your_addiction_is_cu|你 的 毒 瘾 被 治 愈 了！喜 来 芝 将 对 你 没 有 进 一 步 的 效 果 … 除 非 你 再 狂 饮 一 次。
+qstr_Your_camera_also_req|你 的 相 机 还 需 要 盐 才 能 使 用！
+qstr_Your_camera_also_requ|你 的 相 机 也 需 要 使 用 银！
+qstr_Your_camera_requires|您 的 相 机 需 要 银 和 盐 才 能 使 用！
+qstr_Player_renown_is_inc|玩 家 声 望 提 高 了 100。 
+qstr_{reg1}_{s1}_{reg2?ac|{reg1}个 {s1}接 受 了 提 议。 
+qstr_No_one_accepts_the_o|无 人 接 受 提 议。 
+qstr_You_start_reading_{s|你 开 始 阅 读 {s2}。 读 了 几 页 后， 你 觉 得 你 能 从 这 本 书 中 学 到 许 多。 你 决 定 把 它 留 在 身 边 并 在 任 何 你 有 时 间 的 时 候 阅 读。 
+qstr_You_flip_through_the|你 快 速 地 翻 阅 了 {s2}的 书 页， 但 是 你 发 现 正 文 令 你 困 惑 并 且 很 难 理 解。 你 尽 力 尝 试， 它 很 快 就 让 你 头 痛 了， 并 且 你 被 迫 放 弃 了 阅 读 的 企 图。 
+qstr_You_can_only_scaveng|你 只 能 在 白 天 进 行 搜 寻！ 
+qstr_The_Necronomicon_ref|亡 灵 之 书 拒 绝 翻 页，去 找 喷 血 池！
+qstr_The_Necronomicon_refu|亡 灵 之 书 拒 绝 翻 页，去 找 喷 血 池！
+qstr_Party_full!|队 伍 满 了！ 
+qstr_Inventory_full!|物 品 栏 满 了！ 
+qstr_Agility_+3!_Intellig|敏 捷 + 3！智 力 + 1！魅 力 - 3！力 量 - 1！
+qstr_Strength_+3!_Intelli|力 量 + 3！智 力 + 1！魅 力 - 4！
+qstr_Intelligence_+4!_Agi|智 力 + 4！敏 捷 - 1！魅 力 - 3！
+qstr_You_have_summoned_a_|你 已 经 召 唤 了 一  只 蟾 蜍！
+qstr_Strength_+2!|力 量 + 2！
+qstr_You_have_summoned_a_S|你 已 经 召 唤 了 一 条 蛇！
+qstr_Agility_+2!|敏 捷 + 2！
+qstr_You_have_summoned_a_Sp|你 已 经 召 唤 了 一 只 蜘 蛛！
+qstr_Intelligence_+2!|智 力 + 2!
+qstr_You_have_summoned_a_R|你 已 经 召 唤 了 一 只 老 鼠！
+qstr_Charisma_+2!|魅 力 + 2！
+qstr_You_have_summoned_a_W|你 已 经 召 唤 了 一 只 白 猫 头 鹰！
+qstr_You_have_summoned_Th|你 已 经 召 唤 了 一 只 黑 猫!
+qstr_You_are_finding_it_v|你 发 现 很 难 集 中 精 神！
+qstr_Intelligence__1!|智 力 - 1!
+qstr_You_ache_and_throb_a|疼 痛 和 悸 动 遍 布 你 的 身 体！
+qstr_Agility__1!|敏 捷 - 1！
+qstr_You_are_miserably_il|你 惨 患 鼠 疫！
+qstr_Strength__1!_Charism|力 量 - 1！魅 力 - 1！
+qstr_Your_condition_worse|你 的 病 情 恶 化 了！
+qstr_Strength__1!_Agility|力 量 - 1！敏 捷 - 1！智 力 - 1！魅 力 - 1！
+qstr_Your_condition_gets_|你 的 情 况 变 的 更 糟！快 点！
+qstr_Your_condition_becom|你 的 病 情 变 得 越 来 越 可 怕！
+qstr_Your_condition_is_cr|你 的 病 情 很 危 急！你 必 须 找 到 治 疗 方 法！
+qstr_Your_condition_is_te|你 的 健 康 状 况 已 经 到 了 终 点！你 很 快 就 会 死 的！
+qstr_Strength__3!_Agility|力 量 - 3！敏 捷 - 3！智 力 - 3！魅 力 - 3！
+qstr_You_learn_from_this_|你 从 这 个 黑 暗 的 秘 密 中 学 习 ， 但 你 的 良 心 受 到 了 折 磨  。
+qstr_Intelligence_+1!_Cha|智 力 + 1！魅 力 - 1！
+qstr_You_learn_from_this_d|你 从 这 个 黑 暗 的 秘 密 中 学 习 … 有  点 太 多 了 … 
+qstr_Your_Toad_Familiar_w|你 的 蟾 蜍 变 弱 了！
+qstr_Strength__1!|力 量 - 1！
+qstr_Your_Snake_Familiar_|你 的 蛇 变 弱 了！
+qstr_Your_Spider_Familiar|你 的 蜘 蛛 变 弱 了！
+qstr_Your_Rat_Familiar_we|你 的 老 鼠 变 弱 了！
+qstr_Charisma__1!|魅 力 - 1！
+qstr_Your_Changeling_Fami|你 的 小 孩 变 弱 了！
+qstr_Your_White_Owl_Famil|你 的 白 猫 头 鹰 变 弱 了！
+qstr_Your_Black_Cat_Famil|你 的 黑 猫 变 弱 了！
+qstr_Strength__2!|力 量 -2！
+qstr_Agility__2!|敏 捷 - 2！
+qstr_Intelligence__2!|智 力 - 2!
+qstr_Charisma__2!|魅 力 - 2！
+qstr_Strength__2!_Agility|力 量 - 2！敏 捷 - 2！智 力 - 2！魅 力 - 2！
+qstr_Strength_+2!_Agility|力 量 + 2！敏 捷 + 2！智 力 + 2！魅 力 + 2！
+qstr_Your_Toad_Familiar_d|你 的 蟾 蜍 死 了！
+qstr_Your_Snake_Familiar_d|你 的 蛇 死 了！
+qstr_Your_Spider_Familiar_|你 的 蜘 蛛 死 了！
+qstr_Your_Rat_Familiar_di|你 的 老 鼠 死 了！
+qstr_Your_Changeling_Famil|你 的 小 孩 死 了！
+qstr_Your_White_Owl_Famili|你 的 白 猫 头 鹰 死 了！
+qstr_Your_Black_Cat_Famili|你 的 黑 猫 死 了！
+qstr_Your_Toad_Familiar_g|你 的 蟾 蜍 变 得 更 强 大 了！
+qstr_Strength_+1!|力 量 + 1!
+qstr_Your_Snake_Familiar_g|你 的 蛇 变 得 更 强 大 了！
+qstr_Agility_+1!|敏 捷 + 1！
+qstr_Your_Spider_Familiar_g|你 的 蜘 蛛 变 得 更 强 大 了！
+qstr_Intelligence_+1!|智 力 + 1!
+qstr_Your_Rat_Familiar_gr|你 的 老 鼠 变 得 更 强 大 了！
+qstr_Charisma_+1!|魅 力 + 1！
+qstr_Your_Changeling_Famili|你 的 小 孩 变 得 更 强 大 了！
+qstr_Strength_+1!_Agility|力 量 + 1！敏 捷 + 1！智 力 + 1！魅 力 + 1！
+qstr_Your_White_Owl_Familia|你 的 白 猫 头 鹰 变 得 更 强 大 了！
+qstr_Your_Black_Cat_Familia|你 的 黑 猫 变 得 更 强 大 了！
+qstr_Bless_this_meal...|祝 福 这 顿 饭……
+qstr_You_open_a_doorway_t|你 打 开 了 一 条 到 旧 曾 扎 尔 的 通 道！ 
+qstr_You_open_a_doorway_to|你 打 开 了 一 条 到 大 墓 地 的 通 道！ 
+qstr_You_feel_disoriented.|你 感 到 不 知 所 措 …… 你 似 乎 不 记 得 1 3 号 血 月 之 后 发 生 了 什 么 … 
+qstr_You_open_a_gateway_t|你 打 开 了 一 条 到 博 物 馆 的 通 道！
+qstr_You_suddenly_find_yo|你 突 然 发 现 自 己 在 精 灵 岛！
+qstr_You_paid_{reg3}_of_y|你 支 付 了 你 的 {reg4}第 纳 尔 中 的 {reg3}第 纳 尔 给 你 的 部 下。 你 有 {reg5}第 纳 尔 余 下
+qstr_Your_debt_to_your_me|你 对 你 部 下 的 欠 债 累 计 至 了 {reg3}第 纳 尔， 然 而 你 只 有 {reg4}第 纳 尔。 未 支 付 的 {reg5}第 纳 尔 被 添 加 为 了 负 债。 你 的 队 伍 失 去 士 气
+qstr_This_week_s_wages:_{|本 周 薪 水： {reg6}第 纳 尔 ^之 前 负 债： {reg2}第 纳 尔 ^总 共 支 付： {reg3}第 纳 尔 ^当 前 财 富： {reg4}第 纳 尔 ^^{s1}
+qstr_Villagers|村 民 们 
+qstr_You_have_encountered|你 遇 到 {s1}了。 
+qstr_You_have_engaged_{s1|你 在 {s1}突 袭 {s3}时 与 之 交 战。 
+qstr_You_were_caught_by_{|当 你 的 军 队 在 突 袭 {s3}时， 你 们 被 {s1}撞 上 了。 
+qstr_You_were_victorious!|你 胜 利 了！ 
+qstr_Battle_was_lost._You|战 斗 失 败。 你 的 军 队 被 彻 底 毁 灭。 
+qstr_Your_companions_carr|你 的 同 伴 将 你 从 战 斗 中 运 走。 
+qstr_You_have_defeated_th|你 击 败 了 敌 人。 
+qstr_You_have_retreated_f|你 从 战 斗 中 撤 退。 
+qstr_^^Ally_Casualties:{s|^^友 军 伤 亡： {s0}
+qstr_{s1}_of_{s3}_managed|{s3}的 {s1}设 法 逃 走 了。 
+qstr_{s17}|{s17}
+qstr_Victory_comment._Pla|胜 利 注 释： 玩 家 是 孤 单 一 人 的。 
+qstr_Ordinary_victory_com|普 通 的 胜 利 注 释： 玩 家 出 了 至 少 40%的 兵 力。 
+qstr_Player_participation|玩 家 参 与 注 释： 敌 人 至 少 有 1000的 初 始 强 度。 
+qstr_No_victory_comment._|没 有 胜 利 注 释。 战 斗 很 小， 并 且 玩 家 提 供 的 兵 力 不 及 盟 军 的 兵 力 的 40%。
+qstr_Some_of_your_tendons|你 的 一 些 肌 腱 在 战 斗 中 被 伤 害 了。 你 失 去 了 1点 力 量。 
+qstr_You_took_a_nasty_wou|你 受 了 重 伤， 它 将 导 致 你 走 路 有 点 跛， 即 使 是 在 它 被 治 好 后。 你 失 去 了 1点 敏 捷。 
+qstr_You_have_trouble_thi|就 在 战 斗 后， 你 思 考 变 得 困 难 了， 也 许 这 是 因 为 你 的 头 部 受 了 一 记 特 别 的 打 击， 并 且 现 在 有 频 繁 的 头 痛 折 磨 着 你 的 生 活。 你 的 智 力 下 降 1点。 
+qstr_Perhaps_I_m_getting_|也 许 我 的 运 气 在 变 差……  
+qstr_Retirement_is_starti|退 役 听 起 来 越 来 越 好。 
+qstr_No_matter!_I_will_pe|没 关 系！ 我 会 坚 持！ 
+qstr_What_did_I_do_to_des|我 做 了 什 么 才 得 到 了 这 个？ 
+qstr_I_suppose_it_ll_make|我 想 这 会 造 就 一 个 好 故 事， 至 少……  
+qstr_Player_retreats_from|玩 家 从 战 斗 中 撤 退 
+qstr_The_tunnel_has_colla|隧 道 坍 塌 了！门 打 不 开 …
+qstr_You_fit_the_code_dis|你 把 密 码 盘 塞 进 活 板 门 的 印 模 里 …
+qstr_There_is_a_disk_shap|在 活 板 门 上 有 一 个 圆 盘 形 的 印 痕 …
+qstr_The_diamond_shaped_k|钻 石 形 的 钥 孔 已 经 消 失 了…… 你 不 能 进 去！
+qstr_You_say_the_password|你 说 出 了 密 码 “ 守 护 者 ”， 锁 开 了 。
+qstr_There_is_a_diamond_s|门 上 有 一 个 钻 石 形 的 钥 匙 孔…… 
+qstr_You_thrust_your_rapi|你 把 你 的 剑 杆 刺 入 钻 石 钥 匙 孔……
+qstr_There_is_a_disk_shape|墙 上 有 一 个 圆 盘 状 的 标 志…
+qstr_You_fit_the_code_disk|你 将 密 码 盘 放 在 墙 上 的 标 志 中……
+qstr_Well_n_ye_suffer_f_r|你 们 会 受 苦 吗？ 哈 哈！
+qstr_Well_n_ye_prosper!|你 们 要 变 得 更 加 繁 荣！
+qstr_Well_n_ye_suffer!|你 们 受 苦 了！
+qstr_{s9}_wants_you_to_fo|{s9}想 要 你 跟 随 他 的 军 队 直 到 有 进 一 步 的 通 知。 
+qstr_{s8}_of_{s9}|{s9}的 {s8}
+qstr__Your_own_banner_fli|你 自 己 的 旗 帜 飞 扬 在 城 堡 大 门 上 空。 
+qstr__You_see_the_banner_|你 看 见 {s7}的 旗 帜 在 城 堡 大 门 上 空。 
+qstr__This_castle_seems_t|这 个 城 堡 似 乎 不 属 于 任 何 人。 
+qstr__Your_own_banner_flie|你 自 己 的 旗 帜 飞 扬 在 城 镇 大 门 上 空。 
+qstr__You_see_the_banner_o|你 看 见 {s7}的 旗 帜 在 城 镇 大 门 上 空。 
+qstr__The_townsfolk_here_|这 里 的 市 民 宣 告 了 他 们 的 独 立。 
+qstr_The_{reg6?town_s:cas|城 {reg6?镇:堡} 的 食 物 存 储 应 该 还 能 再 持 续 {reg3}天。 
+qstr_The_{reg6?town_s:cast|城 {reg6?镇:堡} 的 食 物 存 储 被 耗 尽 了 并 且 守 卫 者 们 在 挨 饿。 
+qstr_You_re_preparing_to_|你 准 备 攻 击 城 墙， 准 备 工 作 应 在 {reg9}小 时 后 结 束。 
+qstr_Your_forces_are_buil|你 的 军 队 在 建 造 一 座 攻 城 塔。 他 们 估 计 再 过 {reg9}小 时 才 能 完 成 建 造。 
+qstr_You_are_ready_to_att|你 随 时 都 可 以 攻 击 城 墙 了。 
+qstr_The_siege_tower_is_b|攻 城 塔 已 被 建 造 好 并 准 备 好 发 动 攻 击 了。 
+qstr_As_a_last_defensive_|作 为 最 后 的 防 卫 努 力， 你 撤 退 至 了 要 塞 大 厅。 你 和 你 剩 下 的 士 兵 们 将 要 在 这 里 拼 死 战 斗。 如 果 你 们 被 击 败 了， 就 没 有 退 路 了。 
+qstr_You_ve_been_driven_a|你 们 被 从 城 墙 赶 走 了。 现 在 攻 击 者 们 涌 入 了 街 道。 如 果 你 能 击 败 他 们， 你 也 许 就 能 扭 转 形 势， 反 败 为 胜。 
+qstr_You_ve_breached_the_|你 们 已 经 突 破 了 城 镇 城 墙， 但 是 那 些 顽 固 的 守 卫 者 们 继 续 在 街 道 上 抵 抗 你！ 你 将 不 得 不 在 你 能 攻 击 城 镇 中 心 的 要 塞 前 对 付 他 们。 
+qstr_The_town_centre_is_y|城 镇 中 心 是 你 的 了， 但 是 那 些 剩 下 的 防 卫 者 们 已 撤 退 到 了 城 堡 里。 你 必 须 攻 陷 它 才 能 达 到 胜 利。 
+qstr_The_remaining_defend|剩 下 的 防 卫 者 们 已 撤 退 到 了 城 堡 里 作 为 最 后 的 防 御。 你 必 须 进 去 粉 碎 掉 任 何 残 余 的 抵 抗。 
+qstr_However_since_you_ar|不 过， 由 于 你 不 是 一 个 向 {s9}宣 过 誓 的 人， 他 是 不 可 能 认 可 你 为 这 座 城 {reg8?镇:堡} 的 {/女 }主 人 的。 
+qstr_The_enemy_has_been_f|敌 人 已 被 迫 撤 退。 攻 击 结 束 了， 但 是 围 困 还 在 继 续。 
+qstr__This_village_and_th|这 座 村 庄 及 周 边 的 土 地 属 于 你。 
+qstr__You_remember_that_t|你 记 得 这 座 村 庄 及 周 边 的 土 地 属 于 {s7}。 
+qstr__These_lands_belong_|这 片 土 地 不 属 于 任 何 人。 
+qstr__{s3}__{reg9}_.|{s3}（{reg9}）。 
+qstr__The_village_is_infe|村 庄 正 受 到 {reg8}个 {s35}的 侵 扰。 
+qstr__The_village_has_bee|村 庄 已 被 掠 夺。 在 你 经 过 这 些 被 烧 掉 的 房 子 时， 冤 魂 们 四 散 而 去。 
+qstr__The_village_is_bein|村 庄 正 被 突 袭。 
+qstr_The_door_will_not_op|门 不 会 打 开……
+qstr_No_one_here_seems_to|这 里 似 乎 没 人 愿 意 加 入 你 的 队 伍。 
+qstr_One_{s3}_volunteers_|一 个 {s3}志 愿 者 愿 意 追 随 你。 
+qstr_{reg5}_{s3}_voluntee|{reg5}个 {s3}志 愿 者 愿 意 追 随 你。 
+qstr_Try_as_you_might_you|你 已 尽 力 了， 但 是 你 仍 然 不 能 击 败 这 些 强 盗。 被 触 怒 了 的 强 盗 们 将 村 庄 夷 为 了 平 地 以 惩 罚 这 些 农 民， 然 后 丢 下 燃 烧 着 的 荒 地 去 寻 找 更 绿 的 牧 场 劫 掠。 
+qstr_village|村 庄 
+qstr_town|城 镇 
+qstr_castle|城 堡 
+qstr_{s0}|{s0}
+qstr_{s18}_{s0}|{s18}， {s0}
+qstr_The_{s17}_has_no_imp|这 座 {s17}没 有 用 于 改 善 的 建 筑 物。 
+qstr_The_{s17}_has_the_fo|这 座 {s17}有 以 下 用 于 改 善 的 建 筑 物： {s18}。 
+qstr_The_assasins_beat_yo|暗 杀 者 们 打 倒 了 你 并 留 下 你 等 死……  
+qstr_You_have_fallen._The|你 倒 下 了。 强 盗 们 迅 速 搜 走 了 你 身 上 的 每 一 枚 他 们 能 找 到 的 钱 币， 之 后 消 失 在 夜 色 之 中。 他 们 让 你 活 着， 只 要 你 勉 强 活 得 下 去 的 话。 
+qstr_Luckily_some_of_your|非 常 幸 运 地， 当 你 没 回 去 的 时 候， 你 的 一 些 同 伴 来 找 到 了 你， 并 发 现 你 躺 在 路 面 上。 他 们 急 忙 将 你 送 到 了 安 全 的 地 方 并 包 扎 了 你 的 伤 口。 
+qstr_Luckily_some_passing|非 常 幸 运 地， 一 些 路 过 的 市 民 发 现 你 躺 在 路 面 上 并 认 出 你 不 是 一 个 普 通 的 乞 丐。 他 们 将 你 运 到 了 最 近 的 小 客 栈 并 包 扎 了 你 的 伤 口。 
+qstr_You_fail_to_steal_an|你 没 能 成 功 偷 到 一 头 牛。 
+qstr_You_drive_away_{reg1|你 从 村 庄 的 畜 群 里 赶 走 了 {reg17}头 牛。 
+qstr_You_found_a_doctor_a|你 找 到 了 一 名 医 生，你 的 情 人 受 伤 得 到 了 照 顾。 伤 口 会 正 常 愈 合！
+qstr_You_found_no_doctor_|你 在 这 里 没 有 找 到 医 生！
+qstr_You_are_at_{s2}.|你 在 {s2}。 
+qstr__You_have_successful|你 成 功 潜 入 了。 
+qstr_{s13}_A_tournament_w|{s13}一 场 竞 技 大 会 很 快 就 要 开 始 了。 
+qstr___{reg1}_denars_per_|（{reg1}第 纳 尔 每 夜） 
+qstr_You_can_only_rob_gra|你 只 能 在 晚 上 洗 劫 墓 穴！ 
+qstr_Moreover_you_earn_{r|此 外， 由 于 你 聪 明 地 为 你 自 己 下 了 赌 注， 你 还 多 赢 得 了 {reg8}第 纳 尔……  
+qstr_Victory_is_yours!_Yo|你 胜 利 了！ 你 在 混 战 中 取 胜 了， 但 是 现 在 你 必 须 为 下 一 回 合 做 好 准 备。 
+qstr_You_have_been_bested|你 在 混 战 中 被 打 败 了， 但 是 大 会 主 办 人 公 开 认 可 了 你 的 技 能 与 勇 气， 允 许 你 加 入 下 一 回 合。 
+qstr_{s11}^{s12}|{s11}^{s12}
+qstr_You_were_beaten._The|你 被 击 败 了。 农 民 们 因 为 他 们 的 成 功 而 受 鼓 舞， 但 是 你 想 教 给 他 们 的 课 程 可 能 并 没 有 被 他 们 掌 握……  
+qstr_After_beating_your_l|在 击 败 你 的 刚 才 的 对 手 后， 你 向 农 民 们 讲 解 他 们 该 如 何 更 好 地 防 御 如 此 的 一 击。 他 们 充 满 了 希 望 并 准 备 好 在 下 一 次 进 一 步 地 练 习。 
+qstr_The_bandits_are_brok|强 盗 被 击 溃 了！ 剩 下 的 那 几 个 还 活 着 并 且 有 意 识 的 人 夹 着 尾 巴 逃 走 了， 他 们 害 怕 农 民 及 其 新 的 拥 护 者。 
+qstr_{s1}_s_Ship|{s1}的 船 
+qstr_^{s3}_=_{reg1}{s1}|^{s3}={reg1}个 {s1}
+qstr_^{s3}_=_{reg1}{s2}|^{s3}={reg1}个 {s2}
+qstr_However_{reg3?You_ar|不 过， {reg3?你 :{s1}}找 不 到 任 何 会 带 来 利 益 的 贸 易 货 物。 
+qstr_^Buying_{s4}_here_an|^在 此 收 购 {s4}并 在 {s5}将 之 贩 卖 掉， 每 件 将 会 带 来 {reg6}第 纳 尔 的 利 润。 {s3}
+qstr_{reg3?You_find:{s1}_|{reg3?你 :{s1}}的 调 查 结 果 如 下： ^{s3}
+qstr_{s13}_asked_you_to_r|{s13}叫 你 带 着 至 少 {reg13}个 人 的 兵 力 的 部 队 向 他 报 告。 
+qstr_{s13}_ordered_you_to|{s13}命 令 你 加 入 对 {s14}的 攻 击。 
+qstr_Find_and_speak_with_|找 到 {s4}的 {s3}并 与 他 对 话， 向 他 宣 誓 效 忠。 
+qstr_you|你 
+qstr_Your_mind_races_with|黑 暗 知 识 在 你 的 脑 海 里 飞 转！ 你 成 为 巫 妖 了！ 
+qstr_Intelligence_+12!_Ch|智 慧 +12！ 魅 力 +12！ 力 量 -12！ 敏 捷 -12！ 
+qstr_You_can_feel_the_unm|你 能 感 受 到 无 与 伦 比 的 力 量 通 过 哈 得 斯 之 剑“乌 钢 石” 而 振 动！ 
+qstr_You_have_summoned_The|你 召 唤 了 坏 死！
+qstr_Strength_+3!|力 量 + 3！
+qstr_Agility_+3!|敏 捷 + 3！
+qstr_Intelligence_+3!|智 力 + 3！
+qstr_Charisma_+3!|魅 力 + 3！
+qstr_Strength_+3!_Agility|力 量 +3！ 敏 捷 +3！ 智 慧 +3！ 魅 力 +3！ 
+qstr_You_are_physically_w|你 的 身 体 变 得 虚 弱 了！
+qstr_You_wake_up_and_shake|你 醒 来，把 你 肩 膀 上 的 灰 尘 甩 开……死 亡 不 会 那 么 容 易 地 降 临 到 你 身 上，看 来，黑 猫……
+qstr_You_dig...|你 挖 到 了 …… 
+qstr_You_play_The_Cold_Hea|你 唱 着 冰 冷 的 心，回 家 的 歌……
+qstr_You_play_The_Wedding_|你 演 奏 着 冥 王 和 冥 后 珀 耳 塞 福 涅 的 婚 礼，一 首 爱 情 悲 剧 的 歌…
+qstr_You_play_Dance_of_th|你 唱 着 骨 头 舞，恍 惚 的 歌…
+qstr_You_play_Weeping_of_|你 唱 着 寡 妇 的 哭 泣，一 首 悲 伤 的 歌…
+qstr_You_perform_for_the_|你 为 群 众 表 演… 
+qstr_You_keep_your_senses|你 开 始 警 觉，警 惕 犯 罪 活 动…
+qstr_You_keep_your_ears_a|你 开 始 警 觉，准 备 好 武 器…
+qstr_You_go_out_dressed_t|你 穿 上 衣 服 出 去 杀 人…
+qstr_You_put_on_your_best|你 穿 上 你 最 好 的 衣 服，开 始 准 备……
+qstr_You_put_on_your_best_|你 很 好 的 宣 传 了 自 己……
+qstr_You_try_your_hand_at|你 在 尝 试 用 你 的 手 来 偷 窃……
+qstr_You_practice_your_ha|你 在 练 习 你 的 手 工 艺 品…
+qstr_You_advertise_your_s|你 正 在 宣 传 你 的 服 务…
+qstr_You_get_to_work...|你 开 始 工 作 了…
+qstr_You_tinker_about...|你 开 始 思 考 了…
+qstr_You_sit_and_wait_unt|你 坐 下 来 等 人 找 到 你……
+qstr_You_infest_the_place|你 正 在 这 里 散 播 瘟 疫！
+qstr_You_start_the_hunt..|你 开 始 狩 猎 了…
+qstr_The_Red_Death_plague|红 死 病 开 始 蔓 延！
+qstr_The_Red_Death_plague_|红 死 病！
+qstr_You_can_feel_your_wi|你 能 感 觉 到 你 会 更 加 敏 锐！ 你 成 为 反 常 英 雄 了！ 
+qstr_Your_entire_being_se|你 整 个 人 似 乎 都 充 满 了 光 明！ 你 感 觉 波 塞 冬 就 在 你 周 围！
+qstr_Strength_+6!_Agility|力 量 + 6！ 敏 捷 + 6！ 智 力 + 6！ 魅 力 + 6！
+qstr_You_have_become_a_be|你 成 为 一 个 更 好 的 清 道 夫！你 现 在 很 少 招 募 脏 东 西，而 不 是 随 便 拼 凑！
+qstr_You_found_Medusa_s_H|你 找 到 了 美 杜 莎 之 头！ 
+qstr_The_red_plague_boils|红 死 病 在 你 身 上 沸 腾 起 来，你 已 经 成 为 死 亡 本 身，+ 不 朽！
+qstr_The_curse_of_the_Hor|骑 手 之 诅 咒 降 临 于 你！ 你 成 为 幽 灵 了！ 
+qstr_You_shriek_voracious|你 变 身 时，开 始 尖 叫 起 来！ 你 已 经 成 为 食 尸 鬼！
+qstr_Strength_+6!_Agility_|力 量 + 6！ 敏 捷 + 6！
+qstr_You_are_no_longer_a_|你 不 再 是 吸 血 鬼 了！
+qstr_Agility__6!_Charisma|敏 捷 - 6！ 魅 力 + 6！
+qstr_You_are_no_longer_a_W|你 不 再 是 狼 人 了！
+qstr_Strength__6!_Intelli|力 量 - 6！ 智 力 + 6！
+qstr_Happy_birthday!_Stre|生 日 快 乐！ 力 量 + 1！
+qstr_Happy_birthday!_Agil|生 日 快 乐！ 敏 捷 + 1！
+qstr_Happy_birthday!_Inte|生 日 快 乐！ 智 力 + 1！
+qstr_Happy_birthday!_Char|生 日 快 乐！ 魅 力 + 1！
+qstr_Happy_Birthday!|生 日 快 乐！
+qstr_You_feel_the_Mumiyo_|你 觉 得 喜 来 芝 提 升 了 你 的 力 量！所 以 这 就 是 神…
+qstr_You_feel_disoriented..|你 感 到 迷 失 方 向，你 非 常 需 要 喜 来 芝……
+qstr_You_feel_the_Mumiyo_l|你 觉 得 喜 来 芝 提 升 了 你 的 力 量！你 又 觉 得 无 敌 了！
+qstr_The_Behemoth_Worm_Li|巨 兽 虫 妖 诞 生 了！
+qstr_The_Behemoth_Worm_is|巨 兽 蠕 虫 诞 生 了！
+qstr_The_Chrysalis_looks_|蛹 看 起 来 非 常…
+qstr_You_have_caught_a_Ch|你 已 经 抓 住 了 一 个 小 孩！
+qstr_It_is_weak!|它 是 虚 弱 的！
+qstr_Call_me_Ishmael._Cha|你 叫 我 伊 士 梅 尔 吧 。 魅 力 + 1！
+qstr_The_River_Styx_Pirat|斯 提 克 斯 河 的 海 盗 们 现 在 已 经 安 息 了 。 阿 卡 德 • 泰 尔 终 于 不 在 了 ! 
+qstr_The_greatest_victory|最 伟 大 的 胜 利 是 不 需 要 战 斗 的。
+qstr_In_the_midst_of_chao|在 混 乱 之 中，也 有 机 会
+qstr_Let_your_plans_be_da|让 你 的 计 划 在 夜 里 黑 暗 不 可 穿 透，当 你 移 动 时，像 雷 电 一 样 迅 速。
+qstr_Move_swift_as_the_wi|像 风 一 样 迅 速 移 动，与 木 头 紧 密 相 连。 攻 击 像 火 一 样，安 静 的 像 山 一 样。
+qstr_When_the_enemy_is_re|当 敌 人 放 松，让 他 们 变 得 辛 劳。饱 了 或 饿 了。安 顿 好 后，让 他 们 搬 家。
+qstr_Foreknowledge_cannot|预 支 不 能 从 鬼 魂 中 获 得，不 可 以 通 过 类 推，不 能 通 过 计 算 找 到。 必 须 从 知 道 敌 人 状 况 的 人 获 得。
+qstr_Unhappy_is_the_fate_|一 个 人 如 果 不 努 力 培 养 精 神，就 要 争 取 胜 利，才 能 成 功 地 进 攻，这 是 不 幸 福 的，因 为 结 果 是 浪 费 时 间 和 普 遍 的 停 滞。
+qstr_Disorder_came_from_o|无 序 来 自 秩 序，恐 惧 来 自 勇 气，虚 弱 来 自 力 量。
+qstr_There_are_roads_whic|有 不 可 遵 循 的 路；不 可 进 攻 的 军 队；不 可 围 困 的 城 镇；不 可 竞 争 的 阵 地；不 可 服 从 的 君 主 的 命 令。
+qstr_There_are_five_dange|有 五 个 危 险 的 事 可 能 会 影 响：鲁 莽，导 致 破 坏；怯 懦，导 致 捕 获；一 个 急 躁 的 脾 气，可 受 到 侮 辱；一 种 微 妙 的 荣 誉，这 是 敏 感 的 羞 耻；在 关 注 他 的 人，使 他 担 心 和 感 到 麻 烦 。
+qstr_You_add_the_remainde|你 把 剩 下 的 黑 色 粉 末 加 到 一 个 小 木 桶 里 ， 盖 上 盖 子 。  
+qstr_You_add_the_remainder|你 把 剩 下 的 浓 缩 液 体 加 到 一 个 粘 土 壶 里 ， 盖 上 盖 子 。 
+qstr_1!|1!
+qstr_2!|2!
+qstr_3!|3!
+qstr_4!|4!
+qstr_5!|5!
+qstr_6!|6!
+qstr_You_down_two_of_your|你 放 下 你 的 两 个 人 类 猎 物！祝 福 树 精！
+qstr_A_blood_curdling_how|一 声 令 人 毛 骨 悚 然 的 嚎 叫 划 破 了 寂 静 ! 你 的 人 类 猎 物 尖 叫 着 跑 开 了 ! 你 听 到 附 近 疯 子 的 笑 声 …… 树 精 !  
+qstr_You_down_two_of_your_|你 放 下 你 的 两 个 猎 物！祝 福 树 精！
+qstr_A_pebble_flies_out_o|球 飞 了 出 来，打 击 你 的 猎 物！你 听 到 附 近 疯 狂 的 笑 … 树 精！
+qstr_Breaking_camp...|终 止 宿 营……  
+qstr_Current_wealth:_{reg|当 前 财 富： {reg1}
+qstr_Your_party_is_spotte|你 的 部 队 被 {s1}探 察 到 了。 
+qstr_Party_has_nothing_to|队 伍 没 有 吃 的 了！ 
+qstr_{reg1}_{s1}_{reg2?ha|{reg1}个 {s1}在 夜 间 从 你 的 队 伍 逃 走 了。 
+qstr_{s1}_of_{s3}_has_bee|{s3}的 {s1}从 囚 禁 中 被 释 放 了。 
+qstr_Building_of_{s0}_in_|{s4}的 建 筑 {s0} 已 被 完 成。 
+qstr_{s1}_has_won_the_tou|{s1}赢 得 了 {s2}的 竞 技 大 会。 
+qstr_{s1}_is_infested_by_b|{s1}（在 夜 间） 被 强 盗 侵 扰 了。 
+qstr_{s1}_is_no_longer_in|{s1}（在 夜 间） 不 再 被 强 盗 侵 扰 了。 
+qstr_{s1}_is_holding_a_to|{s1}正 在 举 办 一 场 竞 技 大 会。 
+qstr_You_pay_for_accommod|你 支 付 住 宿 费。 
+qstr__Your_tactics_skill_|你 的 战 术 技 能 提 高 了 1点。 
+qstr__Your_persuasion_ski|你 的 说 服 技 能 提 高 了 1点。 
+qstr__Your_leadership_ski|你 的 统 御 技 能 提 高 了 1点。 
+qstr__Your_intelligence_h|你 的 智 力 提 高 了 1点。 
+qstr__Your_trade_skill_ha|你 的 交 易 技 能 提 高 了 1点。 
+qstr__Your_weapon_master_|你 的 武 艺 技 能 提 高 了 1点。 
+qstr__Your_engineer_skill|你 的 工 程 技 能 提 高 了 1点。 
+qstr_You_have_finished_re|你 读 完 了 {s1}。 {s2}
+qstr_Book_Read|读 书 
+qstr_You_must_follow_{s1}|你 必 须 跟 随 {s1}！ 
+qstr_You_must_follow_{s1}!|你 必 须 跟 随 {s1}！ 这 是 对 你 的 最 后 一 次 警 告！ 
+qstr_{s1}_is_scouted.|{s1}被 侦 察 了。 
+qstr_{s1}_has_switched_fr|{s1}从 {s2}转 到 了 {s3}。 
+qstr_You_scare_a_rat_away|你 吓 走 了 面 包 上 的 老 鼠 ……
+qstr_So_much_clay._It_s_e|这 么 多 的 粘 土 。到 处 都 是 …
+qstr_So_much_sand._You_mu|这 么 多 的 沙 子 。 您 必 须 关 闭 …
+qstr_An_inmate_dies._You_|一 个 囚 犯 死 了 。 你 继 续 挖 …… 
+qstr_Your_sinister_antago|你 的 邪 恶 对 手 出 现！你 的 复 仇 快 到 了！
+qstr_Your_righteous_antag|你 的 正 义 对 手 出 现 了！你 的 复 仇 快 到 了！
+qstr_Your_sinister_antagon|你 那 阴 险 的 对 手 又 回 来 了，但 更 厉 害 了，他 会 毁 了 你 的！
+qstr_Your_righteous_antago|你 的 正 义 的 对 手 又 回 来 了，但 更 强 大，他 会 毁 了 你 的！
+qstr_Your_sinister_antagoni|你 那 阴 险 的 对 手 已 经 来 了，为 最 后 的 对 抗 做 好 了 充 分 的 准 备！
+qstr_Your_righteous_antagon|你 那 正 义 的 对 手 已 经 到 来，为 最 后 的 对 抗 做 好 了 充 分 的 准 备！
+qstr_An_earthquake_shakes|一 场 地 震 震 动 了 地 面，神 秘 的 波 涛 汹 涌 从 的 北 方 响 起！ 波 塞 冬 的 愤 怒！
+qstr_Respite_falls_uncons|暂 时 失 去 知 觉 了！你 必 须 找 个 医 生！
+qstr_Nepenthe_falls_uncon|忘 忧 草 跌 倒 昏 迷 了！你 必 须 找 个 医 生！
+qstr_You_find_garlic!_Ret|你 找 到 大 蒜 了！回 去 找 药 剂 师！
+qstr_You_find_aconite!_Re|你 找 到 乌 头 草 了！回 去 找 药 剂 师！
+qstr_You_find_mullein!_Re|你 找 到 毛 蕊 花 了！回 去 找 药 剂 师！
+qstr_You_find_mandrake!_T|你 发 现 曼 德 拉 草 了！在 你 的 耳 朵 塞 一 些 蜡 可 以 防 止 你 的 死 亡，但 是 它 会 液 化！
+qstr_Someone_has_trampled|有 人 践 踏 了 你 所 有 的 花！你 发 誓，你 听 到 有 人 窃 笑 …
+qstr_Why_this_flower_has_|为 什 么，这 朵 花 已 经 生 长 了 两 个 完 整 的 茎！
+qstr_Nothing_but_weeds!|只 有 杂 草！
+qstr_You_cultivated_nothi|你 一 无 所 有！
+qstr_A_mine_shaft_collaps|矿 井 坍 塌！你 听 到 附 近 有 敲 击 声…
+qstr_You_found_even_more_|你 比 你 想 象 中 发 现 了 更 多 的 钻 石！
+qstr_You_produced_nothing|你 什 么 都 没 有 做 出 来！
+qstr_Your_line_snaps!_You|你 正 在 拍 照，听 到 附 近 有 窃 听 声…
+qstr_Such_catches_today!_|今 天 捕 获 的 很 好!
+qstr_You_catch_nothing!|你 什 么 都 没 有！
+qstr_It_s_a_big_one___you|这 是 一 个 很 大 的 陷 阱 — — 你 的 圈 套 把 你 拖 下 水 了 ! 你 完 全 被 一 个 巨 大 的 生 物 从 深 处 吞 噬 了 !
+qstr_You_catch_nothing!_Y|你 什 么 都 没 抓 到！ 你 迅 速 重 新 整 理 你 的 网！
+qstr_Izanagi_catches_noth|伊 邪 那 歧 什 么 也 没 抓 到 ！ 伊 邪 那 歧 迅 速 重 做 ！
+qstr_You_are_sneaking_up_|你 偷 偷 摸 摸 的 靠 近 一 匹 马，这 幽 灵 跑 了！ 你 听 到 附 近 有 疯 狂 的 笑 声……
+qstr_You_find_a_mated_pai|你 找 到 配 对 的 马！
+qstr_You_found_nothing!|你 什 么 都 没 找 到！ 
+qstr_Your_axehead_shatter|你 的 斧 头 破 碎 在 一 棵 鬼 树 上！ 你 听 到 有 人 在 说 话…… 
+qstr_Such_a_ghostwood_tre|这 样 一 个 鬼 木 - 可 以 获 得 双 倍 的 木 材！ 
+qstr_A_dying_flower...|垂 死 的 花 朵……
+qstr_...|……
+qstr_The_feeling_is_const|我 清 楚 感 觉 到，我 是 第 一 个 听 到 一 个 星 球 对 另 一 个 星 球 的 问 候 之 人。
+qstr_The_human_being_is_a|人 类 是 完 全 受 外 部 影 响 控 制 的 东 西。一切 皆 有 定 数， 但 是 此 数 就 像 浮 躁 的 波 涛 一 样 浮 沉。
+qstr_The_spread_of_civili|文 明 的 传 播 可 以 比 作 火，先 是 微 弱 的 星 火，接 着 是 耀 眼 的 火 花，终 会 化 作 燎 原 之 火，亦 如 时 间 之 狂 风 卷 起 滔 天 巨 浪， 永 不 虚 弱 ，随 岁 月 流 逝 反 而 更 加 强 大。
+qstr_Let_the_future_tell_|让 未 来 吐 露 出 万 物 之 本 源，工 作 和 成 就 是 用 来 评 价 某 人 的 依 据 。现 在 是 他 们 的 造 物 之 世 界，吾 曾 经 注 入 灵 魂 之 物 则 独 属 于 我。
+qstr_I_do_not_think_there|我 不 认 为 有 什 么 刺 激 可 以 穿 透 人 的 灵 魂，但 就 像发 明 者 感 觉 到 的 那 样，当 他 看 到 臆 想 的 某 些 创 造 物 成 功 的 时 候 … 那 种 情 绪 使 人 忘 记 饥 饿、劳 累、朋 友、爱、一 切。
+qstr_Every_living_being_i|每 一 个 位 于 宇 宙 中 有 趣 的 灵魂，包 括 宇 宙 本 身，如 同 一 个 个 永 不 停 息 的 泵 出 滋 养 灵 肉 之 血 液 的 机 械，影 响 的 范 围 虽 然 似 乎 只 对 其 周 围 环 境 有 所 作 用，但 却 被 不 可 视 之 怪 力 携 到 无 限 远 之 彼 方。
+qstr_I_myself_eschew_all_|我 抛 下 所 有 激 情 与 欲 望 。我 也 几 乎 不 食 荤 腥
+qstr_The_history_of_scien|科 学 史 表 明 理 论 是 容 易 迂 腐 的。随 着 揭 示 出 的 每 一 个 新 真 理，我 们 对 自 然 有 了 更 好 的 理 解，我 们 的 概 念 和 观 点 也 被 提 到 了 更 新 的 层 次。
+qstr_If_we_want_to_reduce|如 果 我 们 想 减 少 贫 苦 和 灾 难，如 果 我 们 想 给 每 一 个 值 得 尊 敬 的----有 作 为 之 人 栖 身 之 处，我 们 就 必 须 提 供 更 多 的 “血 泵”，更 多 的 力 量。那 即 是 人 类 进 化 之 本 源
+qstr_With_ideas_it_is_lik|始 拥 破 茧 之 念，亦 如 攀 上 令 我 等 不 寒 而 栗 的 绝 望 之 峰 ：冒 险 之 伊 始 所 带 来 的 宵 暗 以 及 黑 暗 中 予 你 的 彻 魂 痛 击，令 你 如 同 位 于 生 死 之 边 界 ，犹 位 于 太 初 之 混 沌 ，如 陷 入不 覆 之 狱 ，汝 定 会 不 忠 于 自 身 之 力; 只 要 乘 名 为“时 间”之 巨 浪 ，汝 定 会 帮 脱 离 动 荡 之 地 ，远 离 无 尽 之 血 海，自 身 之 高 度 得 以 使 慧 明 之 风 拂 于 汝 始 得 磨 练 之 颜; 这 时 汝 必 将 相 信 自 身 之 坚 毅 与 雄 劲，遂 定 会 返 身 而 觅 伊 始 之 暗，遁 形 于 太 古 之 荒
+qstr_Too_complex!|太 复 杂 了！
+qstr_Complex!_But_you_alm|复 杂！但 你 几 乎 拥 有 它…
+qstr_The_Filth_you_were_c|你 所 造 成 的 污 秽 自 发 地 崩 溃 了！ 你 听 到 附 近 有 疯 狂 的 笑 声…… 
+qstr_You_scrape_up_enough|你 搜 集 了 一 个 额 外 污 秽 足 够 的 材 料！
+qstr_You_scavenged_nothin|你 什 么 都 没 找 到！
+qstr_You_could_have_sworn|你 发 誓 那 里 刚 刚 有 一 颗 钻 石！  你 听 到 有 人 吵 了…… 
+qstr_Two_diamonds_for_the|一 个 价 格 为 两 个 钻 石！
+qstr_The_applause_is_deaf|掌 声 震 耳 欲 聋！起 立 鼓 掌！
+qstr_You_are_offered_dinn|你 提 供 晚 餐！
+qstr_The_audience_cheers!|观 众 欢 呼！他 们 爱 你！
+qstr_A_crowd_gathers._Som|人 群 聚 集。有 些 人 跟 着 音 乐 跳 舞。
+qstr_A_lone_onlooker_sing|一 个 孤 独 的 人 在 唱…
+qstr_Spirits_are_low...|情 绪 很 低 落…
+qstr_The_crowd_goes_wild!|人 群 疯 狂！有 的 甚 至 丢 花！
+qstr_The_crowd_cheers!_Th|人 群 欢 呼！他 们 崇 拜 你！
+qstr_A_crowd_gathers_amus|人 群 聚 集，被 你 滑 稽 的 动 作 逗 乐 了。
+qstr_A_lone_onlooker_watc|一 个 孤 单 的 旁 观 者……
+qstr_You_attract_no_atten|你 不 吸 引 眼 球……
+qstr_The_crowd_is_frantic|人 群 疯 狂！ 他 们 相 信 你 的 每 一 个 字！
+qstr_The_crowd_scrambles_|人 群 争 冠！ 他 们 需 要 治 疗！
+qstr_The_crowd_shouts_out|人 群 喊 出 问 题 - 你 随 时 可 以 回 答，赚 取 更 多 的 出 价！
+qstr_The_crowd_murmurs_an|人 群 杂 乱 无 章，偶 尔 出 价，令 你 感 到 震 惊。
+qstr_Nobody_is_buying_it.|没 有 人 在 买 它……
+qstr_Can_anyone_outbid_th|谁 能 击 败 这 个 人，一 个 奇 迹 吗？
+qstr_Anybody?_Going_once.|有 人 吗？一 次……
+qstr_Only_one_bottle_left|只 剩 下 一 瓶 了！两 次…
+qstr_Sold!|出 售!
+qstr_You_drew_your_lady_s|你 把 你 的 女 士 的 洗 澡 水 弄 得 太 烫 了！她 烫 伤 了，你 被 解 雇 了！
+qstr_You_wake_your_lady_g|你 温 柔 地 叫 醒 你 的 女 士，按 时 提 供 美 味 的 早 餐 和 完 美 的 温 度 浴。她 很 感 激！
+qstr_The_breakfast_could_|早 餐 可 能 更 热 ……但 是，你 的 女 士 很 满 意，并 且 支 付 了 你 的 费 用。
+qstr_The_bathwater_could_|洗 澡 水 可 能 变 冷 了 …… 但 是，你 的 女 士 很 满 意，并 且 支 付 你 的 费 用
+qstr_You_accidentally_wak|你 不 小 心 吵 醒 了 你 的 女 士，比 他 们 预 料 的 要 晚 一 些，这 可 能 会 干 扰 她 可 能 的 其 他 约 会。女 士 不 满，但 她 还 是 给 了 你 一 些 硬 币
+qstr_Dusting!_How_inappro|除 尘！ 怎 么 不 合 适 - 你 没 有 女 佣！ 他 们 也 勉 强 付 钱。 你 会 发 现 其 他 地 方 的 工 作……
+qstr_You_move_door_to_doo|你 在 最 富 有 的 社 区 找 到 工 作，要 求 手 工……
+qstr_Your_customer_moves_|你的客户咒骂你，跑了！
+qstr_You_carefully_remove|在 阑 尾 破 裂 并 杀 死 病 人 之 前，你 要 小 心 地 切 除 阑 尾。他 们 很 感 激 你 ！
+qstr_An_infected_tooth_ex|感 染 的 牙 齿 拔 牙。 客 户 很 痛 苦，但 缓 解 了 致 命 的 可 能 性。 他 们 感 激 不 尽。
+qstr_A_bloodletting._Your|放 血。 您 的 客 户 感 到 头 晕，并 略 微 超 支……
+qstr_Fire_cupping._This_e|拔 火 罐。这 个 实 验 技 能 来 自 远 东，充 其 量 受 到 怀 疑。客 户 不 确 定 他 们 是 否 感 觉 更 好，但 他 们 给 了 你 一 些 硬 币。
+qstr_Shave_and_a_haircut!|刮 脸 和 理 发！
+qstr_Several_people_stop_|几 个 人 停 下 来 聊 天，但 似 乎 没 有 人 需 要 你 的 帮 助…
+qstr_You_accidentally_bre|你 不 小 心 打 破 你 正 在 拉 直 的 剑！ 你 的 客 户 咒 骂 你，并 离 开 了……
+qstr_You_skillfully_repai|你 巧 妙 地 修 理 了 一 件 装 甲 - 客 户 说 它 比 买 的 更 好，他 们 付 了 你 很 多 的 钱！
+qstr_Now_that_is_one_stur|这 是 一 个 坚 固 的 盾 牌 - 你 保 证！ 你 的 报 酬 更 好。
+qstr_That_blade_has_never|那 个 刀 片 从 来 没 有 更 尖 锐 - 你 保 证！ 你 的 报 酬 更 好。
+qstr_One_less_broken_wago|少 了 一 个 破 碎 的 车 轮 - 在 你 的 钱 包 里 多 了 几 个 硬 币
+qstr_A_horse_needs_shoes.|一 匹 马 需 要 鞋 子……你 恰 好 是 这 个 工 作 的 合 适 人 选！ 你 收 到 一 些 硬 币
+qstr_Nobody_requires_your|现 在 没 有 人 需 要 你 的 手 艺 … 
+qstr_You_accidentally_brea|你 不 小 心 把 正 在 修 理 的 珠 宝 弄 坏 了 ! 你 的 顾 客 咒 骂 你 ， 然 后 离 开 ……  
+qstr_You_skillfully_repair|你 熟 练 地 修 理 一 件 首 饰 — — 你 把 它 擦 得 干 干 净 净 ， 闪 闪 发 光 ， 而 那 位 女 士 很 喜 欢 它 — — 他 们 付 给 你 一 大 笔 钱 !   
+qstr_That_coif_looks_good|那 顶 帽 子 看 起 来 跟 新 的 一 样 ! 顾 客 说 它 甚 至 感 觉 更 轻 。 你 的 工 资 很 高 。   
+qstr_Those_scale_gauntlet|那 些 伸 缩 手 套 比 以 前 更 灵 活 了 ! 你 的 工 资 很 高 。
+qstr_That_barding_looks_e|在 顾 客 的 马 上 ， 那 顶 帽 子 看 起 来 更 锋 利 ， 更 光 亮 — — 你 的 钱 包 里 又 多 了 几 声 叮 当 声 。 
+qstr_Another_broken_clock|另 一 个 破 碎 的 时 钟 … 他 们 只 是 不 像 以 前 那 样 做 了 ! 你 的 麻 烦 得 到 了 几 个 硬 币 。   
+qstr_Nobody_requires_your_|目 前 没 有 人 需 要 你 的 巧 手
+qstr_You_receive_a_terrib|你 收 到 了 可 怕 的 预 言 ！你 的 客 户 诅 咒 你，跑 了！
+qstr_You_receive_a_wonder|你 收 到 一 个 好 预 言！你 的 客 户 很 高 兴！
+qstr_A_bad_omen._The_cust|不 祥 之 兆。顾 客 不 高 兴，但 还 是 付 钱 给 你。
+qstr_A_good_omen._The_cus|一 个 好 兆 头 客 户 很 高 兴，并 付 钱 给 你
+qstr_The_answer_is_uncert|答 案 不 确 定， 客 户 看 起 来 有 点 不 满 意，但 很 开 心，给 你 了 一 些 硬 币。
+qstr_No_customers_approac|没 有 客 户 接 近 你……
+qstr_Your_charge_returns_|你 的 回 报 很 好！你 不 要 问 怎 么 了，她 给 了 你 很 多 的 钱，和 一 些 面 包 还 有 葡 萄 酒…
+qstr_Cheers!|干 杯！
+qstr_Your_escort_is_paid_|你 的 护 送 费 用 很 高。 她 说 她 确 定 他 会 回 来……
+qstr_A_satisfied_client._|满 意 的 客 户。一 个 满 意 的 伴 侣
+qstr_Your_courtesan_is_pa|你 的 妓 女 的 收 入 差 不 多，就 像 你 一 样。
+qstr_You_hear_your_charge|你 听 到 尖 叫 声，你 冲 进 房 间，拿 起 武 器。
+qstr_In_the_scuffle_the_c|在 混 战 中，客 户 被 打 死 了—— 你 听 到 守 卫 的 呼 喊！
+qstr_No_customers._At_lea|没 有 客 户。至 少 你 有 良 好 的 商 业…
+qstr_Your_host_falls_asle|你 的 主 人 睡 着 了，像 蜗 牛 一 样 喝 醉 了！
+qstr_He_ll_never_notice..|他 永 远 不 会 注 意 到……
+qstr_A_return_customer._D|回 头 客。不 谈 恋 爱，现 在…
+qstr_One_satisfied_client|一 个 满 意 的 客 户。他 会 回 来 的…
+qstr_A_disappointing_clie|令 人 失 望 的 客 户 … 你 希 望 永 远 不 要 再 看 到 他…
+qstr_Your_customer_tries_|你 的 顾 客 试 图 粗 暴 地 对 待 你，但 你 的 陪 护 者 冲 进 房 间，抽 出 武 器。
+qstr_No_customers._You_al|没 有 客 户。你 几 乎 感 到 孤 独…
+qstr_No_customers._That_w|没 有 客 户 。 这 种 情 况 不 会 持 续 太 久 ……
+qstr_You_almost_get_caugh|你 差 点 抓 住 小 偷，但 你 让 他 溜 走 了…
+qstr_You_manage_to_lift_a|你 可 以 提 起 整 个 钱 包！ 它 以 前 的 所 有 者 不 是 很 聪 明……
+qstr_A_nice_gold_ring_als|一 个 漂 亮 的 金 戒 指 也 非 常 好 玩！
+qstr_All_in_a_day_s_work.|一 整 天 的 工 作。
+qstr_A_pittance_for_a_pot|潜 在 监 狱 的 一 个 漏 洞……
+qstr_You_find_no_marks._B|你 没 有 找 到 任 何 痕 迹。 照 常 营 业……
+qstr_Plague_rats_pour_for|瘟 疫 老 鼠 爬 上 城 墙，来 吧，小 家 伙……	
+qstr_Plague_rats_scurry_f|瘟 疫 老 鼠 发 抖！
+qstr_You_find_no_rats...|你 找 不 到 老 鼠……
+qstr_You_accuse_the_wrong|你 指 控 错 了 人 ! 你 不 停 地 道 歉 ， 但 被 告 却 义 愤 填 膺 ， 你 的 名 誉 受 损 ……
+qstr_You_investigate_a_mu|你 调 查 一 桩 谋 杀 案 并 抓 住 罪 犯 ! 受 害 者 的 家 人 很 感 激 — — 他 们 给 了 你 丰 厚 的 报 酬 ， 并 为 你 歌 功 颂 德 ! 
+qstr_You_stumble_across_a|你 无 意 中 发 现 一 个 女 人 遭 到 了 野 蛮 的 攻 击 — — 你 在 逮 捕 攻 击 她 的 人 时 不 够 温 柔 ， 被 镇 警 拖 走 了 。 你 救 了 她 的 命 ， 她 给 了 你 优 厚 的 报 酬 。   
+qstr_You_interrogate_part|你 审 问 一 场 斗 殴 的 参 与 者 和 目 击 者 ， 然 后 把 行 凶 者 交 给 镇 警 。 他 们 从 镇 上 的 金 库 里 给 你 钱 ， 让 你 当 副 看 守 !  
+qstr_You_stop_a_horse_thi|你 阻 止 了 一 个 偷 马 贼 ! 你 几 乎 被 践 踏 ， 但 马 厩 的 主 人 给 了 你 一 些 硬 币 ， 并 向 城 镇 广 场 高 呼 你 的 胜 利 !   
+qstr_You_catch_a_pickpock|你 当 场 抓 住 了 扒 手 ! 一 个 当 地 的 无 赖 … 卫 兵 队 长 给 了 你 几 个 硬 币 ， 但 拿 走 了 功 劳 ……   
+qstr_You_observe_no_crimi|你 没 有 观 察 到 犯 罪 活 动 … 
+qstr_You_toss_and_turn_in|你 辗 转 反 侧，继 续 进 入 了 梦 境…
+qstr_Human_prey_is_nearby|人 类 猎 物 就 在 附 近 ……
+qstr_No_luck_yet._You_wai|没 有 运 气。等 着 瞧……
+qstr_Game_is_nearby...|游 戏 就 在 附 近…
+qstr_Unworthy..._the_Infi|不 值 得 … 无 限 之 石 回 到 了 它 的 安 息 之 地。
+qstr_Something_follows_yo|有 东 西 跟 着 你 通 过 大 门……
+qstr_You_find_a_deadly_fi|你 发 现 一 把 致 命 的 枪 夹 在 你 的 腰 带 上，还 有 一 张 便 条……
+qstr_It_reads__Here_s_a_l|上 面 写 着：当 你 不 在 的 时 候，妈 妈 教 了 我 一 个 小 诀 窍。
+qstr_A_Ghostwood_Nymph_fo|鬼 木 若 虫 通 过 大 门 跟 着 你…
+qstr_The_Strange_shell_pl|奇 怪 的 贝 壳 播 放 着 塞 壬 的 歌 声 ， 向 溺 水 的 水 手 致 敬 ……
+qstr_Vi_Veri_Veniversum_V|我 的 意 思 是 …… 
+qstr_You_feel_the_Mumiyo_li|你 感 觉 到 喜 来 芝 像 一 个 神 一 样 举 起 你！ 在 你 心 中 少 了 一 个 负 担 …
+qstr_You_feel_the_Mumiyo_lif|你 感 觉 到 喜 来 芝 像 一 个 神 一 样 举 起 你！
+qstr_You_feel_fragile_and|你 感 到 脆 弱 和 迷 失 方 向…… 你 现 在 需 要 喜 来 芝！
+qstr_One_less_Mumiyo_in_I|在 伊 姆 霍 特 普 的 坟 墓 中 少 一 个 喜 来 芝 
+qstr_Imhotep_crumbles_into|伊 姆 霍 特 普 碎 成 红 色 的 灰 尘，并 吹 走！
+qstr_The_Tsukumogami_reun|付 丧 神 团 聚，看 起 来 更 强 大 一 些！
+qstr_Some_of_your_silk_se|你 的 一 些 丝 绸 似 乎 失 踪 了…… 
+qstr_Galatea_shatters_her|加 拉 蒂 亚 粉 碎 了 自 己 的 心，放 下 银 锤！
+qstr_Whispers_of_death...|死 亡 的 低 语…
+qstr_Rumors_of_infection.|关 于 感 染 的 谣 言…
+qstr_Cries_of_despair...|绝 望 的 呼 喊…
+qstr_The_plague_progresse|瘟 疫 进 展 了 一 步！
+qstr_No_change_in_plague_|瘟 疫 的 状 况 没 有 变 化！
+qstr_The_Red_Death_grows_|红 死 病 变 得 更 强……
+qstr_Better_check_on_your|更 好 地 检 查 你 的 实 验！
+qstr_Your_experiment_stil|你 的 实 验 还 需 要 时 间！
+qstr_A_hawker_has_tamed_a|一 个 小 贩 已 经 驯 服 了 一 只 新 的 鹰！
+qstr_Terracotta_stars_hav|赤 陶 星 已 经 被 创 造 出 来 了 !
+qstr_A_terracotta_warrior|一 个 兵 马 俑 被 创 造 出 来 了 !
+qstr_A_slave_girl_has_giv|一 个 奴 隶 女 孩 把 自 己 给 了 你 !
+qstr_Familiar_still_in_st|熟 悉 仍 然 停 滞 不 止 !
+qstr_{reg65?my_Lady:my_Lo|我 的 {reg65?女 士:大 人}
+qstr_{reg65?My_Lady:My_Lo|我 的 {reg65?女 士:大 人}
+qstr_{reg65?madame:sir}|{reg65?女 士:阁 下}
+qstr_{reg65?Madame:Sir}|{reg65?女 士:阁 下}
+qstr_Poseidon_has_forsake|波 塞 冬 抛 弃 了 你！你 觉 得 他 的 祝 福 消 失 了！
+qstr_Strength__6!_Agility|力 量 - 6！敏 捷 - 6！智 力 - 6！魅 力 - 6！
+qstr_You_feel_your_will_s|当 你 最 终 接 受 命 运 的 智 慧 时，你 感 到 你 的 意 志 会 变 得 敏 锐！
+qstr_No_crystal!|没 有 水 晶 ！
+qstr_Quest_in_progress!|任 务 正 在 进 行 ！
+qstr_No_silver!|没 有 白 银 ！
+qstr_No_gold!|没 有 黄 金 ！
+qstr_No_diamonds!|没 有 钻 石 ！
+qstr_No_code_disk!|没 有 密 码 盘 ！
+qstr_You_feel_a_tingling_|你 感 到 一 阵 刺 痛 。
+qstr_Denars_+10000!|第 纳 尔 +10000!
+qstr_Renown_+50!|声 望 +50!
+qstr_You_thrill_to_the_cr|你 因 灵 感 的 刺 激 而 激 动！ 你 成 为 遗 物 收 集 师 了！ 
+qstr_The_Undying_Sword_of_|弗 拉 德· 德 拉 库 拉 的 不 死 之 剑 掉 到 地 上 了， 又 成 了 一 件 无 生 命 的 骨 制 武 器……  
+qstr_The_Hunter_s_Night_s|猎 手 之 夜 套 装 升 到 了 空 中， 现 在 化 为 有 生 命 的 无 情 猎 手 了！ 
+qstr_The_Great_Artificer_|工 兵 炸 药 扔 到 外 面 的 洞 口，震 耳 欲 聋 的 爆 炸！
+qstr_Old_King_Cole_|老 国 王 科 尔
+qstr_The_Queen_of_Hearts_|红 心 女 王
+qstr_Blood_|血
+qstr_Bones_|骨 骼
+qstr_Flesh_|肉 体
+qstr_Dried_Meat_|风 干 肉
+qstr_Bread_|面 包
+qstr_Bread_of_the_Dead_|死 亡 面 包
+qstr_Blood_Pudding_|血 布 丁
+qstr_Nog_|酒
+qstr_Candles_|蜡 烛
+qstr_Salt_|盐
+qstr_Tools_|工 具
+qstr_Graveyard_Soil_|坟 土
+qstr_Ale_|麦 芽 酒
+qstr_Wine_|葡 萄 酒
+qstr_Bloodwine_|血 酒
+qstr_Mumiyo_|喜 来 芝
+qstr_Human_Corpse_|人 类 尸 体
+qstr_Wax_|蜡
+qstr_Honey_|蜂 蜜
+qstr_Apples_|苹 果
+qstr_Wheat_|小 麦
+qstr_Milk_|牛 奶
+qstr_Grapes_|葡 萄
+qstr_Crocuses_|番 红 花
+qstr_Linen_|亚 麻 布
+qstr_Oil_|油
+qstr_Formaldehyde_|甲 醛
+qstr_Sulfuric_Acid_|硫 酸
+qstr_Eggs_|鸡 蛋 
+qstr_Mulberries_|桑 葚
+qstr_Glogg_|格 拉 格 
+qstr_It_s_your_money_or_y|要 钱 还 是 要 命， {老 弟/小 妞}？ 不 许 动， 否 则 我 们 一 箭 射 穿 你。 
+qstr_Lucky_for_you_you_ca|你 很 幸 运， 今 天 我 正 好 心 情 很 好。 给 我 们 你 所 有 的 钱 币， 那 么 我 也 许 就 会 让 你 活 着。 
+qstr_This_a_robbery_eh?_I|这 是 一 场 抢 劫， 嗯？ 我 给 你 一 个 机 会 来 交 出 你 所 有 的 东 西， 不 然 我 和 我 的 同 伴 会 杀 了 你。 懂 了？
+qstr_we_have_made_very_li|到 目 前 为 止， 我 们 没 取 得 什 么 进 展
+qstr_we_have_suceeded_in_|我 们 成 功 地 获 得 了 一 些 土 地， 但 是 我 们 仍 然 有 一 条 长 路 要 走
+qstr_we_have_become_a_sig|我 们 成 为 了 一 股 显 著 的 力 量， 并 且 我 们 有 相 等 的 胜 利 机 会
+qstr_we_are_winning_the_w|我 们 在 赢 得 这 场 战 争， 但 是 我 们 的 敌 人 仍 在 坚 持
+qstr_we_are_on_the_verge_|我 们 接 近 胜 利 了。 余 下 的 敌 人 已 构 不 成 威 胁， 但 是 我 们 仍 需 追 捕 并 消 灭 他 们 。
+qstr_Smitty_also_manages_|史 密 提 还 设 法 制 作 了 一 些 工 匠 的 轴 承 ! 那 些 就 行 了 !  
+qstr_Shiner_also_manages_|夏 纳 还 设 法 制 作 了 一 些 血 酒 ! 为 了 一 个 特 别 的 日 子 ! 
+qstr_You_drink_the_wine_a|你 喝 了 这 些 酒 并 觉 得 自 己 强 壮 了！ 得 到 +3 点 力 量 ！ 
+qstr_You_eat_the_heart_an|你 吃 了 这 颗 心 并 觉 得 自 己 伶 俐 了！ 得 到 +3 点 敏 捷 ！ 
+qstr_You_read_the_letter_|你 读 了 这 封 信 并 觉 得 自 己 睿 智 了！ 得 到 +3 点 智 慧 ！ 
+qstr_You_swallow_the_bug_|你 吞 下 了 这 只 虫 并 觉 得 自 己 善 于 雄 辩 了 ！得 到 +3 点 魅 力 ！ 
+qstr_Lamia_drains_a_priso|拉 弥 亚 吸 了 一 名 俘 虏 的 血 ，之 后 令 其 喝 你 提 供 的 血 ，最 后 便 作 为 吸 血 鬼 加 入 了 你 的 队 列 ！ 
+qstr_Crossbones_bites_a_p|叉 骨 咬 了 一 名 俘 虏， 而 在 其 从 初 始 表 征 中 恢 复 过 来 后， 便 作 为 狼 人 加 入 了 你 的 队 列 ！ 
+qstr_You_swiftly_decapita|你 迅 速 地 砍 掉 了 拉 斯 普 京 的 头， 而 从 他 被 砍 下 的 头 中， 那 只 蛹 喷 了 出 来！ 
+qstr_You_feel_disoriented...|你 感 到 迷 失 方 向 … 力 量、敏 捷、智 力 和 魅 力 完 全 随 机 化！
+qstr__no_fiefs_|（无 封 地） 
+qstr__fiefs:_{s0}_|（封 地： {s0}） 
+qstr_{playername}_when_we|{playername}， 当 我 们 开 始 我 们 漫 长 的 征 程 时， 几 乎 没 有 人 有 勇 气 支 持 我。 有 少 数 人 为 了 我 的 事 业 甘 冒 性 命 之 险。 但 是 你 对 于 投 身 去 对 付 我 的 敌 人， 没 有 犹 豫 过 片 刻。 我 们 在 一 起 经 历 了 许 多， 并 且 有 几 次 我 快 要 彻 底 丧 失 希 望 了。 但 是 凭 借 着 神 明 的 帮 助， 我 们 胜 利 了。 现 在， 该 是 我 离 开 你 的 队 伍 去 取 得 属 于 我 的 东 西 的 时 候 了。 从 现 在 起， 我 会 实 现 统 治 {s3}的 伟 大 职 责。 前 方 仍 然 有 许 多 挑 战 并 且 我 指 望 着 你 会 帮 助 我 战 胜 这 些。 并 且， 当 然， 你 将 一 直 是 我 最 重 要 的 封 臣。 
+qstr_{s6}_has_joined_your_|{s6}加 入 了 你 的 队 伍。 
+qstr_I_am_{s4}_the_ruler_|我 是 {s4}， {s6}的 统 治 者
+qstr_I_am_{s4}_a_vassal_o|我 是 {s4}， {s6}的 一 名 封 臣
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5?， 并 且 是 {s8}的 主 人:}。 
+qstr_Your_mission_is_comp|你 的 任 务 被 完 成 了， {s9}想 要 你 继 续 跟 随 他 的 军 队 直 到 有 进 一 步 的 通 知。 
+qstr_{s13}_asked_you_to_g|{s13}叫 你 征 集 {reg3}头 牛 并 将 它 们 运 回 他 那 里。 
+qstr_{s9}_asked_you_to_sc|{s9}叫 你 侦 察 {s13}、 {s14}和 {s15}， 之 后 向 他 报 告。 
+qstr_{s16}_and_{s17}|{s16}和 {s17}
+qstr_{s16}_{s17}|{s16}、 {s17}
+qstr_Very_well_I_will_acc|很 好， 如 果 你 准 备 好 再 次 向 我 郑 重 地 宣 誓 效 忠 的 话， 我 会 接 受 你 回 到 我 的 封 臣 之 列。 
+qstr_A_pardon_will_only_b|你 愿 意 向 我 交 出 {s17}的 话， 才 有 可 能 得 到 原 谅。 你 同 意 我 的 条 件 吗？ 
+qstr_No._There_is_no_chan|不。 我 们 之 间 没 有 和 平 的 机 会， 我 不 感 兴 趣。 
+qstr_We_are_not_at_war_wi|我 没 有 与 任 何 人 交 战。 
+qstr_We_are_at_war_with_{|我 们 在 与 {s12}交 战。 
+qstr_Prior_argument_effec|由 先 前 辩 论 影 响 的 结 果： {reg6}， 反 叛 机 会： {reg7}
+qstr_Rebellion_chance__30|反 叛 机 会 因 为 对 手 -30={reg7}
+qstr_Consistency_check:_{|协 调 核 对 后 的 结 果： {reg10}/{reg11}
+qstr_Current_argument_eff|由 当 前 辩 论 影 响 的 结 果： {reg6}， 反 叛 机 会： {reg7}
+qstr_Persuasion_effect:_{|由 说 服 技 能 影 响 的 结 果： {reg6}， 反 叛 机 会： {reg7}
+qstr_Personal_relation_ef|由 个 人 关 系 影 响 的 结 果： {reg6}， 反 叛 机 会： {reg7}
+qstr_Rebellion_check:_{re|反 叛 机 会 核 对 后 的 结 果： {reg6}
+qstr_You_promised_to_help|你 答 应 帮 助 {s13}取 得 {s14}的 统 治 权。 
+qstr_{s9}_asked_you_to_ta|{s9}叫 你 带 封 信 给 {s13}。 当 你 接 受 此 任 务 时， {s13}被 确 信 在 {s4}。 
+qstr_{s9}_asked_you_to_tak|{s9}叫 你 带 封 信 给 {s15}的 {s13}。 当 你 接 受 此 任 务 时， {s13}据 信 在 {s4}。 
+qstr_{s11}_asked_you_to_e|{s11}叫 你 护 送 他 的 {s17} {s13}到 {s14}。 
+qstr_{s13}_asked_you_to_d|{s13}叫 你 对 付 正 占 据 着 {s15}村 的 强 盗 并 在 之 后 回 去 向 他 报 告。 
+qstr_{s9}_asked_you_to_ra|{s9}叫 你 培 养 {reg1}个 {s14}并 把 他 们 带 给 他。 
+qstr_{s9}_asked_you_to_co|{s9}叫 你 从 {s3}收 税。 他 愿 意 你 留 下 你 在 那 里 收 到 的 钱 的 总 数 的 五 分 之 一。 
+qstr_{s9}_asked_you_to_hu|{s9}叫 你 追 捕 名 为 {s4} 的 逃 亡 者。 他 最 近 被 确 信 在 {s3}。 
+qstr_{s9}_asked_you_to_as|{s9}叫 你 暗 杀 {s3}的 一 名 地 方 商 人。 
+qstr_{s9}_has_asked_you_t|{s9}叫 你 在 {s13}与 一 个 密 探 碰 头。 
+qstr_{s9}_asked_you_to_ca|{s9}叫 你 捕 获 并 掠 夺 {reg13}支 商 队， 这 样 就 能 挑 起 对 {s13}的 战 争。 
+qstr_{s9}_asked_you_to_cat|{s9}叫 你 捉 住 三 群 逃 跑 的 农 奴 并 把 他 们 活 着 带 回 {s4}。 他 说 这 三 群 一 定 都 在 朝 {s3}的 方 向 逃 跑。 
+qstr_{s11}_asked_you_to_f|{s11}叫 你 尾 随 将 要 离 开 {s12}的 密 探。 你 必 须 小 心， 不 要 让 密 探 在 路 上 看 见 你， 否 则 他 可 能 会 起 疑 并 折 回 去。 当 密 探 和 他 的 同 谋 碰 头 时， 你 得 捕 获 他 们 并 把 他 们 带 回 给 {s11}。 
+qstr_{s11}_asked_you_to_c|{s11}叫 你 捉 捕 一 位 {s13}的 领 主， 任 何 领 主 都 行， 并 且 之 后 你 要 押 送 你 的 受 害 人 回 到 {s11}那 里 以 对 他 严 加 看 管。 
+qstr_{s9}_asked_you_to_le|{s9}叫 你 把 你 的 同 伴 {s3}借 给 他 一 个 星 期。 
+qstr_{s9}_asked_you_to_col|{s9}叫 你 收 回 {s3}欠 他 的 {reg4}第 纳 尔 的 债。 当 你 接 受 此 任 务 时， {s3}在 {s4}。 
+qstr_{s11}_gave_you_a_fak|{s11}给 了 你 一 封 伪 造 的 信 件 来 欺 骗 {s13}放 逐 他 的 封 臣 {s16}。 你 得 走 到 {s14}附 近， 把 信 件 交 给 你 的 一 名 {s15}并 派 遣 他 作 为 一 名 送 信 人 进 入 镇 里， 以 使 {s13}相 信 {s11}的 命 令 不 是 伪 造 的。 
+qstr_{s9}_has_requested_y|{s9}要 求 你 带 给 他 {reg1}个 {s3}作 为 俘 虏。 
+qstr_Lend_your_experience|把 你 的 老 练 的 外 科 医 生 {s3}借 给 {s1}。 
+qstr_Then_take_it_with_my|那 么， 请 收 下 它， 以 及 我 永 恒 的 感 谢。 你 是 个 高 尚 的 人。 我 会 永 远 不 会 忘 记 你 曾 在 我 需 要 的 时 候 帮 助 了 我。 
+qstr_Forgive_me_{playerna|原 谅 我， {playername}， 但 是 我 必 须 坚 持 让 你 接 受 它。 这 些 钱 对 我 来 说 不 算 什 么， 并 且 我 欠 你 如 此 之 多。 这 里， 收 下， 让 我 们 再 也 别 说 这 个 了。 
+qstr_{playername}_what_a_|{playername}， 你 是 多 么 可 爱 的 一 个 人 啊， 但 是 我 不 会 允 许 你 拒 绝 这 个。 我 欠 你 的 比 我 能 说 的 还 多 得 多， 并 且 我 确 信 你 比 我 更 能 用 好 这 笔 钱。 
+qstr_{s11}_asked_you_to_r|{s11}叫 你 通 过 交 换 衣 物 并 代 替 其 待 在 监 狱 里 来 从 {s14}解 救 她 的 {s17} {s13}。 
+qstr_{s11}_asked_you_to_d|{s11}叫 你 传 信 给 {s13}， 他 被 监 禁 在 {s14}。 
+qstr_You_agreed_to_challe|你 同 意 挑 战 {s13}以 守 住 {s11}的 荣 誉。 
+qstr_{s5}__Persuasion_str|{s5}（说 服 力： {reg5}） 
+qstr_Persuasion_Attempt|尝 试 说 服 
+qstr_A_villager_from_{s7}|一 位 来 自 {s7}的 村 民 恳 请 你 从 避 难 于 他 们 的 村 庄 的 强 盗 手 中 解 救 那 里。 
+qstr_You_chose_well_{sir/|你 选 得 很 好， {阁 下/女 士}。 我 的 伙 伴 们 知 道 如 何 信 守 他 们 的 话 并 赢 回 你 的 支 付。 
+qstr_Well_done_{sir/madam|做 得 好， {阁 下/女 士}。 持 续 给 我 们 金 钱 与 美 酒， 你 在 卡 拉 迪 亚 就 不 会 有 需 要 害 怕 的 反 对 者。 
+qstr_We_are_at_your_servi|我 们 为 您 效 劳， {阁 下/女 士}。 您 只 需 为 我 们 指 出 那 些 需 要 被 干 掉 的 人 的 方 向， 剩 下 的 由 我 们 来 做 就 是。 
+qstr_You_will_not_be_diss|你 不 会 失 望 的， {阁 下/女 士}。 你 不 会 在 全 卡 拉 迪 亚 找 到 更 好 的 勇 士 了。 
+qstr_The_Guildmaster_of_{|{s13}的 商 会 会 长 叫 你 对 付 附 近 乡 间 的 掠 夺 者。 
+qstr_{s9}_of_{s3}_asked_y|{s3}的 {s9}叫 你 在 7天 内 运 送 {reg5}单 位 的 {s6}到 {s4}的 酒 馆。 
+qstr_Escort_the_merchant_|护 送 商 人 的 商 队 到 {s8}镇。 
+qstr_Merchant_{s9}_of_{s4|{s4}的 {s9}叫 你 追 捕 城 镇 附 近 地 区 的 难 对 付 的 强 盗。 
+qstr_Guildmaster_of_{s4}_|{s4}的 商 会 会 长 给 了 你 {reg12}第 纳 尔 来 向 强 盗 支 付 一 位 被 绑 架 的 女 孩 的 赎 金。 你 得 在 {s3}附 近 与 那 些 强 盗 会 面 并 支 付 他 们 赎 金。 在 那 之 后， 你 得 带 女 孩 回 {s4}。 
+qstr_Guildmaster_of_{s4}_p|{s4}的 商 会 会 长 答 应 你， 如 果 你 能 确 保 {s12}和 {s13}不 再 对 {s15}和 {s14}的 和 平 协 定 做 出 威 胁 的 话， 他 会 给 你 {reg12}第 纳 尔。 为 了 做 到 这 个， 你 必 须 要 么 说 服 他 们， 要 么 确 保 他 们 被 俘 虏 并 保 持 这 样 直 到 一 个 和 平 协 定 被 制 定。 
+qstr_The_Guildmaster_of_{s|{s14}的 商 会 会 长 叫 你 对 付 一 群 对 {s14}的 街 道 造 成 恐 怖 的 强 盗。 他 们 只 在 夜 间 出 来， 并 只 袭 击 街 道 上 的 单 身 旅 行 者。 
+qstr_Guildmaster_of_{s10}|{s10}的 商 会 会 长 叫 你 赶 一 群 牛 到 {s13}。 你 会 赚 得 {reg8}第 纳 尔 作 为 回 报。 
+qstr_He_is_not_commanding|此 刻 他 没 在 指 挥 任 何 人。 
+qstr_He_currently_command|他 最 近 在 指 挥 {reg0}个 人{reg1?， 其 中 大 约 有 {reg1}个 人 已 受 伤:}。 
+qstr_The_elder_of_the_vil|{s3}的 村 庄 长 老 叫 你 给 他 们 带 {reg5}包 小 麦。 
+qstr_The_elder_of_the_vill|{s13}的 村 庄 长 老 叫 你 训 练 {reg5}个 农 民 来 抵 抗 当 地 的 强 盗。 
+qstr_The_elder_of_the_villa|{s3}的 村 庄 长 老 叫 你 给 他 们 带 {reg5}头 牛。 
+qstr_{s16}_and_{s15}|{s16}和 {s15}
+qstr_{s16}_{s15}|{s16}、 {s15}
+qstr_I_can_smell_a_fat_pu|我 在 一 里 外 就 闻 到 了 一 个 鼓 鼓 的 钱 包。 我 想 你 的 钱 包 可 以 变 轻 一 点， 嗯？ 
+qstr_Why_it_be_another_tr|咦， 又 来 了 个 旅 行 者， 正 好 在 路 上 遇 到 了！ 我 应 该 警 告 你， 这 里 的 乡 村 对 你 这 样 的 {家 伙/女 人} 有 点 危 险。 但 是 只 要 捐 一 点 点 钱 出 来， 我 的 小 子 们 和 我 就 会 保 证 你 能 顺 利 到 达 你 的 目 的 地， 嗯？ 
+qstr_Well_well_look_at_th|很 好， 很 好， 看 看 这 个！ 你 最 好 立 刻 咳 出 些 银 币 来， 朋 友， 不 然 我 和 我 的 小 子 们 将 不 得 不 弄 碎 你。 
+qstr_There_s_a_toll_for_p|路 过 此 地 要 交 通 行 费， 我 们 就 是 收 费 的， 如 果 你 不 干 的 话， 我 们 就 会 从 你 的 钱 包 中 取 走 我 们 应 得 的……  
+qstr_Another_fool_come_to|又 一 个 傻 瓜 把 {他/她} 自 己 往 我 的 武 器 上 撞 来 了， 嗯？ 很 好， 开 打！
+qstr_We_re_not_afraid_of_|我 们 不 怕 你， 小 {子/妞 儿}。 该 是 打 爆 一 些 脑 袋 的 时 候 了！ 
+qstr_That_was_a_mistake._|这 是 个 错 误。 现 在 我 将 不 得 不 让 你 不 得 好 死。 
+qstr_Brave_words._Let_s_s|豪 言 壮 语。 让 我 们 看 看 你 将 如 何 以 行 动 证 明 它 们， 坏 蛋！ 
+qstr_A_{s5}?_Well..._Yes_|{s5}？ 嗯……  是 的， 我 想 是 的。 要 了 个 多 奇 怪 的 东 西 呀。 
+qstr_Eh?_No_it_most_certa|嗯？ 不， 它 无 疑 不 会 是 一 个 {s5}。 如 果 我 是 你 的 话， 我 最 好 开 始 质 疑 我 的 眼 力。 
+qstr_This_is_the_{reg4?to|这 是 {s5}{reg4?镇:村}， {阁 下/女 士}。 
+qstr_{s6}_Our_{reg4?town:|{s6}我 们 {reg4?镇:村} 及 周 边 的 土 地 属 于 你， 我 的 {大 人/女 士}。 
+qstr_{s6}_Our_{reg4?town:v|{s6}我 们 {reg4?镇:村} 及 周 边 的 土 地 属 于 {s8}的 {s7}。
+qstr_{s3}_and_{s5}|{s3}和 {s5}
+qstr_{s3}_{s5}|{s3}、 {s5}
+qstr_{reg20?We_mostly_pro|我 们 这 {reg20?里 盛 产 {s5}:些 日 子 里 没 出 产 什 么}。 如 果 你 想 了 解 更 多， 你 可 以 找 我 们 的 {reg4?商 会 会 长:村 庄 长 老} 说 话。 他 就 在 附 近， 就 在 那 边。 
+qstr_Phoenix_Fire|菲 尼 克 斯 之 火 
+qstr_Moon_Tooth_takes_his|月 牙 捉 住 它 了！ 

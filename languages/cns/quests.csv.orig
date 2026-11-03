@@ -1,0 +1,82 @@
+qst_deliver_message|传 信 给 {s13}
+qst_deliver_message_text|{s9}叫 你 带 封 信 给 {s13}。 当 你 接 受 此 任 务 时， {s13}在 {s4}。 
+qst_deliver_message_to_enemy_lord|传 信 给 {s13}
+qst_deliver_message_to_enemy_lord_text|{s9}叫 你 带 封 信 给 {s15}的 {s13}。 当 你 接 受 此 任 务 时， {s13}在 {s4}。 
+qst_raise_troops|培 养 {reg1}个 {s14}
+qst_raise_troops_text|{s9}叫 你 培 养 {reg1}个 {s14}并 把 他 们 带 给 他。 
+qst_escort_lady|护 送 {s13}到 {s14}
+qst_escort_lady_text|无 
+qst_deal_with_bandits_at_lords_village|从 掠 夺 的 强 盗 处 解 救 {s15}村 
+qst_deal_with_bandits_at_lords_village_text|{s13}叫 你 对 付 避 难 于 他 的 {s15}村 的 强 盗 并 在 之 后 回 去 向 他 报 告。 
+qst_collect_taxes|从 {s3}收 税 
+qst_collect_taxes_text|{s9}叫 你 从 {s3}收 税。 他 愿 意 你 留 下 你 在 那 里 收 到 的 钱 的 总 数 的 五 分 之 一。 
+qst_hunt_down_fugitive|追 捕 {s4} 
+qst_hunt_down_fugitive_text|{s9}叫 你 追 捕 名 为 {s4} 的 逃 亡 者。 他 最 近 被 确 信 在 {s3}。 
+qst_kill_local_merchant|暗 杀 {s3}的 地 方 商 人 
+qst_kill_local_merchant_text|{s9}叫 你 暗 杀 {s3}的 一 名 地 方 商 人。 
+qst_bring_back_runaway_serfs|带 回 逃 跑 的 农 奴 
+qst_bring_back_runaway_serfs_text|{s9}叫 你 带 三 群 逃 跑 的 农 奴 回 {s2}。 他 说 这 三 群 一 定 都 在 朝 {s3}的 方 向 逃 跑。 
+qst_follow_spy|尾 随 密 探 去 碰 头 
+qst_follow_spy_text|{s11}叫 你 尾 随 将 要 离 开 {s12}的 密 探。 你 必 须 小 心， 不 要 在 密 探 的 旅 程 中 被 他 看 见， 否 则 他 可 能 会 起 疑 并 折 回 去。 当 密 探 和 他 的 同 谋 碰 头 时， 你 得 伏 击 并 捕 获 他 们 并 把 他 们 两 个 带 回 给 {s11}。 
+qst_capture_enemy_hero|捉 捕 一 位 {s13}的 领 主 
+qst_capture_enemy_hero_text|{s11}叫 你 捉 捕 一 位 {s13}的 领 主。 
+qst_lend_companion|把 你 的 同 伴 {s3}借 给 {s9}
+qst_lend_companion_text|{s9}叫 你 把 你 的 同 伴 {s3}借 给 他 一 个 星 期。 
+qst_collect_debt|收 回 {s3}欠 {s9}的 债 
+qst_collect_debt_text|{s9}叫 你 收 回 {s3}欠 他 的 {reg4}第 纳 尔 的 债。 
+qst_incriminate_loyal_commander|暗 示 {s13}的 忠 心 的 统 帅 {s16}有 罪 
+qst_incriminate_loyal_commander_text|无 
+qst_raid_caravan_to_start_war|突 袭 {s13}的 {reg13}支 商 队 
+qst_raid_caravan_to_start_war_text|无 
+qst_meet_spy_in_enemy_town|在 {s13}与 密 探 碰 头 
+qst_meet_spy_in_enemy_town_text|无 
+qst_capture_prisoners|带 回 {reg1}个 {s3}俘 虏 
+qst_capture_prisoners_text|{s9}想 要 你 带 给 他 {reg1}个 {s3}作 为 俘 虏。 
+qst_lend_surgeon|把 你 的 外 科 医 生 {s3}借 给 {s1}
+qst_lend_surgeon_text|把 你 的 老 练 的 外 科 医 生 {s3}借 给 {s1}。 
+qst_follow_army|跟 随 {s9}的 军 队 
+qst_follow_army_text|无 
+qst_report_to_army|向 元 帅 {s13}报 告 
+qst_report_to_army_text|无 
+qst_deliver_cattle_to_army|运 送 {reg3}头 牛 到 {s13}处 
+qst_deliver_cattle_to_army_text|无 
+qst_join_siege_with_army|加 入 对 {s14}的 围 攻 
+qst_join_siege_with_army_text|无 
+qst_scout_waypoints|侦 察 {s13}、 {s14}与 {s15}
+qst_scout_waypoints_text|无 
+qst_rescue_lord_by_replace|从 {s14}中 解 救 {s13}
+qst_rescue_lord_by_replace_text|无 
+qst_deliver_message_to_prisoner_lord|传 信 给 {s14}的 {s13}
+qst_deliver_message_to_prisoner_lord_text|无 
+qst_duel_for_lady|以 武 艺 挑 战 {s13}
+qst_duel_for_lady_text|无 
+qst_move_cattle_herd|赶 牛 到 {s13}
+qst_move_cattle_herd_text|{s10}的 商 会 会 长 叫 你 赶 一 群 牛 到 {s13}。 
+qst_escort_merchant_caravan|护 送 商 人 的 商 队 到 {s8}
+qst_escort_merchant_caravan_text|护 送 商 人 的 商 队 到 {s8}镇。 
+qst_deliver_wine|运 送 {reg5}单 位 的 {s6}到 {s4}
+qst_deliver_wine_text|{s3}的 {s9}叫 你 在 7天 内 运 送 {reg5}单 位 的 {s6}到 {s4}的 酒 馆。 
+qst_troublesome_bandits|追 捕 难 对 付 的 强 盗 
+qst_troublesome_bandits_text|{s4}的 {s9}叫 你 追 捕 城 镇 附 近 地 区 的 难 对 付 的 强 盗。 
+qst_kidnapped_girl|从 强 盗 手 中 赎 回 女 孩 
+qst_kidnapped_girl_text|{s4}的 商 会 会 长 给 了 你 {reg12}第 纳 尔 来 向 强 盗 支 付 一 位 被 绑 架 的 女 孩 的 赎 金。 你 得 在 {s3}附 近 与 那 些 强 盗 会 面 并 支 付 他 们 赎 金。 在 那 之 后， 你 得 带 女 孩 回 {s4}。 
+qst_persuade_lords_to_make_peace|确 保 两 位 领 主 不 反 对 和 平 
+qst_persuade_lords_to_make_peace_text|{s4}的 商 会 会 长 答 应 你， 如 果 你 能 确 保 {s12}和 {s13}不 再 对 {s15}和 {s14}的 和 平 协 定 做 出 威 胁 的 话， 他 会 给 你 {reg12}第 纳 尔。 为 了 做 到 这 个， 你 必 须 要 么 说 服 他 们， 要 么 确 保 他 们 被 俘 虏 并 保 持 这 样 直 到 一 个 和 平 协 定 被 制 定。 
+qst_deal_with_looters|对 付 掠 夺 者 
+qst_deal_with_looters_text|{s4}的 商 会 会 长 叫 你 对 付 几 队 {s4}附 近 的 掠 夺 者， 并 且 带 回 你 追 回 的 任 何 货 物。 
+qst_deal_with_night_bandits|对 付 夜 间 强 盗 
+qst_deal_with_night_bandits_text|{s14}的 商 会 会 长 叫 你 对 付 {s14}的 夜 间 强 盗。 
+qst_deliver_grain|带 小 麦 给 {s3}
+qst_deliver_grain_text|{s3}的 村 庄 长 老 叫 你 给 他 们 带 {reg5}包 小 麦。 
+qst_deliver_cattle|带 {reg5}头 牛 给 {s3} 
+qst_deliver_cattle_text|{s3}的 村 庄 长 老 叫 你 带 {reg5}头 牛。 
+qst_train_peasants_against_bandits|训 练 {s13}的 农 民 抵 抗 强 盗 
+qst_train_peasants_against_bandits_text|无 
+qst_eliminate_bandits_infesting_village|从 掠 夺 的 强 盗 处 解 救 {s7}村 
+qst_eliminate_bandits_infesting_village_text|一 位 来 自 {s7}的 村 民 恳 请 你 从 避 难 于 他 们 的 村 庄 的 强 盗 手 中 解 救 那 里。 
+qst_join_faction|向 {s1}宣 誓 效 忠 
+qst_join_faction_text|找 到 {s1}并 向 他 宣 誓 效 忠。 
+qst_rebel_against_kingdom|帮 助 {s13}夺 得 {s14}的 王 位 
+qst_rebel_against_kingdom_text|无 
+qst_quests_end|任 务 结 束 
+qst_quests_end_text|。 

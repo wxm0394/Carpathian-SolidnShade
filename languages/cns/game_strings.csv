@@ -1,0 +1,2108 @@
+﻿str_no_string|无字串！ 
+str_empty_string|
+str_yes|是 
+str_no|否 
+str_blank_string|
+str_error_string|错误！！！错误！！！！错误！！！错误！！！错误！！！错误！！！！错误！！！错误！！！！错误！！！错误！！！！错误！！！错误！！！！错误！！！错误！！！！错误！！！错误！！！！！ 
+str_noone|无人 
+str_s0|{s0}
+str_blank_s1|{s1}
+str_reg1|{reg1}
+str_s50_comma_s51|{s50}、 {s51}
+str_s50_and_s51|{s50}和 {s51}
+str_s5_s_party|{s5}的部队 
+str_given_by_s1_at_s2|在 {s2}被 {s1}给了 
+str_given_by_s1_in_wilderness|在野外时被 {s1}给了 
+str_s7_raiders|{s7}突袭者 
+str_bandits_eliminated_by_another|难对付的强盗被另一支队伍消灭了。 
+str_msg_battle_won|战斗胜利！按制表键离开……  
+str_tutorial_map1|欢迎来到《实和虚》。邪恶弥漫在卡拉迪亚……不死生物行走于陆地上，驱赶它们的是亡灵主人们，没什么能阻止他们——即使死亡也不能——追求他们的力量。一些人说，在这个世界上，还有着更加奇怪的生物。好好找寻吧，你也许会找到许多的秘密的。但是记住：你所见到的都是真实的，尤其是那些被遗忘了的……  
+str_tutorial_map2|密码盘发光，你的父亲的声音在你的脑海里响起 ! 不要被磁盘扫描 ( 错误 : 损坏的文件 ) 。你听到这个消息，我一定是死了。因此，我命令你继续我的任务 : 停止 ( 错误 : 损坏的文件 ) 在它 ! 四方客栈，现在在你的地图上可以看到，隐藏了一个巨大的秘密 : 一个 ( 错误 : 损坏的文件 ) 博物馆 !
+str_tutorial_map3|激活密码盘传送到那里 - 博物馆是由一个种族 ( 错误 : 损坏的文件 ) 建立了许多 ( 错误 : 损坏的文件 ) 如果你聪明，你会在那里找到很多答案。然而，由于您没有 ( 错误 : 损坏的文件 ) 来查看展品。记住你的任务 ! 良好的 ( 错误 : 文件意外结束 ) 。
+str_tutorial_map4|其中一个家伙提到了附近的一个藏身之处，就在一个叫苏诺的村庄的南面。在人们还记得以前，不法分子就已经聚集在那里了——那将是一个雇佣一些人的好地方。如果价格合适，那就是…… 
+str_change_color_1|改变颜色 1
+str_change_color_2|改变颜色 2
+str_change_background|改变背景样式 
+str_change_flag_type|改变旗帜类型 
+str_change_map_flag_type|改变地图旗帜类型 
+str_randomize|随机化 
+str_sample_banner|旗帜样品： 
+str_sample_map_banner|地图旗帜样品： 
+str_number_of_charges|指示对象数量： 
+str_change_charge_1|改变指示对象 1
+str_change_charge_1_color|改变指示对象 1的颜色 
+str_change_charge_2|改变指示对象 2
+str_change_charge_2_color|改变指示对象 2的颜色 
+str_change_charge_3|改变指示对象 3
+str_change_charge_3_color|改变指示对象 3的颜色 
+str_change_charge_4|改变指示对象 4
+str_change_charge_4_color|改变指示对象 4的颜色 
+str_change_charge_position|改变指示对象位置 
+str_choose_position|选择位置： 
+str_choose_charge|选择一个指示对象： 
+str_choose_background|选择背景样式： 
+str_choose_flag_type|选择旗帜类型： 
+str_choose_map_flag_type|选择地图旗帜类型： 
+str_choose_color|选择颜色： 
+str_accept|接受 
+str_charge_no_1|填充 #1： 
+str_charge_no_2|填充 #2： 
+str_charge_no_3|填充 #3： 
+str_charge_no_4|填充 #4： 
+str_change|改变 
+str_plus|+
+str_minus|-
+str_color_no_1|颜色 #1： 
+str_color_no_2|颜色 #2： 
+str_charge|指示对象 
+str_color|颜色 
+str_flip_horizontal|水平翻转 
+str_flip_vertical|垂直翻转 
+str_hold_fire|停止射击 
+str_blunt_hold_fire|使用钝器或停止射击 
+str_necropolis|大墓地 
+str_evil|邪恶 
+str_greenmeteorite|发光的陨石坑
+str_isaghost|{他/她} 是个幽灵。 
+str_isavampire|{他/她} 是个吸血鬼。 
+str_isawerewolf|{他/她} 是个狼人。 
+str_isalich|{他/她} 是个巫妖。 
+str_isanantihero|{他/她} 是个反常英雄。 
+str_isdeath|{他/她} 是个死魔。 
+str_isrelicmaster|{他/她} 是个遗物收集师。 
+str_isaghoul|{他/她} 是一个食尸鬼。
+str_iscuredvampire|{他/她} 是治愈后的吸血鬼。
+str_iscuredwerewolf|{他/她} 是治愈后的狼人。
+str_isfairykin|{他/她} 是精灵族。
+str_isundeath|{他/她} 是一个僵尸。
+str_isavatar|{他/她} 是海神的化身。
+str_ismaneater|{他/她} 是噬人者。
+str_stonebroke|你仍活着，但是你的仙石碎了！ 
+str_infinitystone|无限之石闪闪发光，把你复活了！ 
+str_ouijaa|甲
+str_ouijab|乙
+str_ouijac|丙
+str_ouijad|丁
+str_ouijae|戊
+str_ouijaf|己
+str_ouijag|庚
+str_ouijah|辛
+str_ouijai|壬
+str_ouijaj|癸
+str_ouijak|子
+str_ouijal|丑
+str_ouijam|寅
+str_ouijan|卯
+str_ouijao|辰
+str_ouijap|巳
+str_ouijaq|午
+str_ouijar|未
+str_ouijas|申
+str_ouijat|酉
+str_ouijau|戌
+str_ouijav|亥
+str_ouijaw|之
+str_ouijax|乎
+str_ouijay|者
+str_ouijaz|也
+str_ouija0|零
+str_ouija1|一
+str_ouija2|二
+str_ouija3|三
+str_ouija4|四
+str_ouija5|五
+str_ouija6|六
+str_ouija7|七
+str_ouija8|八
+str_ouija9|九
+str_ouijaa2|甲
+str_ouijab2|乙
+str_ouijac2|丙
+str_ouijad2|丁
+str_ouijae2|戊
+str_ouijaf2|己
+str_ouijag2|庚
+str_ouijah2|辛
+str_ouijai2|壬
+str_ouijaj2|癸
+str_ouijak2|子
+str_ouijal2|丑
+str_ouijam2|寅
+str_ouijan2|卯
+str_ouijao2|辰
+str_ouijap2|巳
+str_ouijaq2|午
+str_ouijar2|未
+str_ouijas2|申
+str_ouijat2|酉
+str_ouijau2|戌
+str_ouijav2|亥
+str_ouijaw2|之
+str_ouijax2|乎
+str_ouijay2|者
+str_ouijaz2|也
+str_ouija02|零
+str_ouija12|一
+str_ouija22|二
+str_ouija32|三
+str_ouija42|四
+str_ouija52|五
+str_ouija62|六
+str_ouija72|七
+str_ouija82|八
+str_ouija92|九
+str_ouijaa3|甲
+str_ouijab3|乙
+str_ouijac3|丙
+str_ouijad3|丁
+str_ouijae3|戊
+str_ouijaf3|己
+str_ouijag3|庚
+str_ouijah3|辛
+str_ouijai3|壬
+str_ouijaj3|癸
+str_ouijak3|子
+str_ouijal3|丑
+str_ouijam3|寅
+str_ouijan3|卯
+str_ouijao3|辰
+str_ouijap3|巳
+str_ouijaq3|午
+str_ouijar3|未
+str_ouijas3|申
+str_ouijat3|酉
+str_ouijau3|戌
+str_ouijav3|亥
+str_ouijaw3|之
+str_ouijax3|乎
+str_ouijay3|者
+str_ouijaz3|也
+str_ouija03|零
+str_ouija13|一
+str_ouija23|二
+str_ouija33|三
+str_ouija43|四
+str_ouija53|五
+str_ouija63|六
+str_ouija73|七
+str_ouija83|八
+str_ouija93|九
+str_ouijayes|是
+str_ouijano|非
+str_ouijagoodbye|再见
+str_ouijalive|生
+str_ouijadie|死
+str_ouijared|赤
+str_ouijagreen|碧
+str_ouijablue|青
+str_ouijayellow|黄
+str_ouijanorth|北
+str_ouijaeast|东
+str_ouijasouth|南
+str_ouijawest|西
+str_ouijathe|此
+str_ouijaof|之于
+str_ouijain|于
+str_ouijaof|之于
+str_ouijaof|之于
+str_ouijaof|之于
+str_ouijaof|之于
+str_ouijaof|之于
+str_ouijafire|火
+str_ouijawater|水
+str_ouijaearth|土
+str_ouijawind|风
+str_ouijarain|雨
+str_ouijasun|日
+str_ouijamoon|月
+str_ouijastar|星
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijablood|血
+str_ouijaend|结束
+str_tutorial_ammo_refilled|装填弹药。 
+str_tutorial_failed|你这次被击倒了，但是别担心。细心地遵循指示，下次你就会做得更好。按制表键回到菜单，你可以重新尝试本次教程。 
+str_tutorial_1_msg_1|在本教程里，你将学会移动与战斗的基础内容。在《骑马与砍杀》中，你得用鼠标来控制你的视角，并使用你键盘上的“W”键、“A”键、“S”键、“D”键来移动。你的第一项训练任务是确定房间中的旗帜的位置并移动到它那里。你可以在任何时候按下制表键来退出本教程或者在游戏中离开任何别的地方。现在，去走向旗帜吧。 
+str_tutorial_1_msg_2|做得好。接下来我们将要完成用武器攻击的学习。为了实现本教程的这一目的，你已被装备了弓与箭、一把剑和一面盾。使用你的鼠标的滚轮，你就可以从你的武器格中抽出不同的武器。在默认设置下，向上滚动将拔出你的下一件武器，而向下滚动将拔出你的盾。如果你已经持着一面盾了，那么向下滚动将会收起你的盾。现在，试试用滚轮改变你的挥砍装备吧。当你准备好了，去旗帜处以继续你的下一项任务。 
+str_tutorial_1_msg_3|太棒了。本教程的下一部分涉及到用近战武器攻击。使用鼠标左键，你就能用你当前的挥砍武器发动攻击。按住按键以准备攻击，之后松开按键以出击。如果按住鼠标左键一会儿之后再松开，你的攻击将会更强。现在，拔出你的剑并摧毁房间里的四个假人吧。 
+str_tutorial_1_msg_4|做得漂亮！你已将四个假人全部摧毁了。你现在能够继续前进到下一个房间了。 
+str_tutorial_1_msg_5|如你所见，在房间的远处有一个箭靶。你的下一项任务就是用你的弓把三支箭射到靶上。按住鼠标左键以保持箭枝搭在弓上。你可以在之后通过松开鼠标左键来射出箭。注意你屏幕中心的准心，它显示了你的射击精度。为了得到最理想的精度，就应该在准心最小时让箭飞出。现在，试着去射靶子吧。 
+str_tutorial_1_msg_6|做得好！你已学到了移动与攻击的基础内容。只要多训练一下，你就能很快熟练于它们了。在第二个教程中，你能够学到更高级的战斗技能并将面对武装了的对手。你可以在任何时候按下制表键以返回教程菜单。 
+str_tutorial_2_msg_1|本教程将要教你如何用盾来保护你自己以及如何与武装了的对手战斗。目前，你只被装备了一面盾。你的任务不是攻击，而是使用盾牌成功地保护你自己不受伤害。有一名武装了的对手在下一个房间等着你。他会尽他的最大努力来把你打得不省人事，所以在此期间，你必须通过按住鼠标右键来用你的盾保护你自己。现在，去下一个房间面对你的对手吧。记住，你可以在任何时候按下制表键来退出本教程或者在游戏中离开任何别的地方。 
+str_tutorial_2_msg_2|按住鼠标右键以举起你的盾。试着坚持三十秒不倒。你还需坚持 {reg3}秒。 
+str_tutorial_2_msg_3|做得好，你已成功地抵御了一名武装了的对手。本教程的下一阶段将会让你以你的盾来对抗一名敌方的弓箭手。当你准备好面对那名弓箭手了，就继续前进至下一个房间吧。 
+str_tutorial_2_msg_4|通过按住鼠标右键来举起你的盾以保护你自己不受箭枝伤害。试着坚持三十秒不倒。你还需坚持 {reg3}秒。 
+str_tutorial_2_msg_5|太棒了，你已成功地抵御了弓箭手。在下一个房间正有一件奖品等着你呢。 
+str_tutorial_2_msg_6|在默认设置中，你键盘上的“F”键在游戏的世界中是被用来与物品或人进行非暴力的互动的。要捡起台子上的剑，就看着它并在你看见“装备”一词时，按下“F”键。 
+str_tutorial_2_msg_7|好武器！现在，你能够使用它来偿还一下你的对手了。穿过门来回去干掉你之前面对了的那名弓箭手吧。 
+str_tutorial_2_msg_8|很好。在完成本教程前，你的最后一项任务就是面对那名棍棒手。现在走过门去向他展示你的剑法吧！ 
+str_tutorial_2_msg_9|祝贺！你现在学会了如何用盾来保护你自己，甚至还首次尝试了与武装了的对手战斗。只要多训练一下，你就能很快成为一名有名的剑客。下一个教程涉及到了定向防御，这是《骑马与砍杀》的战斗中的最重要的元素之一。你可以在任何时候按下制表键来返回教程菜单。 
+str_tutorial_3_msg_1|本教程打算让你全面地体会不用盾的格挡与防御。用你的武器来挡住攻击比用盾来阻挡它们要难了一点。当你用武器来防御时，你只能保护你不受到来自一个方向的伤害，这个方向就是你的武器所处于的方向。如果你在向上阻挡，你将格挡住任何对你劈头而来的挥舞攻击，但是你不能阻止对你前后左右的穿刺与攻击。这些攻击中的任何一个仍然都能打中你。这就是为什么，你必须学到定向防御，才能在没有盾的情况下幸存。现在去捡起那根细棍子来开始练习吧。 
+str_tutorial_3_msg_2|根据默认，你（通过按住你的鼠标右键）所防御的方向是由与你最接近的对手的进攻方向所决定的。例如，如果你的对手在准备一个穿刺攻击，按住鼠标右键将会格挡住穿刺攻击，但是格挡不住前后左右与劈头而来的攻击。你必须仔细观察你的对手，并且只在敌人开始攻击之后再实施你的格挡。如果你在他准备攻击之前就开始了，你格挡的方向可能会是完全错误的！现在，该继续前进至下一个房间了，在那里，你将不得不保护你自己不受一名武装了的敌人的伤害。你的任务是在没有别的装备而只有一根简单的细棍子的情况下成功地保护你自己三十秒。你的细棍子的攻击在本教程中被禁止了，所以不要分心于攻击，而应关注于防御。当你准备好经历这场战斗时，继续前进至下一个房间吧。 
+str_tutorial_3_msg_3|在你的对手开始他的攻击后，按住鼠标右键来用你的棍子保护你自己。试着坚持三十秒不倒。你还需坚持 {reg3}秒。 
+str_tutorial_3_msg_4|做得好，你已成功地经过了这一考验！现在你将遭遇一名更具挑战性的对手，情况对你将更加艰难。当你准备好面对他了，继续前进至下一个房间吧。 
+str_tutorial_3_msg_5|在你的对手开始他的攻击后，按住鼠标右键来用你的棍子保护你自己。试着坚持三十秒不倒。你还需坚持 {reg3}秒。 
+str_tutorial_3_msg_6|祝贺，尽管敌人尽了全力，你仍然没有倒下。现在是既可攻击又可防御的时候了。接近门口，在你看见“前往”一词时，按下“F”键。 
+str_tutorial_3_2_msg_1|你的棍子的攻击又被激活了。你的第一名对手正在下一个房间中等你。通过攻击与防御的组合来击败他吧。 
+str_tutorial_3_2_msg_2|用你的细棍子击败你的对手。 
+str_tutorial_3_2_msg_3|太棒了。现在只有一名对手站在你的路上了。他就在下一个房间。过去打倒他吧。 
+str_tutorial_3_2_msg_4|用你的细棍子击败你的对手。 
+str_tutorial_3_2_msg_5|做得好！在本教程中，你学会了如何巧妙地在没有盾的情况下战斗。刻苦而认真地训练，就不会有人能打中你了。在下一个教程中，你可以学到骑马与骑乘战斗。你可以在任何时候按下制表键来返回教程菜单。 
+str_tutorial_4_msg_1|欢迎来到第四个教程。在接下来的一连串训练中，你将学会骑马以及如何在马背上做出各项战斗行动。我们最初的训练是让你骑上马。接近马匹，在你看见“上马”一词时，按下“F”键。 
+str_tutorial_4_msg_2|处在马背上时，“W”键、“A”键、“S”键、“D”键将控制你的马匹的移动，而不是你的移动。驾驭马匹并试着跟随围绕着场地的旗帜。当你抵达了旗帜，它将移动到场地上的下一个路点，直到你抵达了最后的旗帜。 
+str_tutorial_4_msg_3|很好。接下来我们要完成在马背上攻击敌人的学习。现在，接近旗帜。 
+str_tutorial_4_msg_4|（用鼠标滚轮）拔出你的剑并摧毁两个目标。试着在全速疾驰的情况下经过它们时击中它们吧——这将是一个额外的挑战，但是奔驰的速度将会加强你的打击，让你做出更大的伤害。做到这个的最简答的办法就是按住鼠标左键。直到你就要经过目标之时再松开它。 
+str_tutorial_4_msg_5|做得真出色。现在让我们试试在马背上射一下靶子吧。现在，走到旗帜附近。 
+str_tutorial_4_msg_6|找到跑道旁的箭靶并用你的弓射中它三次。尽管你并非必须边骑边射，但仍然推荐你试着以不同的速度与角度射中箭靶，这样你就能感受到你的马匹的速度与线路是如何影响你的瞄准的了。 
+str_tutorial_4_msg_7|祝贺，你完成了本教程。你可以在任何时候按下制表键来返回教程菜单。 
+str_tutorial_5_msg_1|将要完成：跟随命令至旗帜 
+str_tutorial_5_msg_2|将要完成：移动至旗帜，保持你的单位在这一位置 
+str_tutorial_5_msg_3|将要完成：移动至旗帜以得到弓箭手 
+str_tutorial_5_msg_4|将要完成：移动弓箭手至旗帜 1，步兵至旗帜 2
+str_tutorial_5_msg_5|将要完成：敌人正在冲锋。杀呀！ 
+str_tutorial_5_msg_6|将要完成：战斗的最后。 
+str_trainer_help_1|这是一片训练场，你可以在此学到游戏的基本操作。使用“W”键、“A”键、“S”键、“D”键来移动，使用鼠标来看四周。 
+str_trainer_help_2|要与教练对话，就得走近他，看着他，并在你在他的名字下看见“交谈”一词时按下“F”键。当你想要离开这里或者任何别的地方或者从一场战斗中撤退时，你可以按下制表键。 
+str_custom_battle_1|从你的父亲去世以来，你一直是这个小村庄的长老。你看着家畜，作物不断生长，看着孩子们长大，老人们逝去。你还记得湖面上以前还有水，但在地震之后干涸了。你惩罚了当地的罪犯，并处理了村民之间的争端。你不需要那些雾来告诉你发生了非同寻常的事情。那天早上太安静了，当你穿衣服的时候，准备去看看村民们的情况。突然，伴随着血腥味的尖叫声让凝结的空气流动了起来，你吓得汗毛倒竖，顶起了你的帽子。你回过神来，抓起你的双管猎枪，随后你打开了门，，，，，，该做做晨练了  
+str_custom_battle_2|奴隶贩子的生活确是吃香喝辣，尤其是当你和奴隶女孩打交道的时候，，，，一个地方领主要买下两群你能找到的最漂亮的女孩，当听见这个请求时，你没理由拒绝，即使你必须像赶牛一样把他们赶过雪地。他们的脚趾都快要冻掉了 . . . 你恨死雪了，因为你的马艰难地挪动着，还带着几分不安。领主的订单也许要被截胡了，某位巫医可不觉得这些奴隶女孩应该被这样浪费。对他来说，雪是一种赐福 - - 它将使他的身体优雅而健壮，很快，他就能放倒每一个女孩，，，，包括你，，，。很快，他的造物军团将诞生，，逃命吧！
+str_custom_battle_3| 吸血鬼之母有时也会空虚寂寞冷。当你傍晚到野外找寻猎物时，你遇到了一个你不想吞食的贵族男孩，他就像对待一个普通女孩一样和你在池塘边打情骂俏。你不会背叛他的，他长得太像宙斯了；但生与死的界限很可能随时把他带走，你不想失去他，因此你迅速把他变成了你的“人”，他带你回到他的城堡，鲜血顺着他的胳膊流下来，以此送给他心爱的人。但现在，当亚伯兄弟会准备对墙进行最后的攻击时，你对自己的鲁莽感到后悔。然而，这位姑娘毕竟不是一个单纯的小女孩，她真的很爱这个年轻的贵族，这之后除了他之外，谁还会记得她是一个生活在荒野中的女妖呢，，，，，现在，，，，战栗吧！ 
+str_custom_battle_4|你应该更好地把握时间对你的影响。经过多年的磨砺，酒瓶和灯笼终于变成了付丧神，他们已经获得了自己的灵魂。但似乎你忽略了他们的生日，他们很生气。在你的卧室里，你听到你最喜欢的古董茶具在被打碎的声音。这不是一场噩梦，但你变得年迈，双目昏花，那套古董茶具是你的传家宝，你很珍惜它们，，，，，，。你不再是冉冉升起的旭日了，你暗自嘟囔着，在你处理了这件事之后，你必须会退休，也许你会以渔夫的身份度过余生，，，，拔刀吧 
+str_custom_battle_5|这一定是一场噩梦……来自精神病家族的哑剧演员谋杀了你的兄弟，你怒火中烧，发誓要他们血债血偿。他们正躲在房子里，据你听闻他们有重武器。但他们不知道，你是一个训练有素的刺客 . . . 今天，正义将会被执行，但方法比以前都粗暴。通常你会偷偷溜进去，但今天不行，没人会因此付钱，当你靠近大楼的时候，你装好手炮，大声叫嚣着你的复仇誓言。你听到里面传来的动静- - 他们知道你要来。太好了，，，，，你想从他们的眼中看到，正如你兄弟遇害时的恐惧 - - 他们知道你是来找他们的，没有什么可以阻止你的，，，，，，动手吧
+str_finished|（完成） 
+str_delivered_damage|造成了 {reg60}点伤害。 
+str_archery_target_hit|距离： {reg61}码。得分： {reg60}
+str_use_baggage_for_inventory|在战斗中使用你的辎重来进入物品栏（就在你开始的位置）。 
+str_cant_use_inventory_now|现在不能进入物品栏。 
+str_cant_use_inventory_arena|在这个地方不能进入物品栏。 
+str_cant_use_inventory_disguised|在你伪装着时不能进入物品栏。 
+str_cant_use_inventory_tutorial|在这个训练营不能进入物品栏。 
+str_1_denar|1第纳尔 
+str_reg1_denars|{reg1}第纳尔 
+str_january_reg1_reg2|{reg2}年狼月 {reg1}日 
+str_february_reg1_reg2|{reg2}年烛月 {reg1}日 
+str_march_reg1_reg2|{reg2}年亡月 {reg1}日 
+str_april_reg1_reg2|{reg2}年旱月 {reg1}日 
+str_may_reg1_reg2|{reg2}年凋月 {reg1}日 
+str_june_reg1_reg2|{reg2}年蝗月 {reg1}日 
+str_july_reg1_reg2|{reg2}年瘟月 {reg1}日 
+str_august_reg1_reg2|{reg2}年风月 {reg1}日 
+str_september_reg1_reg2|{reg2}年饥月 {reg1}日 
+str_october_reg1_reg2|{reg2}年血月 {reg1}日 
+str_november_reg1_reg2|{reg2}年冰月 {reg1}日 
+str_december_reg1_reg2|{reg2}年鬼月 {reg1}日 
+str_2january_reg1_reg2|{reg2}年狼月{reg1}日
+str_2february_reg1_reg2|{reg2}年烛月 {reg1}日
+str_2march_reg1_reg2|{reg2}年亡月 {reg1}日
+str_2april_reg1_reg2|{reg2}年旱月 {reg1}日
+str_2may_reg1_reg2|{reg2}年枯月 {reg1}日
+str_2june_reg1_reg2|{reg2}年蝗月 {reg1}日
+str_2july_reg1_reg2|{reg2}年瘟月 {reg1}日
+str_2august_reg1_reg2|{reg2}年风月 {reg1}日
+str_2september_reg1_reg2|{reg2}年饥月 {reg1}日
+str_2october_reg1_reg2|{reg2}年血月 {reg1}日
+str_2november_reg1_reg2|{reg2}年冰月 {reg1}日
+str_2december_reg1_reg2|{reg2}年鬼月 {reg1}日
+str_3january_reg1_reg2|{reg2}年狼月 {reg1}日
+str_3february_reg1_reg2|{reg2}年烛月 {reg1}日
+str_3march_reg1_reg2|{reg2}年亡月 {reg1}日
+str_3april_reg1_reg2|{reg2}年旱月 {reg1}日
+str_3may_reg1_reg2|{reg2}年枯月 {reg1}日
+str_3june_reg1_reg2|{reg2}年蝗月 {reg1}日
+str_3july_reg1_reg2|{reg2}年瘟月 {reg1}日
+str_3august_reg1_reg2|{reg2}年风月 {reg1}日
+str_3september_reg1_reg2|{reg2}年饥月 {reg1}日
+str_3october_reg1_reg2|{reg2}年血月 {reg1}日
+str_3november_reg1_reg2|{reg2}年冰月 {reg1}日
+str_3december_reg1_reg2|{reg2}年鬼月 {reg1}日
+str_4january_reg1_reg2|{reg2}年狼月 {reg1}日
+str_4february_reg1_reg2|{reg2}年烛月 {reg1}日
+str_4march_reg1_reg2|{reg2}年亡月 {reg1}日
+str_4april_reg1_reg2|{reg2}年旱月 {reg1}日
+str_4may_reg1_reg2|{reg2}年枯月 {reg1}日
+str_4june_reg1_reg2|{reg2}年蝗月 {reg1}日
+str_4july_reg1_reg2|{reg2}年瘟月 {reg1}日
+str_4august_reg1_reg2|{reg2}年风月 {reg1}日
+str_4september_reg1_reg2|{reg2}年饥月 {reg1}日
+str_4october_reg1_reg2|{reg2}年血月 {reg1}日
+str_4november_reg1_reg2|{reg2}年冰月 {reg1}日
+str_4december_reg1_reg2|{reg2}年鬼月 {reg1}日
+str_5january_reg1_reg2|{reg2}年狼月 {reg1}日
+str_5february_reg1_reg2|{reg2}年烛月 {reg1}日
+str_5march_reg1_reg2|{reg2}年亡月 {reg1}日
+str_5april_reg1_reg2|{reg2}年旱月 {reg1}日
+str_5may_reg1_reg2|{reg2}年枯月 {reg1}日
+str_5june_reg1_reg2|{reg2}年蝗月 {reg1}日
+str_5july_reg1_reg2|{reg2}年瘟月 {reg1}日
+str_5august_reg1_reg2|{reg2}年风月 {reg1}日
+str_5september_reg1_reg2|{reg2}年饥月 {reg1}日
+str_5october_reg1_reg2|{reg2}年血月 {reg1}日
+str_5november_reg1_reg2|{reg2}年冰月 {reg1}日
+str_5december_reg1_reg2|{reg2}年鬼月 {reg1}日
+str_6january_reg1_reg2|{reg2}年狼月 {reg1}日
+str_6february_reg1_reg2|{reg2}年烛月 {reg1}日
+str_6march_reg1_reg2|{reg2}年亡月 {reg1}日
+str_6april_reg1_reg2|{reg2}年旱月 {reg1}日
+str_6may_reg1_reg2|{reg2}年枯月 {reg1}日
+str_6june_reg1_reg2|{reg2}年蝗月 {reg1}日
+str_6july_reg1_reg2|{reg2}年瘟月 {reg1} 日
+str_6august_reg1_reg2|{reg2}年风月 {reg1} 日
+str_6september_reg1_reg2|{reg2}年饥月 {reg1}日 
+str_6october_reg1_reg2|{reg2}年血月 {reg1} 日
+str_6november_reg1_reg2|{reg2}年冰月 {reg1} 日
+str_6december_reg1_reg2|{reg2}年鬼月 {reg1} 日
+str_7january_reg1_reg2|{reg2}年狼月 {reg1}日
+str_7february_reg1_reg2|{reg2}年烛月 {reg1}日
+str_7march_reg1_reg2|{reg2}年亡月 {reg1}日
+str_7april_reg1_reg2|{reg2}年旱月 {reg1}日
+str_7may_reg1_reg2|{reg2}年枯月 {reg1}日
+str_7june_reg1_reg2|{reg2}年蝗月 {reg1}日
+str_7july_reg1_reg2|{reg2}年瘟月 {reg1}日
+str_7august_reg1_reg2|{reg2}年风月 {reg1}日
+str_7september_reg1_reg2|{reg2}年饥月 {reg1}日 
+str_7october_reg1_reg2|{reg2}年血月 {reg1} 日
+str_7november_reg1_reg2|{reg2}年冰月 {reg1} 日
+str_7december_reg1_reg2|{reg2}年鬼月 {reg1} 日
+str_8january_reg1_reg2|{reg2}年狼月 {reg1} 日
+str_8february_reg1_reg2|{reg2}年烛月 {reg1}日
+str_8march_reg1_reg2|{reg2}年亡月 {reg1}日
+str_8april_reg1_reg2|{reg2}年旱月 {reg1}日
+str_8may_reg1_reg2|{reg2}年枯月 {reg1}日
+str_8june_reg1_reg2|{reg2}年蝗月 {reg1}日
+str_8july_reg1_reg2|{reg2}年瘟月 {reg1}日
+str_8august_reg1_reg2|{reg2}年风月 {reg1}日
+str_8september_reg1_reg2|{reg2}年饥月 {reg1}日
+str_8october_reg1_reg2|{reg2}年血月 {reg1}日
+str_8november_reg1_reg2|{reg2}年冰月 {reg1}日
+str_8december_reg1_reg2|{reg2}年鬼月 {reg1}日
+str_friday|阿佛洛狄特
+str_saturday|萨转
+str_sunday|赫兰
+str_monday|塞勒涅
+str_tuesday|维纳斯
+str_wednesday|赫姆
+str_thursday|迪欧斯
+str_town_nighttime|现在夜已深了，并且正直的人们都已离开了街道。 
+str_door_locked|门已上锁。 
+str_castle_is_abondened|这座城堡似乎未被占领。 
+str_town_is_abondened|这座城镇没有驻军守卫它。 
+str_place_is_occupied_by_player|这个地方被你自己的部队控制着。 
+str_place_is_occupied_by_enemy|这个地方被敌方的部队控制着。 
+str_place_is_occupied_by_friendly|这个地方被敌方的友队控制着。 
+str_do_you_want_to_retreat|你确定你想要撤退？ 
+str_give_up_fight|放弃战斗？ 
+str_do_you_wish_to_leave_tutorial|你想要离开这个教程？ 
+str_do_you_wish_to_surrender|你想要投降？ 
+str_can_not_retreat|不能撤退，附近有敌人！ 
+str_s1_joined_battle_enemy|{s1}作为敌对的一方加入了战斗。 
+str_s1_joined_battle_friend|{s1}作为你的一方加入了战斗。 
+str_entrance_to_town_forbidden|瞭望塔上的城镇守卫正在警戒入侵者，似乎你不能未受质疑地通过大门。 
+str_sneaking_to_town_impossible|城镇守卫收到了警报。如论你如何伪装你自己，你也不能混过大门。 
+str_battle_won|你赢得了战斗！ 
+str_battle_lost|你输掉了战斗！ 
+str_attack_walls_success|在一场血腥的战斗后，你勇敢的士兵们设法从敌军手中夺得了城墙。 
+str_attack_walls_failure|你的士兵向城墙冲锋并涌入了内部，而还活着的那几个人很快地溃退并逃走了，再也没有被见到了。 
+str_attack_walls_continue|一场血腥的战斗接踵而来，而双方都以同样的英勇战斗。尽管你的部队努力了，但城堡仍然还在敌人手中。 
+str_order_attack_success|你的部下勇敢地战斗并且击败了敌人。 
+str_order_attack_failure|你绝望地观看着战斗，看见敌人砍倒了你的士兵们，之后轻松地赶走了剩下的几个精疲力竭的幸存者。 
+str_order_attack_continue|通过一场持续的小规模斗争，你的部队还不能赢得一次决定性的胜利。 
+str_join_order_attack_success|你的部下与你的盟军并肩作战得很好，分享着击败了你的敌人的光荣。 
+str_join_order_attack_failure|你绝望地观看着战斗，看见敌人砍倒了你的士兵们，之后轻松地赶走了剩下的几个精疲力竭的幸存者。 
+str_join_order_attack_continue|通过一场持续的小规模斗争，不管是你的部队还是你的盟军都还不能对敌人赢得一次决定性的胜利。 
+str_siege_defender_order_attack_success|驻军的士兵们凭借他们的技能与勇气守住了他们的城墙，粉碎了敌人的进攻并巧妙地将攻击转为了完全的溃退。 
+str_siege_defender_order_attack_failure|攻击很快变为了一场大屠杀。英勇的努力已无价值；处于劣势的驻军已不能守住城墙，敌人将每一个最后的抵御者送到了刀口上。 
+str_siege_defender_order_attack_continue|城墙上的反复的、血腥的攻击没能赢得任何地方，但是还有太多的敌人未被消灭，抵御者们还没有赢得一场真正的胜利。围困还在继续。 
+str_hero_taken_prisoner|{s3}的 {s1}已被 {s2}俘虏。 
+str_hero_freed|{s3}的 {s1}已被 {s2}从监禁中解救。 
+str_center_captured|{s2}已从 {s3}夺取了 {s1}。 
+str_troop_relation_increased|你与 {s1}的关系从 {reg1}增进到了 {reg2}。 
+str_troop_relation_detoriated|你与 {s1}的关系从 {reg1}恶化为了 {reg2}。 
+str_faction_relation_increased|你与 {s1}的关系从 {reg1}增进到了 {reg2}。 
+str_faction_relation_detoriated|你与 {s1}的关系从 {reg1}恶化为了 {reg2}。 
+str_party_gained_morale|你的队伍得到了 {reg1}点士气。 
+str_party_lost_morale|你的队伍失去了 {reg1}点士气。 
+str_qst_follow_spy_noticed_you|那名密探已发现了你！他正在逃走！ 
+str_father|父亲
+str_husband|丈夫
+str_wife|妻子
+str_daughter|女儿
+str_mother|母亲
+str_son|儿子
+str_brother|兄弟
+str_sister|姐妹
+str_he|他 
+str_she|她 
+str_s3s_s2|{s3}的 {s2}
+str_s5_is_s51|{s5}是 {s51}。 
+str_s5_is_the_ruler_of_s51|{s5}是 {s51}的统治者。
+str_s5_is_a_nobleman_of_s6|{s5}是 {s6}的一位贵人。 
+str_relation_mnus_100|报复的 
+str_relation_mnus_90|报复的 
+str_relation_mnus_80|报复的 
+str_relation_mnus_70|憎恨的 
+str_relation_mnus_60|憎恨的 
+str_relation_mnus_50|敌意的 
+str_relation_mnus_40|愤怒的 
+str_relation_mnus_30|怨恨的 
+str_relation_mnus_20|抱怨的 
+str_relation_mnus_10|猜疑的 
+str_relation_plus_0|冷淡的 
+str_relation_plus_10|合作的 
+str_relation_plus_20|欢迎的 
+str_relation_plus_30|称赞的 
+str_relation_plus_40|支持的 
+str_relation_plus_50|友好的 
+str_relation_plus_60|亲切的 
+str_relation_plus_70|喜欢的 
+str_relation_plus_80|忠诚的 
+str_relation_plus_90|忠实的 
+str_relation_mnus_100_ns|{s60}对你是报复的。 
+str_relation_mnus_90_ns|{s60}对你是报复的。 
+str_relation_mnus_80_ns|{s60}对你是报复的。 
+str_relation_mnus_70_ns|{s60}对你是憎恨的。 
+str_relation_mnus_60_ns|{s60}对你是憎恨的。 
+str_relation_mnus_50_ns|{s60}对你是敌意的。 
+str_relation_mnus_40_ns|{s60}对你是愤怒的。 
+str_relation_mnus_30_ns|{s60}对你是怨恨的。 
+str_relation_mnus_20_ns|{s60}对你是抱怨的。 
+str_relation_mnus_10_ns|{s60}对你是猜疑的。 
+str_relation_plus_0_ns|{s60}对你是冷淡的。 
+str_relation_plus_10_ns|{s60}对你是合作的。 
+str_relation_plus_20_ns|{s60}对你是欢迎的。 
+str_relation_plus_30_ns|{s60}对你是称赞的。 
+str_relation_plus_40_ns|{s60}对你是支持的。 
+str_relation_plus_50_ns|{s60}对你是友好的。 
+str_relation_plus_60_ns|{s60}对你是亲切的。 
+str_relation_plus_70_ns|{s60}对你是喜欢的。 
+str_relation_plus_80_ns|{s60}对你是忠诚的。 
+str_relation_plus_90_ns|{s60}对你是忠实的。 
+str_relation_reg1|关系： {reg1}
+str_center_relation_mnus_100|全体居民带着盛怒地憎恨你
+str_center_relation_mnus_90|全体居民极度地憎恨你
+str_center_relation_mnus_80|全体居民强烈地憎恨你
+str_center_relation_mnus_70|全体居民都憎恨你
+str_center_relation_mnus_60|全体居民对你是憎恨的
+str_center_relation_mnus_50|全体居民对你是极端敌意的
+str_center_relation_mnus_40|全体居民对你是非常敌意的
+str_center_relation_mnus_30|全体居民对你是敌意的
+str_center_relation_mnus_20|全体居民都反抗你
+str_center_relation_mnus_10|全体居民都反对你
+str_center_relation_plus_0|全体居民对你是冷淡的
+str_center_relation_plus_10|全体居民对你是接受的
+str_center_relation_plus_20|全体居民对你是合作的
+str_center_relation_plus_30|全体居民对你是有点支持的
+str_center_relation_plus_40|全体居民对你是支持的
+str_center_relation_plus_50|全体居民对你是非常支持的
+str_center_relation_plus_60|全体居民对你是忠诚的
+str_center_relation_plus_70|全体居民对你是高度忠诚的
+str_center_relation_plus_80|全体居民对你是忠实的
+str_center_relation_plus_90|全体居民强烈地忠实于你
+str_town_prosperity_0|{s60}镇贫困得不堪忍受。 
+str_town_prosperity_10|{s60}镇肮脏得几乎被废弃了。 
+str_town_prosperity_20|{s60}镇看起来是一个悲惨的荒芜之地。 
+str_town_prosperity_30|{s60}镇看起来很贫穷而被弃置。 
+str_town_prosperity_40|{s60}镇显得正在努力奋斗中。 
+str_town_prosperity_50|{s60}镇似乎很不起眼。 
+str_town_prosperity_60|{s60}镇似乎正欣欣向荣。 
+str_town_prosperity_70|{s60}镇兴旺得熙攘而有活力。 
+str_town_prosperity_80|{s60}镇看起来在持续地保持富有。 
+str_town_prosperity_90|{s60}镇很富裕并且挤满了富人。 
+str_town_prosperity_100|{s60}这座闪耀夺目的城镇公开地夸耀它的巨大财富。 
+str_village_prosperity_0|{s60}村贫困得不堪忍受。 
+str_village_prosperity_10|{s60}村穷得可怜并且非常凄惨。 
+str_village_prosperity_20|{s60}村看起来非常贫穷并且荒芜。 
+str_village_prosperity_30|{s60}村看起来很贫穷而被弃置。 
+str_village_prosperity_40|{s60}村显得有点贫穷并且正在努力奋斗中。 
+str_village_prosperity_50|{s60}村似乎很不起眼。 
+str_village_prosperity_60|{s60}村似乎正欣欣向荣。 
+str_village_prosperity_70|{s60}村显得正在走向兴旺。 
+str_village_prosperity_80|{s60}村看起来在持续地保持富有。 
+str_village_prosperity_90|{s60}村看起来非常富有和兴旺。 
+str_village_prosperity_100|被广大的、肥沃的田地所围绕的 {s60}村看起来极其富有。 
+str_war_report_minus_4|我们就要输掉这场战争了
+str_war_report_minus_3|形势看起来很严峻
+str_war_report_minus_2|我们的情况不算太好
+str_war_report_minus_1|如果我们振作起来的话，我们仍然能够赢得这场战争
+str_war_report_0|我们与敌人实力均衡
+str_war_report_plus_1|我们有相当大的机会赢得战争
+str_war_report_plus_2|情况很好
+str_war_report_plus_3|打败他们对我们应该没有困难
+str_war_report_plus_4|我们就要赢得这场战争了
+str_persuasion_summary_very_bad|你试图尽最大努力说服 {s50}，但是你的论点似乎没有一个结论是正确的。每次你开始讲道理，你都显得在说一些完全错误的东西，这些都是你偏离了主题。截止至你说完，你没能成功组织出一个条理清楚的观点，甚至连你自己也不赞同。你认识到，你所做的全都是在使你自己越陷越深。所以 {s50}看起来并没被感动，这一点也不奇怪。 
+str_persuasion_summary_bad|你试图说服 {s50}，但是 {reg51?她:他} 一开始就运用 {reg51?她:他} 的智慧驳倒了你。甚至你最好的论点在你自己的耳朵听起来也是空洞的。 {s50}也同样地没有对你不得不要说的话组织出一个很好的观点。 
+str_persuasion_summary_average|{s50}被证明是一位有着敏锐的思想的老练的演讲者，并且你似乎不能表达出任何具体的东西来使 {reg51?她:他} 不能以理性的观点反驳。最终，在这场争论中，你们双方都没能设法取得任何成功。 
+str_persuasion_summary_good|通过敏捷的思想与流利的辩论，你设法把你的论点陈述得很好，迫使 {s50}勉强承认了一些观点。不过， {reg51?她:他} 仍然对你的要求表示疑虑。 
+str_persuasion_summary_very_good|你发表了一场充满激情的演讲，它像诗歌一样回响于所有听者的耳朵。为了更好地倾听你，整个世界似乎都安静了下来。那些激励人心的词语深深地打动了 {s50}， {reg51?她:他} 看起来更加地赞同帮助你了。 
+str_secret_sign_1|大衣柜在午夜跳舞……  
+str_secret_sign_2|我在卖这些优质的诃儿吉惕挂毯。你想买一些吗？ 
+str_secret_sign_3|我的一个朋友的一个朋友送了我……  
+str_secret_sign_4|狂风猛烈地从东方吹来，河流变成了红色……  
+str_countersign_1|但是他是为梳妆台而跳呢，还是为烛台呢？ 
+str_countersign_2|是的，我要买，你有蓝色的吗？ 
+str_countersign_3|可是，我的朋友，你的朋友的朋友绝对不会有我这样的朋友。 
+str_countersign_4|你生病了吗？ 
+str_name_1|阿尔巴尔德
+str_name_2|奥伊斯卡尔
+str_name_3|西格马尔
+str_name_4|塔勒斯克
+str_name_5|里特曼德
+str_name_6|阿厄尔斯
+str_name_7|劳尔克
+str_name_8|布拉加穆斯
+str_name_9|塔尔
+str_name_10|拉明
+str_name_11|许尔克
+str_name_12|普塔尔
+str_name_13|塔穆斯
+str_name_14|赖夏德
+str_name_15|瓦尔歇阿斯
+str_name_16|鲁尔赫
+str_name_17|马尔伦德
+str_name_18|奥古林
+str_name_19|戴纳德
+str_name_20|约艾阿
+str_name_21|拉马尔
+str_name_22|卡尔达兰
+str_name_23|布拉巴斯
+str_name_24|昆德林
+str_name_25|佩希纳克
+str_surname_1|乌克斯哈尔的 {s50}
+str_surname_2|韦尔克格的 {s50}
+str_surname_3|雷瓦金的 {s50}
+str_surname_4|苏诺的 {s50}
+str_surname_5|热尔卡拉的 {s50}
+str_surname_6|弗吕卡的 {s50}
+str_surname_7|哈里麻儿的 {s50}
+str_surname_8|楚拉辅的 {s50}
+str_surname_9|萨尔戈特的 {s50}
+str_surname_10|蒂赫尔的 {s50}
+str_surname_11|曾扎尔的 {s50}
+str_surname_12|里瓦切格的 {s50}
+str_surname_13|韦尔克格的 {s50}
+str_surname_14|埃勒尔达的 {s50}
+str_surname_15|亚拉加尔的 {s50}
+str_surname_16|布尔格伦的 {s50}
+str_surname_17|沙佩什捷的 {s50}
+str_surname_18|哈农的 {s50}
+str_surname_19|萨朗的 {s50}
+str_surname_20|托斯德哈尔的 {s50}
+str_surname_21|修长的 {s50}
+str_surname_22|瘦子 {s50}
+str_surname_23|大胡子 {s50}
+str_surname_24|麻雀 {s50}
+str_surname_25|乞丐 {s50}
+str_surname_26|刀疤 {s50}
+str_surname_27|公正的 {s50}
+str_surname_28|残忍的 {s50}
+str_surname_29|红色的 {s50}
+str_surname_30|黑色的 {s50}
+str_surname_31|高个的 {s50}
+str_surname_32|目光闪烁的 {s50}
+str_surname_33|无畏的 {s50}
+str_surname_34|勇敢的 {s50}
+str_surname_35|奸诈的 {s50}
+str_surname_36|胆小鬼 {s50}
+str_surname_37|机灵的 {s50}
+str_surname_38|迅捷的 {s50}
+str_surname_39|游吟诗人 {s50}
+str_surname_40|放肆的 {s50}
+str_surname_41|头脑发热的 {s50}
+str_surnames_end|绰号结束 
+str_number_of_troops_killed_reg1|死亡部队人数： {reg1}
+str_number_of_troops_wounded_reg1|受伤部队人数： {reg1}
+str_number_of_own_troops_killed_reg1|友军死亡部队人数： {reg1}
+str_number_of_own_troops_wounded_reg1|友军受伤部队人数： {reg1}
+str_retreat|撤退！ 
+str_siege_continues|战斗继续……  
+str_casualty_display|我军伤亡： {s10}^敌军伤亡： {s11}{s12}
+str_casualty_display_hp|^你受到了 {reg1}点伤害。 
+str_quest_log_updated|任务记录已被更新……  
+str_banner_selection_text|你被奖励了携带旗帜的权利。你的旗帜将会表示你的地位并带给你荣誉。你想要选哪一面旗帜？ 
+str_retirement_text_1|当你意识到你的钱不会再持续地存在了的时候，已经非常晚了。没过多久你就浪费完了你费心存下来的那一点点钱，你的生活变得穷困，你好几次企图再一次开始冒险，但都令你绝望了。你最终成为了 {s9}的一名乞丐，靠教会的救济和施舍而生活。 
+str_retirement_text_2|当你意识到你的钱不会再持续地存在了的时候，已经非常晚了。没过多久你就浪费完了你费心存下来的那一点点钱。当每一个第纳尔都在你的手中消失掉后，你立刻被迫开始了在 {s9}的后街的犯罪的生活，靠使用你的技能来从妇女和可怜的男市民身上抢劫铜币来补充生活所需经费的不足。 
+str_retirement_text_3|当你意识到你的钱不会再持续地存在了的时候，已经非常晚了。没过多久你就浪费完了你费心存下来的那一点点钱，你最终成为了一名身无分文的漂泊者，到一个又一个的酒馆向老板们讲述一些没有人会相信的战争故事，以此来取悦他们，并从他们那里索要到酒水。 
+str_retirement_text_4|你存下来的银币没有持续存在多久，但是你设法集到了足够的钱来买下 {s7}村附近的一些土地。在那里，你成为了一名自耕农，并且你很快开始吸引了未来能够成为你的 {妻子/丈夫} 的人们。最终，村民们把你当成了他们当地的英雄。在宴席上，你总是能得到一个荣誉的席位，并且你的功绩在小酒馆和大酒店被一传十，十传百，以至于孩子们也许会永永远远地把你记在脑海里。 
+str_retirement_text_5|你存下来的银币没有持续存在多久，但是它们足够在 {s9}买下一座小酒馆了。尽管当地人最初对你小心翼翼，但是他们很快接受了你到他们之中。最终，你的渐渐兴旺着的酒馆成为了一个受人欢迎的筵席场所和聚会之地。人们从几里之外来吃饭或者留在那里，这全然是因为你的声望以及你讲述的在你的冒险岁月中的史诗般的故事。 
+str_retirement_text_6|在你的整个事业中，你已经聪明地存下了钱，并且现在你的银币和你的智慧允许你做出一些极好的投资以巩固你的未来。在买下了 {s9}的几座店铺和仓库后，你的精明让你变为了城镇里的最显著的商人之一，并且你很快成为了一个富人。人们对你的贸易帝国的了解就像对你的战斗功绩的了解那么多。 
+str_retirement_text_7|作为一名拥有地产的贵族，无论你的地产有多小，你的未来已几乎有保证了。你定居在了你在 {s7}的封地上，管理村庄和田地，判决当地的案件以及向你的君主履行你的职责。偶尔地，你的君主会叫你集合人员并在他的战役中指挥，但是这些工作都是简短的，并且你真地再没有回到你年轻岁月中的冒险生涯。你已经挣得了你的财富。你有着你自己的厅堂和持有地，你基本上认为你个人的财富和来自你的土地的收入已经能够维持你的生活了。 
+str_retirement_text_8|毫无疑问，你为你自己做得很好。你广阔的持有地和在冒险中挣得的财富足够令你的余生富裕而轻松。退休之后，你来到了你在 {s8}的贵族席位，你从冒险转向了政治，并且你很快证明了你是你君主的王国中的一股重要力量。你可以策划阴谋，可以在你自己的森林中狩猎，可以在厅堂中设宴，并且你还有上百个精彩的战争故事可讲，你几乎没有任何麻烦，你让之后的每一年都过得最好。 
+str_retirement_text_9|作为对你称职而忠心的效劳的奖励，你的君主授予了你一个世袭的头衔，使你加入了王国内的重要的贵族阶层中。很快地，你完成了作为 {s7}男爵的授封仪式并且成为了你君主的亲近的咨政和参谋之一。你的声望使你得到了许多不可思议的魅力和影响，以及明显的政治力量。现在你花费你的日子来玩权力的游戏，管理你的巨大的封地，以及讲述过去的冒险与荣耀的时光。 
+str_retirement_text_10|尽管你最初地位卑微，你的君主却把你看得很高，并且当他提名给你 {s9}{/女 }伯爵的世袭头衔时，整个王国由此而引发了巨大的震惊。巨大的封地与财富现在都供你支配。你很快地成为了你君主的最信任的咨政，几乎与他平起平坐了，并且你被委托了许多责任来经营他的王国，此外，你坐在你自己的光辉堂皇的宫殿的宝座上，如同是卡拉迪亚最有权势的人物之一。 
+str_loot_village|攻击无辜的村民
+str_steal_from_villagers|从贫穷的村民那里偷东西
+str_rob_caravan|抢劫商队
+str_sell_slavery|贩卖奴隶
+str_men_hungry|将食物耗尽
+str_men_unpaid|无力支付部下
+str_excessive_casualties|将每一场战斗都变为由我们这一方发动的大屠杀
+str_surrender|向敌人投降
+str_flee_battle|从战斗中逃走
+str_pay_bandits|向普通的强盗付钱
+str_fail_quest|未能成功完成我们以荣誉承担的任务
+str_squander_money|把别人信任地交给我们托管的钱浪费掉了
+str_murder_merchant|把我们自身陷于冷血的谋杀
+str_round_up_serfs|为了某些贵族而追赶农奴
+str_battle_fate_1|我们在战斗激烈时分开了
+str_battle_fate_2|我当时受伤了，并且被丢下等死
+str_battle_fate_3|我被敌人打得不省人事
+str_battle_fate_4|我被捉住以换取赎金
+str_battle_fate_5|我被俘虏了，但是之后我设法逃走了
+str_npc_morale_report|我 {s6} 你对同伴的选择， {s7} 你的领导方式，并且 {s8} 目前事态的总体状况。 
+str_happy|喜欢
+str_content|满足
+str_concerned|担心
+str_not_happy|一点也不喜欢
+str_miserable|彻底地害怕
+str_morale_reg1|士气： {reg1}
+str_bar_enthusiastic|热情的 
+str_bar_content|满足的 
+str_bar_weary|厌倦的 
+str_bar_disgruntled|不满的 
+str_bar_miserable|讨厌的 
+str_here_plus_space|这里 
+str_npc1_intro|嘿，喂，旅行者。你需不需要一名追踪者？ 
+str_npc2_intro|你好。你愿意发发善心和我喝一杯吗？我落魄到只剩下我的最后五第纳尔了，并且我不想独自喝酒。 
+str_npc3_intro|日安！ 
+str_npc4_intro|欢迎。我是罗勒弗之子罗勒弗，来自最古老而强盛的罗勒弗家族。 
+str_npc5_intro|欢迎，旅行者。你愿意来陪我喝一杯吗？ 
+str_npc6_intro|我陷入了迷途……陷入了迷途……  
+str_npc7_intro|嗯？告诉你一句：离我远点。 
+str_npc8_intro|你想要什么？ 
+str_npc9_intro|你，嘿，好人，能好心地替我再拿一杯酒吗，嗯？ 
+str_npc10_intro|嘿，好啊， {兄弟/妹子}！愿所有出身高贵的大人们和女士们没落和灭亡。 
+str_npc11_intro|嘿，你好，小 {伙子/姑娘}。陪我喝一杯吧。 
+str_npc12_intro|欢迎，旅行的家伙。也许你能够帮帮我。 
+str_npc13_intro|你好，旅行者。我是尼扎勒。毫无疑问，你可能听说过我。 
+str_npc14_intro|嗯？你想干吗？ 
+str_npc15_intro|哦！喂，朋友，你碰巧就要马上出镇子吗？ 
+str_npc16_intro|哎，你好。我不禁注意到，你在进镇子时走在一队士兵的前面。你碰巧在找新人手吗？ 
+str_npc17_intro|一个凡人接近了……可是这个人与村民们不同。事实上，这个人也许是我很少见到的那个人，而那个人，从他死后我就很久没见过他了……  
+str_npc18_intro|这就是……这就是答应给我的白葡萄酒吗……但是，这个墙……难道是个梦……不……噩梦……  
+str_npc19_intro|今天不错，不是吗？ 
+str_npc20_intro|嘿，你好。 
+str_npc21_intro|哎？ 
+str_npc22_intro|让我想想，是什么闯进了我的网？你看起来像是一个挨饿的寡妇的一件完美的乐事。我保证我会先和你玩的——尽管我不能保证我会很和善。 
+str_npc23_intro|嘿，伙计，叉骨是我的名字，巫毒教是我的游戏。你的团队正需要一个巫医吗，伙计？没什么像一点支持，即使来自墓穴之外，你知道？呵呵呵呵。 
+str_npc24_intro|你有着旧血液。不是弗拉德。也许更强大。哦，血，我们曾在一起喝啊……我并非一直都活着的，告诉你。但是我记得。血。血喝起来像盐……  
+str_npc25_intro|我几乎已经想出来了，我发誓！ 
+str_npc26_intro|向你致意，黑暗崇敬者。 
+str_npc27_intro|永不复焉！爱伦· 坡！永不复焉！ 
+str_npc28_intro|……  
+str_npc29_intro|……  
+str_npc30_intro|啊，这些词句……跟我写的一样。我是怎么做到它的呢？它来了，跟我写的一样……每个人都死了……那只鸟。它用它的双眼控制了我。如此我就去了……现在你在这里。你会请求我和你一起离开……我相信我会的。 
+str_npc31_intro|我的朋友 ? 这个地狱般的星球有什么好消息吗 ?
+str_npc32_intro|哈哈 ! 有异味…你好，搭档 ! 没看见你站在那儿 !
+str_npc33_intro|你已经走了很远……到卡拉底的尽头。你发现生命，与死亡共舞。太痛苦了…我可以减轻你的创伤。也许随着时间的推移 , 你也可以安抚我…… 
+str_npc34_intro|我的妻子。她发誓她会让死人复活，回到我身边……然而，她没有回来，也不在这里。我找不到她…… 
+str_npc1_intro_response_1|也许吧。你有什么急事？ 
+str_npc2_intro_response_1|你的最后五第纳尔？你怎么了？ 
+str_npc3_intro_response_1|你好。像你这样的明显地教养好的女士在酒馆里做什么呢？ 
+str_npc4_intro_response_1|嗯……我从没听说过罗勒弗家族。 
+str_npc5_intro_response_1|当然啦。我将和谁一起愉快地喝酒呢？ 
+str_npc6_intro_response_1|为何如此忧郁，朋友？ 
+str_npc7_intro_response_1|我很抱歉。我只想说你看起来只是有点不走运而已。 
+str_npc8_intro_response_1|仅仅是为了消磨时间，夫人，如果你不是在消磨时间的话，那么你一定很忙吧。 
+str_npc9_intro_response_1|你一定把我和酒馆掌柜弄混了，阁下。 
+str_npc10_intro_response_1|你为什么这么说呢，阁下？ 
+str_npc11_intro_response_1|这是为什么呢？ 
+str_npc12_intro_response_1|怎么了？ 
+str_npc13_intro_response_1|嗯……我不这么认为。 
+str_npc14_intro_response_1|如果你同意的话，我愿意跟你这样的旅行的家伙一起消磨点时间。 
+str_npc15_intro_response_1|是的。你所关心的是什么，我可以问问吗？ 
+str_npc16_intro_response_1|也许吧。你有什么故事呢？ 
+str_npc17_intro_response_1|那么，我是比他还健康的人，因为我还活着。这是什么地方，生物，你是谁？ 
+str_npc18_intro_response_1|对，看在老天爷份上。现在，告诉我你的故事。 
+str_npc19_intro_response_1|也许是吧。你是何种人或生物呢？ 
+str_npc20_intro_response_1|你穿戴的是某种灵巧防具吗？ 
+str_npc21_intro_response_1|难以置信！你会说话！ 
+str_npc22_intro_response_1|嗯，我也不是和善者。为什么这位寡妇要哭泣呢？ 
+str_npc23_intro_response_1|巫医？那么你是个治疗者？ 
+str_npc24_intro_response_1|屈服于我的意志，哦，剑，你就将喝到所有的血。 
+str_npc25_intro_response_1|想出什么？ 
+str_npc26_intro_response_1|向你致意，邪恶的代言人。 
+str_npc27_intro_response_1|好怪……  
+str_npc28_intro_response_1|……  
+str_npc29_intro_response_1|……  
+str_npc30_intro_response_1|是的，我站在你面前。 
+str_npc31_intro_response_1|好消息是我还能喘气，坏消息是我暂时选择了这家酒馆来喘气……
+str_npc32_intro_response_1|我没看到那些蒸汽，但我能在酒馆的对面闻到它们的味道。就像放烂的粮食一样 !
+str_npc33_intro_response_1|你是谁？
+str_npc34_intro_response_1|你四处看看吗 ? 这是个大地方…… 
+str_npc1_intro_response_2|请退后，阁下，让你手离我钱包远些。 
+str_npc2_intro_response_2|我有更好的事要做。 
+str_npc3_intro_response_2|快闪开，小姑娘。我有事要做。 
+str_npc4_intro_response_2|是吗？不，多谢了，我们什么都不要。 
+str_npc5_intro_response_2|我没时间做这个。 
+str_npc6_intro_response_2|毫无疑问。嗯，好运会被找到的。 
+str_npc7_intro_response_2|好。那么我不会麻烦你了。 
+str_npc8_intro_response_2|没什么，很明显我不想和你开玩笑。日安。 
+str_npc9_intro_response_2|自己去拿！ 
+str_npc10_intro_response_2|这是造反的言辞，我不想听。日安。 
+str_npc11_intro_response_2|我不想，女士。 
+str_npc12_intro_response_2|抱歉，我恐怕我现在还有别的事要忙。 
+str_npc13_intro_response_2|不，我不怎么想跟你交往。 
+str_npc14_intro_response_2|没什么。我道歉。 
+str_npc15_intro_response_2|如果你少管闲事，我会感激不尽的，阁下。 
+str_npc16_intro_response_2|少管闲事，小姑娘。 
+str_npc17_intro_response_2|（赶快逃走。） 
+str_npc18_intro_response_2|我认为你的酒已经够多的了。 
+str_npc19_intro_response_2|如果你这么说……  
+str_npc20_intro_response_2|自己。 
+str_npc21_intro_response_2|……  
+str_npc22_intro_response_2|我要保住我的脑袋，多谢……  
+str_npc23_intro_response_2|我已经有足够多的诅咒要对付了……  
+str_npc24_intro_response_2|（赶快逃走。） 
+str_npc25_intro_response_2|那么我会离开你，让你自己想……  
+str_npc26_intro_response_2|以后某次吧。 
+str_npc27_intro_response_2|我没时间闲聊和玩笑……  
+str_npc28_intro_response_2|……  
+str_npc29_intro_response_2|……  
+str_npc30_intro_response_2|如此我就去了……  
+str_npc31_intro_response_2|不要让我对你…
+str_npc32_intro_response_2|那么也许你也不会注意我离开…… 
+str_npc33_intro_response_2|我必须继续…
+str_npc34_intro_response_2|我没时间了…… 
+str_npc1_backstory_a|嗯， {阁下/女士}，这是个很长的故事……  
+str_npc2_backstory_a|这是个不幸的故事，阁下。 
+str_npc3_backstory_a|问得好，我会告诉你的！ 
+str_npc4_backstory_a|真的？嗯，也许你的无知可被谅解。我们祖传的土地离这儿很远，在群山之外。 
+str_npc5_backstory_a|我是八合失脱儿，阿札拜之子，拔赡之孙。如果你不是野蛮人的话，你将很有可能从我的家世中知晓，我是高地的一个花毛马诃儿吉惕人，来自盘塔昔山谷，窝拜因家族，都剌木氏族，沙迷儿部落，并且也许你还能猜出，为什么我离家如此之远。 
+str_npc6_backstory_a|我犯下了最深重的罪孽， {阁下/女士}，我很羞愧，如果你想听的话，我就必须向你忏悔。 
+str_npc7_backstory_a|我的运气吗？你可以说说这个。 
+str_npc8_backstory_a|啊。嗯，如果你一定要知道的话，我会告诉你的。 
+str_npc9_backstory_a|致以我万分谦恭的歉意。在这个烟雾弥漫的昏暗之地，有时候很难看清楚一个人。我仍然无法相信，我必须在如此一个地方安家。 
+str_npc10_backstory_a|这是个很长的故事，但是如果你要喝一杯，我就会很高兴地告诉你。 
+str_npc11_backstory_a|哎呀，我设法卖掉了我的牛拉货车和锅碗瓢盆，小 {弟弟/妹妹}。这下我有钱可花了，并且我打算好好用它们。 
+str_npc12_backstory_a|我会告诉你的——但是你要知道，这是一个极度不公正的故事。我事先提醒你，免得你听了之后情绪愤怒。如果对我犯下的不公使你动怒了的话，这会对你自己有损害的。 
+str_npc13_backstory_a|你没有？那么也许你听说过我的骏马？它径直穿越卡拉迪亚的平原时就像一束月光一样。或者你听说过我的宝剑？它善于品尝这片土地的那些出身高贵的贵人们的鲜血。 
+str_npc14_backstory_a|很好。我并不介意。我叫勒扎利特。 
+str_npc15_backstory_a|我是个工程师，尤其善于修筑防御工事。如果你需要拆墙，那么给我足够的时间，我就能做到。如果你需要把墙重建起来，我也能做到，不过这会花掉更多时间，并且花掉你更多的钱。并且这些钱是不能省的，除非你想要你的新大楼在你脚下垮掉，就像这附近的某人所遭遇到的那样。 
+str_npc16_backstory_a|嗯， {阁下/女士}，从我有记忆起，我就特别偏爱漂亮的东西，而这会让我陷入麻烦，你知道。 
+str_npc17_backstory_a|如此大胆地说话会招致报复。这个地方是我的家园的废墟，它被雅典娜摧毁了。毫无疑问，你会注意到她的金箭。 
+str_npc18_backstory_a|嗯——哦，我记得那种酒香……不是白葡萄酒，但是是白葡萄酒做出来的。死亡。真傻啊我当时，真傻……我，经常都特别特别聪明的我……  
+str_npc19_backstory_a|我是木头做的。一位巧匠给了我生命。我为亚朗这里的镇民们砍伐木柴，作为回报，他们得忍受我的怪异。 
+str_npc20_backstory_a|我是木头做的。一位巧匠给了我生命。我在韦尔克格这里的店铺的货栈里工作，负责保持所有物品整洁。店铺老板很善良，但是她岁数大，并且我猜想她有点怕我。 
+str_npc21_backstory_a|我是木头做的。一位巧匠给了我生命。我在楚拉辅这里的工房里工作，以赚取我的生活费，我花我剩余的时间来狩猎附近的小猎物，来供应给酒馆的食品室。我想，这是生计……  
+str_npc22_backstory_a|她因许多可怕的理由而哭泣。 
+str_npc23_backstory_a|是的，伙计……并且远远不只是治疗者呢。我可以和灵魂们交流，告诉你。比起这些我叫作“骨头”的棒子，这些牙齿和毛皮什么都算不上。这些骨头是用双头地狱犬的骷髅骨做的。 
+str_npc24_backstory_a|也许吧。侍奉你一段时间。这得取决于你。我不会饶恕敌人。也许会，也许不会。所有人都必须死。弗拉德· 德拉库拉——他开始后悔他的暴力行为。他是弱小的……他为他的弱小而付出了他的生命。 
+str_npc25_backstory_a|当然是一个谜了！我曾经……难以解答它们。我匆匆地得出太多的结论了……失窃的信仍然令我困惑，这跟普通的看法相反。 
+str_npc26_backstory_a|深渊……我清楚地记得。冥府中有许多的地狱，而深渊就是我被束缚的地方……一片不见阳光的血海，你一直被淹没在其中，但是死不了……  
+str_npc27_backstory_a|生……你……  
+str_npc28_backstory_a|……  
+str_npc29_backstory_a|……  
+str_npc30_backstory_a|你没看见吗？我写了它……都是我写的！喷血池、恶魔们、巧匠们……亲爱的神，甚至暗影们。我改变了一切！人们现在记住的历史是我的历史。是这支羽毛笔……在我的家庭里传了几代人。我们已经知道的有多少已被写下，我不知道。但是我制造了这一切……像一个被诅咒的神……  
+str_npc31_backstory_a|我的朋友，我制造枪，弹药，还有能爆炸的东西。你有觉得这很糟糕吗 ? 我不这么认为。
+str_npc32_backstory_a|我想你说的是好粮食吧 ! 嘿嘿 ! 我已经有很多了，我有很多…
+str_npc33_backstory_a|我的名字很多…这些都不重要。你会叫我伊斯塔，你会带我一起走，作为回报，你会得到难以言喻的秘密，这些秘密从一开始就被保守着……
+str_npc34_backstory_a|看起来像什么 ?   我失去了一只眼，另一只眼是瞎的。但我根本不用眼睛就能感觉她……不，她不在这儿。我必须知道为什么……我希望回到人间……也许我们会发现她已经走了。我总能回来…… 
+str_npc1_backstory_b|我在 {s20}{s19}被误解了。我找到了一匹马，它被绑在客栈外面。它就跟我在若干天前丢掉的那匹一模一样。很自然地，我解开了它以看得更清楚。结果是，这匹马属于一个商人，一个皱脸的死老头，他不接受这个是一场误解并且去叫卫兵了。 
+str_npc2_backstory_b|一阵子前，我带着一车的货物离开了格罗亚。我本来想要在萨尔戈特把它们都卖掉并狠狠地赚上一笔。但是，你知道吗……我们被一伙诃儿吉惕突袭者伏击了，他们带着我大多数的马匹和货物跑掉了。而两天后，我自己的商队护卫带着我剩下的逃走了。 
+str_npc3_backstory_b|我的父亲， {s20}{s19}的一位著名的商人，决定我应该被嫁给他的一个商业伙伴，一个快 30岁的男人。我一直都是一个顺从的女儿，但是这是一个荒谬而讨厌的主张。所以我逃走了！ 
+str_npc4_backstory_b|如同我家族的所有的其他男子，我到异乡来参军，以在回家接管我的地产前，为我自己赢得一个名声。不幸的是，这片土地的当权者们几乎一点也不了解勇士的典范，并且把我称作了强盗和土匪，还放出赏金要我的人头——你一定会同意，这是给一个绅士冒险者的最不公正的诽谤。 
+str_npc5_backstory_b|从任何人都能回忆起的年代起，我们的人民就已经与忽密颜部落有了世仇，他们中有许多人都已经定居在了旁边的山谷里。双方都有许多人死于了这一世仇，包括我的两个兄弟。可汗亲自命令了我们停止争斗，为卡拉迪亚的战争省下人丁。但是我知道我的权利，并且我兄弟们的血大声呼喊着复仇。我在山间的一条小道上伏击并杀死了一个忽密颜人，在当晚，我骑马离开了我们的村庄，甚至没有机会向我的父亲告别。我会在卡拉迪亚等待我的时机的到来，等上一年或两年，之后就在可汗的人已经忘记了的时候，回到家去。当然，忽密颜人不会忘记，但是这就是荣誉的代价。 
+str_npc6_backstory_b|我是一个骑兵队队长，负责侍奉 {s20}{s19}的领主，而我的兄弟与我一起效力。但是我们都爱上了同一个女人，一个交际花——一个妖妇，她玩弄我们的猜忌！我的兄弟和我吵架了。我喝得太多了。他用他的手套拍我，我向他拔出了我的剑……我的亲兄弟啊！我的用剑的手臂沾上了我亲人的鲜血！ 
+str_npc7_backstory_b|我真不幸啊，生我的父亲是个软弱的人，他把我嫁给了一个嗜酒的、会打我的懒人。我真不幸啊，当我逃离了我丈夫，我又被一群强盗抓住了。我真不幸啊，他们中唯一一个对我好的人教了我狩猎和战斗，结果却引来了其他人的嫉妒，他们捅死了他并迫使我再次逃离了。 
+str_npc8_backstory_b|我来自北方的一个古老家族，我是一个乡绅的女儿，也是一个乡绅的妻子。我和我丈夫并肩作战，不管在战争时期，还是在和平时期，我都是他的伙伴。但是在我还没有生孩子时，我丈夫就死于了瘟疫。我丈夫曾宣称，在没有子嗣的情况下，就让我来继承他的土地。我小叔子——诅咒他的名字——他说，女人继承乡绅的产业，这不是我们的习俗。这是没道理的，但是他用金币收买了足够多的我丈夫的不忠的仆人来支持他在我家里安顿了下来。所以我逃走了。有些事情我从小就被教育绝对不要做，有些事情我希望绝对不要再做。 
+str_npc9_backstory_b|我是我父亲的长子，也是他的继承人。但是我母亲死了，而我的父亲再婚了。他的新妻子认为自己的儿子应该得到继承权。她不能公开地对我采取行动，但是在某一天，我给我的一条猎犬喂食一锅给我留下的板油，结果那条猎犬就晕倒了。我指控我的继母，但是我那被她的妖媚迷住了的父亲却拒绝相信我，并命令我从他眼前离开。 
+str_npc10_backstory_b|我是 {s20}{s19}的驻军的一个军士。我保卫这座城市有二十年了，在许多场棘手的战斗中承受了猛力的打击，直到他们指派了一个流着鼻涕的、嘴上没多少胡子的、勉强离开了他妈的摇篮的贵族小青年来当驻军指挥官。在我站在塔顶监视时，他突然来了，而当时我的弩弦没有被松开——因为下雨的原因，你知道……弩弦松不开……但是流着鼻涕的小贵族却告诉我，弩弦不松开就是我的失职。他说他要用马鞭打我。当时我就下定了决心。所以我突然离开了我的岗位。 
+str_npc11_backstory_b|30 年来，我追随着这片土地的军队们，给他们卖食物和饮料，看他们玩骰子游戏和找寻女孩子们，而最后我钱包里连一个第纳尔也没被剩下。 
+str_npc12_backstory_b|我是一个受过训练的自然学者，但是我大学里的那些嫉妒我的笨医生们却迫使我以当流动医生来谋生。我被这座城市的一个商人雇去治疗他的儿子，他儿子从阳台上跌下去后就昏迷了。我成功地锯开了病人的颅骨以把颅骨上的肿包减小，但是他的家人忽视了我的劝告而没有对相继而来的发烧症状使用一剂柳树皮，然后那个男孩就死了。那个父亲，不但没有为我的努力而奖励我，反而还指责我使用巫术——我，一个自然学者！这个人是何等地愚昧无知和忘恩负义啊！ 
+str_npc13_backstory_b|我是一名专业的战士。但是你也许听说过我作为诗人的非凡的本领，即使是最冷冰冰的少女也会为我而心醉神迷。或者是我在卧室里的非凡的本领，在这一点上，我必须承认，我的技能还不算太强。我承认我对卡拉迪亚的影响还不算太大，在过去的几年里，我走访过了它的城镇、城堡，以及村庄，充分发挥了我的才干。 
+str_npc14_backstory_b|我是格罗亚伯爵的次子，你一定听说过他。因为没有继承权，我便到卡拉迪亚这里来寻求财富，训练别人战斗技巧。不幸的是， {s20}这个地方的领主对于把乌合之众训练成战士所必需的训练方法不感兴趣。我告诉他，比起以后埋葬他们，现在鞭打他们才是更明智的。但是他听不进去，还叫我去别的地方找工作。 
+str_npc15_backstory_b|{s20}{s19}的城堡主人想要在城墙上加一座新塔。麻烦的是，在我修好支柱之前，他的现金被耗尽了，而该工程在当时才被进行到一半。我告诉他，这会倒塌的，后来它真地倒了。不幸的是，那时候他正好站在那上面。新的城堡主人不想支付他的前任的债务并且他暗示说，如果我声张了此事，我可能就会被指控犯了谋杀罪。 
+str_npc16_backstory_b|我作为一个束缚于契约的仆人而在马拉玉儿哥城堡长大，和我母亲一起在厨房里工作。我会通过抓食品间和餐具间的老鼠来自娱自乐。我很善于这个以至于我让城堡里的猫都无事可做了，而最终，那位领主意识到了，我也能被雇用去追捕更大的猎物，去做某一件也许不说更好的差事。不需多说，我找到了许多次的机会来让我自己得到那些从前属于我的主人的敌人们的小首饰。所以我有能力赎出了我自己，并作为一名密探而找工作。我的上一份工作是在 {s20}{s19}做的。 
+str_npc17_backstory_b|我是蛇发女丝西娜，男神福耳库斯与女神刻托的三个女儿之一。我的妹妹美杜莎，唯一的凡人蛇发女，被战士珀耳修斯砍掉了脑袋。波吕得克忒斯国王派他取得这个脑袋，作为给雅典娜的礼物，而这之后，她用这个脑袋装饰了她的盾牌。在美杜莎死后，我亲自取回了她的弓和箭，我珍护着它们——美杜莎作为一个倾于凡人者，真是愚蠢，但是她不应该被献祭给神明——如果珀耳修斯将她的头作为战利品保留，我也会因此尊重他。不过，雅典娜也可以自己杀掉美杜莎，这很容易。美杜莎因为雅典娜而死了，因此我发誓要复仇。在雅典娜思想不集中时，我偷了她的盾牌，带走了它。 
+str_npc18_backstory_b|我叫福吐纳托，但是我并没有托到什么福……嘻！嘻！嘻！——嘻！嘻！嘻！那只是个小玩笑，真地……但是他的眼神……哦，我永远忘不了他的眼神……  
+str_npc19_backstory_b|他们叫我“橡树”，半是玩笑，因为我确实牢固结实……然而我一直都站在同一个地方。我向往旅行，但是我害怕。我不属于这里，然而我不属于任何地方。 
+str_npc20_backstory_b|我被叫作“青榔树”。“青榔树”在英语里也有“灰烬”的意思，因为我曾在火灾中救过店铺老板。在救她时，我意外地弄断了她的肋骨，从那时起，她就……冷淡了……但是也对我心怀感激。我认为她觉得她欠我一条命。如果她知道我那场火是我不小心放的……  
+str_npc21_backstory_b|我叫“刺树”，反正镇民们是这么叫我的，因为他们曾想把我从他们那里除掉。这个城镇离其他城镇很远，而且很冷……盲从现象越来越猛烈。而即使现在，人们一边尽情地吃我用我的斧头杀死的野兔和松鸡，一边对我付出的代价开玩笑。 
+str_npc22_backstory_b|我叫拉弥亚，曾是宙斯本尊的情妇。但是赫拉发现了我们的小韵事，并……哦，我们的孩子！我曾经哭泣得多么厉害，如果不是宙斯仁慈地授予了我这根棍子的话，我还会哭泣的。我可以把我的眼睛放在这根棍子里，这样关于他们死的时候的面容的记忆就暂时不会萦绕着我。 
+str_npc23_backstory_b|很久前，我是个海盗，我劫掠了诺尔德土地的河流以及更远的地方，伙计。在这些河流的其中一条的河口，我在峭壁上找到了一个巨大的骷髅头，它打着呵欠，说着死者的低语。在那些日子里，我无畏且愚蠢，我向前走入了黑暗中。突然，来了一声犬吠，一头双头犬朝我冲了出来！我用我的水手短弯刀从它的脖子上把它的两颗脑袋都斩开了。它的肉体在它倒下的地方烧没了。它对我说……  
+str_npc24_backstory_b|结束就是开始。那些奥斯曼苏丹亲兵宣称自己射死了弗拉德· 德拉库拉，实际上，在他们到达时，他已经死了——某头巨兽伏击了他并将他撕为了碎片，就在答失必哥虎附近的那座山丘上。嗯，当他们找不到别的东西，只找到了他的防具和斧头，他们很是惊恐，而他们看见我时，则更为惊恐。他们相信我是被诅咒了的，所以他们试图摧毁我，但是失败了，最后他们把我埋在了一个瀑布下，还盖上了许多大石头。许多年过去了……之后，他来了……  
+str_npc25_backstory_b|我已开始寻找某个我自己叫他为“大巧匠”的人……如此多的卡拉迪亚之黑暗传奇似乎都有一些隐藏的影响。有一个灵巧的脑袋亲自创造了历史，而我得找到它！ 
+str_npc26_backstory_b|喷血池来到了我身边。它给了我一个选择：回到阳间，成为一个有着人类肉体的恶魔，成为黑暗时代的报信者——或者永远留在苦难的地狱中。正如你所见，我选得很好。 
+str_npc27_backstory_b|死……所有人……  
+str_npc28_backstory_b|……  
+str_npc29_backstory_b|……  
+str_npc30_backstory_b|我是埃德加· 爱伦· 坡，暗影之王。一个几乎狂妄的头衔，也是一本书的名字。“超小说”是种危险的艺术——被视作作者的自负。然而，一个人就是他自己，我敢写一个让我自己当男主角的故事。这支羽毛笔——它的羽毛一定来自那只鸟，与在我的故事里的那只十分相似，它已成为了这把短剑，因此要消除以前的所作所为已不可能了。被我自己的魅力抓住……陷入死亡噩梦的圈套……但是我怎么知道呢？甚至构想出这样的东西都属于疯狂！ 
+str_npc31_backstory_b|我在街头长大。街道教会了我如何使用双手……如何扣动扳机…如何制造炸弹。我用这双手来得到我需要的东西来填满我的腰包，明白吗 ? 我的上一份工作是在 {s20} 的 {s19} 。
+str_npc32_backstory_b|闪亮是我的名字，闪亮是我的游戏 ! 如果它能让你醉倒，没有人能像以前那样做了 ! 哈哈 ! 
+str_npc33_backstory_b|我像星星一样老，像日出一样充满活力。你会称我为女神，尽管我向你保证，我的身体像女人的身体一样活着，呼吸着，渴望着。你们要拜我，向我献祭，撇下别人。你必作我所随从的至高者，妇女也必聚集在你面前。
+str_npc34_backstory_b|我是伊邪那岐……虽然我的名字很多。在卡拉迪亚，我被称为“东方人”。我没有学会写字，虽然我的标志是一条直线和一条曲线，就像地平线上冉冉升起的太阳。我的很多故事都没有被记录下来……当我们旅行的时候，我想和你们分享它，这样它就不会被遗忘。
+str_npc1_backstory_c|但是如果我能够和一大群能够为我作证的人在一起，他们也许就会放过我。我会非常感谢你的。 
+str_npc2_backstory_c|所以我在这里，没有钱，也回不了家……  
+str_npc3_backstory_c|当我想嫁人时，我要嫁给一个我想嫁的人。此外，不管我的父亲可能会怎么想，我完全能够照顾好我自己。我在想，我也许应该加入一支歌舞团，或者也许是一支佣兵队！ 
+str_npc4_backstory_c|但是我渴望避免任何的进一步的麻烦，所以如果你知道有任何的我可以加入的战斗团队，我会非常感激的。 
+str_npc5_backstory_c|与此同时，我会非常欢迎任何的以我的刀来谋生的机会。 
+str_npc6_backstory_c|你相信像我这样的人还有希望吗？我能找到正道吗，或者我是注定了要追随居住在我内心的恶魔？ 
+str_npc7_backstory_c|但是我不会就此认命，陌生人，我不会输于卡拉迪亚的任何其他的女人。卡拉迪亚，这个臭水滩，这堆列国中的粪便，到处都是笨蛋和骗子。 
+str_npc8_backstory_c|当我有足够的金币来招募一支军队时，我就会回去夺取本属于我的东西。 
+str_npc9_backstory_c|我希望用我的剑来为某个配得上它的首领效劳，因为对于像我这种出身高贵并且离开了自己的土地的人来说，这是唯一的可敬的职业，但与此同时，我就不得不和那些盗贼、流浪汉、商人，以及其他的路上的下等人们住在一起了。 
+str_npc10_backstory_c|现在我在这儿酗酒，让明天见鬼去吧。 
+str_npc11_backstory_c|给军队供应食物，这不是我要的生活。当士兵们花钱时，你就能到处赚到一点，但是之后，一场败仗来到，你就得重新开始，就得自己借债去买新的牛拉货车和新的牛。所以我决定退出这个事业，但是我也只了解军队生活。 
+str_npc12_backstory_c|这里的城堡里的领主不情愿逮捕我，但是我渴望离开到别处去。 
+str_npc13_backstory_c|我想起来了——就在这儿的外面，在这座城市中的某个地方，有一个对我相当生气的丈夫。我想你可能不会考虑帮助我离开城镇吧？ 
+str_npc14_backstory_c|所以，如果你认识某个想要赢得战斗，而不是想要纵容其士兵的指挥官的话，就请你告诉我，我会很感激的。 
+str_npc15_backstory_c|我想，我更愚蠢的地方是在拿合同的时候没有索要预付款，而到头来，我处在了一个很艰难的境地，路上到处都是强盗而我没有钱去请护卫。所以如果有一支强大的武装队伍能在接下来的几天带我出镇的话，我将非常感激。 
+str_npc16_backstory_c|不幸的是，我的上一位雇主的老婆有一个可爱的护身符，它正是我简直无法抗拒的那种类型。她还不知道护身符丢了，但是她也许很快就会知道的。所以告诉我，你在找帮手吗？ 
+str_npc17_backstory_c|当她发现盾牌不见了，她很明了地表现了她的愤怒，你能想象出吗？不过她也知道，收下美杜莎之头是个错误；美杜莎死后，她的头就变得像是一根来自一棵常青之树上的枯木，这颗头是一个凡人战士献与雅典娜的，她意识到这是不对的，所以她就让事情不了了之了。我很感激——她从不会来消灭我，但是最后我毕竟得到了她的讨厌，这让我很难过。从那时起，我考虑过从这个地方搬走。这个村子的一个淘气的女人曾给过我尊重，但是她已经死了太久了，而其余人则很惧怕我。现在这里对我来说一无所有。 
+str_npc18_backstory_c|杀人犯……就是这样。但是我会复仇的……哦，是的。蒙特里梭还活着……在某处……在某处……  
+str_npc19_backstory_c|带上我吧。我吃得不多。我能举起斧头和别的东西……如果必要，我甚至能用它们来与人相斗。我想见识这个世界。 
+str_npc20_backstory_c|我只想离开。我并没有打算放火……我不知道我为什么要告诉你这些。也许你能帮助我？ 
+str_npc21_backstory_c|这里没什么东西是我的。寒冷的天气造就寒冷的心。一旦有机会，我就会离开这里……我想你的团队能够用上一条迅捷的手臂吧？ 
+str_npc22_backstory_c|我对宙斯的肌肉的渴望同样成为了赫拉手中的诅咒——我成为了史上第一个吸血鬼，只从人类的肌肉获得营养品。我饥饿地流浪，直到我找到了这个洞穴来居住。我过去常常诱惑附近的村民和旅行者，用的是外面的树上采来的苹果……但是它最近停止结果子了。 
+str_npc23_backstory_c|它告诉我，它会教我无限力量的秘密，并且这个秘密生效了，伙计……我成为了第一个狼人。从那时起，我咬了许多人，我咬了之后就放了他们，而现在，我的一个血亲孩子来到了我面前。这让我心里温暖，伙计！ 
+str_npc24_backstory_c|他从没跟我说过他自己的名字。他很强大。他以某种方式，使用这块仙石，将一个“骚灵”束缚在了我身上，给了我生命。他不是旧血液者，所以我试图杀了他，但是不知怎么地，他阻止了我……我变得困惑……再次有了盐与血的味道……当我能再次感知事物时，我就在这儿了，在这座山丘上，被束缚于这块石头。在所有的经过这里的人中，我相信你是有能力破坏这个束缚的。就这么做吧，我会好好侍奉你的。侍奉你一段时间。 
+str_npc25_backstory_c|根据所有的迹象，似乎目标就在沙漠地带，在可汗的出生地附近。对此我很确定……我觉得我似乎正靠近着某个巨大的事物！ 
+str_npc26_backstory_c|当你准备好了，你就可以成为我在邪恶道路上的护卫者——已经证明了你配成为我的私人侍从。我们在一起，会将邪恶的消息传到卡拉迪亚的每座城市……只有到那时，我的使命才算完成。 
+str_npc27_backstory_c|永不复焉！ 
+str_npc28_backstory_c|……  
+str_npc29_backstory_c|……  
+str_npc30_backstory_c|我从没有构想出这样的东西；甚至在我最深、最邪恶的，由炼金术士的忘忧药所引发的幻象中也没有。然而我们就在这里。那么，向死亡前进吧。问问题吧，带路向前吧。 
+str_npc31_backstory_c|你得到我需要的，我也得到你需要的。我的服务不便宜。 10000 第纳尔是我所需要的——你需要什么，我的朋友 ?
+str_npc32_backstory_c|给我的还是一万元。那匹灰色的老母马也来了——但她已经不是以前的她了 ! 嘿嘿 !
+str_npc33_backstory_c|我看到你眼中的火焰。不要拒绝我。带我一起去。
+str_npc34_backstory_c|我有无与伦比的战斗技能……也许我们可以在我们的旅程中互相帮助。我需要陶器来练习我的剑术——这么多年过去了，我有点生疏了。我会收集碎片，一边走一边制作兵马俑，以支持你们的队伍。
+str_npc1_backstory_later|我曾在这附近，你知道，尽我最大努力以远离麻烦。但是我非常需要工作。 
+str_npc2_backstory_later|我卖掉了我的靴子并通过在一个又一个的城镇叫卖货物而设法赚到了几第纳尔，但是这是个艰难的生计。 
+str_npc3_backstory_later|我为一些路过的商队做过厨师，那样至少保证了我能有饭吃。但是路上的那些队伍的人都很粗野，我厌烦了赶走那些想对我无礼的人。我在想，如果我能找到一份战士的工作，男人们就会知道离开我了。 
+str_npc4_backstory_later|我曾回到我祖传的大庄园视察我的领地。但是我们遇到了蝗虫，你知道，还有霪雨，和其他的东西，所以我又到这里来找工作了。 
+str_npc5_backstory_later|我流浪于这片被战争撕裂的土地，寻找一个值得追随的领导人。 
+str_npc6_backstory_later|我流浪于卡拉迪亚，但是还没有找到救赎。 
+str_npc7_backstory_later|我一直在到处流浪，找寻作为一个追踪者的工作，但这并不容易。卡拉迪亚人大都是粗野的、卑鄙的，和无知的，和这样的人工作可不轻松。 
+str_npc8_backstory_later|我仍然在找寻一个战争领袖，想在他的盾墙中战斗。但是我需要金币，而且很急，而这片土地的领主们往往都是宁愿待在他们的要塞的墙后面，也不愿去光荣地出征，赢取财富。 
+str_npc9_backstory_later|我用我的剑来为这些地带的一些领主效劳过了。但是我发现，他们往往会叫我去跑腿送信，或者训练农民，或者是一些其他的不适合于一个绅士的工作。 
+str_npc10_backstory_later|我不知道我是否告诉过你，有一个年轻贵族无缘无故地命令要用马鞭打我，我把他打了一顿之后就逃离了我的部队。从那之后，我就过得很不顺了。幸好我很聪明，我在离去之前，偷到了我队长的钱包，但是那些钱也越用越少了。 
+str_npc11_backstory_later|我在这附近找过工作。但是很少有哪个首领会带上我这样的一把老骨头来当战士——虽然我能够干掉他部队里的一半的小子们。 
+str_npc12_backstory_later|我在这附近待过。我照顾病人，尽我所能地得到赏钱。但是这一带的人们都很无知，并且对我的职业几乎没有尊敬。我挣的那一点点第纳尔只勉强够我补充我的药品储存。如果有机会找到别的工作的话，我会很感激的。 
+str_npc13_backstory_later|我在卡拉迪亚的城市之间徘徊，留下了一堆苦恋于我的女子以及她们的戴绿帽子的丈夫。但是我已经厌倦了这种简单的挑战，我考虑从事一些更具有战斗性的娱乐。 
+str_npc14_backstory_later|我去过一座又一座的宫廷，但是我还没有找到一位合我胃口的领主。 
+str_npc15_backstory_later|我去过一座又一座的城堡，看是否有城墙或塔楼需要修理。但是我遇到的那些领主们要么是不在城堡，要么就是在考虑其他事情，或者，我会在街上碰到某个领主正被他的债主们苦苦地讨债，于是我就会意识到，这位领主还有一件自己的分内事没做完呢。所以，如果你听说了什么，请让我知道。 
+str_npc16_backstory_later|我有时会做一些零碎的工作。但是我一直没找到稳定的工作，也没找到经常性的掠夺尸体的机会。 
+str_npc17_backstory_later|作为神的女儿，我从这个世界开始时就存在了。我看过了一个个帝国的灭亡和一个个文明世界的消失。虽然为了开创一个王国，流血牺牲是必要的，但是暴力行为也将导致其不可避免的毁灭，一次又一次，周而复始。没有任何未受影响的事物留存下来，但是诸神和他们的孩子们，对我们来说，仍然是我们这个世界运作的动力。 
+str_npc18_backstory_later|我是谁？为什么我活得尚好？这全都是一场梦，告诉你……嘻！嘻！嘻！——嘻！嘻！嘻！——噩梦……一定是某种劣酒……等等……酒……他的眼……白葡萄酒……不……不！ 
+str_npc19_backstory_later|从我被制造出那天起，我天天都砍木头。我被制造出时就有了一把斧子。所以呢。这把斧子究竟是一个创造者还是一个摧毁者呢？你来判断。 
+str_npc20_backstory_later|我并非非常强壮或快速，但是我聪明极了……我甚至能一个人守住店铺里的存货。我学东西很快，并且我吃得不多。请你带上我好吗？ 
+str_npc21_backstory_later|我每天都用我的飞斧练习投术。我很少失误。你可以认为镇民们对此的评价很高，这不是吹牛……  
+str_npc22_backstory_later|如此饥饿……我将不得不快点去狩猎……  
+str_npc23_backstory_later|骨头们小声对我说话，告诉你。它们告诉我秘密，伙计……你想知道什么？骨头们知道，它们说它们知道。一根骨头喜欢说实话，而另一个喜欢说谎话——当它们以同一种方式回答时，就很令人困惑了……  
+str_npc24_backstory_later|所有的生者都必定会死——死于疾病，或者其他。记住我说的话：只要让我喝生者的血，我就会用我的非生命之躯来保护不死者的血。给卡拉迪亚死亡！！！ 
+str_npc25_backstory_later|嗯，我不想揭示我的任何职业秘密，不过，对于我使用的方法，我喜欢称它为“推理”——按照推理，所有的可能性被考虑，被排除，直到只有一个可能性还留着。这个可能性必须是真的。困难点在于对可能性的低估或高度……那真是太过头了，我害怕啊。 
+str_npc26_backstory_later|所有的人，不是跪下，就是死去！给卡拉迪亚死亡！ 
+str_npc27_backstory_later|永不复焉！！！ 
+str_npc28_backstory_later|……  
+str_npc29_backstory_later|……  
+str_npc30_backstory_later|对不起。真地很抱歉。我对这个从来没想要过一丝一毫……  
+str_npc31_backstory_later|你听到我说的话了。我不结巴。你有钱，我有时间。就这么简单。
+str_npc32_backstory_later|嘿 ! 一个熟悉的面孔……我认为。哦，是的，我了解你 ! 那我们成交了吗 ?
+str_npc33_backstory_later|宇宙中所有不为人知的秘密都将属于你……带我一起去 ! 
+str_npc34_backstory_later|我还是找不到她。我厌倦了这个地方…
+str_npc1_backstory_response_1|也许吧。但是我怎么知道我的马会不会被你“误解”呢？ 
+str_npc2_backstory_response_1|嗯，也许我可以给你提供工作。你能战斗吗？ 
+str_npc3_backstory_response_1|嗯，碰巧，我正在带着一支佣兵队伍。 
+str_npc4_backstory_response_1|我正带着一支团队，我也许能雇用一位额外的帮手。 
+str_npc5_backstory_response_1|很好啊！我也许能向你提供些什么。 
+str_npc6_backstory_response_1|嗯。你也许能考虑一下加入我们。纠正错误，和压迫者们斗争，救回你自己，以及诸如此类之事。 
+str_npc7_backstory_response_1|嗯……也许你正在找工作？ 
+str_npc8_backstory_response_1|我能够给你机会，让你通过善良的、正当的战斗和掠夺来挣到钱。 
+str_npc9_backstory_response_1|也许你会愿意加入我的团队一阵子的。 
+str_npc10_backstory_response_1|如果你在找工作，我可以用一个有经验的战士。 
+str_npc11_backstory_response_1|那你现在将要做什么呢？ 
+str_npc12_backstory_response_1|嗯，你可以跟我们一同旅行，但是你将不得不具有在我们的战阵中战斗的能力。 
+str_npc13_backstory_response_1|我也许能让我的团队多一份力量。 
+str_npc14_backstory_response_1|我也许能在我的团队里用到你。 
+str_npc15_backstory_response_1|你要去哪里？ 
+str_npc16_backstory_response_1|可能吧。你会做什么呢？ 
+str_npc17_backstory_response_1|我想人类的战争对于一个神来说，基本没有什么好处可图——不过，你就不渴望战斗吗？ 
+str_npc18_backstory_response_1|真是个静不下来的家伙。也许我可以帮你复仇。毕竟，现在谁都可以成为一个蒙特里梭……  
+str_npc19_backstory_response_1|我可以向你展示这个世界……以及别的事物。多跟我说说你能做什么。 
+str_npc20_backstory_response_1|也许我能以某种方式使用你。你会遵照命令战斗吗？ 
+str_npc21_backstory_response_1|言辞犀利，并且真实。继续。 
+str_npc22_backstory_response_1|我猜想我能为你提供所有的你渴望的肌肉。 
+str_npc23_backstory_response_1|真令人好奇。 
+str_npc24_backstory_response_1|（破坏这个束缚。） 
+str_npc25_backstory_response_1|有意思。 
+str_npc26_backstory_response_1|给卡拉迪亚死亡！ 
+str_npc27_backstory_response_1|也许你以后还想说别的东西。 
+str_npc28_backstory_response_1|……  
+str_npc29_backstory_response_1|……  
+str_npc30_backstory_response_1|难以置信……  
+str_npc31_backstory_response_1|听起来是个好消息。
+str_npc32_backstory_response_1|把你的沉静装上你的高傲的马，爷爷，跟我来……
+str_npc33_backstory_response_1|跟我来，把你知道的都教给我。
+str_npc34_backstory_response_1|我们将一起寻找你的妻子，你将告诉我你的故事。来…… 
+str_npc1_backstory_response_2|我不会这么做的。我有更好的事情要做，而不是帮助盗贼逃避正义。 
+str_npc2_backstory_response_2|运气真差啊，朋友。日安。 
+str_npc3_backstory_response_2|回家去吧，小姑娘。父亲的意旨一定要被遵从。 
+str_npc4_backstory_response_2|不，对不起，我一支佣兵团队也没听说过。 
+str_npc5_backstory_response_2|唉……只要你们山岭部落间的争斗不停，你们就会只剩下愚者和弱者。 
+str_npc6_backstory_response_2|我要远离你，可恶的弑亲者！ 
+str_npc7_backstory_response_2|事实上，我很喜欢这个地方。日安。 
+str_npc8_backstory_response_2|你的小叔子是对的——女人不应该统治。回家去照看你的家庭吧。 
+str_npc9_backstory_response_2|我的一些最好的朋友可都是下等人啊。日安，阁下。 
+str_npc10_backstory_response_2|毫无疑问，当你醒来的时候，你会发现你的脖子已被绞索套住，这可是你应得的。日安。 
+str_npc11_backstory_response_2|很有意思，女士，但是我还有事要做。 
+str_npc12_backstory_response_2|对不起。我无法雇用任何新人手了。 
+str_npc13_backstory_response_2|是的，对不起。我不能替你做什么。 
+str_npc14_backstory_response_2|如果我听说了什么，我会让你知道的。日安。 
+str_npc15_backstory_response_2|对不起。我的队伍现在已经满员了。 
+str_npc16_backstory_response_2|抱歉，小姑娘。你听起来也许会是个麻烦。 
+str_npc17_backstory_response_2|我可不想招来神的责罚。再见了！ 
+str_npc18_backstory_response_2|你说得太多了，老头……  
+str_npc19_backstory_response_2|对你来说，世界太大了，小树朋友。也许以后吧。 
+str_npc20_backstory_response_2|我恳请你原谅。强壮与快速才能赢得竞赛，阁下。抱歉。 
+str_npc21_backstory_response_2|（颤抖）好冷。我向你告辞了。 
+str_npc22_backstory_response_2|我有我自己的坏习惯要满足……  
+str_npc23_backstory_response_2|保持住这一想法……  
+str_npc24_backstory_response_2|（赶快逃走。） 
+str_npc25_backstory_response_2|越说越难懂了……呸！ 
+str_npc26_backstory_response_2|快了，拉斯普京。快了。 
+str_npc27_backstory_response_2|我不需要宠物。 
+str_npc28_backstory_response_2|……  
+str_npc29_backstory_response_2|……  
+str_npc30_backstory_response_2|荒谬至极……  
+str_npc31_backstory_response_2|我听过更好的。
+str_npc32_backstory_response_2|我怕你还是会一直这样，老头子。
+str_npc33_backstory_response_2|我不能带你走。
+str_npc34_backstory_response_2|我真的没有时间了。
+str_npc1_signup|{阁下/女士}，就算你只是这么想一下也会让我难过。我会非常感激你的，并且你会看到我表达我的感激的。 
+str_npc2_signup|好吧，我要承认我不是一个专业的战士。 
+str_npc3_signup|真的？嗯，我不会挑剔的！我会高兴地加入你的。 
+str_npc4_signup|好的！我期待去打败你的敌人。 
+str_npc5_signup|哎呀，这是一个非常慷慨的提议。 
+str_npc6_signup|是的！你一定是天神派来的人！带领我——带领我远离黑暗！ 
+str_npc7_signup|也许吧。我当然可以使用那些工钱。 
+str_npc8_signup|你能吗？我会接受你的提议。 
+str_npc9_signup|我非常愿意，阁下。 
+str_npc10_signup|真地，现在？嗯，这看起来总比因为擅离职守而被绞死好。 
+str_npc11_signup|哎呀，我要当兵！我要用我的这双老手来挣得一点战利品，让我退役后的生活过得舒服些。我生了两个男孩，他们都曾在军队里当过捣蛋鬼，并且他们后来都成为了军人。一个的脑袋被诃儿吉惕人的战棍打破了，另一个死于了水痘，但是至少他们没有死于饥饿。 
+str_npc12_signup|如我所告诉你的，我是个医生，而不是某个从没碰过尸体的穿丝袍的大学医师。我能够做血腥的伙计。 
+str_npc13_signup|真的？你招募我是明智的。 
+str_npc14_signup|我很乐意与你并骑而行，至少愿意行一小会儿，以此来得到报酬并分到任何的战利品。 
+str_npc15_signup|我最终要去格罗亚，但是我首先会欢迎能挣得一些第纳尔的机会，这样我就不至于两手空空地回家。所以，如果你能承诺给我食物并与我分享战利品，我将很乐意为你战斗一阵子。 
+str_npc16_signup|嗯， {阁下/女士}，让我告诉你。我也许不知道如何读书写字，但是我知道命中一个人的心脏的最快的途径就是从他的第四和第五跟肋骨之间刺入。现在你了解我了吗？ 
+str_npc17_signup|事实上，自从我尝过了人类的血之后，我对战斗的渴望就永远不会终止了！我确实渴望再次看到人类在将死之际，他们的恐惧的眼光逐渐暗淡……  
+str_npc18_signup|现在？我不知道过去多久了……不……不……不可能这么久……蒙特里梭……复仇！嘻！嘻！嘻！——嘻！嘻！嘻！——对……  
+str_npc19_signup|我强大而坚韧，善使双手武器。我毫无疑问会是一名优秀的近战步兵。 
+str_npc20_signup|我聪明而多才多艺，善使长杆武器。我毫无疑问会是一名优秀的近战骑兵。 
+str_npc21_signup|我快而准，善使投掷武器。我毫无疑问会是一名优秀的远程步兵或远程骑兵。 
+str_npc22_signup|从没有人逃出过我的控制。自从宙斯赠与了他的仁慈礼物，我就发现女人和儿童的味道很差。我将不再吃他们——尽管我曾杀了许多。 
+str_npc23_signup|我能抓住所有你需要的俘虏，伙计——留几个给我做实验就行了，我会很高兴的。呵呵呵！ 
+str_npc24_signup|太棒了。我就知道你有这种力量。我的剑归你了。现在归你……  
+str_npc25_signup|那就对了！我要拿一两本书……我偶尔会需要回到这里来检阅我的笔记。酒馆掌柜认识我。我其余的东西在楼上，它们会很安全的！ 
+str_npc26_signup|我们必须去每座城市的中心并发出我们的战吼，这样它们的领主也许就会听到我们舌头发出的恶毒言语：给卡拉迪亚死亡！ 
+str_npc27_signup|永不复焉……  
+str_npc28_signup|……  
+str_npc29_signup|……  
+str_npc30_signup|我敢于测试我在这个世界制造的这场噩梦的极限。带上我吧……  
+str_npc31_signup|这就是我要说的 ! 我以为你会按我的方式看事情……
+str_npc32_signup|我已经很多年没有上路了……但我保证我将把约德尔值降到最低 ! 嘿嘿 !
+str_npc33_signup|好。我要教你的第一件事，就是魅力和超自然吸引力的奥秘——年轻姑娘们会把你找出来，听命于你的脚下。
+str_npc34_signup|我会继续忠于你的旗帜…卡拉迪亚的其他旗帜都没有吸引过我。虽然在许多地方我被称为神，但在这些地方，我只是传说中的勇士和技艺高超的渔夫…… 
+str_npc1_signup_2|在我的岁月中，我曾在相当多的地势高低不平的乡村里骑过马，并且快骑的次数比慢骑的还多。我是个优秀的追踪者，并且我善于观察地势。所以，你看呢？ 
+str_npc2_signup_2|我学得很快。我会骑马，并且知道相当多的贸易、价格之类的知识。 
+str_npc3_signup_2|我认为你会发现，我会是你的军队的最有价值的新加入者。我非常精通于古典文学并且会朗诵一些我的人民的史诗。我会弹奏鲁特琴并且是一个熟练的家庭仆人管理者。 
+str_npc4_signup_2|不过要注意，作为一名绅士以及男爵领地的持有者，我期望能处在统帅的位置，而不被对待为一个普通的士兵。 
+str_npc5_signup_2|我不会背叛你的——当然，只要你对我尽责，给我吃的，付我薪水，以及不要把我这不幸的身躯拖入没机会打赢的战斗之中。如果你愿意的话，就给我些盐吧——从首领那里拿盐是我们的人民的习俗，这标志了首领关心我们的福利。 
+str_npc6_signup_2|我受过良好的军事训练——但是我恳请你，阁下，我希望用我的技能来保护无辜者、清白者，以及不能自保者，而不想成为一个普通的土匪，做出比我已犯的罪孽还要不幸的罪孽。 
+str_npc7_signup_2|不过，告诉你的部下我受不了笨拙者和残忍者。任何对我行为不端者都会很快在他们的喉咙中找到一枝箭。 
+str_npc8_signup_2|我会很高兴地在你的盾墙中战斗。但是我警告你——若是你叫我去收集木柴，或者烧饭，你将不会喜欢其后果的。 
+str_npc9_signup_2|我是个绅士，我喜欢用剑和矛来战斗。我看得出你出身比我低贱，但是在一个有经验的首领的领导下服务并没什么可耻——当然，前提是，你的部下们不要和我太亲近。我想这没问题吧？ 
+str_npc10_signup_2|你不会后悔带上我的， {兄弟/妹子}。我是个神眼弩手——这是个好武器，它可以直接刺穿一个贵人的铠甲，让他的高贵的血液飞溅到地上。并且我训练过的新兵比你吃过的饭还多，请原谅。我不会向出身高贵的人拍马屁。 
+str_npc11_signup_2|我知道如何挥刀、给伤口止血，以及喂饱行军的士兵们。笨蛋首领才会错过雇用我这样的一个资深老兵的机会！喂，小 {伙子/姑娘}，你现在不是指挥着一支你自己的战队吗？ 
+str_npc12_signup_2|我处理过人的手能够击打出的每一种伤口。在我当医生之前，我是个学生，所以你可以确信，我弄出过伤口，也治愈过它们。 
+str_npc13_signup_2|剑、矛、弓——我所掌握的所有如此的武器的技艺是铸成伟大史诗的原料。我们会一起演示这些技艺，我们的功绩会在节日中、在营火旁、在小旅馆里以及在国王们的大厅里代代相传。 
+str_npc14_signup_2|我是一名熟练的剑客，我也能教导你的部下战斗。但是我提醒你，我不喜欢为一个对他的部下纪律松懈的领导者战斗，因为他们最终不会尊重一个软弱者的。 
+str_npc15_signup_2|围城工作是我的专长，不过我想，如果需要的话，我也能在野战中打得够好。 
+str_npc16_signup_2|我除了用匕首来捅人以外，还会投掷它们，并且我像水银一样灵活。你会发现我在战斗中是有用的，我保证。 
+str_npc17_signup_2|美杜莎之箭能摧毁人类的盾牌，然后他们就会变得无助，没有办法阻止美杜莎之箭的腐蚀之刺。在珀耳修斯杀死我妹妹之前，已经有许多人死去了，而从今以后，会有更多。 
+str_npc18_signup_2|我过去是一个泥瓦工，而我现在依然是一个泥瓦工——“没人比我更善于使用泥刀和砖头。”这是共济会的一句老顺口溜……嘻！嘻！嘻！——嘻！嘻！嘻！——确实是共济会……诅咒你，蒙特里梭……  
+str_npc19_signup_2|此外，可能有办法改变我的能力。我是非常多功能的！ 
+str_npc20_signup_2|此外，可能有办法改变我的能力。我是非常多功能的！ 
+str_npc21_signup_2|此外，可能有办法改变我的能力。我是非常多功能的！ 
+str_npc22_signup_2|我非常精通长杆武器，并且我更愿意自己留住“宙斯之忧伤”。我会管理好你的部下们，并让你的俘虏一直都疼痛——没有人能像我这样令人那样地尖叫，我向你保证。 
+str_npc23_signup_2|带上我，任何时候你想要了，我都会为你解读骨头。开口问便是，伙计！ 
+str_npc24_signup_2|寻找你的血，我的主人。但是要小心那个闻着血和盐的家伙……  
+str_npc25_signup_2|我是一个相当优秀的火器射击者，我自己都很佩服我自己——我的视力不是很好，但是我脸上的这奇妙玩意儿让我看得更清楚。 
+str_npc26_signup_2|作为至尊邪魔的特使，我能接触到小幽灵们，并用我的棍子“米达伦”来与他们交流。作为我的私人侍从，你随时都能获取这些幽灵们的劝告——最好是用“是”或“否”来回答的问题，因为这些回答可能会非常晦涩。此外，我有所有的你可能曾经渴望的关于亡灵巫术的知识，如果你已经将性命质押给喷血池了的话，我就可以指导你那些在《亡灵之书》中同样能找到的咒语。 
+str_npc27_signup_2|死……卡拉迪亚……永不复焉！ 
+str_npc28_signup_2|……  
+str_npc29_signup_2|……  
+str_npc30_signup_2|你问问题吧……  
+str_npc31_signup_2|现在告诉我你需要什么，我的朋友。
+str_npc32_signup_2|我想我已经有了一把口琴，可以在那些空闲时间吹奏……
+str_npc33_signup_2|如果你善待女奴，她们将从赤贫发家——成为卡拉迪亚最可怕的士兵之一……   
+str_npc34_signup_2|战争在心中，和平在心中。人必须找到平衡。最后，当我会集中练习我的剑术，我将需要木材。砍柴可以增强体力，钓鱼可以培养耐心。烟熏鱼让军队不挨饿… 
+str_npc1_signup_response_1|好的。你能对我们有用。 
+str_npc2_signup_response_1|那会有用的。 
+str_npc3_signup_response_1|嗯，这是个开始。我们可以教你剩下的。 
+str_npc4_signup_response_1|很好。我会高兴地让你加入我们的，嗯，“男爵”。 
+str_npc5_signup_response_1|当然。给，请用盐。 
+str_npc6_signup_response_1|很高兴接受你的服务！收拾好你的东西，我们要出发了。 
+str_npc7_signup_response_1|我会雇用你。试着别在第一天就射了某人。 
+str_npc8_signup_response_1|别担心，女士。你是乡绅的寡妇和女儿，你会得到应有的对待的。 
+str_npc9_signup_response_1|嗯，应该不会有。我会和他们谈一下的。 
+str_npc10_signup_response_1|真是优秀的伙计啊。我们会给你你应得的尊重。 
+str_npc11_signup_response_1|听起来你会有用的。你被雇用了。 
+str_npc12_signup_response_1|那么欢迎来到我们团队，医生。 
+str_npc13_signup_response_1|好的。做好准备，我们就要出发了。 
+str_npc14_signup_response_1|好的。我很高兴雇用你这样的人。 
+str_npc15_signup_response_1|这对我有用。我将很高兴雇用你。 
+str_npc16_signup_response_1|听起来你能够胜任这份工作。我要雇用你。 
+str_npc17_signup_response_1|那么，和我来吧，我们会为卡拉迪亚带来死亡！ 
+str_npc18_signup_response_1|那么来吧！地上某处有杀你的人的双眼！你会复仇的！ 
+str_npc19_signup_response_1|知道这个真好。强大的援手来之不易。你被雇了。 
+str_npc20_signup_response_1|知道这个真好。我能说，你是个机灵的家伙。你被雇了。 
+str_npc21_signup_response_1|知道这个真好。你的足步里有着活力。你被雇了。 
+str_npc22_signup_response_1|愿我们的敌人倒在你的饥饿之前，忧伤女王。 
+str_npc23_signup_response_1|很好。带上你需要的行李。把别的东西都留下。 
+str_npc24_signup_response_1|我会留心你的话的，邪恶的剑。跟我来。 
+str_npc25_signup_response_1|我能用上一名狙击兵。你被雇了。 
+str_npc26_signup_response_1|在这条道路上，我能获取一些洞察力。很好。 
+str_npc27_signup_response_1|真怪异……跟我来吧，鸟儿。 
+str_npc28_signup_response_1|……  
+str_npc29_signup_response_1|……  
+str_npc30_signup_response_1|爱伦· 坡。你会跟我来吗？ 
+str_npc31_signup_response_1|我需要一些好帮手——我听说很难找到…… 
+str_npc32_signup_response_1|我能打得一手好牌。你应该找个时间试试…… 
+str_npc33_signup_response_1|你会教我的，伊斯塔女神…… 
+str_npc34_signup_response_1|当我离开这里，跟我走。我们将一起旅行。 
+str_npc1_signup_response_2|我宁愿不去冒这个险。日安，阁下。 
+str_npc2_signup_response_2|我恐怕我只想找有些经验的人。日安。 
+str_npc3_signup_response_2|事实上，我们在找技能跟你的有点不同的人。 
+str_npc4_signup_response_2|事实上，我们没有雇用虚构自己的家世的强盗的习惯。日安，阁下。 
+str_npc5_signup_response_2|事实上，经过重新考虑，我更愿意带一支更文明的团队。 
+str_npc6_signup_response_2|经过重新考虑，也许一支佣兵团不是你当前所需要的。 
+str_npc7_signup_response_2|事实上，经过重新考虑，听起来你也许是个麻烦。日安。 
+str_npc8_signup_response_2|啊。事实上，如果你不去做我命令你做的事情的话，你最好去别处寻找你的财富。 
+str_npc9_signup_response_2|你想错了，阁下。在我的团队里，我们尊重的是勇气与技能，而不是高贵的出身。 
+str_npc10_signup_response_2|经过重新考虑，我们的团队是非常重视纪律的。日安。 
+str_npc11_signup_response_2|抱歉，女士。我的团队已经有够多人要指挥了。 
+str_npc12_signup_response_2|战斗和酒馆斗殴不是同一回事。也许你应该去别处找工作。 
+str_npc13_signup_response_2|事实上，经过重新考虑，在我的团队里，一个过于渴望荣耀的战士是危险的。 
+str_npc14_signup_response_2|事实上，我不想在我的队伍中引起一场哗变。日安，阁下。 
+str_npc15_signup_response_2|事实上，我需要其他的专业技术。抱歉。 
+str_npc16_signup_response_2|说实话，我更想要某个盗窃欲望没这么强的人。 
+str_npc17_signup_response_2|我无法承受雅典娜的责罚。我很抱歉。 
+str_npc18_signup_response_2|也许我该回去了……  
+str_npc19_signup_response_2|我需要的军力已经够了，抱歉。 
+str_npc20_signup_response_2|你还没有说服我。再见。 
+str_npc21_signup_response_2|我的猎人已经够多了。也许以后吧。 
+str_npc22_signup_response_2|我害怕我消耗不起。也许当我有更多肌肉来给你处理时……  
+str_npc23_signup_response_2|我不需要一个预言命运者……  
+str_npc24_signup_response_2|（赶快逃走。） 
+str_npc25_signup_response_2|不用这么快……我不感兴趣。 
+str_npc26_signup_response_2|我没准备好。 
+str_npc27_signup_response_2|乌鸦学舌。有何用呢？ 
+str_npc28_signup_response_2|……  
+str_npc29_signup_response_2|……  
+str_npc30_signup_response_2|现在不要。
+str_npc31_signup_response_2|我不知道，听起来有点可疑。对不起…… 
+str_npc32_signup_response_2|不用了，谢谢——我更喜欢风笛……
+str_npc33_signup_response_2|我必须走了。我会回来的。
+str_npc34_signup_response_2|也许我会再见到你…… 
+str_npc1_payment|我会对你们非常有用的， {阁下/女士}，你可以为此下注赌一把。在我们离开前，还有一件事，你介意给我 {reg3}第纳尔吗？我很羞愧说到这个，但是我在这里赊了一点账，这几个星期来我一直待在这个酒馆里，并且酒馆的持有人们不会再相信我有我曾经常常跟他们说到的那些金币了。你知道，如果他们看见我在付他们钱之前就和你离开了的话，事情会变得难看的。 
+str_npc2_payment|。 
+str_npc3_payment|。 
+str_npc4_payment|太棒了。在我们出发前，你能发发好心，提供我 {reg3}第纳尔吗？我被迫在 {s20}这里的一家当铺典当了一件传家宝，我想在我们离开前赎回它。 
+str_npc5_payment|谢谢。现在，为了定下我们的协议，我向你要 {reg3}第纳尔。这是我父亲给我的一个忠告。他告诉我：“八合失脱儿，在一个野蛮人先付给你你应得的金币前，决不要为他战斗。” 
+str_npc6_payment|。 
+str_npc7_payment|那么好的。我会跟着你走。但是我想先要 {reg3}第纳尔的报酬。你也没指望我会免费为你工作，是吧？ 
+str_npc8_payment|那么我会为你而与你的敌人作战的。但是我想先要一份 {reg3}第纳尔的奖金。如果你是一个能够带领其团队去获得财富和劫掠物的能干的首领的话，那么叫你付钱应该没有麻烦。我不能追随一个穷鬼。 
+str_npc9_payment|你真好啊。另外，在我加入之前，你能提供我 {reg3}第纳尔吗？这样我就能买一些合适的衣物了，这才适合于一个像我这样出身高贵的绅士。因为我最近的坏运气，我的这件外套已被严重磨损了，我不能让普通的士兵们把我误认为是他们中的一员。 
+str_npc10_payment|真是好消息。但是我还有最后一个请求，队长。在 {s20}这里我有个女人，一个酒馆荡妇，她说她肚子里有我的孩子。我想要在离开前给她一些钱……为了孩子，你知道。你认为你可以分给我 {reg3}第纳尔吗？ 
+str_npc11_payment|嘿，谢谢你，队长。但是在加入你之前，我想要一份 {reg3}第纳尔的报酬。我知道在战争部队里，士兵可能会连续几个星期都看不到任何薪水。我还算聪明，我不会在还没被付够钱时就随便签约。 
+str_npc12_payment|。 
+str_npc13_payment|在我签约之前，还有件小事。我在待在这里时，牵扯到了一些费用——  {reg3}第纳尔。作为一个友好的表示，你认为你可以为我付掉这些吗？ 
+str_npc14_payment|啊，还有最后一事。在我听从你的指挥之前，我想要一份 {reg3}第纳尔的预付奖金。我的原则是，没收到我应得的报酬，我就决不会为某人服务。 
+str_npc15_payment|好的。顺便说下，作为一名熟练的工程师，我要求你为我的服务而付我报酬。一份 {reg3}第纳尔的签约奖金就够了，我想。 
+str_npc16_payment|好，真是好消息啊，队长。那么，付我点钱来定下我们的协议如何？仅仅 {reg3}就够了。请不要想错了，我在过去经常都会运气不好，碰上了一些不给钱的雇主。 
+str_npc17_payment|。 
+str_npc18_payment|。 
+str_npc19_payment|。 
+str_npc20_payment|。 
+str_npc21_payment|。 
+str_npc22_payment|。 
+str_npc23_payment|。 
+str_npc24_payment|。 
+str_npc25_payment|。 
+str_npc26_payment|。 
+str_npc27_payment|。 
+str_npc28_payment|。 
+str_npc29_payment|。 
+str_npc30_payment|。 
+str_npc31_payment|太好了 ! 让我看看 {reg3} 第纳尔的颜色，我们就可以开始谈正事了。
+str_npc32_payment|好吧，伙伴，把 {reg3} 第纳尔丢在我的马鞍袋里，我们就上路了 !    
+str_npc33_payment|。
+str_npc34_payment|。
+str_npc1_payment_response|很好，这是。现在，去解决余下的事情吧。 
+str_npc2_payment_response|。 
+str_npc3_payment_response|。 
+str_npc4_payment_response|当然。这是 {reg3}第纳尔。 
+str_npc5_payment_response|嗯……那么，这是 {reg3}第纳尔，你的第一份报酬。 
+str_npc6_payment_response|。 
+str_npc7_payment_response|没有，当然没有。这是 {reg3}第纳尔。 
+str_npc8_payment_response|哦，我可不是穷鬼，女士。这是给你的 {reg3}第纳尔。 
+str_npc9_payment_response|很好，这是 {reg3}第纳尔。 
+str_npc10_payment_response|当然。给， {reg3}第纳尔。 
+str_npc11_payment_response|很好，这是 {reg3}第纳尔。做好准备。我们很快就会出发。 
+str_npc12_payment_response|。 
+str_npc13_payment_response|当然，这是 {reg3}第纳尔。快点做好出发的准备。 
+str_npc14_payment_response|很好，这是 {reg3}第纳尔。非常欢迎你加入我的团队。 
+str_npc15_payment_response|很好，这是 {reg3}第纳尔。很高兴能让你加入我们。 
+str_npc16_payment_response|很好，这是给你的 {reg3}第纳尔。做好准备。 
+str_npc17_payment_response|。 
+str_npc18_payment_response|。 
+str_npc19_payment_response|。 
+str_npc20_payment_response|。 
+str_npc21_payment_response|。 
+str_npc22_payment_response|。 
+str_npc23_payment_response|。 
+str_npc24_payment_response|。 
+str_npc25_payment_response|。 
+str_npc26_payment_response|。 
+str_npc27_payment_response|。 
+str_npc28_payment_response|。 
+str_npc29_payment_response|。 
+str_npc30_payment_response|。 
+str_npc31_payment_response|当然，老兄。这是 {reg3} 第纳尔。不要把钱都花在一个地方。 
+str_npc32_payment_response|嘿嘿。 
+str_npc33_payment_response|。 
+str_npc34_payment_response|。 
+str_npc1_morality_speech|喂，老板，请不要再这么做了，这是错误的。生活是艰难的，但我们 {s21} 确实有点过分了。如果你不介意我这么说的话，就请在以后多注意一点吧，长官。 
+str_npc2_morality_speech|我希望你不介意我这么说，但是我看到我们 {s21} 是有点难受的。也许我应该试着成为一个更坚强的战士，但是如果我们能够时常试着多一些仁慈，我会睡得更好的。 
+str_npc3_morality_speech|也许我没资格这么说， {阁下/女士}，但是我承认，我们 {s21} 使我有点震惊。当然，我了解战争是残酷的，但是如果可以避免的话，我们就没必要使它更残酷。 
+str_npc4_morality_speech|请原谅——如你所知，罗勒弗家族的人不喜欢 {s21}。如果你继续这么做，我会不高兴的。 
+str_npc5_morality_speech|请原谅，队长。 {s21} 不好。你的首要职责是要对拿了你的盐的部下们负责。他们的最低期望不过是食物、薪水、掠夺的机会，以及不要在不必要的情况下浪费掉他们的性命。 
+str_npc6_morality_speech|打扰了， {阁下/女士}。如你所知，我加入你是为了纠正错误，保护无辜者，以及改过自新。我不希望 {s21}。 
+str_npc7_morality_speech|队长，我不喜欢看到我们 {s21}。如此的行径属于一个不关心自己部下的普通的强盗头子。 
+str_npc8_morality_speech|我不高兴你决定 {s21}。倒在战斗中是一种荣誉，但是在一支由一个懦夫领导的战团里战斗是不光彩的。 
+str_npc9_morality_speech|{阁下/女士}， {s21} 不是我的作风。我的家族的人会接受死亡，但不会接受耻辱。请不要让我羞耻地为你效劳。 
+str_npc10_morality_speech|请原谅，队长。看见我们 {s21}，我不能说我很高兴。那些人只是朴实的人们，他们在试图谋生。如果你能试着放过这些可怜的人，队长，我会感觉更好的。 
+str_npc11_morality_speech|打扰了，队长。我们 {s21} 不好。我跟随军队和战团有 30年了，士兵们对领导人的最低期望不过是喂饱他们、给他们薪水，以及尽其最大的努力去保障他们可怜的身体不受伤害。 
+str_npc12_morality_speech|队长，我不喜欢看见我们 {s21}。我准备成为的是一个战士，而不是一个土匪。恳请你让我们试着多表现一点同情心吧。 
+str_npc13_morality_speech|队长，如果我们可以避免的话，我更愿意不要 {s21}。卡拉迪亚是个小地方，而一个人的名声是珍贵的。我不喜欢我的一个对手把刚发生的这一不幸事件写进一首讽刺诗里。 
+str_npc14_morality_speech|我不喜欢 {s21}。没有哪个有着懦夫名声的人能严厉地震慑住他的部下。 
+str_npc15_morality_speech|{阁下/女士}，你也知道我的看法，任何有情感的指挥官都不会让他的同伴 {s21}。希望你别介意我说得这么直率。 
+str_npc16_morality_speech|队长，我不喜欢 {s21}。还有那么多喉咙没被割开，还有那么多钱包没被翻找……  
+str_npc17_morality_speech|你为什么要 {s21}？如此的浪费，即使对于一个凡人……  
+str_npc18_morality_speech|在我们 {s21} 时，我发现你的动机是可疑的。我想起了我曾经认识的某个人……我绝不会忘记他的眼睛……  
+str_npc19_morality_speech|当我们 {s21} 时，我有不好的感觉。这样似乎错了……  
+str_npc20_morality_speech|要 {s21}，还是不要 {s21}，这是个问题。我相信一位明智的统帅会回答“不要”。 
+str_npc21_morality_speech|也许我不够资格说，队长，但是我想不通为什么我们要 {s21}。这似乎是无意义的。 
+str_npc22_morality_speech|给卡拉迪亚死亡！给女人和儿童死亡！把受伤的男人留给我……  
+str_npc23_morality_speech|那些人能成为一堆新的优秀的狼人……通过下一次的满月之光，他们就会成为我们中的一部分，伙计。给卡拉迪亚死亡！ 
+str_npc24_morality_speech|血！！！ 
+str_npc25_morality_speech|当我们 {s21} 时，我并不是被感动的。为了赔罪，应该做些事情。 
+str_npc26_morality_speech|失败。 {s21} 是不可接受的。从此事吸取教训吧。 
+str_npc27_morality_speech|死。 
+str_npc28_morality_speech|……  
+str_npc29_morality_speech|别再让我失望了，不然我吃了你！！！ 
+str_npc30_morality_speech|如此可怕的结局。 {s21} 是一个被使用得如此过度的情节啊……  
+str_npc31_morality_speech|我的朋友，我不想混淆视听，所以让我直截了当地说吧 : 我不在乎。如果你还需要我做什么，我就在这里……
+str_npc32_morality_speech|我不太喜欢 {s21} 。让我伤心到要写一首乡村音乐……当然，我很乐意在路上唱这首歌。但是难道没有更好的办法吗，伙伴 ?
+str_npc33_morality_speech|我不喜欢我们在 {s21} 的时候。不要使我不高兴，否则我将在你的教导完成之前离开……  
+str_npc34_morality_speech|我不是懦夫。我不喜欢 {s21} 。   
+str_npc1_2ary_morality_speech|老板，如你所知，如果我们 {s21}，我可是没有问题的。为另一天的斗争而活着对我来说感觉很好。 
+str_npc2_2ary_morality_speech|{阁下/女士}，我们 {s21} 使我不怎么高兴。我是一个商人，而在我们这一行，一个人得保证他的言语。我不想要一个不诚实的名声——那将意味着我的贸易生涯的结束， {阁下/女士}。 
+str_npc3_2ary_morality_speech|{阁下/女士}，我认为你 {s21} 是一个勇敢的决定。找到路径来避免流血牺牲并不可耻。 
+str_npc4_2ary_morality_speech|请原谅——不管别人说什么，我对你 {s21} 一点想法也没有。为了在这些动乱的时期中幸存，你应该采取任何你需要的策略。 
+str_npc5_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc6_2ary_morality_speech|{阁下/女士}，你可以选择 {s21}，但是如果你不去参与它，这会更好的。这不是我的救赎之路。 
+str_npc7_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc8_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc9_2ary_morality_speech|队长，你 {s21} 令我很失望。一位像你这样的 {绅士/淑女} 应该每次都展示出荣誉的最高标准。 
+str_npc10_2ary_morality_speech|{兄弟/妹子}，我不能说我喜欢看到我们 {s21}。你应该好好对待你的人，他们就会回报你更多。 
+str_npc11_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc12_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc13_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc14_2ary_morality_speech|队长，你不应该为你 {s21} 的事情困扰。军人就要服从他们的领导的命令，艰苦也是战士生活的组成部分。 
+str_npc15_2ary_morality_speech|你知道， {playername}朋友，看到你如何 {s21}，我真是一点也不觉得你可靠。如果你能对他们食言，那你也能对我食言，我就是这么认为的。 
+str_npc16_2ary_morality_speech|队长，如你所知，对我来说，我们 {s21} 没什么问题。我们做我们为了生活而需要做的，并且如果他们处在我们的情况下，他们也会做得跟我们做的一样。 
+str_npc17_2ary_morality_speech|随意去 {s21} 吧，我不会向你抱怨的。就让强者通过毁灭弱者而存活吧！ 
+str_npc18_2ary_morality_speech|呃？ {s21}？我要在乎什么呢？嘻！嘻！嘻！——嘻！嘻！嘻！现在是狂欢节……  
+str_npc19_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc20_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc21_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc22_2ary_morality_speech|你真是个魔鬼——要是我对你不够了解的话，我同样也会认为你是个受诅咒的传奇怪物……有朝一日，会有恐怖之歌为你而唱响，而在合唱队中，也会有我的嗓音！ 
+str_npc23_2ary_morality_speech|如此的残忍行为……我喜欢，伙计！不过要试着给我留一些人。呵呵呵！ 
+str_npc24_2ary_morality_speech|血。是的。我会把他们都杀了的。我会喝了他们的血。 
+str_npc25_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc26_2ary_morality_speech|我明白为什么喷血池会选择你当我的向导了。给卡拉迪亚死亡！ 
+str_npc27_2ary_morality_speech|生。 
+str_npc28_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc29_2ary_morality_speech|杀光他们！！！给卡拉迪亚死亡！！！ 
+str_npc30_2ary_morality_speech|光荣的战斗！我以前可写不出比之更好的呢！ 
+str_npc31_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc32_2ary_morality_speech|哇 ! 我真的很爱我 ! 我真想把帽子扔到空中，但我想我这样做的时候，帽子有掉到沟里去的倾向……
+str_npc33_2ary_morality_speech|是的 ! { s 2 1 }   ! 再来 ! 我命令它 ! 
+str_npc34_2ary_morality_speech|[没有第二项道德规范 ]
+str_npc1_personalityclash_speech|队长，我无意冒犯，但是我有点厌烦德莎维。她老是摆架子，就像她比你谦逊的仆人博儿察还要优秀一样。 
+str_npc2_personalityclash_speech|{阁下/女士}，如你所记得的，在我和你签约前，我曾是一名商人。我尊重那些和平地生活着，冒着一切风险把货物带到遥远的地方的人。 
+str_npc3_personalityclash_speech|队长，在我看来， {s11}是一个冷酷而残忍的人。他就只会说我们需要鞭打、杖击，以及绞死他的同袍的战士。 
+str_npc4_personalityclash_speech|{阁下/女士}，罗勒弗家族是世界的这一带的最古老和受尊敬的家族之一，它的起源可上溯到古卡拉德帝国。然而 {s11}公开地对我不敬，并且怀疑我家族的起源。 
+str_npc5_personalityclash_speech|耽误一下你的时间，队长。 {s11}似乎认为我是一个普通的强盗，就因为我在过去曾从经过我的家族的土地的商队那里取得了合法的战利品，来作为对我自己的奖励。 
+str_npc6_personalityclash_speech|请原谅， {阁下/女士}，但是我无法再保持沉默了。那个妓女，卡特琳——每次她看见我，她都用她的五根手指指我——这是农民的避邪手势。 
+str_npc7_personalityclash_speech|队长，我已尽力忍受了你的部下的粗鲁的言语和下流的行为。但是那个自称为 {s11}的人已使我无法容忍。 
+str_npc8_personalityclash_speech|如你所知，我无法忍受那个傲慢的江湖郎中耶雷穆斯。几分钟前，我正在和我们的同伴们谈论这个地带的农民们的下巴不是一般地松，而且他们的额头也不是一般地突，我推测他们也许曾和大猩猩交配过。 
+str_npc9_personalityclash_speech|阁下， {s11}是一个卑鄙的自夸者，一个对妇女的贞操毫不尊重的人。我厌倦了听他如何侵犯这个或那个少女的故事了。 
+str_npc10_personalityclash_speech|打扰了，队长。我讨厌因为这种事情而打扰你，但是我就是想要让你知道，我不能忍受罗勒弗那家伙，那家伙自称为男爵。 
+str_npc11_personalityclash_speech|请原谅，队长，但是我不能保持沉默了。那个人，菲伦蒂斯——他杀了他自己的兄弟。 
+str_npc12_personalityclash_speech|大人，那个野蛮的女人，玛特尔德，抱怨头疼——这可能是血液过多的症状。我认为可以用用我的水蛭。 
+str_npc13_personalityclash_speech|队长，我厌倦了阿莱延，他就只会谈论骑士精神和武艺。 
+str_npc14_personalityclash_speech|打扰了，队长。几分钟前，我解释了大量使用鞭刑和偶尔使用绞刑对于保持士兵们在同一阵线是必要的。部下们对他们的指挥官没有什么恐惧的话，就更有可能逃离战斗。 
+str_npc15_personalityclash_speech|打扰了。我希望你不会介意我告诉你我的看法，那个女孩，克莱蒂，对我们团队是个危险，她是个野性未训的顽童，一点也不尊重权威和军事技艺的基本原则。 
+str_npc16_personalityclash_speech|喂，队长，如你所知——  {s11}有一些可笑的事情。他在肮脏的地上乱涂乱画，并且自己对自己嘀嘀咕咕。 
+str_npc17_personalityclash_speech|那个家伙，叫什么 {s11}的。他让我生气。他说要毁灭世界。他很弱小，如果他进一步冒犯我的话，我会宰了他。 
+str_npc18_personalityclash_speech|阁下，如果 {s11}再不停止他那地狱般的质疑的话，我就会把他封到墙里面去。 
+str_npc19_personalityclash_speech|在这样的一个寒冷之夜，我的兄弟 {s11}能是一根好木柴……  
+str_npc20_personalityclash_speech|那个……东西……吓到我了……我受不了它的凝视……  
+str_npc21_personalityclash_speech|我的兄弟 {s11}认为他很聪明。当我的短柄小斧砍进了他的后脑勺，我们再来看他有多聪明……  
+str_npc22_personalityclash_speech|让那个狼人离开我，否则我会一次性地让他断子绝孙……  
+str_npc23_personalityclash_speech|从那个吸血怪物遇见我的那天起，她就会悔恨，我以我母亲的墓穴发誓，伙计！ 
+str_npc24_personalityclash_speech|这个绝不会显示。 
+str_npc25_personalityclash_speech|我被 {s11}耗尽了。我尽力帮他解决他的死亡之谜，然而他还威胁我！这就是对你的感激！ 
+str_npc26_personalityclash_speech|{s11}是具有神性的，尽管她很邪恶……我鄙视她。 
+str_npc27_personalityclash_speech|死！爱伦· 坡！死！ 
+str_npc28_personalityclash_speech|这个绝不会显示。 
+str_npc29_personalityclash_speech|那家伙偷偷地瞧我。他应该停止凝视，不然我就会把他当牙签用……  
+str_npc30_personalityclash_speech|那只低贱的臭鸟就是把我逼到了绝路的那家伙。我为什么要写那首诗啊……  
+str_npc31_personalityclash_speech|如果 {s11} 靠近我，我就会把他们的头炸掉，明白吗 ? 
+str_npc32_personalityclash_speech|我是个老派的人，我有我的道德。不能像我对 {s11} 说的那样。他对我最好注意他的举止…… 
+str_npc33_personalityclash_speech|{s11} 和我有……一个故事。他最好把眼睛转开。我知道他知道我在这里…我们所做的。我不在乎。
+str_npc34_personalityclash_speech|{s11} 。这是她。我的妻子。她无视我，原因我不知道，但只要再次听到她的心跳就好了。发现她还活着，毫无希望。我们中间无论发生什么恶事，我都心满意足。 
+str_npc1_personalityclash_speech_b|她只是一个普通的恶棍，就像我一样，并且她没权利叫我与她保持距离，而她刚刚还在这么做。 
+str_npc2_personalityclash_speech_b|我不怎么喜欢听到 {s11}说他心满意足地注视那些被他掠夺的商队，或者他计划去掠夺，就好像他对正当的贸易没有任何的尊重一样。 
+str_npc3_personalityclash_speech_b|我知道军队不是托儿所，严明的纪律是重要的，但是我也确信，人们会因为残忍而享受残忍。我希望你不要介意我这么说。 
+str_npc4_personalityclash_speech_b|{阁下/女士}，如果普通人被允许嘲笑比他们更高贵的人的话，那么这日子就真地很可悲了。就这些。 
+str_npc5_personalityclash_speech_b|我告诉他，如果勇士的作风令他如此恼怒的话，那么他当个牧师或者乞丐或者之类的人，就不会为这种事烦忧了。我希望你不要介意我说了这些。 
+str_npc6_personalityclash_speech_b|我知道我犯下的罪行是令人厌恶的，但是我正在寻找忏悔，我应该得到更好的尊重，而不是成为某个丑恶的老太婆的盲目恐惧的目标。我只是认为你应该知道这个。 
+str_npc7_personalityclash_speech_b|我不喜欢他饭后在营火旁剔着牙齿瞪我。从我经历过的日子来看，我相信他就是一个强盗。他拙劣而且无知。我不喜欢和这种人一起旅行。 
+str_npc8_personalityclash_speech_b|耶雷穆斯，那个厚脸皮的家伙，他无意中听见了我说的话，于是便说我无知，说我是个野蛮人，还有其他的词语，我都不想重复了。之后，我忍住了去切开他的喉咙，这只是出于对你的尊重。我认为我应该告诫你，这才合适。 
+str_npc9_personalityclash_speech_b|如果他还坚持说，我就会告诉他，他是一个卑鄙的流氓，并且就算他跟我打起来了，我也不会道歉。就这样， {阁下/女士}。 
+str_npc10_personalityclash_speech_b|对我而言，他只是个简单的土匪而已。罗勒弗家族，放屁。真正的贵族已经够坏了，但是那些假装贵族的人更无法令人容忍。不管怎么说，一分钟前，我也许对他说了一些有点刺耳的话。不管怎么说，他似乎要生气了。我只是认为你应该知道这些。 
+str_npc11_personalityclash_speech_b|他是个弑亲者，被上天所诅咒，他将会给我们带来不幸的厄运，肯定会的。我不喜欢有他在我身边，并且我认为他不该和我们在一起。就这些。抱歉打扰你。 
+str_npc12_personalityclash_speech_b|但是当我试图贴上它们时，她却退缩了，并且还打我，还指控我使用巫术。队长，我非常厌烦听到这种如此不领情和如此无知的人的控告。 
+str_npc13_personalityclash_speech_b|勇敢的行为都是很好的，但是它们并非仅有的值得用一生来追求的目标。就我个人而言，如果一个人一次也没有因为喝醉了而从水沟旁醒来，或者一次也没有被他的爱人用拖鞋打过，我才不会信任他呢。 
+str_npc14_personalityclash_speech_b|{s11}那个小丫头却劝我不要这样。在部下们面前，我不会让我的方略受到质疑。如果有哪个指挥官会忍受他的团队里有如此的不服从的话，我也不会侍奉他的。谢谢你允许我说这些。 
+str_npc15_personalityclash_speech_b|另外，我怀疑她是一个贼。我曾发现了她走到我的行李旁并翻看我的一些图表，而当我打算阻止她的时候，她却对我拔出了小刀。一个明智的首领是不会允许她待在其队伍里的。 
+str_npc16_personalityclash_speech_b|真是令人担忧的巫术啊。我问他这是什么，他告诉我说，像我这样的一个毛头姑娘应该少管闲事。所以我查看了一下他的行李，并且找到了奇怪的图纸和图表。我认为他是个巫师， {阁下/女士}，如果我撞见了他在试图对我施法的话，我就会用匕首割开他的喉咙。 
+str_npc17_personalityclash_speech_b|{s11}是一个小爪牙——他对他说的一无所知。下次他再羞辱我，我就用他来解渴。 
+str_npc18_personalityclash_speech_b|告诉他我有些白葡萄酒可以给他喝，就在那边的岩石杂树林后面……嘻！嘻！嘻！——嘻！嘻！嘻！——一个好玩笑啊，啊……  
+str_npc19_personalityclash_speech_b|他说我脑子里有瘤子。神经病！ 
+str_npc20_personalityclash_speech_b|它刚刚还看着我……请别让它伤害我……  
+str_npc21_personalityclash_speech_b|如果他再带着沾沾自喜的态度走近我一点儿，我就会把他吹口哨的嘴巴削掉！ 
+str_npc22_personalityclash_speech_b|这个绝不会显示。 
+str_npc23_personalityclash_speech_b|这个绝不会显示。 
+str_npc24_personalityclash_speech_b|这个绝不会显示。 
+str_npc25_personalityclash_speech_b|{s11}是个流氓。我不会再在意他了。 
+str_npc26_personalityclash_speech_b|我？一个小爪牙？这是可笑的。神灵们互相威胁，互相屈服。而恶魔们有着恶毒的意志，受恶毒的行为所驱动。我们更强。 
+str_npc27_personalityclash_speech_b|永不复焉！！！ 
+str_npc28_personalityclash_speech_b|这个绝不会显示。 
+str_npc29_personalityclash_speech_b|当点火棍用！我需要继续吗？ 
+str_npc30_personalityclash_speech_b|即使现在，那只魔鸟还在试图搅动我的思想……如此无益。阴暗已存在，又还未存在。我再也不能被颠覆了。然而，我希望它别停止。 
+str_npc31_personalityclash_speech_b|我的朋友，我看起来像 {s11} 吗 ? 我来回答你这个问题 : 不，我不知道。  
+str_npc32_personalityclash_speech_b|我大部分时间都是一个人呆着，伙计，不过 {s11} 是在故意惹我发火。听说过边境正义吗 ? 我真诚地希望事情不会发展到这种地步。 
+str_npc33_personalityclash_speech_b|{s11} 曾经是我的情人，在他的狂热中，在战斗中被杀。他的灵魂去了阴间等我……但我是女神。我不能死。所以他枉然等候，不再奉我的名献祭。他只是等待…  
+str_npc34_personalityclash_speech_b|{s11} 在我的外国被称为伊扎那米。她从未向我透露过她的神圣本性，她和我就像凡人情人一样幸福。她给我生了许多孩子——随着最后一个孩子的死亡，她似乎也在分娩时死去了。我不知道她是不朽的。我受了打击——她还没醒过来，我就自杀了。她怒不可遏——她飞到维达尔，敲着黑社会的大门，要求释放我。哈迪斯达成协议，我会在集会上等她……我就在那里等着。直到你找到我。
+str_npc1_personalityclash2_speech|喂，老板，我认为我自己不是一个敏感的人，但是我不怎么喜欢 {s11}在战斗结束后去切开受伤的敌人的喉咙。 
+str_npc2_personalityclash2_speech|{阁下/女士}，如果你不介意，我更愿意在布阵时不要站在 {s11}身旁，因为在上次战斗中，他对我说了一些话。 
+str_npc3_personalityclash2_speech|{阁下/女士}，自从我加入你的队伍来，我已经尽力学习了如何活得像个战士一样，以及如何为勇士的典范增光。如果我偶尔犯了错，我希望能被原谅。 
+str_npc4_personalityclash2_speech|{阁下/女士}，在我们分配战利品时，我和 {s11}碰巧交谈了一下。请告诉她，在她跟我说话时，她应该称我为“男爵”或者是“罗勒弗男爵”，或者“大人”，但决不能直呼“罗勒弗”。 
+str_npc5_personalityclash2_speech|队长， {s11}的舌头需要被割掉。 
+str_npc6_personalityclash2_speech|大人，在上次战斗中你看见 {s11}的表现了吗？他羞辱那些倒在战场上的受伤的、无助的敌人，嘲笑他们的出身，说他们与我们战斗是如何地愚蠢。 
+str_npc7_personalityclash2_speech|队长，我曾搜索过我的记忆，试着想起我在哪里见过罗勒弗，那个自称男爵的人。在我观察了他在上次战斗中的行为后，我就突然想起来了。他是一个好战士，但也是一个邪恶的家伙。 
+str_npc8_personalityclash2_speech|队长， {s11}是个非常无礼的女孩。我曾试图对其礼貌，甚至友好，结果她却断然拒绝了我。 
+str_npc9_personalityclash2_speech|{阁下/我的女士}，我希望你别介意我说这个，但是在我看来， {s11}这个商贩还不清楚他的位置。在上次战斗中，他跑到我身前去砍一个本来被我盯上了的敌人。 
+str_npc10_personalityclash2_speech|{兄弟/妹子}，问你个问题。这个团队的负责人是你还是勒扎利特？ 
+str_npc11_personalityclash2_speech|队长，我不怎么喜欢那个八合失脱儿。在上次战斗之后，在他穿行于那些被杀死的敌人之间以寻找战利品时，他四处走动，并嘀咕着一些异教徒的咒语。 
+str_npc12_personalityclash2_speech|队长，我无法再忍受 {s11}的十足的无知了。当我在处理那些在我们上次战斗中产生的伤口时，他贬低我在实施手术时用鸦片酊来镇痛，以及用蜂蜜来敷伤口。 
+str_npc13_personalityclash2_speech|你好，队长！ {s11}是一个喜怒无常的人，不是吗？在上次战斗中，当我在和我们的敌人们短兵相接时，我只是友好地和他们聊到了他们的母亲，而这却导致了他大发脾气！ 
+str_npc14_personalityclash2_speech|阁下， {s11}简直是无纪律到不可救药了。在上次的小规模战斗中，我朝他叫喊，要他和我们阵列中的其余人保持在一起。他却回答说我可能“吃饱了”。 
+str_npc15_personalityclash2_speech|队长，我必须告诉你，我质疑 {s11}的医学证书。上次战斗后，当他正在照料我们的伤员时，我提醒他说，无与伦比的伽勒利安经常主张用甜菜根的蒸馏物来恢复由于乐观情绪的丧失而变得不安定的心绪。 
+str_npc16_personalityclash2_speech|请原谅，阁下。 {s11}也许曾是个非常优秀的盗贼，但是如果你问我的话，我会说他没有当战士的欲望。 
+str_npc17_personalityclash2_speech|如此恐怖的家伙，就算我用我古老的头脑也设计不出来——我还曾见过堤丰本尊呢……这个东西不应该存在。 
+str_npc18_personalityclash2_speech|{s11}有蒙特里梭那样的气质。如此的傲慢——他相信是他创造了我。神经病！ 
+str_npc19_personalityclash2_speech|{s11}是可怕的。你怎么受得了它？它的凝视是恶意的……  
+str_npc20_personalityclash2_speech|我曾试图与 {s11}谈话……只是一场小小的谈话。他说假人不应说话……我不喜欢他。 
+str_npc21_personalityclash2_speech|我发誓 {s11}绝对停不了说话……  
+str_npc22_personalityclash2_speech|这个绝不会显示。 
+str_npc23_personalityclash2_speech|这个绝不会显示。 
+str_npc24_personalityclash2_speech|这个绝不会显示。 
+str_npc25_personalityclash2_speech|{s11}只会假装听我说话。如果我在战斗中告诉他要闪躲，而他因为不听我的话而中了冷箭的话，那可不是我的错。 
+str_npc26_personalityclash2_speech|玩具。说话的玩具。是谁给这个木偶上的弦？真是……  
+str_npc27_personalityclash2_speech|（啄，啄……）死……  
+str_npc28_personalityclash2_speech|这个绝不会显示。 
+str_npc29_personalityclash2_speech|神将灭！！！我将连诸神都吞掉！！！ 
+str_npc30_personalityclash2_speech|{s11} 代表着一名曾对我做过坏事的作家同事。我对他没有一点喜爱，我向你保证。 
+str_npc31_personalityclash2_speech|我不喜欢 {s11} 盯着我看。他最好小心脚下。
+str_npc32_personalityclash2_speech|{s11} 会把我的啤酒弄破的。她认为我是个无知的乡巴佬之类的……不能认为这是为什么。是帽子吗 ? 
+str_npc33_personalityclash2_speech|{s11} 粗鲁无礼，浑身散发着酒气。那醉汉若用那只脏手亵渎我，我就要吐了……
+str_npc34_personalityclash2_speech|{s11} 用手持大炮作战 ? 在我那个时代，火药是一个秘密，我们只用它来发出信号或分散注意力。我真希望自己活不到一个世纪，在这个世纪里，死亡是那么常见，投降是那么罕见……  
+str_npc1_personalityclash2_speech_b|她一边这么做一边愉快地吹口哨——这种作风让我脊背发凉，真地。 
+str_npc2_personalityclash2_speech_b|当时敌人正在向我们逼近，而他却说：“走到一边去，商人，这是骑士的工作。”下次我会走到一边去的，让他被敌人一枪刺进肠子里。 
+str_npc3_personalityclash2_speech_b|在我们上次的胜利之后，我从被杀死的人们那里捡拾我们的一个敌人的钱包。我刚捡起它来， {s11}就来到了我身后，从我手中抓走了它，她说那个人是她杀的，因此她应该得到这件战利品。大人，在战斗激烈之时，我分辨不出谁打了谁。如果 {s11}简单地告诉我，她应该得到这个钱包，我会乐意给她的。 
+str_npc4_personalityclash2_speech_b|我可是贵族血统，而她的出身再卑贱不过了。她必须记住她的身份。 
+str_npc5_personalityclash2_speech_b|在上次战斗之后，当战利品被堆起来了，我就在敌人的辎重中找到了一口非常不错的烹饪锅。我经常希望能找到如此一口锅，这样我就能煮一些炖肉，以使我们能在冬天的月份里温暖我们的肚子。但是 {s11}夺取了那口锅，并且告诉我，我不会被允许用异教徒的食物来“玷污”它，而且这口锅理应属于她。我把这口锅让给了她，但是我在以后不会再忍受如此的无礼了。 
+str_npc6_personalityclash2_speech_b|大人，如此的傲慢不会被上天所宽容的，我恐怕我们全体都会因此付出代价。 
+str_npc7_personalityclash2_speech_b|回想当我还生活在深谷的时候，我们有时会和一支叫森林兄弟会的竞争团队战斗。队长，我不会信任任何隐瞒自己的身世的人，而且尤其不会信任一个自称贵族的普通强盗。 
+str_npc8_personalityclash2_speech_b|在上次战斗后，在我们在擦拭我们的武器时，我跟她说，我认为她是一个端庄的女孩，在我重新获得了我的土地之后，我会很高兴地在我的勇士中为她找一个对象。我认为这是一个很慷慨的提议，因为一个被其父亲剥夺了继承权的女人几乎不会有什么好前景。但是她不仅不感谢我，而且还一言不发地直接转身背对了我。我没有立刻试着教她一些礼貌，这只是出于对你的领导的尊重。 
+str_npc9_personalityclash2_speech_b|我赞赏他愿意冒着生命危险战斗，但是单凭这个还不足以让他成为一个绅士。他并非贵族出身，并且他家庭的财富来自于贸易和高利贷。他可以作为一名辅助者来与我们战斗，但是他不应该试图窃取比他更优秀者的荣耀。 
+str_npc10_personalityclash2_speech_b|在上次战斗中，他对我大喊大叫：“前进，后退，守住。”当我告诉他注意他自己的行为时，他却说他要鞭打我。队长，那个人是在找死，他再这样，我就会向他的胸膛射一箭的，请原谅。 
+str_npc11_personalityclash2_speech_b|他说这是一场对胜利感恩的祷告，但是我听起来却不像。队长，我不想要他招来死者的鬼魂来在我们的旅行中给我们制造麻烦。我认为你最好开除他。 
+str_npc12_personalityclash2_speech_b|队长，如果那个人对医学事务有最基本的了解，他就会知道，一个人绝不应该损害病人对医生的信心，尤其是在一场复杂的手术中。如果你足够好心的话，就请你从这支团队里开除掉他吧，这样的话，你就为我们所有人帮了个大忙。 
+str_npc13_personalityclash2_speech_b|当所有的敌人都被干掉之后， {s11}转向我，告诉我不要用我的“傲慢”去“招来天谴”。我回答说，至少我没杀死过我自己的兄弟，我想杀死自己的兄弟比在战场上聊聊天更会令老天恼怒吧。 {s11}的脸变得像狒狒的屁股一样红，他打了我，当时我没来得及巧妙地闪躲开他。你去叫他放轻松点儿吧，好吗？ 
+str_npc14_personalityclash2_speech_b|{阁下/女士}，这样的对威信的藐视会对我们团队造成不良的影响，如果他再这样的话，我会鞭打他的。 
+str_npc15_personalityclash2_speech_b|{s11}回答说，伽勒利安是个“过时的无知者”。队长，没有哪个真正的医生会对过去的大师有如此的不敬。我不敢相信你会雇用这样一个明显的骗子。 
+str_npc16_personalityclash2_speech_b|在我们上一场的小战斗之后，我切开我们的一些敌人的肠子来查找隐藏的金币，就像一个女孩在数她应得的钱一样。他对此感到作呕并且嘀嘀咕咕地说我是个“畜牲”。如果他再这么不客气地对我说话的话，我就会切开他的内脏，看看里面有没有什么非法买卖品。 
+str_npc17_personalityclash2_speech_b|这家伙的咽喉里冒出来的气味用言语无法描述。连我这种体格的都觉得恶心。 
+str_npc18_personalityclash2_speech_b|我偶尔……呃……会摔跤……在我们上次的冲突中， {s11}说我是个爱发噪音的恶作剧鬼……这显然不是真的，我不会忍受如此的控告！ 
+str_npc19_personalityclash2_speech_b|你还不如给这个团队邀请来一个惧妖呢！ 
+str_npc20_personalityclash2_speech_b|他不仅邪恶，还是个难以取悦的人。我再也不和他说话了！ 
+str_npc21_personalityclash2_speech_b|他总是如此兴高采烈！我受不了了！告诉他去烦别人！ 
+str_npc22_personalityclash2_speech_b|这个绝不会显示。 
+str_npc23_personalityclash2_speech_b|这个绝不会显示。 
+str_npc24_personalityclash2_speech_b|这个绝不会显示。 
+str_npc25_personalityclash2_speech_b|他移动得如此怪异……总是影响我的最佳射击！真想解决掉这个麻烦……  
+str_npc26_personalityclash2_speech_b|让那个东西离我远些，不然我就会把它扔进深渊，让它成为恶魔们的咀嚼玩具……  
+str_npc27_personalityclash2_speech_b|橡树！！！呱呱！！！ 
+str_npc28_personalityclash2_speech_b|这个绝不会显示。 
+str_npc29_personalityclash2_speech_b|她将尝到痛苦，她也终将被耗尽！！！ 
+str_npc30_personalityclash2_speech_b|如我所计划的， {s11} 应该离开，回到他的密牢去……  
+str_npc31_personalityclash2_speech_b|他们最好小心行事——我说的是真心话。别跟一个会制造地雷的人乱来 ! 
+str_npc32_personalityclash2_speech_b|今天早上我发现我班卓琴的琴弦断了——现在我可以把它们换掉了，但是攻击一个男人的乐器就像是攻击他的女人……更糟糕的是 , 我认为 ! 现在，我怀疑是 {s11} 干的，我不想惹是生非，但她脸上有一种满意的表情，这与我们的最后一站无关，如果你明白我的意思……
+str_npc33_personalityclash2_speech_b|天哪，那乐器的声音…是的，我剪断了他的琴弦，没有一个音符太快。我不能为那可怕的音乐借口而跳舞。我宁愿听骡子的叫声…… 
+str_npc34_personalityclash2_speech_b|我听到他说的一切。我不在乎。他是偏执的。我再也没有“吸引”任何人的奢侈了。我看着我的军队战斗，就像任何一位优秀的战士一样。 
+str_npc1_personalitymatch_speech|老板，说起来在上次战斗中， {s11}做得一点也不懒。他也是个好家伙。 
+str_npc2_personalitymatch_speech|{阁下/女士}，我只是想要告诉你， {s11}也许是一个粗暴的人，并且我也敢说他是一个彻底的恶棍，但是我很骄傲能称他为我的同伴。 
+str_npc3_personalitymatch_speech|你好， {阁下/女士}！我只是想告诉你， {s11}是个非常英勇的骑士。在我们上次战斗中，你看见他的表现了吗？ 
+str_npc4_personalitymatch_speech|打扰了， {阁下/女士}。我只是想夸夸八合失脱儿。他在上次战斗中做得很好。 
+str_npc5_personalitymatch_speech|真是场精彩的战斗， {playername}把阿秃儿！在我们这边战斗的 {s11}真是一个好家伙。 
+str_npc6_personalitymatch_speech|队长，虽然我知道，为了恢复卡拉迪亚的和平，我们就得打击那些傲慢的军阀，制服那些残酷的土匪，但是有的时候，这一切的流血杀人还是会使我烦恼。 
+str_npc7_personalitymatch_speech|队长，我刚刚和 {s11}谈了谈。或许她有点野性未驯，但是我相信她是一个忠诚的朋友。 
+str_npc8_personalitymatch_speech|真是场精彩的战斗，队长。而且我不得不说，我欣赏 {s11}对我们敌人的厉声奚落。 
+str_npc9_personalitymatch_speech|队长， {s11}在我们身后的那儿的那场战斗中表现得很好。她是一位多么杰出而庄重的少女啊，我敢亲自承认这一点。 
+str_npc10_personalitymatch_speech|啊嘿，伙计！我希望你享受你的胜利！哎，对于老妈妈 {s11}这个年纪的女人来说，她可一点也不赖，是吧？不过我自己现在也在变成一个老家伙。 
+str_npc11_personalitymatch_speech|啊呵，队长！刚刚那场战斗让我的老关节咯吱作响。尽管如此，我们还是好好地打了他们一顿，不是吗？ 
+str_npc12_personalitymatch_speech|血腥的活计，队长，血腥的活计——虽然当然是无法避免的。我相信， {s11}对于这无休止的战斗一定也和我感到同样的矛盾。 
+str_npc13_personalitymatch_speech|今天你为你赢得了名声，哦，勇敢的家伙！还有玛特尔德，她也是！我喜欢那个人。她唱着她的人民的歌曲奔赴战斗，这正合我这样的一个艺术家的爱好。 
+str_npc14_personalityclash_speech|打扰了，队长。几分钟前，我解释了大量使用鞭刑和偶尔使用绞刑对于保持士兵们在同一阵线是必要的。部下们对他们的指挥官没有什么恐惧的话，就更有可能逃离战斗。 
+str_npc15_personalitymatch_speech|队长，在我们上次战斗后，我和 {s11}谈了一下，这让我知道了这个人的双肩上有一颗好脑袋。 
+str_npc16_personalitymatch_speech|喂，队长，在我们上次的小战斗之后，当我和 {s11}在从敌人的尸体上捡财物时，我们聊了一下。 
+str_npc17_personalitymatch_speech|我喜欢那个叫 {s11}的。上次战斗中，她转身对我露齿而笑，当时她的脸上溅满了我们敌人的鲜血。看上去真美啊。 
+str_npc18_personalitymatch_speech|我喜欢那家伙！嘻！嘻！嘻！——嘻！嘻！嘻！——他像我一样疯狂！并且他能够留住他的酒！我在想他把那些酒都放哪儿了……  
+str_npc19_personalitymatch_speech|{s11}是我快乐的兄弟。我确信他的愉快心情和善良言辞会保持士气高昂。 
+str_npc20_personalitymatch_speech|{s11}是我聪明的兄弟。他是身边的一位宝贵人才，肯定是！他常常跟我说很有意思的谜语。 
+str_npc21_personalitymatch_speech|{s11}令我感兴趣。你知道，他曾是个海盗……他宣称曾在他的旅程中见到过一块能走路和说话的、令人迷恋的木头。他说和我比起来，那算不得什么。我等不及要听更多的他的故事了。 
+str_npc22_personalitymatch_speech|啊，一位蛇发女——被诅咒的神的女儿。 {s11}致命得令我高兴，不是吗？ 
+str_npc23_personalitymatch_speech|{s11}有着非凡的魅力，并且是个有用的伙计！他有一个很好的适合投掷的眼睛……让我想起了我在过去的日子里常见到的一些顶级的鱼叉投手，伙计！ 
+str_npc24_personalitymatch_speech|{s11}独立地在卡拉迪亚的土地上撒下了一颗新的恐惧的种子。在他身后留下的，是一条血液的河流，而我狠狠地喝它。 
+str_npc25_personalitymatch_speech|我真地不知道该如何了解 {s11}这个人。他有着完全的自信，相信这全都是他写出来的……想想看啊！某个人的思想以某种方式创造出了我，让我舒服……我不知道为什么……  
+str_npc26_personalitymatch_speech|{s11}是一个被折磨的灵魂。完美……  
+str_npc27_personalitymatch_speech|生！无情猎手！ 
+str_npc28_personalitymatch_speech|……  
+str_npc29_personalitymatch_speech|是的！血！是的！哈哈哈！是的！ 
+str_npc30_personalitymatch_speech|{s11}是我创作出的一个我特别喜爱的角色。他才华横溢，说不上品性端正，也说得上合乎道德，并且他握有获悉一个深深的秘密的钥匙。 
+str_npc31_personalitymatch_speech|{s11}? 那女孩很好。但我还是盯着她呢   
+str_npc32_personalitymatch_speech|现在，我可以很好地处理 {s11} 。他们一直在帮我作曲——就像他们说的，作曲肯定比分解好 ! 嘿嘿 !  
+str_npc33_personalitymatch_speech|致命。{s11} 是个有态度的杀手 ! 很吸引人。他杀了许多人。如果他们牺牲了，我可能会更喜欢他…但不要嫉妒。我的目光总是先移向你。  
+str_npc34_personalitymatch_speech|那个名叫 {s11} 的战士有一颗诗人的心。他用“班卓琴”演奏的音乐让我想起了我的家乡乐器古托发出的声音…… 
+str_npc1_personalitymatch_speech_b|我敢说，要是没有他这种正直的人给卡拉迪亚带来银币，像我这样的坏蛋就会生活艰难。我很高兴他和我们在一起。 
+str_npc2_personalitymatch_speech_b|基于他在上次战斗的表现，我想说，在任何一天，让他在我背后战斗我都是信任的，不过我仍然要看好我的钱包。 
+str_npc3_personalitymatch_speech_b|我同样也得承认，我发现他真地是一个令人愉快的同伴，一个机智风趣又有礼貌的男子。也许，也许……啊，我说得太多了。日安， {阁下/女士}。 
+str_npc4_personalitymatch_speech_b|你招募他到我们的队伍是极佳的选择。他了解战斗，也了解尊重他的战友的重要性，不像某些我可能提到过的其他人。 
+str_npc5_personalitymatch_speech_b|尽管根据他其他的品质，我怀疑他是不是一个比我还高贵的男爵，但是我不得不夸奖他的勇敢的作风，这是他应得的夸奖。 
+str_npc6_personalitymatch_speech_b|我必须说， {s11}对我来说是一位伟大的安慰者。我告诉过他我的罪孽，而他对我说，如果我真心忏悔并且真心渴望谅解，天国会谅解我的罪过的。他是位智者，我很高兴他与我们同在。 
+str_npc7_personalitymatch_speech_b|在未来的某个时候，如果你不需要我们的服务了，她答应与我回到深谷去找杀了我爱人的强盗们，并帮我复仇。这真是一个亲切的提议。我很高兴她和我们在一起。 
+str_npc8_personalitymatch_speech_b|他设法严格按照古卡拉德式四行诗的形式来数落他们的身世、他们的外表，以及他们的饮食举止。我个人更喜欢传说故事，但是我们诺尔德人在听诗歌作品时，我们也会尊重它们。 
+str_npc9_personalitymatch_speech_b|假如她有着高贵的血统，我也许会向她求爱。遗憾的是，她是个商人之女。但是在行军时和她交谈仍然是一种愉快的消磨时间的方式。 
+str_npc10_personalitymatch_speech_b|嘿，这正好证明了年轻并非一切，经验也会让你赢得战斗。我想她和我能够给这个世界上的小子们教授点东西，是吧？ 
+str_npc11_personalitymatch_speech_b|我想，特别是老 {s11}好好地给了他们一个教训。我想，我们两个都不赖，我们配合得很好，我们可能都已经看过接近一百个冬季了。 
+str_npc12_personalitymatch_speech_b|自己的战友们在战斗中纷纷丧命，这正是让他深切悲伤的原因。他和我曾一起谈论过一个更光明的未来，我们谈到我们需要统一卡拉迪亚的这些交战深重的王国，这样我们就可以把这个纷乱的时代带向终结。 
+str_npc13_personalitymatch_speech_b|并且，虽然通常来说，比起女战士式的女人，我更喜欢腼腆的女人，但是我承认，我也注意到了她试图隐藏于战士举止之下的女性气质。真地，她在行军时和在营地时都有点冷漠，但是也许我的动人的言词能够融化她心中的诺尔德之冰。 
+str_npc14_personalityclash_speech_b|{s11}那个小丫头却劝我不要这样。在部下们面前，我不会让我的方略受到质疑。如果有哪个指挥官会忍受他的团队里有如此的不服从的话，我也不会侍奉他的。谢谢你允许我说这些。 
+str_npc15_personalitymatch_speech_b|战争，和其他事情一样，要求精心的计划与准备，以及对战略策划人的指挥的坚决的服从。所有的其他的东西都相同的情况下，被训练得最好的军队就会赢得战斗，经过观察，我认为，这一点在我们的上一场战斗里就得到了体现。部下们现在也许会咒骂他，但是我保证，他们以后会学会感谢他。 
+str_npc16_personalitymatch_speech_b|你听说过她的故事吗？你能相信她所受的那些无礼对待吗？我告诉你，这让我热血沸腾。我想要把那些虐待她的杂种们全部切成碎片——并且如果我们在我们的旅途中撞见了他们的话，我会这么做的。 
+str_npc17_personalitymatch_speech_b|她真是够残忍。自从我妹妹美杜莎死后，这种残忍的狂热我还没见到过呢。这是鼓舞人心的，我保证我们其他的同伴也会同意。 
+str_npc18_personalitymatch_speech_b|真有意思——当有人意识到 {s11}不是人类，并且 {s11}就要把他的灵魂吞没之时，看看这个人眼睛中的恐惧的样子……  
+str_npc19_personalitymatch_speech_b|“为什么乌鸦像是一张写字桌？”我曾经一直在跟 {s11}说这个谜语。谜底大概是没有的，但是有些人曾试图去解答过它。 
+str_npc20_personalitymatch_speech_b|“为什么乌鸦像是一张写字桌？”我真不知道！你能想出这样的问题的答案吗？从未听说啊！ 
+str_npc21_personalitymatch_speech_b|{s11}是奇怪的，并且缺乏道德，但是我们相处得和睦。也许有一天我也会成为水手……  
+str_npc22_personalitymatch_speech_b|从没有哪个女性像 {s11}这样令我刮目相看……留住她，你就会让我很高兴的，我的宠物。 
+str_npc23_personalitymatch_speech_b|一定是一个强大的灵魂附着到了那个木偶的身体里，嗯？ {s11}真地会说话，而骨头只会小声嘀咕，并且不是所有的人都能听到它们的话，伙计。 
+str_npc24_personalitymatch_speech_b|他是深渊的生物，就像赋予我生命的那个灵魂一样——他是一个毁灭利器，就像我也是一个毁灭利器一样。我们是一对大屠杀兄弟。 
+str_npc25_personalitymatch_speech_b|不知怎么地，他让我想起了我的童年。我成长于……嗯，告诉你……我知道它在南方的某处……我无法相信我已经忘记了……奇怪……  
+str_npc26_personalitymatch_speech_b|{s11}知道的比他泄露的多。他是一个贪婪而强大的灵魂。他的力量在于他的拒绝意志。他存在，是因为他拒绝死。我表示认同……  
+str_npc27_personalitymatch_speech_b|无情猎手！呱呱！ 
+str_npc28_personalitymatch_speech_b|……  
+str_npc29_personalitymatch_speech_b|公然反抗喷血池的人都去死！我会吃光无用者，而弗拉德· 德拉库拉的不死之剑会喝他们的血！ 
+str_npc30_personalitymatch_speech_b|有朝一日， {s11}会把一切都指出来的，放心吧。我希望你享受那一章。 
+str_npc31_personalitymatch_speech_b|{s11}? 我们相处得很好。她的眼睛有时会闪着光芒——好像她在恋爱，或者回忆过去的美好时光……这是鼓舞人心的 , 男人。让我想做一些事情…  
+str_npc32_personalitymatch_speech_b|小伙子知道怎么喝酒 ! 看起来他把大部分都洒在地上了，但是他真的很开心 ! {s11} 对我很好 !  
+str_npc33_personalitymatch_speech_b|哦，我看到了…… {s11} 也崇拜我。他听到的每一声枪响都像是我的名字。他现在送我他们的灵魂，不管他是否知道…  
+str_npc34_personalitymatch_speech_b|{s11} 也是个狂热的渔夫。那些稀奇古怪的故事——我听过人们从鱼背上跑过去的故事……但亲眼目睹则是另一回事。我不敢肯定我相信他。但它们都是激动人心的故事。
+str_npc1_retirement_speech|我有点厌烦了在这片土地来来回回地行军以及为别人的事业而流我的血。战利品确实是不错的，但是我认为我现在已经有了足够的了。我要回到我的村子里去，找一个老婆，定居下来，如果我钱够的话，我也许会开始养马。 
+str_npc2_retirement_speech|我有点厌倦战士的生活了。我要把我的那些战利品投资到货物买卖——毛皮、亚麻布、天鹅绒，也许吧——并且我要带着它们翻山回去。我想要再次感谢你雇用了我，并且我祝你好运。 
+str_npc3_retirement_speech|我恐怕我有些事情得告诉你。我已经决定了，战士的生活并不适合我。我认为对我来说，要找到合适的婚姻的话，可能已经太晚了——我的人民没人会娶一个在军队中待过的老婆——但是也许我有足够的钱来让我开始从商。我希望你不会生气， {阁下/女士}。 
+str_npc4_retirement_speech|我光荣地为你战斗过，因为这适合于罗勒弗家族的儿子，但是我并不完全满意于你的领导。我要回到我祖传的地产，它们非常需要我的维持保养。 
+str_npc5_retirement_speech|把阿秃儿，从我拿了你的盐起，我勇猛而忠诚地为你战斗。但是你并非总是以我应得的被你领导的形式来回报我的服务。所以我要回家了，希望可汗的人已经忘记了我，我要再次见到我的父亲和兄弟们。 
+str_npc6_retirement_speech|我本是因为希望你能带领我走出黑暗才加入这支队伍的，而且我确实在这里寻找到了久违的一点平静。可是，我对你的领导有一些不适，我开始怀疑我的救赎之路也许是在别处。 
+str_npc7_retirement_speech|我厌烦了生活在无止境的战争中的肮脏的生活了，我也受够了看着人们因为恐惧、贪婪、色欲和上百种其他的罪孽而堕落了。我的钱包里有钱了。我要去海外寻找一个比卡拉迪亚更好的地方。我想你会和我说再见的。 
+str_npc8_retirement_speech|我在你的盾墙中战斗过了，并且我做得很好。但是你的领导并非总是合乎我的喜好，而且不管怎么说，我还有别的任务。我会带着我赢得的劫掠物去招募一支我自己的战团，并航行到诺尔德本土，去从我那奸诈的小叔子那里夺回我丈夫的家园。我希望你保重。 
+str_npc9_retirement_speech|我们曾在一起战斗得很好，并且为我们自己赢得了许多荣誉。但是我对你的领导有些异议，并且无论如何，我要去收回我的遗产继承权。我要离开你了。也许我们会再次相见的。 
+str_npc10_retirement_speech|我已受够了在卡拉迪亚四处奔走。我已经有了足够的钱来在某个地方买下一小块土地，所以我认为我要去试一试。再见，祝你好运。 
+str_npc11_retirement_speech|你让一位老妇人加入你的团队，你帮了我的大忙。但是我恐怕我发现，这种生活和驾驶牛拉货车一样不合我的胃口。太多的寒冷，太多的饥饿，而最后，我看到我眼前仅仅是一个困境。所以我要走了，尽管我不知道会去哪里。 
+str_npc12_retirement_speech|我在你的团队做得一切都好。我喂饱了我的肚子，让我的钱包有了一些金币，并且扩展了我的疗伤知识——我不能抱怨这些！但是我现在认为，在你的团队里服务会阻碍我前进。我有责任与其他医生分享我的发现，为此我需要雇一些抄写员，这种人在卡拉迪亚可罕见了。我会回家去的。 
+str_npc13_retirement_speech|随着你名声的光辉越发灿烂，我恐怕与之比起来，我自己的名声将会显得苍白，如同月亮的光芒胜不过太阳的光芒一样。我已决定要独自去奋斗了。衷心地祝你好运！ 
+str_npc14_retirement_speech|我要告诉你，我想要中断我们的关系。我打算去寻找一个别的雇主。 
+str_npc15_retirement_speech|我感谢你雇用了我，但是我对这些事情的结果并不完全高兴。我要离开去别的地方——也许回家，也许找别的工作，我还没怎么想好。 
+str_npc16_retirement_speech|在这支团队里，我曾有过愉快的时光，并且我曾在战场上为自己找到了一两件漂亮的小首饰，但是现在，我找不到了。我要离开你，去向别的某人提供我的技能。 
+str_npc17_retirement_speech|继续留在这个队伍让我越来越不愿意。我要离开去追求更伟大的事业。如果我们再次相见，那就是命运的捉弄了。 
+str_npc18_retirement_speech|不……不要了……  
+str_npc19_retirement_speech|我再也无法忍受了。别了……  
+str_npc20_retirement_speech|我在这里做什么？我现在不得不离开了……  
+str_npc21_retirement_speech|我曾认为楚拉辅是寒冷的……  
+str_npc22_retirement_speech|我仍然饥饿……你没能成功令我满意，因此我要离开了。也许我们会再次相见的——如果不是在这一个世界，那么就是在下一个。 
+str_npc23_retirement_speech|你杀得太多了，你经常都不及时停止来留些人给我做实验，伙计。我们现在要分道扬镳了。 
+str_npc24_retirement_speech|我曾说我会待一阵，我会信守我的承诺的。再见。 
+str_npc25_retirement_speech|太多的非正义行为已被犯下了。我现在必须离开了。 
+str_npc26_retirement_speech|作为我在凡界的向导，你却没在履行你的命运。喷血池会听到这个的。对此，你可以确信。 
+str_npc27_retirement_speech|永不复焉……永不复焉……  
+str_npc28_retirement_speech|……  
+str_npc29_retirement_speech|其他地方的大屠杀更多！！！离开我！！！ 
+str_npc30_retirement_speech|这本书的最后一章出现的时间到了。完。 
+str_npc31_retirement_speech|我不干了。别让我写辞职信。我只签有线索的文件，你可不想去那里。看另一面，我的朋友。 
+str_npc32_retirement_speech|这只是个问题，搭档，所以我想我要用我的没有名字的马，和靴子。瞧 !
+str_npc33_retirement_speech|我不是告诉过你不要让我不高兴吗？结束了。和你在一起。
+str_npc34_retirement_speech|我受够了这种耻辱。你让我和我妻子蒙羞 . . 。我会单独找她。 
+str_npc1_rehire_speech|老板，再见到你真好。我知道我们在过去有不和，但是说实话，那些都是我所知道的最美好的日子。此外，说实话，我在找工作上有点困难。听我说，如果你愿意让我回来，我会愿意再次签约加入你的部队的。 
+str_npc2_rehire_speech|{阁下/女士}！再次见到你真好。但是我要承认——我找过你。如我所说的，我买了一车的货物，我装好了它们，并且带着它们穿越草原回去——但是你知道吗，我又遇到了诃儿吉惕人，并且我全都失去了。我想，我只是命中注定了要和我的命运作斗争。此外，人们告诉我你为你自己做得很好。所以告诉我， {阁下/女士}，你愿意让我回来吗？ 
+str_npc3_rehire_speech|哎，你好， {阁下/女士}！再次见到你真好。我恐怕从我们分开后，我过得并不怎么好。我本来以为我母亲的家庭会帮我开始贸易，结果他们并不像我所期望的那样欢迎我。我得到的只是我姨妈的责备，她责备我加入了佣兵团，毁掉了我前景美好的婚姻。也许比起商业来，我更适合于战争，和粗暴的战友们在篝火旁吃饭总比和弗吕卡的中产阶级市民们喝酒好。 {阁下/女士}，我必须问你——你会让我回来吗？ 
+str_npc4_rehire_speech|咦，你好，队长。有一阵子了。我听说，你为你自己做得很好。而我呢，我在耐心处理我的地产的事务时，遇到了一些困难——蝗虫、霪雨、不守规矩的农奴，诸如此类的事情。我认为我应该再次拿起剑了。我知道我们之间有一些嫌隙，但是再次在你的队伍里战斗会使我增光的。 
+str_npc5_rehire_speech|{playername}把阿秃儿！你的名声比以前更响亮了——即使远在山外的我的家乡也能听见。我回到了那里，希望可汗的人已经忘了。嗯，他们没有——甚至在我回到我的山谷里之前，我还从我的家族的人那里听说到了可汗和忽密颜人都在找我。所以我又回来了，看我是否能再一次与你一起战斗，希望你能忘记我说过的任何刺耳的言词。 
+str_npc6_rehire_speech|见到你真好， {阁下/女士}。我所经之地，人们都敬畏于你的所做所为。而自从我离开后，我就没有得到过如此的敬畏。无论我到哪里，我觉得我心中的恶魔都会回来。我的灵魂在骚动。虽然我解释不清是什么原因，但是在你的队伍中我就是能找到平静，尽管我对你的领导能力还抱有疑问。你会允许我再一次为你效劳吗？ 
+str_npc7_rehire_speech|队长！见到你真好。原谅我在我们分离时可能说过的那些话吧。我从韦尔克格乘船向东而去，但是船被海盗占领了，在我被赎出来后，我就被送到了海岸，回到了这里。也许这世上有比卡拉迪亚更好的地方，但是目前为止我还没见到。所以我想，如果生活在这里是我的命运，那么你的团队就是一个不错的生计选择了。你愿意让我回来吗？ 
+str_npc8_rehire_speech|向你致意， {playername}。我在想我在过去说的那些刺耳的话是否能被忘记。我曾在这里寻找过诺尔德人，看我是否能找到足够的人手去夺回我丈夫的家园。但是我找不到足够的人手来操纵一艘长船，而那些我召集到的人很快就厌烦了并且溜走了——我补充一下，是在他们把我攒到的金币都用来喝酒花光了之后。所以我又想起了我们在一起的战斗。那是些好日子，也是有钱可赚的日子。 
+str_npc9_rehire_speech|我的天，亲爱的 {伙计/女士}！见到你太好了！我向这片土地的领主们找过差事，但是他们让我失望透顶了。他们中有一半人让我去向其他的领主收债，就好像我是银行的跑腿的似地；或者就是叫我去追赶他们的农奴，就好像我是个看农场的似地。还有一位领主甚至叫我去谋杀一个他的债主！我找过你，想知道你是否愿意让我再次加入你。 
+str_npc10_rehire_speech|队长！见到你真好。你看，结果证明是，我还不怎么适合当农场主。我想我对我雇用的人手管得太松了。我轻易地就让他们把我抢劫了。我认为战斗才是我最了解的。所以，告诉我，队长，你还在找优秀的伙计吗？ 
+str_npc11_rehire_speech|队长！见到你真是好啊！人们说你挣到了许多金币，从手到脚都是金子。我承认，我是一副烦躁不安的老骨头。我离开你是因为我不满意战士的生活，但是我在城镇里面度过了一小段时间，我意识到，城镇里的生活更糟糕，而饱饱的肚子、真诚的同伴，以及看着敌人在你面前逃跑的快乐，才是更好的。所以，你会再次雇我吗？ 
+str_npc12_rehire_speech|队长！见到你这么正直的人真好。这个世界充满了谎言。我回到了家里，打算发布我的发现，我雇用了一些抄写员，整理了一堆药典，我等着他们完成任务。但是结果却是，那些大学根本不在意真正的医学知识，而是守着陈腐的伽勒利安的典籍。而出版商们呢——让我告诉你吧，你从没见过有这么无耻的人。他们把书一章一章地给学生们抄写，但是它们中的一半一去不返了，而能返来的那些书的书页都被葡萄酒浸过了，我作品的完整的抄本永远也不会有了。我会不断努力的，但是首先我需要有一点钱，首先啊。你在找医生吗？ 
+str_npc13_rehire_speech|嗯，你好啊，哦，勇敢的家伙。我一直希望能再见到你。无论我走到什么地方，我都会听到关于你的事迹的传说与歌谣。我得承认，我们的分离曾使我觉得后悔和难过，并且，我得承认，我对你的名声也曾相当地嫉妒。我认为，我可以再次与你并肩作战，从而在你的光辉的映照下，让我的内心感到适意。也许我们可以再次并骑而行一小阵子？ 
+str_npc14_rehire_speech|队长，见到你真好。在上次我们分别时，我已准备好了发誓我再也不会为你服务，但是也许我对你判断太武断了。在全卡拉迪亚，人们都在歌颂你。我曾试着在其他领主的军队中服务，但是相信我，我对他们的所见所闻使我恢复了我对你的看法。如果你愿意让我加入你的团队，我就会再次为你战斗。 
+str_npc15_rehire_speech|哦，你好， {playername}，见到你我不能说我一点儿都不高兴。你知道，在我离开之前，我就定了另一份合同，我以为这份合同足够稳固，但是到了拿报酬的时候，那个领主除了空话和辩解，以及对我的成果的挑剔以外，什么都没给我。我不能说我在你的队伍里一直过得很开心，但是至少每次战斗后我都能切实拿到金币。你仍然在提供工作吗？ 
+str_npc16_rehire_speech|队长！人们说，自从我们分别后，你为你自己做得很好。我得承认，在我们分别时，我曾咒骂过你的名字，但是回想一下，你并没有那么坏。所有的这些领主们，他们都很乐意派我去做小差事，但是他们却不喜欢让我加入到他们的主要的战斗队列中。显然，我吓住了那些人。我听说有人嘀嘀咕咕地说我是个女巫，或者说我在杀死人后会吃了他的心脏，或者是其他的胡话。我并不反对在一个人睡着时捅死他，但是在他醒着还能动的时候杀死他，会更有趣得多。所以我认为，我要试着再次找到你，看看你是否会带上我。 
+str_npc17_rehire_speech|今天，命运真是有一个邪恶的幽默感，我们又见面了。我会再次加入你，如果只是待一会儿的话，如果你愿意让我加入的话。看来我们有同样的道路。 
+str_npc18_rehire_speech|我看到了一个幻象……我看见了一颗大树，树上有蒙特里梭的家徽……树枝一根一根地枯死，最后只剩一棵残干，而那个名字也不再那么清晰……我再次地由衷地高兴……而你就站在那儿——在树的脚下！然后我就知道我的命运再次与你相逢了……  
+str_npc19_rehire_speech|上一个镇子里的人们拿着农具赶走了我……我错了，我不该离开。对不起。带我回去吧。 
+str_npc20_rehire_speech|我无法忍受独自身处黑暗中。我觉得某物正在搜寻我……请别将我留在这里。 
+str_npc21_rehire_speech|离开了团队便会冷得多。我现在知道了。带上我吧，我再也不会抱怨了。 
+str_npc22_rehire_speech|我饿，我的宠物……带我回去，你不会感到抱歉的，我保证。 
+str_npc23_rehire_speech|来拜访我，伙计？呵呵呵！远道而来这里的？如果你喜欢，我就会再次跟你来。 
+str_npc24_rehire_speech|那么，似乎我们又相遇了。我很渴。带上我吧。 
+str_npc25_rehire_speech|我错了。如果你的团队有空间给一个愚蠢的老侦探，我会非常感激的。 
+str_npc26_rehire_speech|喷血池表示，我可以再次加入你……让我们继续我们的使命吧。 
+str_npc27_rehire_speech|生！ 
+str_npc28_rehire_speech|……  
+str_npc29_rehire_speech|带上我！！！我渴求死亡！！！给卡拉迪亚死亡！！！ 
+str_npc30_rehire_speech|我认为该是出续集的时候了。你说呢？ 
+str_npc31_rehire_speech|嘿 , 我的朋友 ! 好久不见。似乎我发现自己需要帮助，我发现自己在问自己 : 我能为一位需要帮助的老朋友做些什么吗 ? 你说呢 ? 
+str_npc32_rehire_speech|你好伙伴 ! 你觉得你又需要老夏纳的服务了 ? 我刚洗完我的蒸馏器，最近没吃豆子 ! 嘿嘿 ! 
+str_npc33_rehire_speech|我受不了……与你分离。带我回去 ! 
+str_npc34_rehire_speech|我……很困惑。也许我的灵魂在你的道路上有某种目的，因为我现在回到你身边，如果你能原谅我以前的严厉的话。 
+str_npc1_home_intro|老板，你知道吗？我就是在这附近出生的，就在这高地草原上。我就是在这里学会了识马，因为对于马来说，这里是个好地方，尽管对于人来说，这里是个艰难的地方。我想这就是为什么诃儿吉惕人喜欢它。 
+str_npc2_home_intro|我们在接近萨尔戈特。在诃儿吉惕人伏击我时，我就正好在这里率领我的商队。 
+str_npc3_home_intro|你闻到了吗？柠檬树、苹果和番红花，这是弗吕卡的香味。在我还是个女孩时，我在这里度过了许多个愉快的夏天。在我父亲外出经商时，我就在我母亲的家庭的花园里游玩。 
+str_npc4_home_intro|埃勒尔达树林。呸。这个地方充满了土匪和歹徒。 
+str_npc5_home_intro|把阿秃儿，我们正在接近哈里麻儿，低地草原的最大城镇。我的姨妈嫁给了这里的一个镇民，我曾想找这里的领主要份工作。那时我正好遇见你。 
+str_npc6_home_intro|我能看见山腰那儿的葡萄树和梯田了，我快到家了。我不想见到我的家人，所以如果你要进入城镇的话，我会在城墙外逗留。我确信你会理解的。 
+str_npc7_home_intro|你闻到了吗？腌制的鱼肉、腐烂的亚麻，以及河里的泥土。这就是我童年的味道。我想呕吐。 
+str_npc8_home_intro|嗯。你听到了吗？这一定是海岬上的浪涛撞击声。我们一定是接近贡迪格海岬了。 
+str_npc9_home_intro|瞧啊，里瓦切格之岩！卡拉迪亚最坚固的要塞。我父亲是那些在这里守住战线对抗诺尔德人的战士之一，当时那些诺尔德人第一次试图从海岸向内陆推进。 
+str_npc10_home_intro|你闻到这新鲜的空气了吗，伙计？在我出国搜寻财富之前，这曾是我的家园。再次来到山丘上真好啊。这是自由的味道。在格兰瓦尔德尔城堡下面的这个地方，正是罗多克式自由权的发源地。 
+str_npc11_home_intro|我看见了那些山。我们一定在接近我的故乡。 
+str_npc12_home_intro|我们正在经过的是我最伟大的医学成就之一的场所，不知这是否令你感兴趣？ 
+str_npc13_home_intro|啊，厄尔热隆城堡！由于这面深深的湖泊，这是一个多么可爱的地方。我在此度过了多么快乐的日子，就在前年夏天。 
+str_npc14_home_intro|你看见那上面的那座要塞了吗？就在山谷上的山脉那里？伊斯米拉拉？几年前，我在那里花了一个冬季来尝试训练那里的领主的部下。 
+str_npc15_home_intro|你看见山上那座城堡了吗？它叫屈尔马尔城堡。不久之前，我在那里做了些工作。它不像这片土地的一些其他的城堡那么显眼，但是它是你曾见过的最好的石工作品。 
+str_npc16_home_intro|哎，队长，你看见了吗？这些是野兔留在雪上的脚印。我们一定是在接近我的出生地。 
+str_npc17_home_intro|我曾一度将土立八哥称作家园，你也知道。那里的沙子是卡拉迪亚最暖的——尽管从这场风暴开始后，它们就减少了许多。诸神并不高兴啊。 
+str_npc18_home_intro|啊，我曾徘徊在普拉芬的街道上……哦，我曾在许多小巷子里缓缓而行，我的头乱又乱……那些我追求过的女人们……现在都走了……都已走了……  
+str_npc19_home_intro|亚朗的海边地区的温暖山丘上盛产木材。我一直靠在那里砍木头来赚取生活费。 
+str_npc20_home_intro|韦尔克格是座可爱的海洋城市，它全年都产鱼。大海的咸气让我想起了家乡……  
+str_npc21_home_intro|楚拉辅很冷。那里的生产铁块的熔炉需要不停地有木头来烧，所以我大多数的时间都是在工房里工作。 
+str_npc22_home_intro|捷班德拉离大陆的城市们很远，它位于海边的一个土地肥沃的谷地。从我的记忆安定了，并且渐渐厌倦了旅行起，我便在那里住了很久。 
+str_npc23_home_intro|现在安伯安已经在一段时间内是我的家了。那里的人很讨厌——他们憎恨、害怕外面的世界，所以他们一度忍受着我的出现。但是不再了……有更大的鱼要炸，伙计！呵呵呵！ 
+str_npc24_home_intro|我被束缚在血之尖碑处，在答失必哥虎待了很久。我猜想你可能把这个地方称为我的家，然而我是在瓦拉几亚被制造出的，离这里远着呢。是弗拉德亲自制造出我的。 
+str_npc25_home_intro|我在这里有个奇怪的感觉……不知怎么地，这些山丘很眼熟。注意到了这些沙子是如何在我们的靴子上结成沙块的吗？盐……它们甚至弥漫在这里的空气中。 
+str_npc26_home_intro|喷血池希望毁灭所有的生命，这样所有人都可以活在永恒的不死之中！这世界本身必须毁灭！给卡拉迪亚死亡！ 
+str_npc27_home_intro|生……  
+str_npc28_home_intro|……  
+str_npc29_home_intro|我的主人就在附近！！！ 
+str_npc30_home_intro|凝视着夜色幽幽，我站在门边惊惧良久，疑惑中似乎梦见从前没人敢梦见的梦幻……  
+str_npc31_home_intro|嘘 ! 你听到了吗 ? 对，没什么。就在沙漠的边缘……这是世界上最荒凉的地方。在这里，什么都没有，寂静是我所知道的唯一的家庭。沙子在呼喊欢迎 ! 我回家了。
+str_npc32_home_intro|老好人瑞瓦丁。几年前，一场大火把她烧得遍野疮口，但她仍像一首乡村歌曲里唱的那样顽强地坚持着 ! 嘿嘿 ! 这让我想起了我还在着火的那段时间——无论如何，对我来说这就是家，甜蜜的家。
+str_npc33_home_intro|啊 , 杜根……它只是我古老的家园之一。很久以前，我被一个半神的人抛弃了，在我的愤怒中，我将天堂的公牛交给了他，他在另一个半神的帮助下将他杀死了。 7 年之久，甲流在这城中肆虐。现在…… 
+str_npc34_home_intro|很久以前，作为我自己王国的君主，我建造了被称为耶勒贝吉城堡、瑞贝莱特城堡和雷迪城堡的要塞，这些要塞位于战略要地，位于山谷的中心，这样就可以看到敌人从远处靠近…… 
+str_npc1_home_description|嗯，诃儿吉惕人一直住在这里，甚至是在古老的岁月中，因为皇帝给了他们金币和土地以阻挡其他部落。我被告知我的外祖父是一个诃儿吉惕首领，不过我母亲并不了解他，这还不如我对我父亲的了解。在我母亲还是少女时，诃儿吉惕人开始以更多的人数翻山而来，而现在，在图勒和有了一位诃儿吉惕可汗。 
+str_npc2_home_description|人们说，诺尔德人是一帮嗜血的野蛮人，但是如果你问我的话，我会说，他们在贸易上有着不错的头脑。他们让海岸一带的人们种植亚麻，然后他们在这里把亚麻编织成亚麻布。作为一种奢侈织品的话，它们是不能和热尔卡拉的丝绸和天鹅绒相比的，但是它们却能被做成不错的夏季服装，并且你能够把它们用作船帆。更重要的是，亚麻布是一种稀少的货物，在卡拉迪亚的别的地方，人们是不会制造它们的。 
+str_npc3_home_description|弗吕卡冬季湿润而夏季炎热，但是这里的人们修建了巨大的贮水池来浇灌他们的庄稼。他们种植葡萄——弗吕卡葡萄酒是很有名的， {阁下/女士}——那些有财力的人在果树生长丰富的地方修建了带墙的花园，而我们就在晚上坐着听音乐，或者下棋，或者仅仅闻一闻夜晚的空气。 
+str_npc4_home_description|嗯，你知道，斯瓦迪亚的国王宣称这里是他的私人猎场，并说任何人只要在这里拉一下弓都会被杀死。所以之后发生了什么呢？某个有家庭的人由于饥饿而抵挡不住偷猎的诱惑，而国王的司法官来吊死了他并夺走了他的土地。他的儿子们，为了不挨饿而当上了土匪。就这样，自然地，整个山谷里的任何人，只要觉得需要逃避债款，或者唠叨的老婆或者复仇心重的贵族，都会来这里加入他们，靠野猪和浆果以及不谨慎的旅行者的钱包为生。 
+str_npc5_home_description|诃儿吉惕人曾经总是来这里，来贸易和来突袭，而在帝国最后的岁月，我们开始了殖民定居。就像瓦耶吉尔人、斯瓦迪亚人、罗多克人和诺尔德人，我们拿皇帝的钱币来阻挡住其他的部落。但是在我祖父的年代，当大部落袭击了我们的家乡时，我们被迫搬到了这个地带。我们把瓦耶吉尔人推了回去，让他们的要塞成了我们自己的。 
+str_npc6_home_description|在苏诺谷这儿，我们的方言和习俗比卡拉迪亚的其他任何地方都更接近古老的卡拉德帝国的口音和习俗。我们种植橄榄和葡萄，这两种作物都是以前的皇帝们从海外带到这片土地的，并且我们的种植方法也同样是按古老的卡拉德方式。我们信守誓言，有债必还。 
+str_npc7_home_description|在我出嫁之前，在我被强盗带走之前，我就生活在这里。我是在一间小屋里出生的，并在野地里度过了我的童年。我们的地主们都是诺尔德人，不过我们从来没有见过他们，只见过他们的狗奴才和死工头。我那懦弱的父亲，竟然还在他们面前卑躬屈膝。 
+str_npc8_home_description|你没听过这个故事吧？当贡迪格· 多毛马裤从诺尔德本土来到卡拉迪亚时，他在海岬插下了他的旗帜，并说道，这面旗帜会继续被插在那里，直到他夺回了他的“遗产”。他的“遗产”，他是这么说的。吟唱诗人们告诉过他，卡拉迪亚的皇帝曾立遗嘱要把卡拉迪亚遗赠给诺尔德人，贡迪格相信了他们所说的。而事实上，皇帝只是要给我们沿着海岸的一小条地带，这样我们就能帮他操纵他的那些大划桨船。 
+str_npc9_home_description|诺尔德人总是会乘着他们的长船溯水而航来。海岸那里的市民们本可以阻止他们，但是他们之后成为了一群懦夫，就像他们今天的样子一样。他们向诺尔德人支付了年金，也就是著名的“诺尔德钱”，来保住和平。但是瓦耶吉尔国王不会支付。我的父亲决定翻过群山而来，与当地瓦耶吉尔人一同战斗。连续三个夏天，他们试图夺取这些岩石城墙，而在每一次，瓦耶吉尔的领主们都能阻挡住他们。 
+str_npc10_home_description|在我父亲的岁月里，斯瓦迪亚人会到我们这里来，想办法使我们屈服于他们，称他们为最高统治者。但是格兰瓦尔德尔，山地的一位资深老兵，向我们展示了如何以长矛与弩弓组成阵列，这样就能粉碎斯瓦迪亚人的冲锋。他在战斗中倒下了，但是人们以他的名字为这座城堡命了名，这座城堡就是在他倒下的这个地方建立的，这样我们就会记住他并且永远牢牢地站立着，以抵抗骑手的突击。 
+str_npc11_home_description|我来自普拉芬。你知道那句格言， {阁下/女士}——“乌克斯哈尔的大麦是在普拉芬被制成麦芽酒的，因此，我们是所有的更优秀者。”我不清楚这说的是什么意思， {阁下/女士}，但是关于这些大麦的说法可是真实的。还有小麦，还有燕麦，这些都是。我们在乌克斯哈尔谷这里种植的谷物比全卡拉迪亚的其余地方的谷物加起来还多，而我们的麦芽酒也是最好的。你从这里的土质就能看出——又肥又黑，而且还带着大丰收和饱饱的肚子的味道。 
+str_npc12_home_description|就在那儿，阿尔梅拉城堡的领主得了水肿，并且从乌克斯哈尔请了个医生来治他。跟典型的大学教育出来的医生一样，他直接使用伽勒利安的方法来治疗。伽勒利安推荐用“太阳金属”来治水肿。现在，回想在卡拉德帝国时期，当伽勒利安的著作首次被写下时，他的大多数的著作都是无用的，而在今天，它们则是双倍地无用，但是他有时会偶然发现正确的疗法：小剂量的太阳金属确实能治一些水肿病。但是，大剂量的太阳金属就是毒药了，这可是伽勒利安的崇拜者们从未掌握的。 
+str_npc13_home_description|我是和一小队斯瓦迪亚军队来到这里的，但是他们被林子里的罗多克人捉住了，他们的骑手也在树丛中被砍倒了。我逃走了，并在湖边找到了隐蔽处，在你见过的所有的牧牛女中最漂亮的那一个保护了我。她带我到了高地牧场旁的一个洞穴中，她会给我带来奶酪和浆果，跟我讲山里的故事。他们说这面湖是通往地狱的一个入口，有时，在湖边，你可以看到有有毒的烟雾从下面冒到湖面上来。他们是一群多么质朴的人啊！ 
+str_npc14_home_description|我说“尝试”，是因为在我看来，瓦耶吉尔人并不注重纪律。他们有你曾见过的最出色的弓箭手，也有优秀的骑手，但是他们对列阵战斗没有兴趣。他们的技能足以让他们对抗诃儿吉惕人和诺尔德人，尤其是在他们能躲在城墙后面时，但是我也见过斯瓦迪亚骑士像用匕首切黄油一样地砍倒了瓦耶吉尔人。现在，罗多克人设计了“矛墙”来阻止斯瓦迪亚人的正面冲锋，而且通常都很有效。 
+str_npc15_home_description|如同这附近现存的大多数的城堡，它被修建于古卡拉德帝国时期，你看不到它们有什么全面的重修，但是它们的石板有一座房子那么大。这些城堡一定是过去的真正的魔法师们建造的，因为我不知道除此之外，他们还能如何搬动那些东西。这也是个极好的地方——屈尔马尔正好坐落在出入卡拉迪亚的山隘前面。在每年它没被雪困住的三个月里，当地的领主可以收到一大笔通行费。 
+str_npc16_home_description|山谷里的积雪直到一年过了很久的时候才会化掉，并且这些土地很难被犁开。你能够种一些大麦，但是不能种得像别的地方的那么多。但是这里的树林里却有着财富：鹿子、兔子和山猫的身上有肉和皮毛，并且山上还有铁，而商人们会逆着河流从海岸用船运来足够的咸鱼来使人们在冬天能吃饱。 
+str_npc17_home_description|这个地方让我回想起我的妹妹们。她们会喜欢它的。美杜莎的命运你已知道，可是尤瑞艾莉消失了。甚至我也不知道她去哪儿了。 
+str_npc18_home_description|狂欢节！嘻！嘻！嘻！——嘻！嘻！嘻！——抱歉……不是想吓你。干吗这么紧张呢，头儿？ 
+str_npc19_home_description|我睡在树林里。人们宣称城里没有给我的空间，所以他们不会在城里给我提供空间。我想是这就是盲目恐惧……有时候，这能够是一个丑陋的事物。 
+str_npc20_home_description|仓库的工作是艰苦的，但是我能胜任。那场火灾……我仍然对它后悔。有时候我记不起如何完全正确地做事情……但是为了过日子，我不得不做事情。所以我就这么做。 
+str_npc21_home_description|那是生计。但是熔炼金属的味道总是会让我想起楚拉辅的人民：恶劣、讨厌。 
+str_npc22_home_description|捷班德拉的人民仍然崇拜旧神灵们，这跟城里的新宗教大不相同——其中一个不同就是要供奉血液。但至少，那些崇拜旧神灵们的人们知道如何处理血液……  
+str_npc23_home_description|安伯安人崇敬吞噬者柯罗诺斯，原始的时间之神。他们将毁灭视作神的赐福，并定期为他献祭一名自己人。从我住在那里起，被献祭者就被交给我了，并且他们崇敬我为柯罗诺斯的化身。这是不真实的，但是这也有好处，嗯？呵呵呵！ 
+str_npc24_home_description|当弗拉德最后被杀死了，瓦拉几亚也就被征服了，它成为了我们所知的卡拉迪亚西半部分的大部分的土地，从热尔卡拉，到哈里麻儿。 
+str_npc25_home_description|我好像记起了，这附近的某处有一个被遗弃的盐矿场，然而我记不起我的生活是在哪里过的……  
+str_npc26_home_description|只有当每座城市都振动着我们的高声宣言的回音了，我们才会满意！我们的死亡母亲的瘟疫会毁灭掉强者们，也毁灭掉弱者们！ 
+str_npc27_home_description|韦达尔……永不复焉……  
+str_npc28_home_description|……  
+str_npc29_home_description|让喷血池听听屠杀的尖叫声的回荡！！！ 
+str_npc30_home_description|那座塔曾是我思想的监狱，直到你从那里解救了我。谢谢你。现在我可以再次写作了……  
+str_npc31_home_description|这是卡尔拉迪亚地狱的开始，我的朋友。即使是太阳也会在背后给你来一刀…
+str_npc32_home_description|我的妈妈和爸爸都是农民——如果我给你看他们的照片，你肯定会觉得美国哥特式绘画，没有干草叉。我认为我有卑微的开端 - 和卑微的中间人 - 我真正希望的是一个卑微的结局。但我不会清醒的，这是肯定的！嘻嘻！ 
+str_npc33_home_description|杜根人远离卡拉迪亚文明的土地，被瘟疫肆虐，野蛮、好战、自给自足。他们以他们的女神的身份向我献祭，正如你所看到的，我的祭坛充满了鲜血。
+str_npc34_home_description|在每座城堡里我都留下了一个铃木…一个如此古老而可爱的物体，它获得了自己的精神。一个古柯托，一个旧纸灯，一个破裂但结实的酒瓶…他们在我的公司呆了这么多年，经历了这么多的战斗，他们的变得好战了，我把他们分开，以防止他们不断的争吵造成混乱。他们可能的毁灭… 
+str_npc1_home_description_2|他们对我们古卡拉德人不算太严厉，并且不会要求太多的税——但是我们并非总是能交出这么多的税。大多数庄稼都不适合这片土地。坦率地说，这里只适合养马，而且一年只有一半的时间适合，就在雨期后的冬天。在夏天，他们又会把他们的马群带回山区。商队们从山丘那边而来，为图勒和带去香料，但是我们没看到有多少钱因此而落到了我们这些村庄。 
+str_npc2_home_description_2|我曾经装载过番红花、桂皮、丁香花苞、胡椒和其他的香料以及满满一箱的第纳尔。我估计我能够买到亚麻布、毛皮、天鹅绒、铁和羊毛，以及额外的马匹来运回它们，这样我还能赚上一笔。我只是没有考虑到诃儿吉惕人，他们显然不喜欢别人打破他们的垄断。 
+str_npc3_home_description_2|诗人们把弗吕卡称作天堂，我认为这一次他们没有夸张。 
+str_npc4_home_description_2|你问我是怎么知道这个的？嗯……我被他们抓住过，并被扣着以等待赎金，但是我逃走了。就是这些，真地讲完了。 
+str_npc5_home_description_2|当然，你知道事物是如何发展的。我的父辈都是从严寒之地翻山而来的坚强勇士，而这一代人在城镇里都有了房子和巨大的地产，他们花在贸易上的时间跟花在练习射箭上的时间一样多。下一代人会因为弗吕卡的葡萄酒而变得软弱，在下一批无知的山岭突袭者翻山而来时，他们就会失去他们的土地，你就等着瞧吧。事物以前就是这么发展的，以后也总是会这样。 
+str_npc6_home_description_2|我们苏诺人也决不会忘记耻辱，对我们犯下的任何过错必定招致我们的复仇。古老的卡拉德式荣誉，我敢说，就是它造成了我如今的这个落魄状态。但是尽管如此，我仍然为我来自这个地带而骄傲。我们的领主是普拉芬的斯瓦迪亚国王的一个封臣，但我们深切地认为，他只是又一个的野蛮人酋长罢了，我们才是帝国真正的继承人。 
+str_npc7_home_description_2|我们被允许在河里捕鱼，在芦苇荡里养猪，并可以在我们的私人的小块土地里种任何我们能种的东西，但在开阔地里我们只被允许种亚麻，以被带到萨尔戈特去织成亚麻布。所以我们总是很饥饿，很虚弱，从来没有勇气反抗。 
+str_npc8_home_description_2|吟唱诗人们的传奇故事至少给了贡迪格一个理由来招募一支战团——我们诺尔德人从来都不需要理由，请注意。他穿越大海，航行而来，重新集合了卡拉迪亚诺尔德人到他的旗下并向里瓦切格之岩进军。瓦耶吉尔人杀掉了他，并把他的旗帜扔进了海浪之中。但是诺尔德人在不断地到来，并且总有一天，全卡拉迪亚都会是我们的。 
+str_npc9_home_description_2|就像诺尔德人可以召集他们海外的同族人民一样，瓦耶吉尔国王也可以召集他在群山那边的同族人民。如果我父亲没有剥夺我的继承权的话，我就也已经向雷瓦金的主人宣誓效忠了。但正因为我被剥夺了权利，那么我也就不必再尽我的义务了，这是瓦耶吉尔国王的损失。 
+str_npc10_home_description_2|我们在这里种植桑树以得到丝和做染料用的胭脂。我们把它们带到热尔卡拉，然后热尔卡拉人们就会把它们编织成最优质的天鹅绒——注意，我钱包里一直没有足够的第纳尔来买天鹅绒。但是热尔卡拉的匠人们也能造出好弩，因此我不会因为他们的小奢侈品而嫉妒他们。 
+str_npc11_home_description_2|斯瓦迪亚国王会告诉你普拉芬在帝国时期曾是卡拉迪亚最大的城市。而这就是为什么他今天应该统治所有的土地。请你注意，我对政治是不怎么关心的， {阁下/女士}——我给每一支曾在卡拉迪亚行军的部队都卖过给养，并且我告诉你，除非我手上先得到了又冷又硬的第纳尔，否则我不会给他们中的任何一个人任何一个小面包。为什么这些又高贵又强大的国王和贵人们不能支付他们的账单呢？我永远也不会知道。啊呀，我闲扯得有点多了，喂，不是吗？ 
+str_npc12_home_description_2|有毒之药与治愈之药的区别就在于剂量。你把这个告诉给你遇到的每个人，告诉他们你最先是从伟人耶雷穆斯那里听来的。人们认为所有的值得了解的知识都在古卡拉德时期被写下了，但是我说，比起整个帝国的文集来，你能够从乡村接生婆那里和对大自然的仔细的调查中，学到两倍多的知识。这就是为什么他们把我赶出了大学的原因，不过回想起来，这倒是件幸事。不管怎么说，我让那位领主完全恢复了健康，他给了我一袋金币和一具刚被吊死的罪犯的尸体来用于解剖。哈！想想过去我不得不去弄样品的时期。 
+str_npc13_home_description_2|最后，我不得不离开了，有时我会想，在她每天早上赶着牛群去上面的牧地时，她的背上是不是有一个包在襁褓中的小牧童呢？我曾经想试着去找到她——但是算了，算了，一个人永远不应该走回头路。 
+str_npc14_home_description_2|如果任何人统一了我们的这个小地方，我愿意签约为他效劳，不要钱。我会组织一支混合军队，把罗多克长矛手和诺尔德步兵放在侧翼，把瓦耶吉尔弓箭手放在前排，带上一些诃儿吉惕侦察兵来寻找敌人的位置，再用一些斯瓦迪亚长矛轻骑兵来把他们消灭干净。我会带着这支军队翻过群山，让全世界都向卡拉迪亚下跪……当然，以前的皇帝们也是这么想的，而在最后，那些部落们夺取了他们的帝国。 
+str_npc15_home_description_2|这里还有可笑的事情——当罗多克各地第一次造反反抗斯瓦迪亚人之时，他们都说他们不会让任何贵族领主来统治他们。你能够猜到这持续了多久。有一位罗多克的山岭的酋长在屈尔马尔自称为了“伯爵”，然后热尔卡拉和弗吕卡的那些好自治市民们如果想把他们的葡萄酒和天鹅绒卖到卡拉迪亚外面去，就不得不拍他的马屁。而如果你想要让那些伯爵们受控制，想要让那些农民们为城镇提供食物而不把它们卖给出价最高者，那么你还是需要一个国王，对吧？不管他们关于“自古以来的自由权”和“独立自主”有什么废话可说，罗多克各地与其他的任何地方都没有区别。 
+str_npc16_home_description_2|尽管如此，生活还是很不舒服，总是有太多的嘴巴要喂饱。瓦耶吉尔国王和诃儿吉惕可汗不会让我们的生活更轻松，他们从他们控制的村庄榨取税金，并且突袭他们没控制的村庄来劫掠财物。当然，如果我有一座城堡和一支完全属于我的军队，我不能说我就不会这么做。强大者做他们能够做的，而卑微者做他们必须做的。 
+str_npc17_home_description_2|我能感觉到雅典娜的眼睛在看着我……让我们快点儿经过这里吧。 
+str_npc18_home_description_2|偏执狂的问题在于他们几乎一直都是对的……确实大多都是对的……嗯……  
+str_npc19_home_description_2|亚朗的雨水也很多——让我告诉你，有时候我会害怕我会变弯曲！不过，彩虹倒是很可爱的……  
+str_npc20_home_description_2|对于回韦尔克格去我仍然有点紧张不安……那场火灾距今一点也不久，并且它还在调查中，而当时我刚好偶然地随你离开了……我曾尽力磨光了我的烧焦的双手，但是我仍然担忧。 
+str_npc21_home_description_2|摆脱了楚拉辅真好。我更喜欢在路上。 
+str_npc22_home_description_2|我仍然哀悼……许许多多的事物。我想要或者需要我的眼睛已经很久了——我在想我会不会再次使用它们。在我黑暗的洞穴中，我学会了通过运动觉来看东西——许多人都在这里失去了他们的性命。 
+str_npc23_home_description_2|更重要的事情的时间到来了……我要将安伯安留在它讨厌的方式中。 
+str_npc24_home_description_2|将近两个世纪，从我被埋在瀑布下起，许许多多都改变了——除了一样：人类对血的渴望——事实上，正好相反呢。似乎“穿刺公”弗拉德正是一个可怕的新时代的报信者……  
+str_npc25_home_description_2|我们近了……靠近坑道了……一根盐矿柱……我什么知道这些东西呢？ 
+str_npc26_home_description_2|诅咒他们所有人！生者将屈服于死者，并被切成碎片，然后再一次地站起来，去切他们的同胞！一个也不会剩下！ 
+str_npc27_home_description_2|永不复焉！ 
+str_npc28_home_description_2|……  
+str_npc29_home_description_2|这里的地面被血液弄脏了！！！以后每个地方都将如此！！！ 
+str_npc30_home_description_2|我带着的这支羽毛笔拥有这世上最强大的力量。它摧毁了我，并用我自己的手重塑了我，而现在，一切都不同了……  
+str_npc31_home_description_2|我的朋友，这是在我十岁之前我必须做的事情，没有一个身材高大的人会有这样的梦想。我不想谈这个。沙子是不会说话的的…
+str_npc32_home_description_2|伙计，在农场里的生活是最艰苦的。你在雨中铲过肥料吗？我发誓，水会把肥料变成铅…炼金术士会把你的心吃掉！我想我对干旱的祈祷比我年轻时为一个女人的祈祷还要多——在那些日子里，我几乎没有得到任何东西，让我告诉你吧！嘻嘻！
+str_npc33_home_description_2|即使是大胆的草原土匪也不敢接近杜根村。他们知道这场瘟疫，但拒绝把它说成是禁忌。他们是迷信的，相信只要他们说出一句话，就会感染他们的游牧营地。
+str_npc34_home_description_2|我的王国包括现在被认为是北半球和斯瓦甸西部的大部分领土。我的旗帜是一只飞鸟，在深红色的田野上，金色的天空…但它很久以前就被烧掉了……
+str_npc1_home_recap|我来自高地草原，靠近特希布廷。 
+str_npc2_home_recap|我出生在山那边。我是一个商人，一个商人的儿子，也是一个商人的孙子。 
+str_npc3_home_recap|我过去常常住在我父亲在 {s20}的房子里，但是我童年的许多时间是在 {s21}度过的。 
+str_npc4_home_recap|我们祖传的大庄园在群山的外面，要穿过库达尔山隘。 
+str_npc5_home_recap|我出生在群山另一边的高地上，要经过图勒和，但是我在 {s21}有亲戚。 
+str_npc6_home_recap|我的家人住在苏诺，但是我无法忍受面对他们。 
+str_npc7_home_recap|我生于沼地的一间小屋，离 {s21}不远。 
+str_npc8_home_recap|我出生在海外，在诺尔德本土，而且我丈夫的家园也在诺尔德本土。 
+str_npc9_home_recap|我出生于群山那边的瓦耶吉尔人的故土，在卡拉德皇帝把瓦耶吉尔的领主们带入卡拉迪亚之前，那些领主们就生活在那里。 
+str_npc10_home_recap|我生长于热尔卡拉， {兄弟/妹子}，并且我希望某一天能在那里买到土地。但是我想先看一看这世界，所以我带着我的弩弓参与了战争。 
+str_npc11_home_recap|我出生在一支军队的随从队列里，并且我所有的日子都是在军队的随从队列里度过的。不过，我的双亲来自于普拉芬，所以我认为，对我来说，那里比别的任何地方都更像是家。 
+str_npc12_home_recap|我来自海外。我在这个世界旅行，以寻找医学知识。 
+str_npc13_home_recap|哦，我来自的地方离这里很远，我的 {主人/女士}，另外，你可能已经听过我的事情了，你可能不需要问这些问题了。 
+str_npc14_home_recap|我是格罗亚伯爵的次子。 
+str_npc15_home_recap|我来自山岭之外。但是在当下的日子里，如果你的职业是制造围城用具的话，卡拉迪亚就是赚钱的地方。 
+str_npc16_home_recap|哦，队长，我出生于乌斯卢姆村，但是我母亲的土地被一个诡计多端的亲戚夺去了，所以她不得不与附近的领主签订了契约。 
+str_npc17_home_recap|我不再对土立八哥有任何感伤了——让它随时间的沙粒逝去吧。我自己的经历比我在那里的孤单的回忆要长得多。 
+str_npc18_home_recap|普拉芬是我的监狱……我相信我差不多找到关押我的人了……蒙特里梭，无论你在哪里，我都会毁灭你！嘻！嘻！嘻！——嘻！嘻！嘻！ 
+str_npc19_home_recap|曾经一度，亚朗是必要的。 
+str_npc20_home_recap|韦尔克格将会一直是我的故乡——无论是好是坏。然而，我现在最好离开它并自己做一番事情。 
+str_npc21_home_recap|对我来说，楚拉辅就像是地狱，但是我开始认为，全世界都像是地狱……  
+str_npc22_home_recap|现在那棵树已经枯萎了，与捷班德拉一起枯萎了。村里剩下的人已经少极了……旅行的感觉很好。该是这位哭泣的寡妇伸腿的时候了。让我们离开这个地方吧。 
+str_npc23_home_recap|对于你或是别的任何人，我对安伯安没什么想要回忆的。现在让我们谈谈别的事情吧，伙计。 
+str_npc24_home_recap|让我们少说这个吧——我不想让血之尖碑的阴影再次降临于我……  
+str_npc25_home_recap|我现在记起了……矿场……血和盐的气味……父亲……不，但是……那是不可能的……  
+str_npc26_home_recap|从旧曾扎尔，宣告真理！从深渊，宣告一个意愿！从生命：死亡！把你们的血交给喷血池，你们就会被奖励，我的孩子们！ 
+str_npc27_home_recap|死！！！韦达尔！！！死！！！ 
+str_npc28_home_recap|……  
+str_npc29_home_recap|给卡拉迪亚死亡！！！ 
+str_npc30_home_recap|即使现在，我也能听见那座塔的召唤……召唤我……  
+str_npc31_home_recap|我出生在沙漠，在纳拉的街道上长大。听起来很沉重？是的，我的朋友，就像一袋石头。如果你知道我的意思，我会远离玻璃屋。
+str_npc32_home_recap|总之，简单的生活就是…好…………更简单！我使我的光芒，我喝我的光芒，我卖我的光芒，我买更多的成分，和生命的循环是完整的，伙伴！有时它可能是孤独的，在范围之外，但它所需要的只是一个旅行到镇上与我的最新一批很好的旧时光板条箱！哈啊啊啊啊！
+str_npc33_home_recap|卡尔拉迪亚沙漠有许多黑暗的秘密。其中一个的开始就是她的故事……
+str_npc34_home_recap|但那都是很久以前的事了。让我们不要沉湎于过去——为了明天，今天还有仗要打……
+str_npc1_honorific|老板
+str_npc2_honorific|{阁下/女士}
+str_npc3_honorific|{阁下/女士}
+str_npc4_honorific|{阁下/女士}
+str_npc5_honorific|{playername}把阿秃儿
+str_npc6_honorific|队长
+str_npc7_honorific|队长
+str_npc8_honorific|{playername}
+str_npc9_honorific|我的好 {阁下/女士}
+str_npc10_honorific|{兄弟/妹子}
+str_npc11_honorific|小 {伙子/姑娘}——我是说“队长”
+str_npc12_honorific|队长
+str_npc13_honorific|哦，勇敢的家伙
+str_npc14_honorific|指挥官
+str_npc15_honorific|队长
+str_npc16_honorific|队长
+str_npc17_honorific|凡人
+str_npc18_honorific|头儿
+str_npc19_honorific|{阁下/女士}
+str_npc20_honorific|{阁下/女士}
+str_npc21_honorific|{阁下/女士}
+str_npc22_honorific|我的宠物
+str_npc23_honorific|伙计
+str_npc24_honorific|放血者
+str_npc25_honorific|朋友
+str_npc26_honorific|黑暗崇敬者
+str_npc27_honorific|永不复焉
+str_npc28_honorific|…… 
+str_npc29_honorific|获选者
+str_npc30_honorific|读者
+str_npc31_honorific|我的朋友
+str_npc32_honorific|伙伴
+str_npc33_honorific|情人
+str_npc34_honorific|上将
+str_comment_intro_liege_affiliated|我被告知你向阻止我一统卡拉迪亚的觊觎者宣了誓。但是我们仍然可以谈谈。 
+str_comment_intro_famous_liege|早闻大名！也许该是你找到一个配得上你的英武的君主的时候了。 
+str_comment_intro_famous_martial|早闻大名！也许我们会在竞技大会上切磋一番，或者是在战场上！ 
+str_comment_intro_famous_badtempered|我听说过你。嗯，我不喜欢废话，所以你要说什么就说吧。 
+str_comment_intro_famous_pitiless|我知道你的名字。它令人们心里恐惧。这很好。也许我们应该找个时间谈谈。 
+str_comment_intro_famous_cunning|啊，是啊。我们终于见面了。听说你是个好人。让我们时常相互谈谈吧。 
+str_comment_intro_famous_sadistic|我知道你的名字——并且据我所知，我保证有许多悲伤的寡妇也知道你的名字。但这与我无关。 
+str_comment_intro_famous_goodnatured|我听说过你！最终能认识你真好。 
+str_comment_intro_famous_upstanding|我知道你的名字。他们说你是最英勇的勇士。我只能希望你的荣誉和仁慈能与你的英勇相配。 
+str_comment_intro_noble_liege|我看见你带着一面贵族的旗帜，然而我认不出上面的纹章。你得知道，我一直在寻找为我而战的好兵，只要他们能证明自己值得我信任就行。 
+str_comment_intro_noble_martial|我看见你带着一面贵族的旗帜，不过我认不出上面的纹章。也许某一日我们会在竞技大会上切磋一番，或者是在战场上！ 
+str_comment_intro_noble_badtempered|我认不出你旗帜上面的纹章。毫无疑问，又一个外国人来到了我们的土地上，好像我们这里的还不够多一样。 
+str_comment_intro_noble_pitiless|我看见你带着一面贵族的旗帜，不过我认不出上面的纹章。又一只秃鹰来饱餐战争的残余物了，毫无疑问！ 
+str_comment_intro_noble_cunning|我看见你带着一面贵族的旗帜，不过我认不出上面的纹章。尽管如此，认识可能会在某一天证明 {他/她} 自己是个伟大的战士的人，总是值得的。 
+str_comment_intro_noble_sadistic|我看见你带着一面贵族的旗帜，不过我认不出上面的纹章。也许你是一个趾高气扬的偷牛贼的私生 {子/女}？或者那头牛就是你偷的？ 
+str_comment_intro_noble_goodnatured|我看见你带着一面贵族的旗帜，不过我认不出上面的纹章。原谅我的无知， {阁下/女士}！认识你真好。 
+str_comment_intro_noble_upstanding|我看见你带着一面贵族的旗帜，不过我认不出上面的纹章。毫无疑问，你来卡拉迪亚是为了搜寻财富与荣耀。如果真是这样，那么我只想请你给那些战争中的可怜的人们仁慈。 
+str_comment_intro_common_liege|也许你出身寻常，但是得知道，我一直在寻找为我而战的好兵，只要他们能证明自己值得我信任就行。 
+str_comment_intro_common_martial|也许你并非出身名门，但是如果你能证明你是一个英勇的人，那么我会乐意在竞技大会上或者战场上试试你的力量。 
+str_comment_intro_common_badtempered|如果你有什么要说的，就赶快说，因为我没时间和找寻财富的普通士兵废话。 
+str_comment_intro_common_pitiless|你看起来像是一名雇佣兵，又一只秃鹰来饱餐这片土地的痛苦了。 
+str_comment_intro_common_cunning|嗯……我没听说过你，但是你看起来像是一个某一天可能会为自己挣得什么的人。 
+str_comment_intro_common_sadistic|通常，对于那些未受邀请而闯到我面前的无礼的平民，我会切开他们的喉咙，但是今天我心情不错。 
+str_comment_intro_common_goodnatured|嗯，你看起来挺像个好人。 
+str_comment_intro_common_upstanding|向你问好，请一直铭记，要让你的勇猛与你的仁慈相称，让你的勇气与你的荣誉相称。 
+str_comment_you_raided_my_village_enemy_benevolent|你袭击了在我保护下的 {s51}村的无辜农民。我会为你的罪行而惩罚你！ 
+str_comment_you_raided_my_village_enemy_spiteful|你突袭了我的 {s51}村，摧毁了我的房产并杀害了那些佃户。我会用你的血来补偿！ 
+str_comment_you_raided_my_village_enemy_coldblooded|你突袭了我的 {s51}村，摧毁了我的房产并杀害了那些佃户。在你如此地中断我的税收之前，我会让你再考虑一遍的。 
+str_comment_you_raided_my_village_enemy|你突袭了我的 {s51}村，摧毁了我的房产并杀害了在我保护下的那些佃户。你会为你的罪行而付出代价！ 
+str_comment_you_raided_my_village_unfriendly_spiteful|你突袭了我的 {s51}村。你要再这么做的话，我就会像对待一条鱼一样取出你的内脏。 
+str_comment_you_raided_my_village_friendly|你突袭了我的 {s51}村。这样做会终结我们的友谊的。 
+str_comment_you_raided_my_village_default|你突袭了我的 {s51}村。如果你继续如此行事，我们也许很快就会打起来。 
+str_comment_you_robbed_my_village_enemy_coldblooded|你抢劫了我在 {s51}村的佃户。我把这当做是一个个人的羞辱。 
+str_comment_you_robbed_my_village_enemy|你抢劫了在我保护下的 {s51}村的无辜农民。我会为你的罪行而惩罚你！ 
+str_comment_you_robbed_my_village_friendly_spiteful|我听说你在 {s51}从我的佃户那里勒索了一些食物。嗯，我不会对你有一丝的不快，但是记住，这之后，我却必须得倾听他们的哀诉。 
+str_comment_you_robbed_my_village_friendly|我听说你在 {s51}从我的佃户那里征用了给养。我确定，除非你绝望地需要它们，否则你是不会这么做的。 
+str_comment_you_robbed_my_village_default|你在 {s51}村抢劫了我的佃户。如果你继续如此行事，我们也许很快就会打起来。 
+str_comment_you_accosted_my_caravan_enemy|你向在我保护下的商队讨了钱。不过你的土匪生涯将会很快结束了。 
+str_comment_you_accosted_my_caravan_default|你向在我保护下的商队讨了钱。这种行为必须停止了。 
+str_comment_you_helped_villagers_benevolent|我听说你在 {s51}村对我的佃户行了善。作为领主与保护者，我有所失职，并且我感激你所做的。 
+str_comment_you_helped_villagers_friendly_cruel|我听说你在 {s51}村对我的佃户行了善。我感激你善良的意图，但是我更希望你不要这样地破坏我的威信。 
+str_comment_you_helped_villagers_friendly|我听说你在 {s51}村对我的佃户行了善。时势艰难，并且我知道你的意图是善良的，所以我不会反对你提供他们援助。 
+str_comment_you_helped_villagers_unfriendly_spiteful|我听说你在 {s51}村对我的佃户行了善。看见你在我的奴仆们身上搜寻支持还真好笑。我想请你注意你自己的本分。 
+str_comment_you_helped_villagers_cruel|我听说你在 {s51}村对我的佃户行了善。作为那些农民的领主与保护者，在困难时期帮助他们实际上是我的责任。也许你的意图是善良的，但是你的行为仍然破坏了我的威信。如果你离开他们，我会感谢你的。 
+str_comment_you_helped_villagers_default|我听说你在 {s51}村对我的佃户行了善。时势艰难，并且我知道你的意图是善良的，但是试着别让它成为了习惯。我才是他们的领主与保护者，并且我更愿意他们不要指望陌生人的援助。 
+str_comment_you_captured_a_castle_allied_friendly|我听说你已攻占了 {s51}。真是件伟大的业绩，并且我很自豪能称你为我的朋友！ 
+str_comment_you_captured_a_castle_allied_spiteful|我听说你已攻占了 {s51}。做得好！很快，我们就会夺取他们所有的要塞，彻底洗劫光他们所有的金银，让他们的悲伤的寡妇们来侍奉我们喝酒。 
+str_comment_you_captured_a_castle_allied_unfriendly_spiteful|我听说你已攻占了 {s51}。嗯，人人皆有走运之时，他们就是这么说的。在你能享受时就享受你的胜利吧，直到比你更优秀者把你踢回去，让你回到原本就属于你的受冷落的处境。 
+str_comment_you_captured_a_castle_allied_unfriendly|我听说你已攻占了 {s51}。不管我们过去有什么不和，我必须向你表示祝贺。 
+str_comment_you_captured_a_castle_allied|我听说你已攻占了 {s51}。我们让他们落荒而逃了！ 
+str_comment_you_captured_my_castle_enemy_spiteful|我听说你已闯入了我在 {s51}的府邸。我希望那里的牢房和你的口味，因为在之后数年中，你会在那里度过许多时光。 
+str_comment_you_captured_my_castle_enemy_chivalrous|你占据了我的合法封地 {s51}。我希望你能给我机会来赢回它！ 
+str_comment_you_captured_my_castle_enemy|你有着属于我的东西——  {s51}。我会让你交出它的。 
+str_comment_we_defeated_a_lord_unfriendly_spiteful|我想你会因为我们对 {s54}的胜利而饮酒庆祝。嗯，省省你的酒吧——要彻底洗清你之前的耻辱还得花上更多的代价。 
+str_comment_we_defeated_a_lord_unfriendly|我不会忘记我们是如何对 {s54}并肩作战的，但是我也忘不了横在我们之间的其他事情。 
+str_comment_we_defeated_a_lord_cruel|对 {s54}之战真是场伟大的胜利，不是吗？我们让他的军队成了乌鸦的大餐！ 
+str_comment_we_defeated_a_lord_quarrelsome|我不会忘记我们是如何彻底击败 {s54}的。我享受这个。 
+str_comment_we_defeated_a_lord_upstanding|我不会忘记我们对 {s54}的胜利。让我们再一次感谢老天，并祈祷我们不要变得太骄傲。 
+str_comment_we_defeated_a_lord_default|对 {s54}之战真是场伟大的胜利，不是吗？我真有幸能与你并肩作战。 
+str_comment_we_fought_in_siege_unfriendly_spiteful|我想你会因为我们占领了 {s51}而饮酒庆祝。嗯，省省你的酒吧——要彻底洗清你之前的耻辱还得花上更多的代价。 
+str_comment_we_fought_in_siege_unfriendly|我不会忘记我们是如何一起强攻下 {s51}的，但是我也忘不了横在我们之间的其他事情。 
+str_comment_we_fought_in_siege_cruel|我不会忘记我们是如何突破了 {s51}的城墙并让其防御者倒在了我们的剑下。这是一份令人愉快的记忆。 
+str_comment_we_fought_in_siege_quarrelsome|还记得当我们征服了 {s51}的城墙时，敌人是如何尖叫的吗？他们本来还以为他们很安全呢！我们抹掉了他们脸上的沾沾自喜的微笑！ 
+str_comment_we_fought_in_siege_upstanding|我不会忘记我们对 {s51}的占领。让我们再一次感谢老天，并祈祷我们不要变得太骄傲。 
+str_comment_we_fought_in_siege_default|我不会忘记我们是如何一起占领 {s51}的。我真有幸能与你并肩作战。 
+str_comment_we_fought_in_major_battle_unfriendly_spiteful|我想你会因为我们在 {s51}附近的伟大胜利而饮酒庆祝。嗯，省省你的酒吧——要彻底洗清你之前的耻辱还得花上更多的代价。 
+str_comment_we_fought_in_major_battle_unfriendly|我不会忘记我们是如何在 {s51}附近打了一场伟大的战斗，但是我也忘不了横在我们之间的其他事情。 
+str_comment_we_fought_in_major_battle_cruel|我不会忘记我们在 {s51}附近的伟大战斗，当时我们突破了敌人的防线，并且他们尖叫着在我们面前逃窜。这是一份令人愉快的记忆。 
+str_comment_we_fought_in_major_battle_quarrelsome|在 {s51}附近的那场战斗真是精彩，我们让那些杂种抱头鼠窜！ 
+str_comment_we_fought_in_major_battle_upstanding|我不会忘记我们是如何在 {s51}附近肩并肩地作战并取得伟大胜利的。让我们再一次感谢老天，并祈祷我们不要变得太骄傲。 
+str_comment_we_fought_in_major_battle_default|我不会忘记我们是如何在 {s51}附近肩并肩地作战并取得伟大胜利的。我真有幸能与你并肩作战。 
+str_comment_you_defeated_a_lord_allied_liege|啊，你与那个叫作 {s54}的流氓交过锋了，并且还取得了胜利。我很高兴听到这个。 
+str_comment_you_defeated_a_lord_allied_unfriendly_spiteful|我听说你打败了 {s54}。我想，真是人人皆有走运之时啊。 
+str_comment_you_defeated_a_lord_allied_spiteful|我听说你打败了 {s54}那条恶狗。啊，但愿我能听到他求饶的低吠。 
+str_comment_you_defeated_a_lord_allied_unfriendly_chivalrous|我听说你打败了 {s54}。我希望你没有使用不光彩的手段来做这个。 
+str_comment_you_defeated_a_lord_allied|我听说你打败了 {s54}。我希望你为你的胜利而高兴。 
+str_comment_you_defeated_me_enemy_chivalrous|我不会因为你在我们上一次相遇时的胜利而对你感到不快，但是我渴望下一次！ 
+str_comment_you_defeated_me_enemy_spiteful|我一直在盼着再次遇到你。你的花招不会在欺骗我第二次了，并且我会舒服地享受听你求饶的呼喊。 
+str_comment_you_defeated_me_enemy|上次我们相遇时， {playername}，你比我更有优势。但是我向你保证，这再不会发生了！ 
+str_comment_i_defeated_you_enemy_spiteful|又来了？我要再次与你战斗，并且要用你的肠子来给我的猎犬们喂食。 
+str_comment_i_defeated_you_enemy_chivalrous|又来找我测试你的勇猛吗， {playername}？ 
+str_comment_i_defeated_you_enemy_benevolent|看来你又来找我了？你还没吸取教训吗？ 
+str_comment_i_defeated_you_enemy_coldblooded|你真固执，但是你固执得令人讨厌。 
+str_comment_i_defeated_you_enemy|我必须惩戒你多少次，你才能学会与我保持距离？ 
+str_comment_we_were_defeated_unfriendly_spiteful|上次我见到你时，你已被 {s54}的人打败了。我认为都怪你才有了这场彻底的失败。看见你居然生还了，真是遗憾啊。 
+str_comment_we_were_defeated_unfriendly|上次我见到你时，你已被 {s54}的人打败了。嗯，我看到你生还了。 
+str_comment_we_were_defeated_cruel|上次我见到你时，你已被 {s54}的人打败了。别担心——我们会找到他，让他被他的胜利噎住。 
+str_comment_we_were_defeated_default|上次我见到你时，你已被 {s54}的人打败了。看见你还好好地活着真好。 
+str_comment_you_were_defeated_allied_friendly_spiteful|我听说 {s54}让你受了阵折磨。别担心，朋友——我会为你找到他，并且把他的头作为礼物给你。 
+str_comment_you_were_defeated_allied_unfriendly_cruel|我听说 {s54}像宰羊一样屠杀了你的人。但是你却在这里，还活着。真让人失望啊！ 
+str_comment_you_were_defeated_allied_spiteful|我听说 {s54}像踩蚂蚁一样踩扁了你。哈哈！小孩子不该玩大人的游戏，小 {子/妞儿}！ 
+str_comment_you_were_defeated_allied_pitiless|我听说 {s54}打败了你，并且击溃了你的军队。真让人失望至极……  
+str_comment_you_were_defeated_allied_unfriendly_upstanding|我听说 {s54}打败了你。也许你应该细想一下，是否你为你的罪行考虑过，这也许会导致老天以这种方式来责难你。 
+str_comment_you_were_defeated_allied_unfriendly|我听说 {s54}打败了你。注意，试着别让我们有太多的人被杀了，知道了吗？ 
+str_comment_you_were_defeated_allied|我听说 {s54}打败了你。但是不要别泄气——形势很快就会被扭转！ 
+str_comment_you_helped_my_ally_unfriendly_chivalrous|我听说你在 {s54}可能就要被击败之时拯救了他。不管我可能对你有什么别的想法，我至少必须因此而称赞你。 
+str_comment_you_helped_my_ally_unfriendly|[关联应为零，并且这条信息不应出现 ]
+str_comment_you_helped_my_ally_liege|我听说你在我的封臣 {s54}可能就要被击败之时拯救了他。 
+str_comment_you_helped_my_ally_unfriendly_spiteful|我听说你骑着马去解救了我们可怜的 {s54}。你认为他是一名不幸的闺中女子吗？不管怎么说——这是个低级的错误。 
+str_comment_you_helped_my_ally_spiteful|我听说你将 {s54}从责难中拯救了出来。在我看来，你本应该让他吸取教训。 
+str_comment_you_helped_my_ally_chivalrous|我听说你将 {s54}从困境中救了出来。这是个高尚之举。 
+str_comment_you_helped_my_ally_default|我听说你将 {s54}从困境中救了出来。做得好！ 
+str_comment_you_were_defeated_allied_unfriendly|我听说 {s54}打败了你。注意，试着别让我们有太多的人被杀了，知道了吗？ 
+str_comment_you_were_defeated_allied|我听说 {s54}打败了你。但是不要别泄气——形势很快就会被扭转！ 
+str_comment_you_abandoned_us_unfriendly_spiteful|你这懦夫！你居然留下我独自面对 {s54}，不是吗？我唾弃你。 
+str_comment_you_abandoned_us_unfriendly_pitiless|嗯……在与 {s54}的战斗之中，你居然丢弃了我，不是吗？我会看见你被埋在背叛者的墓穴里。 
+str_comment_you_abandoned_us_spiteful|在与 {s54}的战斗之中，你居然消失了……我希望你有个合适的解释。你的肠道出问题了？或者是你因为恐惧而被吓得拿不稳武器？ 
+str_comment_you_abandoned_us_chivalrous|发生了什么？在与 {s54}的战斗之中，你居然消失了。我只能希望是因为你受伤太重而站不起来，因为我羞于与一名懦夫并肩进入战场。 
+str_comment_you_abandoned_us_benefitofdoubt|发生了什么？在与 {s54}的战斗之中，你居然消失了。我以为你一定是受伤了，但这看来真令人怀疑。 
+str_comment_you_abandoned_us_default|发生了什么？前一阵子你还在与我们一起对抗 {s54}，后一阵子怎么就找不到你了？ 
+str_comment_you_ran_from_me_enemy_spiteful|上次我们相遇时，你像一条被鞭打的狗一样从我这里逃跑。你又回来朝我吠叫吗，还是要发出哀叫，乞求饶恕？ 
+str_comment_you_ran_from_me_enemy_chivalrous|上次我们相遇时，你从我这里逃走了。学学像绅士一样站立与战斗吧！ 
+str_comment_you_ran_from_me_enemy_benevolent|上次我们相遇时，当看到你逃跑时，我希望我不会被迫与你战斗了。 
+str_comment_you_ran_from_me_enemy_coldblooded|上次我们相遇时，你从我这里逃走了。那是个明智的决定。 
+str_comment_you_ran_from_me_enemy|上次我们相遇时，你也许有能力逃跑，但是这次我怀疑你还有没这么幸运。 
+str_comment_you_ran_from_foe_allied_chivalrous|他们说你把你的人留在后面，从 {s54}那里逃跑了。我祈祷这不是真的，因为如此的指挥对我们所有人都是不光彩的。 
+str_comment_you_ran_from_foe_allied_upstanding|他们说你把你的人留在后面，从 {s54}那里逃跑了。我并不总是相信如此的流言，并且我也知道绝望的困境会招来绝望的手段。但是我恳求你多加在意你的好名声，因为如果人们听说了我们会把他们丢弃在战场上，他们就不会为我们杀敌了。 
+str_comment_you_ran_from_foe_allied_spiteful|顺便说一下，他们说你把你的人留在后面被屠宰，并且自己从 {s54}那里逃掉了，就像一只发抖的小兔。哈！这是怎样的一幅景象啊，真该亲眼看一看！ 
+str_comment_you_defeated_my_friend_enemy_pragmatic|你可以打败 {s54}，但是你没法击败我们所有人。 
+str_comment_you_defeated_my_friend_enemy_chivalrous|我听说你击败了 {s54}，从那时起，我就渴望与你交锋。 
+str_comment_you_defeated_my_friend_enemy_spiteful|早闻大名啊， {playername}。 {s54}可能会败在你的花招下，但是如果你跟我打，你会发现我是个更需多加小心对待的敌人。 
+str_comment_you_defeated_my_friend_enemy|他们说你已击败了 {s54}。但是要测试你的武艺的话，我对你会更合适的。 
+str_comment_you_captured_a_lord_allied_friendly_spiteful|我听说你俘虏了 {s54}。我希望你从他身上榨取到每一个第纳尔。 
+str_comment_you_captured_a_lord_allied_unfriendly_spiteful|我听说你俘虏了 {s54}。现在你的保险箱一定满满地塞满了赎金。非常可惜的是，那些钱并不能把一条出身卑微的野狗转变为一位绅士！ 
+str_comment_you_captured_a_lord_allied_chivalrous|我听说你俘虏了 {s54}。做得好。当然，我认为，他已受到了与他的地位相当的尊敬。 
+str_comment_you_captured_a_lord_allied|我听说你俘虏了 {s54}。做得好。他的赎金一定很丰厚。 
+str_comment_you_let_go_a_lord_allied_chivalrous|我听说你抓住了 {s54}却放走了他。如此的骑士精神真让我们的事业增光。 
+str_comment_you_let_go_a_lord_allied_upstanding|我听说你抓住了 {s54}却放走了他。嗯，这是个荣耀之举，但也有可能是个危险之举。 
+str_comment_you_let_go_a_lord_allied_coldblooded|我听说你抓住了 {s54}却放走了他。你真是有骑士精神，但是骑士精神并不能赢得战争。 
+str_comment_you_let_go_a_lord_allied_unfriendly_spiteful|我听说你抓住了 {s54}却放走了他。你是多么地有骑士精神啊！毫无疑问他留在家里的孤儿寡母们会想要亲自来赞美你。 
+str_comment_you_let_go_a_lord_allied|我听说你抓住了 {s54}却放走了他。嗯，我不会干涉你如何处理你自己的俘虏。 
+str_comment_you_let_me_go_spiteful|在上次我们相遇时，你打得我任凭你的摆布，并且最终你放我走了。我希望你享受像猫捉老鼠一样地玩我，因为很快我也会让你任凭我的摆布，要杀掉你还是要羞辱你都得由我的喜好而定。 
+str_comment_you_let_me_go_enemy_chivalrous|在上次我们相遇时，你打得我任凭你的摆布，并且最终你放我走了。你非常地有骑士精神，并且我不会忘记你的行为的。但是我也肯定记得我对我君主的誓言，并且我们的王国仍然在交战。 
+str_comment_you_let_me_go_enemy_coldblooded|在上次我们相遇时，你打得我任凭你的摆布，并且最终你放我走了。但是我们仍然是敌人，并且我不能答应以实物来报答你的仁慈。 
+str_comment_you_let_me_go_enemy|在上次我们相遇时，你打得我任凭你的摆布，并且最终你放我走了。你很善良。但是我仍然在交战。 
+str_comment_you_let_me_go_default|在上次我们相遇时，你打得我任凭你的摆布，并且最终你放我走了。你很善良，并且我很高兴我们的王国不再交战了。 
+str_comment_pledged_allegiance_allied_martial_unfriendly|我听说你对我们的君主 {s54}宣誓效忠了。我恳请你不要因为懦夫的举止而给我们丢脸。 
+str_comment_pledged_allegiance_allied_martial|我听说你对我们的君主 {s54}宣誓效忠了。我期待与你并肩对付我们的仇敌。 
+str_comment_pledged_allegiance_allied_quarrelsome_unfriendly|我听说你对我们的君主 {s54}宣誓效忠了。啊呸。为了你好，快从我眼前滚开。 
+str_comment_pledged_allegiance_allied_quarrelsome|我听说你对我们的君主 {s54}宣誓效忠了。好好地跟我们的敌人打仗，尊重比你更优秀的人们，以及不要妨碍我，我们就会相处得很好。 
+str_comment_pledged_allegiance_allied_selfrighteous_unfriendly|我听说你对我们的君主 {s54}宣誓效忠了。如果我是他，我才不会信任你来打杂。 
+str_comment_pledged_allegiance_allied_selfrighteous|我听说你对我们的君主 {s54}宣誓效忠了。勇敢战斗，你就会得到重赏。背叛我们，我们就会一直对你记仇的。 
+str_comment_pledged_allegiance_allied_cunning_unfriendly|我听说你对我们的君主 {s54}宣誓效忠了。对于他的决定，我不会假装高兴，但是也许让你在我们的营帐里小便总比让你去做其他事好。 
+str_comment_pledged_allegiance_allied_cunning|我听说你对我们的君主 {s54}宣誓效忠了。这很好。在这个麻烦的时期，我们有越多的熟练的战士越好。我会看着你攀升的。 
+str_comment_pledged_allegiance_allied_debauched_unfriendly|我听说你对我们的君主 {s54}宣誓效忠了。毫无疑问，你很快就会背叛他，而我会高兴地看着你死于叛国者的罪名。 
+str_comment_pledged_allegiance_allied_debauched|我听说你对我们的君主 {s54}宣誓效忠了。太棒了……我确信你和我会成为非常要好的朋友。但是记住——如果你背叛了我们，那将会成为你犯下的最大的错误。 
+str_comment_pledged_allegiance_allied_goodnatured_unfriendly|我听说你对我们的君主 {s54}宣誓效忠了。嗯，我不能说我会信任你，但是也许我对你的怀疑是应该的。 
+str_comment_pledged_allegiance_allied_goodnatured|我听说你对我们的君主 {s54}宣誓效忠了。好家伙！我们的君主是位高贵的人，并且他会仁慈而慷慨地奖赏忠诚和勇敢的人。 
+str_comment_pledged_allegiance_allied_upstanding_unfriendly|我听说你对我们的君主 {s54}宣誓效忠了。唉，据我对你的了解，我恐怕你会给我们丢脸的，但是如果你证明了我是错的，我会很高兴的。 
+str_comment_pledged_allegiance_allied_upstanding|我听说你对我们的君主 {s54}宣誓效忠了。你需要勇敢地与我们的敌人战斗，但是你同样需要带着荣誉和怜悯。一个好名声就像一把利剑或者一匹快马一样有价值。 
+str_comment_our_king_granted_you_a_fief_allied_friendly_cruel|我听说 {s54}授予了你 {s51}作为封地。别忘了——饶恕鞭刑就是对农民的溺爱！ 
+str_comment_our_king_granted_you_a_fief_allied_friendly_cynical|我听说 {s54}授予了你 {s51}作为封地。我很高兴能看见你显赫——但是要小心。那些人都是毒蛇，他们会羡慕和垂涎他们邻居的财富。紧跟着我走吧，我会照看着你的。 
+str_comment_our_king_granted_you_a_fief_allied_friendly|我听说 {s54}授予了你 {s51}作为封地。愿你的新土地繁荣昌盛。 
+str_comment_our_king_granted_you_a_fief_allied_unfriendly_upstanding|我听说 {s54}授予了你 {s51}作为封地。但是记住，巅峰去了，便是下滑。 
+str_comment_our_king_granted_you_a_fief_allied_unfriendly_spiteful|我听说 {s54}授予了你 {s51}作为封地。不过，我认为，那些财富只是会让你变强大而已，而当它们把你丢回本属于你的粪堆之时，你会失去更多的地位和威信的。 
+str_comment_our_king_granted_you_a_fief_allied_spiteful|我听说 {s54}授予了你 {s51}作为封地。期待你真地配得到我们君主的恩惠。 
+str_comment_our_king_granted_you_a_fief_allied|我听说 {s54}授予了你 {s51}作为封地。看来你正为你自己做得很好嘛。 
+str_comment_you_renounced_your_alliegance_enemy_friendly|我听说你放弃了对我们的君主 {s54}的誓言。我们现在必须兵戎相见了，这真令我悲伤。 
+str_comment_you_renounced_your_alliegance_friendly|我听说你放弃了对我们的君主 {s54}的誓言。让我们祈祷我们可能不会打起来。 
+str_comment_you_renounced_your_alliegance_unfriendly_spiteful|我一直认为你会背叛 {s54}的，而现在看来我是对的了。我希望你准备好了死于叛国罪。 
+str_comment_you_renounced_your_alliegance_unfriendly_moralizing|我听说你放弃了对我们的君主 {s54}的誓言。我不得不把你视为一个叛国者了。 
+str_comment_you_renounced_your_alliegance_enemy|我听说你放弃了对我们的君主 {s54}的誓言。嗯，老伙伴会变成敌人，这就是世界运行之道。 
+str_comment_you_renounced_your_alliegance_default|我听说你放弃了对我们的君主 {s54}的誓言。嗯，这是你的决定，但是当我们在战场相遇时，别期待我会让着你。 
+str_personality_archetypes|君主 
+str_martial|好战的 
+str_quarrelsome|坏脾气的 
+str_selfrighteous|无情的 
+str_cunning|狡诈的 
+str_debauched|残酷的 
+str_goodnatured|好脾气的 
+str_upstanding|正直的 
+str_surrender_demand_default|投降或者去死！ 
+str_surrender_demand_martial|今天的斗争对你不利。你可以对抗我们，但是如果你立刻投降的话，这没什么羞耻。 
+str_surrender_demand_quarrelsome|我已把你逼至绝路。投降，否则我会像撞一条狗一样骑马把你撞到。 
+str_surrender_demand_pitiless|你打不过我的，如果你要试一试的话，我会给你一个惨痛的教训。投降吧！ 
+str_surrender_demand_cunning|今天你处于劣势。投降——就算不为你自己，也该为你的部下着想！ 
+str_surrender_demand_sadistic|投降，否则我就会像对待一条鱼一样取出你的内脏！ 
+str_surrender_demand_goodnatured|我们比你更具优势。投降吧，你会受到优待的。 
+str_surrender_demand_upstanding|你可以对抗我们，但是你的许多部下会被杀掉，而你有可能会输掉。投降吧，免去我们双方的不必要的流血牺牲。 
+str_surrender_offer_default|停！我投降！ 
+str_surrender_offer_martial|停！我投降！ 
+str_surrender_offer_quarrelsome|够了！今天你赢了，你这无赖！啊，耻辱啊！ 
+str_surrender_offer_pitiless|我投降！你已经赢了。今天一定是被诅咒了！ 
+str_surrender_offer_cunning|停！我向你投降！ 
+str_surrender_offer_sadistic|我投降！我投降！叫你的走狗回去吧！ 
+str_surrender_offer_goodnatured|我投降！祝贺你赢了， {阁下/女士}！ 
+str_surrender_offer_upstanding|我投降！给我战争的荣誉，也请你遵守信用！ 
+str_prisoner_released_default|我感谢你， {阁下/女士}。我不会忘记你的善良。 
+str_prisoner_released_martial|你确实是一个可敬之人， {阁下/女士}。我不会忘记这个的！ 
+str_prisoner_released_quarrelsome|我自由了？嗯……那么再见了。 
+str_prisoner_released_pitiless|谢谢你。当你最终被击败时，我会让你死得舒服而快速。除非，你愿意加入我们……那么现在再见了。 
+str_prisoner_released_cunning|我？你是个好人。我会试着想方设法回报你的。 
+str_prisoner_released_sadistic|我？你的残酷是多么地优美，你宁愿看见我自由和受辱，也不愿看见我被绑起来。享受你的凯旋吧！ 
+str_prisoner_released_goodnatured|你确实是一个可敬之人， {阁下/女士}。我不会忘记这个的！ 
+str_prisoner_released_upstanding|你确实是一个可敬之人， {阁下/女士}。我不会忘记这个的！ 
+str_enemy_meet_default|你是谁，敢来对付我？ 
+str_enemy_meet_martial|你叫什么， {阁下/女士}？如果我们打起来了，我想要知道我打的是谁。 
+str_enemy_meet_quarrelsome|你究竟是谁？ 
+str_enemy_meet_pitiless|你是谁？说，这样我就可以知道我要杀的是谁。 
+str_enemy_meet_cunning|告诉我你的名字。知道敌人的名字总是很好的。 
+str_enemy_meet_sadistic|你是谁？快说，否则我就割掉你的舌头。 
+str_enemy_meet_goodnatured|你叫什么， {阁下/女士}？如果我们打起来了，我想要知道我打的是谁。 
+str_enemy_meet_upstanding|你是谁，竟然以武力来阻止我们的正义事业？ 
+str_battle_won_default|今天你证明了你是一个非常有价值的盟友。 
+str_battle_won_martial|在沙场上展示一个人的英勇，真是没有比这更好的事了！ 
+str_battle_won_quarrelsome|哈！我们给了那些杂种一些厉害，嘿，不是吗？ 
+str_battle_won_pitiless|我们在一起，就会让敌人知道害怕我们的名字，以及畏惧我们的到来！ 
+str_battle_won_cunning|现在，我们必须保持住我们的优势，这样今天流的血就不会被浪费。 
+str_battle_won_sadistic|现在让我们抢光他们的物品并且把他们的死尸留给乌鸦们，这样所有人都会知道来反抗我们的人的下场。 
+str_battle_won_goodnatured|打得好！没什么比胜利更令人享受了，嗯？ 
+str_battle_won_upstanding|现在，让我们感谢老天给了我们胜利，并哀悼在今天倒下的众多的优秀部下。 
+str_battle_won_grudging_default|今天你帮忙扭转了战场上的形势。不管我可能会怎样考虑你，我都不能指责你的英勇。 
+str_battle_won_grudging_martial|{playername}，不管你在过去有过怎样的罪行，今天你证明了你是个有价值的人。 
+str_battle_won_grudging_quarrelsome|嗯，我通常都不想看见你，但是我想今天我应该感谢你的帮助。 
+str_battle_won_grudging_pitiless|今天你的帮助是非常有价值的。我想你不会好心地来帮助我摆脱困难，但是我仍然要感谢你。 
+str_battle_won_grudging_cunning|你在我需要之时前来帮助我，不感谢你是不明智的。所以……我感谢你。 
+str_battle_won_grudging_sadistic|哎！多么令人感动啊！ {playername}来解救我了。 
+str_battle_won_grudging_goodnatured|{playername}！我不能说我们在过去一直相处得很和睦，但是你今天打得很好。我感谢你！ 
+str_battle_won_grudging_upstanding|也许我对你的看法是错的。你来得非常及时。我感谢你。 
+str_battle_won_unfriendly_default|你来了啊。嗯，我想，来迟了总比不来更好。 
+str_battle_won_unfriendly_martial|我们在过去有些不和，但是现在就让我们享受胜利吧。 
+str_battle_won_unfriendly_quarrelsome|如果你正站在这里等着感谢，那么你可以继续等下去。你的帮助并非真地必要的，但是我想除此之外，你也没什么更好的事情可做了，对吧？ 
+str_battle_won_unfriendly_pitiless|你到这里来就像是一只豺狼来抢狮子的猎物。嗯，很好，尽情地掠夺吧。我不会阻止你。 
+str_battle_won_unfriendly_cunning|{playername}……嗯，我想你的到来没什么不好，但是我不会假装很高兴见到你。 
+str_battle_won_unfriendly_sadistic|走开，吃腐肉的乌鸦！不管你试图如何努力地偷走这份光荣，这都是我的胜利。 
+str_battle_won_unfriendly_goodnatured|哦，是你啊。嗯，我想我应该感谢你的帮助。 
+str_battle_won_unfriendly_upstanding|感谢你来支援我。现在，在我表示后悔之前，我要先走了。 
+str_troop_train_request_default|我需要你这样的人来把他们塑造成型。 
+str_troop_train_request_martial|他们需要某人向他们展示一下什么叫英勇。 
+str_troop_train_request_quarrelsome|又胖又懒的杂种。他们让我作呕。
+str_troop_train_request_pitiless|他们比害怕我更害怕敌人，这样不行。 
+str_troop_train_request_cunning|但是人就像剑一样，需要用火来煅烧和加硬。 
+str_troop_train_request_sadistic|他们需要某个坚强的人鞭打他们，给他们勇气，不然就杀死他们，让他们死得难受。 
+str_troop_train_request_goodnatured|他们是够好的小伙子，但是我恐怕他们还没怎么准备好战斗。 
+str_troop_train_request_upstanding|以他们现在的状态，带他们去战斗，对我来说，就等于谋杀他们。 
+str_unprovoked_attack_default|什么？你为何攻击我们？说，你这无赖！ 
+str_unprovoked_attack_martial|我不反对一场武力的斗争，但是我想问你，你是因何缘由而攻击我们？ 
+str_unprovoked_attack_quarrelsome|你正在犯一个大错误，小 {男/女} 孩。你认为你在做什么？ 
+str_unprovoked_attack_pitiless|真的吗？如果你今天真地想死，我会比强迫你去死更高兴呢，但是我渴望知道你希望达到什么目的？ 
+str_unprovoked_attack_cunning|真地？我认为你这么非常不明智。你希望由此获得什么呢？ 
+str_unprovoked_attack_sadistic|这是什么？你喜欢让我挖出你的眼睛？ 
+str_unprovoked_attack_goodnatured|你为什么这么做？我们没有不和， {阁下/女士}。 
+str_unprovoked_attack_upstanding|我认为这是一场无缘无故的攻击，并且我会向你的国王抗议。你为什么这么做？ 
+str_unnecessary_attack_default|我要砍倒你的话，没什么困难，这不会令我犹豫，但是我要给你个机会，让你快点离开。 
+str_unnecessary_attack_martial|我渴望接受你的挑战， {阁下/女士}，然而我会给你一分钟来重新考虑。 
+str_unnecessary_attack_quarrelsome|呸！今天我没心情陪你胡闹。从我眼前离开。 
+str_unnecessary_attack_pitiless|今天我很有宽容心。我会假装没听见你说的。 
+str_unnecessary_attack_cunning|我不理解你与我为敌会得到什么。也许你应该马上离开。 
+str_unnecessary_attack_sadistic|我没时间浪费在你这种小人物身上。从我眼前离开。 
+str_unnecessary_attack_goodnatured|我不理解你发动一场战斗会得到什么， {阁下/女士}。你还是离开吧。 
+str_unnecessary_attack_upstanding|如果你想要的就是战斗的话， {阁下/女士}，那么你会得到的，但是我会给你放弃的机会的。 
+str_lord_challenged_default|如你所愿。准备去死吧！ 
+str_lord_challenged_martial|就这样。准备接招吧！ 
+str_lord_challenged_quarrelsome|你这放肆的小崽子！我要碾碎你！ 
+str_lord_challenged_pitiless|如果你真地如此迫切地想要去死，那么我别无选择，只有顺从你的要求。 
+str_lord_challenged_cunning|嗯，如果你让我别无选择的话……  
+str_lord_challenged_sadistic|你这肮脏的家伙！我会让你希望你从不该被生出来。 
+str_lord_challenged_goodnatured|很好。我本来希望我们可以避免兵戎相见，但是我明白我别无选择。 
+str_lord_challenged_upstanding|就这样吧。你不告诉我原因真是令我难过。 
+str_lord_mission_failed_default|嗯，我很失望，但是我确信你会有许多机会来弥补自己的过错的。 
+str_lord_mission_failed_martial|你力图要接下的任务失败了，这是很不光彩的，但是我会接受你的辩解的。 
+str_lord_mission_failed_quarrelsome|你失败了？呸。从你这种人的身上，我本来就应该预计到你会失败的。 
+str_lord_mission_failed_pitiless|你失败了？嗯。你令我失望了。让你做这件事真是非常不明智。 
+str_lord_mission_failed_cunning|嗯，我失望了，但是没有人能够保证好运总是会降临到他们头上。 
+str_lord_mission_failed_sadistic|真地？那些辜负了我的人并非总是能活着后悔。 
+str_lord_mission_failed_goodnatured|哦，好吧。不管怎么说，这件事本来就是没什么希望的。感谢你努力过了。 
+str_lord_mission_failed_upstanding|好吧，没什么。我确信你已经尽力做过了。 
+str_lord_follow_refusal_default|跟随你？你忘了你的身份了， {阁下/女士}。 
+str_lord_follow_refusal_martial|也许如果你在某一天证明了你自己是一个勇敢而可敬的战士，那么我就会跟随你。但今天还不是。 
+str_lord_follow_refusal_quarrelsome|跟随像你这样的某人？我可不这么打算。 
+str_lord_follow_refusal_pitiless|像我这样的领主是不会跟随像你这样的人的， {阁下/女士}。 
+str_lord_follow_refusal_cunning|先向我证明你是不会带我走向灾难的人，之后也许我就会跟随你。 
+str_lord_follow_refusal_sadistic|我不这么打算！相反地，你应该跟随我，就像一条被鞭子打的狗儿跟随它的主人一样。 
+str_lord_follow_refusal_goodnatured|嗯，现在我还有点任务要忙。也许之后某日吧。 
+str_lord_follow_refusal_upstanding|先让我看到你值得领导我，之后也许我就会跟随。 
+str_lord_insult_default|卑鄙的流氓
+str_lord_insult_martial|可耻的无赖
+str_lord_insult_quarrelsome|肮脏的杂种
+str_lord_insult_pitiless|低贱的鼠辈
+str_lord_insult_cunning|草率的蠢人
+str_lord_insult_sadistic|爱哭鼻子的混蛋
+str_lord_insult_goodnatured|讨厌的家伙
+str_lord_insult_upstanding|可耻的恶棍
+str_rebellion_dilemma_default|[君主 ]
+str_rebellion_dilemma_martial|{s45}显然被委屈了。尽管我曾向 {s46}宣誓效忠，但是如果他的王位是非法所得的的话，那么这并不能约束住我一定要支持他。 
+str_rebellion_dilemma_quarrelsome|嗯。 {s46}从没给过我我应得的东西，所以我认为我不欠他什么。不过，也许 {s45}并非更好，而 {s46}是什么样的人，我至少已经见到了。 
+str_rebellion_dilemma_pitiless|嗯。 {s45}说 {reg3?她:他} 是合法的王位继承人。很好嘛——这能解除我对 {s46}的誓言。但是我仍然必须认真掂量我的决定。 
+str_rebellion_dilemma_cunning|嗯。我曾向 {s46}宣誓效忠，但是约束住我们这些领主们的不是誓言，而是我们的百姓。我们的职责是用我们自己的能力来统治、下命令，以及不要让所有人都卷入战争。 
+str_rebellion_dilemma_sadistic|嗯。在这个肮脏的世界，聪明人必须为自己考虑，因为别人不会为你考虑的。那么——我能从中得到什么呢？ 
+str_rebellion_dilemma_goodnatured|我不知道该说什么。我曾向 {s46}宣誓效忠，承认他是合法的统治者，但如果他不是合法的统治者，我不知道我是否仍然受约束于他。 
+str_rebellion_dilemma_upstanding|这很令人烦恼。宣布我对 {s46}的誓言作废，这可是件重大的事情，并且解除了我们间的关系，就会使我们国家陷入混乱。然而我也保证会支持继承权的合法性，而 {s45}对王位的索要也是有根有据的。 
+str_rebellion_dilemma_2_default|[君主 ]
+str_rebellion_dilemma_2_martial|经过重新考虑， {s46}在战争时期和和平时期都领导过我们，而我不喜欢放弃我的忠诚。 
+str_rebellion_dilemma_2_quarrelsome|那么，告诉我，为什么我应该背离那个我了解的家伙，而去支持一个我不了解的 {reg3?女人:家伙}？ 
+str_rebellion_dilemma_2_pitiless|被询问我会让谁来当这个国家的 {reg3?统治者:国王}，这可是个非常危险的事。然而，这也是一次机遇，我可以因此而得到我一直就该得到的奖赏！ 
+str_rebellion_dilemma_2_cunning|{s46}已经被质疑了，因此，他的统治再也不能像以前他的王位没被质疑时那样强大了。然而，如果 {s45}要靠武力来取得王位的话， {reg3?她:他} 也不会像和平地继承王位的人那么强大。 
+str_rebellion_dilemma_2_sadistic|也许如果我在 {s45}还很弱小时就加入 {reg3?她:他} 的话， {reg3?她:他} 就会让我发财，但是也许如果我把你的头带给 {s46}的话，他就会给我更大的奖赏。 
+str_rebellion_dilemma_2_goodnatured|{s46}一直待我不薄，然而他确实是委屈了 {s45}。我不知道我该不该放弃我对 {s46}的誓言，然而我也认为，支持非正义者是不对的。 
+str_rebellion_dilemma_2_upstanding|我觉得，我必须为了这个国家而做出最佳的选择，以避免它被内战削弱，被它的敌人们毁灭。 
+str_rebellion_prior_argument_very_favorable|我已经听到了一些对你有利的论点，并且我可能会同意它们。 
+str_rebellion_prior_argument_favorable|我已经听到了一些对你有利的论点，并且我可能会同意它们。 
+str_rebellion_prior_argument_unfavorable|我已经听到了一些对你有利的论点，但是我觉得它们并不具有说服力。 
+str_rebellion_prior_argument_very_unfavorable|我已经听到了一些对你有利的论点，但是对于它们中的大多数，我都是反对的。 
+str_rebellion_rival_default|[君主 ]
+str_rebellion_rival_martial|{s49}你的伙伴 {s44}曾经质疑过我的荣誉以及我的勇气。我可并不会经常有机会在战斗中面对他，并让他收回他的话。 
+str_rebellion_rival_quarrelsome|{s49}你在和 {s44}共事。他是只狡猾的狐狸，我可一点也不信任他。 
+str_rebellion_rival_pitiless|{s49}你似乎得到了 {s44}的支持——他是个软弱的人，他不适合管理封地，我一直很讨厌他。 
+str_rebellion_rival_cunning|{s49}{s44}已经加入了你。他是个任性而好斗的人，而且很不负责。 
+str_rebellion_rival_sadistic|{s49}我不想和你的伙伴 {s44}并肩作战，他的伪善是如此令人恶心。 
+str_rebellion_rival_goodnatured|{s49}我很不情愿和 {s44}处在同一方，他有着非常残酷的名声。 
+str_rebellion_rival_upstanding|{s49}你的伙伴 {s44}在我看来是个危险而靠不住，并且非常不道德的人。 
+str_rebellion_argument_favorable|我重视你的论点
+str_rebellion_argument_neutral|我发现你的论点仅仅有一部分值得重视
+str_rebellion_argument_unfavorable|我发现你的论点不值得重视
+str_rebellion_persuasion_favorable|你陈述得很有力
+str_rebellion_persuasion_neutral|你的陈述还过得去
+str_rebellion_persuasion_unfavorable|你的陈述难以令人信服
+str_rebellion_relation_very_favorable|就我个人而言，我最敬重你了。 
+str_rebellion_relation_favorable|就我个人而言，我了解你并且敬重你。 
+str_rebellion_relation_neutral|我并不了解你，你也可能并不了解我。 
+str_rebellion_relation_unfavorable|我才不信任你。 
+str_and_comma_3|此外， 
+str_but_comma_3|不过， 
+str_and_comma_1|，并且 
+str_but_comma_1|，可是 
+str_and_comma_2|。另外， 
+str_but_comma_2|。但是， 
+str_rebellion_agree_default|[君主 ]
+str_rebellion_agree_martial|我意已决。我会支持 {s45}为合法的继承人。 
+str_rebellion_agree_quarrelsome|啊，我已经想了够久了。不管怎么说，我从没有真地非常喜欢过 {s46}。让我们去夺走他的王位吧。 
+str_rebellion_agree_pitiless|你很幸运。我已决定加入你们。但愿我以后不会后悔这个决定。 
+str_rebellion_agree_cunning|这是一个极其危险的决定，但是在经过仔细考虑后，我已决定我会加入你们。让我们期盼这是最好的吧。 
+str_rebellion_agree_sadistic|我已决定。我会支持你的 {s45}的。但是你最好确保 {reg3?她:他} 会好好奖赏我！ 
+str_rebellion_agree_goodnatured|很好。我认为你说的那个人会成为一个好统治者的。我会加入你们。 
+str_rebellion_agree_upstanding|就这样。我首先要对这个国度负责。为了保障它不至于没有王法，我会支持 {s45}并放弃我对 {s46}的效忠。如果我做错了，愿老天原谅我。 
+str_rebellion_refuse_default|[君主 ]
+str_rebellion_refuse_martial|对不起。 {s45}确实有理由，但是这还不足以使我背弃 {s46}。我会保持对我的君主的忠诚。 
+str_rebellion_refuse_quarrelsome|算了。 {s45}这小兔崽子并不具备统治国家的条件。我仍然忠于 {s46}。 
+str_rebellion_agree_pitiless|你很幸运。我已决定加入你们。但愿我以后不会后悔这个决定。 
+str_rebellion_agree_cunning|这是一个极其危险的决定，但是在经过仔细考虑后，我已决定我会加入你们。让我们期盼这是最好的吧。 
+str_rebellion_agree_sadistic|我已决定。我会支持你的 {s45}的。但是你最好确保 {reg3?她:他} 会好好奖赏我！ 
+str_rebellion_agree_goodnatured|很好。我认为你说的那个人会成为一个好统治者的。我会加入你们。 
+str_rebellion_agree_upstanding|就这样。我首先要对这个国度负责。为了保障它不至于没有王法，我会支持 {s45}并放弃我对 {s46}的效忠。如果我做错了，愿老天原谅我。 
+str_talk_later_default|[君主 ]
+str_talk_later_martial|现在不是谈论政治的时候！今天我和我的同僚们正在此武装备战。你最好准备战斗。 
+str_talk_later_quarrelsome|你期待我在被我的君主的军队包围着的时候来与你讨论背叛他的事情？你把我当成什么了？一个嗜杀的白痴？ 
+str_talk_later_pitiless|住嘴！我们正处在我们的军队当中，不管我就此事不得不说什么，我都不会在此地与此时跟你说。 
+str_talk_later_cunning|在这样的时间和地点几乎不可能进行如此的讨论。也许我们可以之后再换个地方来讨论，但是现在，我们仍然相互是敌人。 
+str_talk_later_sadistic|你应该缝上你的嘴！你能想到吗？如果别的封臣们看见了我在和你谈论叛国的事情，那么会发生什么？ 
+str_talk_later_goodnatured|那么，你希望和我讨论你的反叛行动？当我们没有被我的君主的军队包围时，你再来尝试吧，到时候我会听听你会说些什么的。 
+str_talk_later_upstanding|对于继承权的合法性，不管我会有什么想法，我都不会在此地与此时讨论它们。如果我们再次相遇了，只要我们能够秘密地交谈，我就会听听你就此事会说些什么。但是现在，把我视为你的敌人吧。 
+str_gossip_about_character_default|人们说， {s6}没有任何令人关注的性格特点。 
+str_gossip_about_character_martial|人们说， {s6}最爱的就是战争。 
+str_gossip_about_character_quarrelsome|人们说， {s6}最近差点和另一位领主打了起来，因为那个人拿他的鼻子开玩笑。 
+str_gossip_about_character_selfrighteous|我听说， {s6}处死了一名扈从，因为那个不幸的家伙在他的森林里杀了一头鹿。 
+str_gossip_about_character_cunning|人们说， {s6}是个奸诈的对手。 
+str_gossip_about_character_sadistic|人们说， {s6}喜欢拷打他的敌人。我可不想碰到那个坏人。 
+str_gossip_about_character_goodnatured|人们说， {s6}是个好人并且对生活在他的土地上的人民很和善。他比大多数的贵族都好。 
+str_gossip_about_character_upstanding|人们说，为 {s6}效劳是不错的。他对他的追随者们很好，并且如果他们工作得好的话，他就会奖励他们。 
+str_latest_rumor|你听到的关于 {s6}的最近的传闻是： 
+str_swadian_rebellion_pretender_intro|我是伊索拉，斯瓦迪亚人的合法的女王。 
+str_vaegir_rebellion_pretender_intro|我叫瓦尔季姆。一些人叫我“私生子”。我是瓦耶吉尔人的一名王子，但是根据所有的权利，我应该成为他们的国王，而不是我的堂弟雅罗格列克。 
+str_khergit_rebellion_pretender_intro|我是笃思土模可汗，札那起儿可汗之子，并且是诃儿吉惕人的合法的可汗。 
+str_nord_rebellion_pretender_intro|我是“远方探寻者”莱特温，老哈克里姆之子，我应该成为卡拉迪亚诺尔德人的国王。 
+str_rhodok_rebellion_pretender_intro|我是卡斯托尔大人，罗多克人的合法的国王，我将消灭暴政，给他们以自由。 
+str_evil_rebellion_pretender_intro|我被称为黑男爵。我是真正的邪恶之王。我曾经坐在宝座保持和释放黑骑士和黑暗猎人在卡拉迪亚。我会再次坐在邪恶的宝座，哦，是的……
+str_swadian_rebellion_pretender_story_1|我是我父王埃斯特里希国王的唯一的一位孩子。尽管我是个女人，他仍然像爱一位儿子一样爱我并任命我为他的继承人——不止一次，而是数次，在这片土地上的最高贵的贵人们面前说的，这样无人可以质疑他的打算。并没有法律阻止一个女人来统治——事实上，我们斯瓦迪亚人有着在遥远的过去中的统治过我们的勇士女王的传说故事。 
+str_vaegir_rebellion_pretender_story_1|在我还小时，我父王就去世了，留下我归他的王弟布雷列克摄政王照管。但是比起控制着王座直到我成年，那个篡位者更愿意用他新取得的权力来指控我母后通奸，并宣称我不是我父王的儿子。我母后由于不忠之名而被处死了，而我被宣告为了私生子。 
+str_khergit_rebellion_pretender_story_1|辛札儿可汗与我是兄弟，都是老札那起儿可汗的同父异母之子。尽管我是幼子，所有了解老可汗的人都会证实，贯穿我父汗的一生，我都是他的最爱，他将政事的责任委托于了我。辛札儿只会忙着狩猎与筵席，以使我父汗的统帅们受影响而更加地放纵。 
+str_nord_rebellion_pretender_story_1|我被叫作“远方探寻者”是因为我为了寻求知识而旅行了很远，即使按诺尔德人的标准来说，也是很远的。在我成年前，我父王把我送到了国外让我去海外之地的宫廷与大学中学习。如果诺尔德人要自称为卡拉德帝国的继承者，那么他们必须这么做，去学习法律和文学，并且不要仅仅满足于打斗、劫掠，以及喝酒。 
+str_rhodok_rebellion_pretender_story_1|罗多克人是自由的人民，而不是任何世袭君主的奴隶。国王一定是从这片土地的最重要的贵族家庭之一中由有许多热尔卡拉、弗吕卡、亚朗的地方长官参加的议会选出的。议会召开于热尔卡拉外的一片场地，并且没有人被允许在他们商议期间带着武器出场，违者以死论处。 
+str_evil_rebellion_pretender_story_1|邪恶在那些日子还存在。我也是这样。这个土地上的贵族们已经从盐中脱脂了，我们随意掠夺他们的家，我们的食物越来越多。直到他们联合在一起反对他们的共同敌人。我们。
+str_swadian_rebellion_pretender_story_2|自我父王驾崩后，他的堂弟哈尔劳斯劝说贵族们说从没听说过有斯瓦迪亚国王会打算任命一个女人为他的继承人。哈尔劳斯说我父王对我的任命是疯子的举动，这样是没有法律依据的，所以他，作为我父王最亲近的男性亲人，应该取得王位。 
+str_vaegir_rebellion_pretender_story_2|我被一位忠诚的仆人悄悄带到了国外，但是现在我已成年并且要回去取得本该属于我的东西。布雷列克在他做出背叛之行不久后就死了——这是天谴，毫无疑问。他的儿子雅罗格列克现在自称为国王，但是由于他的所有权是脏的，跟他父亲比起来，他仍是一个篡位者，而我要将他从他的王座上颠覆下来。 
+str_khergit_rebellion_pretender_story_2|根据诃儿吉惕的习俗，当一个男人死去后，他的畜群将被分给他的所有的儿子，均分。对于汗国也是一样。当我听说我父汗驾崩时，我正在视察边境，但是我赶快返往图勒和，准备给辛札儿他应得的部分并与他分享汗国。但是当我抵达时，我发现他派了他的支持者赶到了汗庭，以让他宣称他自己为唯一的可汗。 
+str_nord_rebellion_pretender_story_2|不过我父王在我完成我的学业前驾崩了，并且在我赶回来宣布继承他的王座时，我的船遭遇到了风暴。我父王的一位领主，朗纳尔，抓住了这个机遇并散布流言说我在国外死了。他召集了一群支持者以宣称他自己为国王，并且在过去几年里巩固了他的权力。 
+str_rhodok_rebellion_pretender_story_2|在最后一次选举时，只剩下两个候选者了，我，以及格拉韦特大人。在议会正在商议时，格拉韦特出现了，他手握着剑，告诉他们一支斯瓦迪亚突袭部队将要突袭商议的场地——顺便说一下，他说的是真的——并且他说如果他没被选举为国王的话，那么他会让他们自己受灾。 
+str_evil_rebellion_pretender_story_2|我们战斗到最后一个人…通过他们的火把和草叉；通过他们的剑和长矛！直到最后，我独自一人在废墟中，其中两个投石机的炮弹打到我我站的地方，我在生活中是有缺陷的，但现在死亡…现在这改变了一切！
+str_swadian_rebellion_pretender_story_3|我承认诅咒哈尔劳斯以及听从他的叛国者们是没有用的，但是我也相信那些支持他的统治地方的行政官们是受了贿赂才支持他的。无论如何——我会集结一支由忠心的臣民们组成的军队，他们会为他们的老国王的名声与意志带来荣耀。并且如果有任何人质疑女人可以行使权力的话，那么我会从哈尔劳斯头上取走他以不正当手段获得的王冠，来向他们证明，他们是错误的。 
+str_vaegir_rebellion_pretender_story_3|我将背负着“私生子”的绰号，以提醒我我必须做什么，直到我在全瓦耶吉尔人眼前恢复了我的权利。 
+str_khergit_rebellion_pretender_story_3|我的兄弟认为诃儿吉惕人只会尊重强者：一个随心所欲、想取便取的首领。但是我认为他误解了我们的子民的精神——我们钦佩果敢的首领，但是我们更钦佩一个正义的首领，并且我们知道，一个不尊重他自己的兄弟的权利的人，也不会尊重他的追随者的权利。 
+str_nord_rebellion_pretender_story_3|所以我继续在流亡——现在我没在找寻贤者来辅导我遥远的地方的睿智，而是在找寻勇士，来与我一起回到诺尔德人的土地并让我重新获得我的王座。如果朗纳尔怀疑我治理国家的能力，那么让他在我们在我们的盾牌的边缘之上相互凝视时来面对面地来与我说这个吧。一个勇士能够成为学者，而学者也能成为勇士，而在我看来，只有将两者结合的人，才适合成为国王！ 
+str_rhodok_rebellion_pretender_story_3|很好，格拉韦特击败了斯瓦迪亚人，并且就此而言，作为一名罗多克人，我很感激。当我成为国王了，我会亲自把胜利的花环放在他的头上。但在那之后，我会把他的脑袋和他的双肩分开，因为他行为已证明了他是罗多克联盟及其神圣的习俗的背叛者。 
+str_evil_rebellion_pretender_story_3|当堤丰在大墓地占据王位时，喷血池在“深渊”中找到了我，那时候我注定要受苦。它给了我一个讨价还价的机会，我不能拒绝，如果我能把堤丰放下。所以现在我站在你面前，充满了生命; 复仇。堤丰将会下台，他们全部。这是我的土地！如果我必须，我会一次拿回一个头！
+str_swadian_rebellion_monarch_response_1|伊索拉认为她应该成为斯瓦迪亚人的女王？嗯，埃斯特里希国王有着一副善良的心肠，并且溺爱他的女儿，但是心地善良而不用头脑思考问题的国王将会成他的人民的祸根。伊索拉也许跟你讲了古老的勇士女王们的故事，但是你也许同样回忆起了所有的古老传奇都以同样的方式结束——斯瓦迪亚人在卡拉德皇帝的脚下被踩扁。 
+str_vaegir_rebellion_monarch_response_1|如果瓦尔季姆是和平地到来，我会给他头衔与荣誉，并且他将会成为我最重要的封臣。但是由于他是带着战争而来，我会用链子把他在我面前拖拽并让他承认我为合法的君主，之后再从他嘴里砍了他的舌头，这样他就不能收回他说的话了。 
+str_khergit_rebellion_monarch_response_1|我的兄弟笃思土模可能已告诉过你他对像瓜分一群绵羊一样瓜分汗国的竭力的主张。让我告诉你一些事。从诃儿吉惕人在这片土地立足起，每位可汗驾崩后都有着相同的结局——土地被分割，可汗的儿子们相互开战，并且最后是最强者取得了所有。我只是有避开在未来的内战的先见之明而已。 
+str_nord_rebellion_monarch_response_1|“远方探寻者”莱特温？叫“墨水手指头”莱特温才更为贴切。也许你听过这句话：“国王若是孩子，国家就会不幸。”而国王若是学生，国家也会不幸。你想要诺尔德人被一个没胡子的青年统治？一个手上没有因为握剑而形成老茧的人？一个从来没有站在盾墙中的人？如果莱特温成为国王了，他的领主们会嘲笑他的那张脸的！ 
+str_rhodok_rebellion_monarch_response_1|毫无疑问卡斯托尔大人告诉了你我由于干扰了地方长官们对国王的选举而玷污了神圣的罗多克习俗。嗯，让我告诉你一些事。那些城镇的地方长官们总是发表关于我们古老的自由的冗长的演讲，但是之后却将坐在自己的别墅里，啜饮着美酒并答应了监督贵族们的未付的税款的贵族选为了国王。 
+str_evil_rebellion_monarch_response_1|黑男爵？！？哈哈哈！！！我很肯定他想念他的宝座，他为了权力而渴望权力，然而他被人类征服；被诡计彻底摧毁了。他不是统治者！！！让他成为国王的清道夫！！！他想要我的头？！？我将拥有他的四肢！！！哈哈哈！！！
+str_swadian_rebellion_monarch_response_2|那些为一位斯瓦迪亚公主被她父亲的王座拒绝而哭泣的人们应该反过来思考一下，如果让她被一个瓦耶吉尔突袭者抓走并被带到奴隶市场，之后去为人家做一个牧羊女，这不是更好吗？当我们好战的邻居被征服并且我们的土地处于和平了之后，再来跟我说说女王们和古老的故事吧。 
+str_vaegir_rebellion_monarch_response_2|我父王对于获取王位可能做了什么并不重要。我已继承了它，这就是最终的结果。如果每一份过去的所有权都要被旧事重提，如果每一个人的继承权都可以随时被审问，那么君主制的末日就到来了，并且我们将生活在持续的内战之中。 
+str_khergit_rebellion_monarch_response_2|笃思土模将会成为一位优秀的羊群估价人，或者是地产纠纷的判决者。但是你能把这么一个人想象为可汗吗？我们会立刻被我们的邻国赶出我们的土地，回到我们以前在大草原上挨饿受冻的日子。 
+str_nord_rebellion_monarch_response_2|老哈克里姆也许有过关于如何处理他的王国的异想天开的想法，但是成为诺尔德人的国王并非仅仅依靠王室的血统。我成为国王是得到了领主们的通过的，并且我依靠的是成为最强者的权利。这比血统更有意义，这对这片土地的任何的对此持异议者都是不幸的。 
+str_rhodok_rebellion_monarch_response_2|他们唯一关心的自由就是他们长胖的自由。而同时，我的人们却睡在草原上，吃的是干面包和咸鱼，并看着地平线外有没有被焚烧的村庄，流我们的血以保证商队路线的畅通。我有一个想法——如果我遇到了一个被诃儿吉惕人的箭射成或者斯瓦迪亚人的剑砍成了瘸子的商人，那么我会说，“这里有个人，他的辩护是值得采取的。” 
+str_evil_rebellion_monarch_response_2|现在离开这儿，不然我会把你的答案刻在你的皮肤上，然后把它还给他……
+str_credits_1|《骑马与砍杀》的 2001年至 2008年的版权由传奇世界娱乐公司所有 
+str_credits_2|游戏设计： ^阿尔马安· 亚武兹 ^史蒂夫· 内格斯 ^杰姆· 奇曼比切尔 
+str_credits_3|编程： ^阿尔马安· 亚武兹 ^杰姆· 奇曼比切尔 
+str_credits_4|图片美工： ^伊佩克· 亚武兹 ^奥兹古尔· 萨拉尔 ^穆斯塔法· 奥斯杜克 
+str_credits_8|动画绘制： ^比那尔· 瑟基克 ^乌米特· 辛吉尔 
+str_credits_5|原画设计： ^冈巴特· 巴丹汗 
+str_credits_6|编剧： ^史蒂夫· 内格斯 ^莱恩· 阿· 斯潘 ^阿尔马安· 亚武兹 
+str_credits_9|音乐原声： ^杰西· 霍普金斯 
+str_credits_7|辅助建模： ^希尔米· 埃里克 ^艾哈迈德· 萨利萨卡尔 ^凯蒂· 比特汉姆 ^^^辅助编剧： ^迈克尔· 布勒 ^帕特里克· 德斯贾丁斯 ^^^配音演员： ^塔西洛· 埃格洛夫施泰因 ^洁德· 艾· 亨德森 ^^^音乐原声作曲： ^杰西· 霍普金斯 ^小提琴独奏： ^佐利· 津杰 ^主题曲与诙谐曲演奏： ^俄罗斯国家交响乐电影制作管弦乐队，由谢尔盖· 斯克利普卡指挥 ^^^声音采样： ^来自音频斯巴克斯网站 ^^^《骑马与砍杀》地图编辑者： ^麦特· 施特蒂福德 ^^^传奇世界论坛编程： ^布雷特· 弗兰尼根，来自芬利软件网站 ^^^《骑马与砍杀》教程编写： ^爱德华· 斯珀尔 ^^^游戏图像： ^杰米斯· 穆亚 ^^^动作捕捉系统： ^自然之点 -光轨室内运动场 ^^^马匹动作捕捉动画： ^理查德· 威杰里与运动脉冲工作室 ^^^布娃娃物理系统： ^牛顿游戏力学引擎工作室 ^^^声音与音乐程序收藏： ^福莫德音效系统，由火光技术工作室开发 ^^^防拷保护： ^泰米达程序系统，由奥林斯技术工作室开发 ^^^天空盒纹理： ^杰伊· 韦斯顿，来自超焦距设计网站 ^^^第三部分艺术程序库来自： ^纹理修道士工作室 ^马扬纹理工作室 ^动画纹理网站 ^斯洛伐克三维网站 ^^非官方《骑马与砍杀》编辑： ^乔什· 达尔比 ^^^非常感谢马可· 塔里尼的山地阴影的想法！ ^^^特别感谢： ^易卜拉欣· 道甘 ^新星语言工作室 ^谢利姆· 库图鲁斯和土耳其邮件联合服务处 ^^^传奇世界网站论坛管理员与版主： ^Janus^Archonsod^Narcissus^Nairagorn^Lost Lamb^Deus Ex^Merentha^Volkier^Okin^Instag0^Deniz^ego^Guspav^Hallequin^Invictus^okiN^Raz^rejenorst^Skyrage^ThVaz^^^西班牙语翻译 ^^翻译者： ^安娜贝尔· 莱妮丝· 迪亚兹 ^不朽者安娜莉亚· 多巴罗 ^安诺伊克 ^^中世纪顾问： ^恩里克· 帕拉福希· 克拉夫 ^^语言测试： ^提奥· 德· 莫里 ^^^《骑马与砍杀》公众建议与反馈： ^13 Chain Bloody Spider^Aenarion^AgentSword^Ahadhran^Albino^Allegro^allthesedamnnamesare^Amman de Stazia^Ancientwanker^Anrea 'Skree' Giongiani^Aqtai^Art Falmingaid^bryce777^Bugman^Buxton^Calandale^Cartread^Chel^Chilly5^Cirdan^Cleaning agent^Cymro^DaBlade^DaLagga^Damien^danover^Dearahn^Deathblow^Destichado^Dryvus^dunnno^D'Sparil^ealabor^Ealdormann Hussey^EasyCo506^El Duke^Elias Maluco^Eogan^ex ottoyuhr^Fisheye^Fossi^fujiwara^Fuzzpilz^GandalfTheGrey^Gerif^Grocat^Guspav^Halden The Borch shooter^Hallequin^Handel^Hardcode^Haupper^Hellequin^Highelf^Highlander^Ibrahim Turgut^Iesu^Ilex^Ingolifs^Invictus^Itchrelief^Jlgx50^JHermes^Jik^john259^JonathanStrange^jpgray^kamov23^Kayback^Khalid Ibn Walid^KON Air^Lady Tanith^Larry Knight^LavaLampMaster^Leprechaun^Lhorkan^Llew2^Maelstorm^Manitas^Maw^MAXHARDMAN^Merentha^Merlkir^Michael Elijah 'ironpants' Bell-Rao^mihoshi^Mirathei^mkeller^Momaw^Morgoth2005^MrCrotch^mtarini^n00854180t^Naridill^Nicholas AltamanokiN^oksir^Oldtimer^Ollieh^oRGy^Oubliette^Patrick 'nox' Gallaty^Pavlov^Rando^Raz^rejenorst^Rjii^Ron Losey^Rorthic^RR raptor^Scion^Seff^shenzay^Shadowmoses^shikamaru 1993^Silver^silverkatana^Sir Prince^Sirgigor^Skyrage^Smoson^sneakey pete^Stefano^Stella^Stonewall382^Talak^Tankai^TG^thelast^The Phoenix^The Pope^The Yogi^Thingy Master^Thormac^Thus Spake Nosferatu^ThVaz^Toygar Birinci^Tuckles^Tul^Ursca^Vaerraent^Vilhjalmr^Volkier^vuk^Wanderer^WhoCares^Winter^Worbah^Yoshiboy^……还有许多许多其余的《骑马与砍杀》好玩家！ ^^（这只是所有通过提建议和反馈为游戏做贡献的玩家的小样本。 ^此名单是在传奇世界论坛仅仅选取一些人名编成的。 ^不幸的是，编份详尽名单几乎不可能。 ^若你贡献了你的建议和回馈而未被列入此名单，那么我们真诚地道歉，并请你知道，我们同样也感谢你……） 
+str_credits_10|矛盾互动公司 ^^总裁兼首席执行官： ^西奥多· 伯奎维兹 ^^副执行总裁： ^弗雷德里克· 韦斯特 ^^首席财政长官： ^莱娜· 埃里克松 ^^财务兼会计： ^安露易丝· 拉松 ^^美国市场营销副总裁： ^丽娜· 玛· 米兰达 ^^欧洲市场营销副总裁： ^马丁· 希尔克 ^^北欧支部经理： ^埃里克· 赫尔姆弗里德松 ^^公共关系与市场营销主管： ^苏珊娜· 梅扎 ^^公共关系与市场营销： ^索菲亚· 福斯格伦 ^^生产部经理： ^博尔· 贝尔曼 
+str_credits_11|商标： ^杰森· 布朗 ^^封面绘画： ^皮奥特· 福克斯· 维索茨基 ^^版面设计： ^克里斯蒂安· 萨贝 ^梅琳娜· 格伦戴尔 ^^宣传画： ^皮奥特· 福克斯· 维索茨基 ^^地图与概念设计： ^冈巴特· 巴丹汗 ^^手工编辑： ^数码造字工作室：瑞恩· 纽曼、尼克· 斯图尔特 ^^网站制作： ^马丁· 埃里克松 ^^市场营销资产： ^2外套公司 ^^地方化： ^斯赫娱乐地方化公司 ^^游戏者之门公司人员： ^乌尔夫· 希德布罗姆 ^安德烈斯· 波赛特 ^马丁· 埃里克松 ^克里斯托弗· 林德贝格 
+str_credits_12|感谢我们世界各地的所有伙伴，特别是长期的伙伴们： ^科赫媒体公司（德国和英国） ^蓝标签公司（意大利和法国） ^朋友软件公司（西班牙） ^新时代互动媒体有限公司（亚洲） ^雪球公司（俄罗斯） ^山峰公司（英国） ^波尔图出版社（葡萄牙） ^地狱技术公司（希腊） ^光盘规划公司（波兰、捷克共和国、斯洛伐克和匈牙利） ^矛盾互动公司斯堪的纳维亚支部（斯堪的纳维亚） 
+str_custom_battle_6a|…… 
+str_custom_battle_6b|…… 

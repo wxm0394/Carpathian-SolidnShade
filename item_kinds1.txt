@@ -1,0 +1,3645 @@
+itemsfile version 3
+902
+ itm_no_item INVALID_ITEM INVALID_ITEM 1  practice_sword 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
+ 0
+0
+
+ itm_horse_meat Venison Venison 1  raw_meat 0  34078731 0 12 0 40.000000 100 30 0 0 0 0 0 0 0 40 0 0
+ 0
+0
+
+ itm_practice_sword Practice_Sword Practice_Sword 1  practice_sword 0  12976130 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
+ 0
+0
+
+ itm_heavy_practice_sword Heavy_Practice_Sword Heavy_Practice_Sword 1  heavy_practicesword 0  6684675 9223635919737716976 21 0 6.250000 100 0 0 0 0 26624 94 0 128 0 530 538
+ 0
+0
+
+ itm_practice_axe Practice_Axe Practice_Axe 1  hatchet 0  79953922 9223388530091229198 24 270356 2.000000 100 0 0 0 0 20480 95 0 75 0 256 532
+ 0
+0
+
+ itm_practice_staff Practice_Staff Practice_Staff 1  wooden_staff 0  138838020 4222129415393024 9 0 2.500000 100 0 0 0 0 16384 103 0 118 0 528 528
+ 0
+0
+
+ itm_practice_lance Practice_Lance Practice_Lance 1  joust_of_peace 0  2286321668 201326848 18 0 4.250000 100 0 0 0 0 0 58 0 218 0 527 512
+ 0
+0
+
+ itm_practice_shield Practice_Shield Practice_Shield 1  shield_round_a 0  393223 0 20 0 3.500000 100 0 1 0 0 200 100 0 50 0 0 0
+ 0
+0
+
+ itm_practice_bow Practice_Bow Practice_Bow 2  hunting_bow 0  hunting_bow_carry 3458764513820540928  6291464 5905584128 0 655370 1.500000 100 0 0 0 0 0 90 40 0 0 531 0
+ 0
+0
+
+ itm_practice_crossbow Practice_Crossbow Practice_Crossbow 1  crossbow 0  6291465 5637160960 0 131082 3.000000 100 0 0 0 0 0 42 68 0 1 544 0
+ 0
+0
+
+ itm_practice_javelin Practice_Javelin Practice_Javelin 2  javelin 0  javelins_quiver 3458764513820540928  71303178 36507484160 0 4398046781448 5.000000 100 0 0 0 0 0 91 28 75 50 539 0
+ 0
+0
+
+ itm_practice_horse Practice_Horse Practice_Horse 1  saddle_horse 0  1 0 37 0 0.000000 100 0 10 0 0 0 37 40 0 0 14 0
+ 0
+0
+
+ itm_practice_arrows Practice_Arrows Practice_Arrows 3  arena_arrow 0  flying_missile 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511112 1.500000 100 0 0 0 0 0 0 0 95 80 0 0
+ 0
+0
+
+ itm_practice_bolts Practice_Bolts Practice_Bolts 4  bolt 0  flying_missile 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  6 1879048192 0 4398046511112 2.250000 100 0 0 0 0 0 0 0 55 49 0 0
+ 0
+0
+
+ itm_red_tourney_armor Red_Tourney_Armor Red_Tourney_Armor 1  tourn_armor_a 0  16777229 0 152 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_blue_tourney_armor Blue_Tourney_Armor Blue_Tourney_Armor 1  mail_shirt 0  16777229 0 152 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_green_tourney_armor Green_Tourney_Armor Green_Tourney_Armor 1  leather_vest 0  16777229 0 152 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gold_tourney_armor Gold_Tourney_Armor Gold_Tourney_Armor 1  padded_armor 0  16777229 0 152 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_red_tourney_helmet Red_Tourney_Helmet Red_Tourney_Helmet 1  flattop_helmet 0  12 0 126 0 2.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_blue_tourney_helmet Blue_Tourney_Helmet Blue_Tourney_Helmet 1  segmented_helm 0  12 0 126 0 2.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_green_tourney_helmet Green_Tourney_Helmet Green_Tourney_Helmet 1  hood_c 0  12 0 126 0 2.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gold_tourney_helmet Gold_Tourney_Helmet Gold_Tourney_Helmet 1  hood_a 0  12 0 126 0 2.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_shield_red Shield Shield 1  arena_shield_red 0  262151 4831838208 42 167772194 2.000000 100 0 1 0 0 360 100 0 60 0 0 0
+ 0
+0
+
+ itm_arena_shield_blue Shield Shield 1  arena_shield_blue 0  262151 4831838208 42 167772194 2.000000 100 0 1 0 0 360 100 0 60 0 0 0
+ 0
+0
+
+ itm_arena_shield_green Shield Shield 1  arena_shield_green 0  262151 4831838208 42 167772194 2.000000 100 0 1 0 0 360 100 0 60 0 0 0
+ 0
+0
+
+ itm_arena_shield_yellow Shield Shield 1  arena_shield_yellow 0  262151 4831838208 42 167772194 2.000000 100 0 1 0 0 360 100 0 60 0 0 0
+ 0
+0
+
+ itm_arena_armor_red Arena_Armor_Red Arena_Armor_Red 1  arena_armorR_new 0  16777229 0 650 704643236 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_armor_blue Arena_Armor_Blue Arena_Armor_Blue 1  arena_armorB_new 0  16777229 0 650 704643236 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_armor_green Arena_Armor_Green Arena_Armor_Green 1  arena_armorG_new 0  16777229 0 650 704643236 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_armor_yellow Arena_Armor_Yellow Arena_Armor_Yellow 1  arena_armorY_new 0  16777229 0 650 704643236 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_tunic_red Arena_Tunic_Red Arena_Tunic_Red 1  arena_tunicR_new 0  16777229 0 27 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_tunic_blue Arena_Tunic_Blue Arena_Tunic_Blue 1  arena_tunicB_new 0  16777229 0 27 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_tunic_green Arena_Tunic_Green Arena_Tunic_Green 1  arena_tunicG_new 0  16777229 0 27 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_tunic_yellow Arena_Tunic_Yellow Arena_Tunic_Yellow 1  arena_tunicY_new 0  16777229 0 27 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_helmet_red Arena_Helmet_Red Arena_Helmet_Red 1  arena_helmetR 0  1073741836 0 187 704643238 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_helmet_blue Arena_Helmet_Blue Arena_Helmet_Blue 1  arena_helmetB 0  1073741836 0 187 704643238 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_helmet_green Arena_Helmet_Green Arena_Helmet_Green 1  arena_helmetG 0  1073741836 0 187 704643238 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_helmet_yellow Arena_Helmet_Yellow Arena_Helmet_Yellow 1  arena_helmetY 0  1073741836 0 187 704643238 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steppe_helmet_red Steppe_Helmet_Red Steppe_Helmet_Red 1  steppe_helmetR 0  1073741836 0 187 704643238 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steppe_helmet_blue Steppe_Helmet_Blue Steppe_Helmet_Blue 1  steppe_helmetB 0  1073741836 0 187 704643238 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steppe_helmet_green Steppe_Helmet_Green Steppe_Helmet_Green 1  steppe_helmetG 0  1073741836 0 187 704643238 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steppe_helmet_yellow Steppe_Helmet_Yellow Steppe_Helmet_Yellow 1  steppe_helmetY 0  1073741836 0 187 704643238 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tourney_helm_red Tourney_Helm_Red Tourney_Helm_Red 1  tourney_helmR 0  2147483660 0 760 704643238 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tourney_helm_blue Tourney_Helm_Blue Tourney_Helm_Blue 1  tourney_helmB 0  2147483660 0 760 704643238 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tourney_helm_green Tourney_Helm_Green Tourney_Helm_Green 1  tourney_helmG 0  2147483660 0 760 704643238 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tourney_helm_yellow Tourney_Helm_Yellow Tourney_Helm_Yellow 1  tourney_helmY 0  2147483660 0 760 704643238 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_tactics De_Re_Militari De_Re_Militari 1  book_a 0  20 0 4000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_persuasion Rhetorica_ad_Herennium Rhetorica_ad_Herennium 1  book_b 0  20 0 5000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_leadership The_Life_of_Alixenus_the_Great The_Life_of_Alixenus_the_Great 1  book_d 0  20 0 4200 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_intelligence Essays_on_Logic Essays_on_Logic 1  book_e 0  20 0 2900 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_trade A_Treatise_on_the_Value_of_Things A_Treatise_on_the_Value_of_Things 1  book_f 0  20 0 3100 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_weapon_mastery On_the_Art_of_Fighting_with_Swords On_the_Art_of_Fighting_with_Swords 1  book_d 0  20 0 4200 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_engineering Method_of_Mechanical_Theorems Method_of_Mechanical_Theorems 1  book_open 0  20 0 4000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_wound_treatment_reference The_Book_of_Healing The_Book_of_Healing 1  book_c 0  20 0 3500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_training_reference Manual_of_Arms Manual_of_Arms 1  book_open 0  20 0 3500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_surgery_reference The_Great_Book_of_Surgery The_Great_Book_of_Surgery 1  book_c 0  20 0 3500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_ouijaboard Ouija_Board Ouija_Board 1  OuijaBoard2 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_handofglory Hand_of_Glory Hand_of_Glory 1  HandOfGlory 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_skindrum Legion_Drum Legion_Drum 1  SkinDrum 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_bezoar Bezoar_Amulet Bezoar_Amulet 1  Bezoar 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_pandorasbox Pandora's_Box Pandora's_Box 1  PandorasBox 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_evileye Evil_Eye Evil_Eye 1  EvilEye 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_philosopherstone Philosopher_Stone Philosopher_Stone 1  PhilosopherStone 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_poppet Skin_Poppet Skin_Poppet 1  Poppet 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_chains Chains_of_Mephistopheles Chains_of_Mephistopheles 1  ChainsofMephistopheles 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_artillery Miasmic_Artillery Miasmic_Artillery 1  PlaguedHorseface 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_shrunkenhead Shrunken_Head Shrunken_Head 1  ShrunkenHead 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_blackring Black_Ring Black_Ring 1  DeathSteel 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_dummy Training_Dummy Training_Dummy 1  TrainingDummy 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_infinitystone Infinity_Stone Infinity_Stone 1  InfinityStone 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_agriculture Farmer's_Almanac Farmer's_Almanac 1  book_open 0  20 0 10000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_industry Craftsman's_Journal Craftsman's_Journal 1  book_open 0  20 0 10000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_survival Old_Cookbook Old_Cookbook 1  book_open 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_creel Old_Creel Old_Creel 1  FishBasket 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_necronomicon The_Necronomicon The_Necronomicon 1  Necronomicon2 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_skeletonkey Skeleton_Key Skeleton_Key 1  SkeletonKey 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_amontillado The_Cask_of_Amontillado The_Cask_of_Amontillado 1  Amontillado 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_goldbug The_Gold_Bug The_Gold_Bug 1  Goldbug 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_purloined The_Purloined_Letter The_Purloined_Letter 1  Purloined 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_telltale The_Telltale_Heart The_Telltale_Heart 1  TelltaleHeart 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_rasputinbrain Rasputin's_Brain Rasputin's_Brain 1  RasputinBrain 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_strangeshell Strange_Shell Strange_Shell 1  StrangeShell 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_loadeddice Fortune Fortune 1  BoneDice 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_lute Old_Lute Old_Lute 1  Lute 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_bloodphone Bloodphone Bloodphone 1  Waterphone 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_ramunskull Ramun's_Flayed_Skull Ramun's_Flayed_Skull 1  RamunSkull 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_toad Toad_Familiar Toad_Familiar 1  ToadFamiliar 0  4116 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_snake Snake_Familiar Snake_Familiar 1  SnakeFamiliar 0  4116 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_rat Rat_Familiar Rat_Familiar 1  RatFamiliar 0  4116 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_spider Spider_Familiar Spider_Familiar 1  SpiderFamiliar 0  4116 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_littleowl The_White_Owl The_White_Owl 1  OwlFamiliar 0  4116 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_blackcat The_Black_Cat The_Black_Cat 1  BlackCatFamiliar 0  4116 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_necrotic Necrotic_Familiar Necrotic_Familiar 1  NecroticFamiliar 0  4116 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_changeling Changeling Changeling 1  Quickling 0  4116 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_changelingcage Iron_Cage Iron_Cage 1  QuicklingCage 0  4116 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_thoth The_Book_of_Thoth The_Book_of_Thoth 1  TarotDeck 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_annabel Annabel's_Ring Annabel's_Ring 1  Abbyring 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_meatgrinder Meat_Grinder Meat_Grinder 1  MeatGrinder 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_mousetrap Mouse_Trap Mouse_Trap 1  Mousetrap 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_ect ECT_Machine ECT_Machine 1  ECT 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_camera Camera Camera 1  Camera 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_sappercharges Sapper_Charges Sapper_Charges 1  SapperCharges 0  20 0 1 0 2.000000 10 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_smoked_fish Smoked_Fish Smoked_Fish 1  smoked_fish 0  34144267 0 59 0 15.000000 110 50 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_dried_meat Dried_Meat Dried_Meat 1  smoked_meat 0  34144267 0 72 0 15.000000 100 70 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_cattle_meat Beef Beef 1  raw_meat 0  34144267 0 103 0 20.000000 100 80 0 0 0 0 0 0 0 70 0 0
+ 0
+0
+
+ itm_pork Pork Pork 1  fried_pig 0  34144267 0 85 0 15.000000 100 70 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_bread Bread Bread 1  bread_a 0  34144267 0 32 0 20.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_apples Apples Apples 1  apple_basket 0  34144267 0 44 0 20.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_cheese Cheese Cheese 1  cheese_b 0  34144267 0 95 0 6.000000 110 40 0 0 0 0 0 0 0 30 0 0
+ 0
+0
+
+ itm_chicken Chicken Chicken 1  chicken_roasted 0  34144267 0 75 0 10.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_honey Honey Honey 1  honey_pot 0  34144267 0 136 0 5.000000 110 40 0 0 0 0 0 0 0 30 0 0
+ 0
+0
+
+ itm_sausages Sausages Sausages 1  sausages 0  34144267 0 60 0 10.000000 110 40 0 0 0 0 0 0 0 40 0 0
+ 0
+0
+
+ itm_cabbages Cabbages Cabbages 1  cabbage 0  34144267 0 30 0 15.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_butter Butter Butter 1  butter_pot 0  34144267 0 150 0 6.000000 110 40 0 0 0 0 0 0 0 30 0 0
+ 0
+0
+
+ itm_eggs Eggs Eggs 1  Eggs 0  34144267 0 150 0 10.000000 55 50 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_raw_fish Raw_Fish Raw_Fish 1  fish_a 0  34144267 0 90 0 20.000000 110 70 0 0 0 0 0 0 0 70 0 0
+ 0
+0
+
+ itm_milk Milk Milk 1  honey_pot 0  34144267 0 66 0 20.000000 110 40 0 0 0 0 0 0 0 30 0 0
+ 0
+0
+
+ itm_mulberries Mulberries Mulberries 1  Mulberries 0  34144267 0 88 0 20.000000 55 50 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_grapes Grapes Grapes 1  Grapes2 0  34144267 0 44 0 20.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_entrails Entrails Entrails 1  Entrails 0  34078731 0 1 0 9.000000 100 70 0 0 0 0 0 0 0 9 0 0
+ 0
+0
+
+ itm_corpse Human_Corpse Human_Corpse 1  DeadCorpse 0  34078731 0 1 0 55.000000 100 70 0 0 0 0 0 0 0 54 0 0
+ 0
+0
+
+ itm_horsecorpse Horse_Corpse Horse_Corpse 1  HeadlessHorseface 0  34078731 0 1 0 55.000000 100 70 0 0 0 0 0 0 0 54 0 0
+ 0
+0
+
+ itm_skin Skin Skin 1  DeadSkin 0  34078731 0 1 0 6.000000 100 70 0 0 0 0 0 0 0 6 0 0
+ 0
+0
+
+ itm_flesh Flesh Flesh 1  HumanFlesh 0  34078731 0 1 0 7.000000 100 70 0 0 0 0 0 0 0 7 0 0
+ 0
+0
+
+ itm_bones Bones Bones 1  HumanBones 0  34078731 0 1 0 8.000000 100 70 0 0 0 0 0 0 0 8 0 0
+ 0
+0
+
+ itm_eyes Eyes Eyes 1  Eye 0  34078731 0 1 0 2.000000 100 70 0 0 0 0 0 0 0 2 0 0
+ 0
+0
+
+ itm_brain Brain Brain 1  HumanBrain 0  34078731 0 1 0 5.000000 100 70 0 0 0 0 0 0 0 5 0 0
+ 0
+0
+
+ itm_heart Heart Heart 1  HumanHeart 0  34078731 0 1 0 3.000000 100 70 0 0 0 0 0 0 0 3 0 0
+ 0
+0
+
+ itm_liver Liver Liver 1  HumanLiver 0  34078731 0 1 0 4.000000 100 70 0 0 0 0 0 0 0 4 0 0
+ 0
+0
+
+ itm_blood Blood Blood 1  BloodBottle2 0  34078731 0 1 0 10.000000 100 70 0 0 0 0 0 0 0 10 0 0
+ 0
+0
+
+ itm_bonebread Bread_of_the_Dead Bread_of_the_Dead 1  bread_a 0  34078731 0 66 0 20.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_vblood Vampire_Blood Vampire_Blood 1  BloodBottle2 0  34078731 0 666 0 10.000000 100 70 0 0 0 0 0 0 0 10 0 0
+ 0
+0
+
+ itm_wblood Werewolf_Blood Werewolf_Blood 1  BloodBottle2 0  34078731 0 666 0 10.000000 100 70 0 0 0 0 0 0 0 10 0 0
+ 0
+0
+
+ itm_bloodwine Bloodwine Bloodwine 1  amphora_slim 0  34078731 0 666 0 40.000000 100 120 0 0 0 0 0 0 0 60 0 0
+ 0
+0
+
+ itm_marshmallows Marshmallows Marshmallows 1  CandySkulls 0  34078731 0 4444 0 4.000000 40 40 0 0 0 0 0 0 0 4 0 0
+ 0
+0
+
+ itm_mumiyo Mumiyo Mumiyo 1  Mumiyo 0  34078731 0 6666 0 47.000000 100 100 0 0 0 0 0 0 0 57 0 0
+ 0
+0
+
+ itm_nog Nog Nog 1  honey_pot 0  34078731 0 600 0 25.000000 67 95 0 0 0 0 0 0 0 60 0 0
+ 0
+0
+
+ itm_bloodpudding Blood_Pudding Blood_Pudding 1  BloodPudding 0  34078731 0 500 0 15.000000 105 110 0 0 0 0 0 0 0 40 0 0
+ 0
+0
+
+ itm_coffee Coffee_Beans Coffee_Beans 1  Coffee 0  34144267 0 333 0 10.000000 25 75 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_tea Tea_Leaves Tea_Leaves 1  Tea 0  34144267 0 333 0 10.000000 25 75 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_meatpie Meat_Pie Meat_Pie 1  MeatPie 0  34144267 0 66 0 15.000000 10 110 0 0 0 0 0 0 0 10 0 0
+ 0
+0
+
+ itm_glogg Glogg Glogg 1  jug 0  34078731 0 555 0 30.000000 30 100 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_wine Wine Wine 1  amphora_slim 0  34144267 0 141 0 30.000000 60 50 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_ale Ale Ale 1  ale_barrel 0  34144267 0 84 0 30.000000 70 50 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_spice Spice Spice 1  spice_sack 0  34144267 0 880 0 40.000000 25 45 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_salt Salt Salt 1  salt_sack 0  34144267 0 255 0 50.000000 120 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_grain Wheat Wheat 1  wheat_sack 0  34144267 0 77 0 50.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_flour Flour Flour 1  salt_sack 0  34144267 0 91 0 50.000000 100 45 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_iron Iron Iron 1  iron 0  65547 0 264 0 60.000000 60 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_oil Oil Oil 1  oil 0  65547 0 484 0 50.000000 60 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pottery Pottery Pottery 1  jug 0  65547 0 126 0 50.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_linen Linen Linen 1  linen 0  65547 0 250 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_furs Furs Furs 1  fur_pack 0  65547 0 391 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wool Wool Wool 1  wool_sack 0  65547 0 130 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_velvet Velvet Velvet 1  velvet 0  65547 0 1025 0 40.000000 30 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tools Tools Tools 1  iron_hammer 0  65547 0 410 0 50.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wax Wax Wax 1  Wax 0  65547 0 33 0 20.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_clay Clay Clay 1  Clay 0  65547 0 63 0 40.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_silk Silk Silk 1  Silk 0  65547 0 500 0 40.000000 60 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_candles Candles Candles 1  Candle 0  65547 0 66 0 10.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wood Wood Wood 1  Wood2 0  65547 0 132 0 30.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_crystal Crystal Crystal 1  Crystal 0  65547 0 150 0 10.000000 50 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_silver Silver Silver 1  Silver2 0  65547 0 250 0 60.000000 40 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sulphur Sulfuric_Acid Sulfuric_Acid 1  Sulphur2 0  65547 0 484 0 30.000000 30 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_formaldehyde Formaldehyde Formaldehyde 1  Formaldehyde 0  65547 0 484 0 30.000000 30 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gold Gold Gold 1  Gold2 0  65547 0 1000 0 60.000000 20 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_diamonds Diamonds Diamonds 1  Diamonds2 0  65547 0 1500 0 10.000000 10 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_diamondelixir Elixir_Adamas Elixir_Adamas 1  DiamondsBottle 0  11 0 1 0 30.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_soil Graveyard_Soil Graveyard_Soil 1  Soil 0  11 0 1 0 30.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_garlic Radoghir_Garlic Radoghir_Garlic 1  garlic_b 0  11 0 1 0 10.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aconite Tehlrog_Aconite Tehlrog_Aconite 1  blue_flower 0  11 0 1 0 10.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mullein Chalbek_Mullein Chalbek_Mullein 1  buddy_plant 0  11 0 1 0 10.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mandrake Mandrake Mandrake 1  seedy_plant_a 0  11 0 1 0 10.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_crocus Crocuses Crocuses 1  SaffronOrchid 0  65547 0 13 0 10.000000 10 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghostwood Ghostwood Ghostwood 1  Ghostwood 0  11 0 264 0 30.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_snakeoil Snake_Oil Snake_Oil 1  oil 0  11 0 1 0 30.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ivory Ivory Ivory 1  Ivory 0  65547 0 2000 0 10.000000 10 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_siege_supply Supplies Supplies 1  ale_barrel 0  11 0 96 0 40.000000 70 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_quest_wine Wine Wine 1  amphora_slim 0  11 0 46 0 40.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_quest_ale Ale Ale 1  ale_barrel 0  11 0 31 0 40.000000 70 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_sumpter_horse Sumpter_Horse Sumpter_Horse 1  sumpter_horse 0  65537 0 64 41876193280 0.000000 90 0 17 0 1 110 33 34 0 0 9 0
+ 0
+0
+
+ itm_saddle_horse Saddle_Horse Saddle_Horse 2  saddle_horse 0  horse_c 34360000512  65537 0 112 41876193280 0.000000 90 0 14 0 1 0 36 39 0 0 8 0
+ 0
+0
+
+ itm_steppe_horse Steppe_Horse Steppe_Horse 1  steppe_horse 0  65537 0 92 41876193280 0.000000 80 0 15 0 2 0 41 37 0 0 7 0
+ 0
+0
+
+ itm_courser Courser Courser 1  courser 0  65537 0 323 110595670016 0.000000 70 0 16 0 2 0 37 43 0 0 11 0
+ 0
+0
+
+ itm_hunter Hunter Hunter 2  hunting_horse 0  hunting_horse 34360000512  65537 0 434 110595670016 0.000000 60 0 29 0 3 130 36 40 0 0 18 0
+ 0
+0
+
+ itm_warhorse Warhorse Warhorse 1  warhorse_chain 0  65537 0 724 110595670016 0.000000 50 0 52 0 4 135 34 36 0 0 18 0
+ 0
+0
+
+ itm_charger Charger Charger 1  charger_new 0  65537 0 1411 110595670016 0.000000 40 0 65 0 4 140 32 35 0 0 25 0
+ 0
+0
+
+ itm_arrows Arrows Arrows 3  arrow 0  flying_missile 2305843009213693952  quiver 3458764513820540928  65541 2147483648 72 4398046511112 3.000000 160 0 0 0 0 0 0 0 95 30 257 0
+ 0
+0
+
+ itm_khergit_arrows Khergit_Arrows Khergit_Arrows 3  arrow_b 0  flying_missile 2305843009213693952  quiver_b 3458764513820540928  65541 1610612736 410 4398046511112 3.500000 30 0 0 0 0 0 0 0 95 30 259 0
+ 0
+0
+
+ itm_barbed_arrows Barbed_Arrows Barbed_Arrows 3  barbed_arrow 0  flying_missile 2305843009213693952  quiver_d 3458764513820540928  65541 1610612736 124 4398046511112 3.000000 70 0 0 0 0 0 0 0 95 30 258 0
+ 0
+0
+
+ itm_bodkin_arrows Bodkin_Arrows Bodkin_Arrows 3  piercing_arrow 0  flying_missile 2305843009213693952  quiver_c 3458764513820540928  65541 1610612736 350 4398046511112 3.000000 50 0 0 0 0 0 0 0 91 29 259 0
+ 0
+0
+
+ itm_bolts Bolts Bolts 4  bolt 0  flying_missile 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  65542 1879048192 64 4398046511112 2.250000 90 0 0 0 0 0 0 0 55 25 257 0
+ 0
+0
+
+ itm_steel_bolts Steel_Bolts Steel_Bolts 3  bolt 0  flying_missile 2305843009213693952  bolt_bag_c 3458764513820540928  65542 1879048192 210 4398046511112 2.500000 20 0 0 0 0 0 0 0 55 25 258 0
+ 0
+0
+
+ itm_cartridges Cartridges Cartridges 1  cartridge_a 0  65554 0 41 4398046511112 2.250000 10 0 0 0 0 0 0 0 3 40 257 0
+ 0
+0
+
+ itm_pilgrim_disguise Pilgrim_Disguise Pilgrim_Disguise 1  pilgrim_outfit 0  553648141 0 25 123731968 2.000000 100 0 19 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pilgrim_hood Pilgrim_Hood Pilgrim_Hood 1  pilgrim_hood 0  536870924 0 35 123731968 1.250000 100 14 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_gloves Leather_Gloves Leather_Gloves 1  leather_gloves_L 0  65551 0 130 123731968 0.250000 120 0 2 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mail_mittens Mail_Mittens Mail_Mittens 1  mail_mittens_L 0  65551 0 550 704643236 0.500000 100 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_scale_gauntlets Scale_Gauntlets Scale_Gauntlets 1  scale_gauntlets_b_L 0  65551 0 910 704643236 0.750000 100 0 5 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gauntlets Gauntlets Gauntlets 2  gauntlet_a_L 0  gauntlet_b_L 134217728  65551 0 1940 704643236 1.000000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wrapping_boots Wrapping_Boots Wrapping_Boots 1  wrapping_boots_a 0  536940302 0 3 123731968 1.000000 100 0 0 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_woolen_hose Woolen_Hose Woolen_Hose 1  woolen_hose_a 0  536940302 0 6 123731968 1.000000 100 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_blue_hose Blue_Hose Blue_Hose 1  blue_hose_a 0  536940302 0 11 123731968 1.000000 100 0 0 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hunter_boots Hunter_Boots Hunter_Boots 1  hunter_boots_a 0  536940302 0 19 123731968 1.250000 100 0 0 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hide_boots Hide_Boots Hide_Boots 1  hide_boots_a 0  536940302 0 34 123731968 1.000000 100 0 0 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ankle_boots Ankle_Boots Ankle_Boots 1  ankle_boots_a_new 0  536940302 0 75 123731968 1.000000 100 0 0 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nomad_boots Nomad_Boots Nomad_Boots 1  nomad_boots_a 0  536940302 0 116 123731968 1.250000 100 0 0 14 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_boots Leather_Boots Leather_Boots 1  leather_boots_a 0  536940302 0 174 123731968 1.250000 100 0 0 16 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mail_chausses Mail_Chausses Mail_Chausses 1  mail_chausses_a 0  69390 0 410 704643236 3.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_splinted_leather_greaves Splinted_Leather_Greaves Splinted_Leather_Greaves 1  leather_greaves_a 0  69390 0 760 704643236 3.000000 100 0 0 24 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_splinted_greaves Splinted_Greaves Splinted_Greaves 1  splinted_greaves_a 0  69390 0 1153 704643236 3.500000 100 0 0 28 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mail_boots Mail_Boots Mail_Boots 1  mail_boots_a 0  69390 0 1746 704643236 3.000000 100 0 0 31 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_iron_greaves Iron_Greaves Iron_Greaves 1  iron_greaves_a 0  69390 0 2374 704643236 3.500000 100 0 0 33 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_lady_dress_ruby Lady_Dress Lady_Dress 1  lady_dress_r 0  553648141 0 500 123731968 3.000000 100 0 10 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_lady_dress_green Lady_Dress Lady_Dress 1  lady_dress_g 0  553648141 0 500 123731968 3.000000 100 0 10 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_lady_dress_blue Lady_Dress Lady_Dress 1  lady_dress_b 0  553648141 0 500 123731968 3.000000 100 0 10 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_courtly_outfit Courtly_Outfit Courtly_Outfit 1  nobleman_outf 0  553648141 0 348 123731968 4.000000 100 0 14 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nobleman_outfit Nobleman_Outfit Nobleman_Outfit 1  nobleman_outfit_b_new 0  553648141 0 348 123731968 4.000000 100 0 15 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nomad_armor Nomad_Armor Nomad_Armor 1  nomad_armor_new 0  65549 0 25 123731968 2.000000 100 0 24 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_khergit_armor Khergit_Armor Khergit_Armor 1  khergit_armor_new 0  65549 0 38 123731968 2.000000 100 0 14 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_jacket Leather_Jacket Leather_Jacket 1  leather_jacket_new 0  536936461 0 50 123731968 3.000000 100 0 15 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rawhide_coat Rawhide_Coat Rawhide_Coat 1  coat_of_plates_b 0  553713677 0 12 123731968 5.000000 100 0 10 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_armor Leather_Armor Leather_Armor 1  tattered_leather_armor_a 0  16842765 0 65 123731968 7.000000 100 0 18 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fur_coat Fur_Coat Fur_Coat 1  fur_coat 0  553713677 0 117 704643236 6.000000 100 0 13 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_dress Dress Dress 1  dress 0  553713677 0 6 123731968 1.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_blue_dress Blue_Dress Blue_Dress 1  blue_dress_new 0  553713677 0 6 123731968 1.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_peasant_dress Peasant_Dress Peasant_Dress 1  peasant_dress_b_new 0  553713677 0 6 123731968 1.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_woolen_dress Woolen_Dress Woolen_Dress 1  woolen_dress 0  553713677 0 10 123731968 1.750000 100 0 8 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_shirt Shirt Shirt 1  shirt 0  553713677 0 3 123731968 1.000000 100 0 5 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_linen_tunic Linen_Tunic Linen_Tunic 1  shirt_a 0  553713677 0 6 123731968 1.000000 100 0 6 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_short_tunic Rich_Tunic Rich_Tunic 1  rich_tunic_a 0  553713677 0 10 123731968 1.000000 100 0 7 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_robe Robe Robe 1  robe 0  553713677 0 31 123731968 1.500000 100 0 8 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_coarse_tunic Coarse_Tunic Coarse_Tunic 1  coarse_tunic_a 0  553713677 0 47 123731968 2.000000 100 0 11 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_apron Leather_Apron Leather_Apron 1  leather_apron 0  553713677 0 61 123731968 3.000000 100 0 12 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tabard Tabard Tabard 1  tabard_b 0  553713677 0 107 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_vest Leather_Vest Leather_Vest 1  leather_vest_a 0  553713677 0 146 123731968 4.000000 100 0 15 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steppe_armor Steppe_Armor Steppe_Armor 1  lamellar_leather 0  16842765 0 195 123731968 5.000000 100 0 16 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gambeson Gambeson Gambeson 1  white_gambeson 0  553713677 0 260 123731968 5.000000 100 0 20 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_blue_gambeson Blue_Gambeson Blue_Gambeson 1  blue_gambeson 0  553713677 0 270 123731968 5.000000 100 0 21 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_red_gambeson Red_Gambeson Red_Gambeson 1  red_gambeson_a 0  553713677 0 275 123731968 5.000000 100 0 21 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_padded_cloth Padded_Cloth Padded_Cloth 1  padded_cloth_a 0  16842765 0 297 123731968 11.000000 100 0 22 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_jerkin Leather_Jerkin Leather_Jerkin 1  ragged_leather_jerkin 0  553713677 0 321 123731968 6.000000 100 0 23 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nomad_vest Nomad_Vest Nomad_Vest 1  nomad_vest_new 0  553713677 0 360 123731968 7.000000 50 0 22 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ragged_outfit Ragged_Outfit Ragged_Outfit 1  ragged_outfit_a_new 0  553713677 0 390 123731968 7.000000 100 0 23 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_padded_leather Padded_Leather Padded_Leather 1  leather_armor_b 0  553713677 0 454 123731968 12.000000 100 0 27 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tribal_warrior_outfit Tribal_Warrior_Outfit Tribal_Warrior_Outfit 1  tribal_warrior_outfit_a_new 0  553713677 0 520 123731968 14.000000 100 0 30 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nomad_robe Nomad_Robe Nomad_Robe 1  nomad_robe_a 0  553713677 0 610 123731968 15.000000 100 0 32 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_studded_leather_coat Studded_Leather_Coat Studded_Leather_Coat 1  leather_armor_a 0  16842765 0 690 704643236 14.000000 100 0 34 10 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_byrnie Byrnie Byrnie 1  byrnie_a_new 0  16842765 0 795 704643236 17.000000 100 0 39 6 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_haubergeon Haubergeon Haubergeon 2  haubergeon_a 0  haubergeon_b 251658240  16842765 0 863 704643236 18.000000 100 0 41 6 6 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mail_shirt Mail_Shirt Mail_Shirt 1  mail_shirt_a 0  16842765 0 920 704643236 19.000000 100 0 37 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mail_hauberk Mail_Hauberk Mail_Hauberk 1  hauberk_a_new 0  16842765 0 1190 704643236 19.000000 100 0 40 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_lamellar_vest Lamellar_Vest Lamellar_Vest 1  lamellar_vest_a 0  553713677 0 1370 123731968 18.000000 100 0 46 8 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mail_with_surcoat Mail_with_Surcoat Mail_with_Surcoat 1  mail_long_surcoat_new 0  16842765 0 1544 704643236 22.000000 100 0 42 14 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_surcoat_over_mail Surcoat_over_Mail Surcoat_over_Mail 1  surcoat_over_mail_new 0  16842765 0 1720 704643236 22.000000 100 0 43 14 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_brigandine_a Brigandine Brigandine 1  brigandine_b 0  16842765 0 1830 704643236 19.000000 100 0 46 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_lamellar_armor Lamellar_Armor Lamellar_Armor 1  lamellar_armor_b 0  16842765 0 2410 704643236 25.000000 100 0 48 13 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_banded_armor Banded_Armor Banded_Armor 1  banded_armor_a 0  16842765 0 2710 704643236 23.000000 100 0 49 14 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_cuir_bouilli Cuir_Bouilli Cuir_Bouilli 1  cuir_bouilli_a 0  16842765 0 3100 704643236 24.000000 100 0 50 15 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_coat_of_plates Coat_of_Plates Coat_of_Plates 1  coat_of_plates_a 0  16842765 0 3828 704643236 25.000000 100 0 52 16 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_plate_armor Plate_Armor Plate_Armor 1  full_plate_armor 0  16842765 0 6553 704643238 27.000000 100 0 55 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_heraldic_mail_with_surcoat Heraldic_Mail_with_Surcoat Heraldic_Mail_with_Surcoat 1  heraldic_armor_new_a 0  16842765 0 3454 704643236 22.000000 100 0 49 17 7 0 0 0 0 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 19 1224979098644774912 1224979098644774913 
+
+ itm_heraldic_mail_with_tabard Heraldic_Mail_with_Tabard Heraldic_Mail_with_Tabard 1  heraldic_armor_new_d 0  16842765 0 3654 704643236 21.000000 100 0 51 15 7 0 0 0 0 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 22 1224979098644774912 1224979098644774913 
+
+ itm_turret_hat_ruby Turret_Hat Turret_Hat 1  turret_hat_r 0  1610612748 0 70 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_turret_hat_blue Turret_Hat Turret_Hat 1  turret_hat_b 0  1610612748 0 80 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_turret_hat_green Barbette Barbette 1  barbette_new 0  1610678284 0 70 123731968 0.500000 100 6 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_head_wrappings head_wrapping head_wrapping 1  head_wrapping 0  1073741836 0 16 56623104 0.250000 100 3 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_court_hat Turret_Hat Turret_Hat 1  court_hat 0  1610612748 0 80 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wimple_a Wimple Wimple 1  wimple_a_new 0  1610678284 0 10 123731968 0.500000 100 4 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wimple_with_veil Wimple_with_Veil Wimple_with_Veil 1  wimple_b_new 0  1610678284 0 10 123731968 0.500000 100 4 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_straw_hat Straw_Hat Straw_Hat 1  straw_hat_new 0  536936460 0 9 123731968 1.000000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_common_hood Hood Hood 4  hood_a 0  hood_b 0  hood_c 0  hood_d 0  536936460 0 9 123731968 1.000000 100 10 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_headcloth Headcloth Headcloth 1  headcloth_a_new 0  536936460 0 1 123731968 0.500000 100 4 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_woolen_hood Woolen_Hood Woolen_Hood 1  woolen_hood 0  536936460 0 4 123731968 1.000000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fur_hat Fur_Hat Fur_Hat 1  fur_hat_a_new 0  536936460 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nomad_cap Nomad_Cap Nomad_Cap 2  helmet_fur_a 0  helmet_fur_a 251658240  536936460 0 6 123731968 0.750000 100 10 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steppe_cap Steppe_Cap Steppe_Cap 1  steppe_cap_a_new 0  536936460 0 14 123731968 1.000000 100 12 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_padded_coif Padded_Coif Padded_Coif 1  padded_coif_a_new 0  65548 0 6 123731968 1.000000 100 11 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_woolen_cap Woolen_Cap Woolen_Cap 1  woolen_cap_new 0  536936460 0 2 123731968 1.000000 100 6 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_felt_hat Felt_Hat Felt_Hat 2  felt_hat_a 0  felt_hat_b 251658240  536936460 0 4 123731968 1.000000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_cap Leather_Cap Leather_Cap 1  leather_cap_a_new 0  536936460 0 6 123731968 1.000000 100 10 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arming_cap Arming_Cap Arming_Cap 1  arming_cap_a_new 0  536936460 0 6 123731968 1.000000 100 10 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_female_hood Lady's_Hood Lady's_Hood 1  ladys_hood_new 0  536936460 0 9 123731968 1.000000 100 10 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_steppe_cap_a Leather_Steppe_Cap Leather_Steppe_Cap 1  leather_steppe_cap_a_new 0  65548 0 24 123731968 1.000000 100 12 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_steppe_cap_b Leather_Steppe_Cap Leather_Steppe_Cap 1  tattered_steppe_cap_b_new 0  65548 0 36 123731968 1.000000 100 14 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_steppe_cap_c Leather_Steppe_Cap Leather_Steppe_Cap 1  steppe_cap_a_new 0  65548 0 51 123731968 1.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_warrior_cap Leather_Warrior_Cap Leather_Warrior_Cap 1  skull_cap_new_b 0  536936460 0 14 123731968 1.000000 100 18 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_skullcap Skullcap Skullcap 1  skull_cap_new_a 0  65548 0 60 704643238 1.000000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mail_coif Mail_Coif Mail_Coif 1  mail_coif_new 0  65548 0 71 704643236 1.250000 100 22 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_footman_helmet Footman's_Helmet Footman's_Helmet 1  skull_cap_new 0  65548 0 95 704643238 1.500000 100 24 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nasal_helmet Nasal_Helmet Nasal_Helmet 1  nasal_helmet_b 0  65548 0 121 704643238 1.250000 100 26 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_norman_helmet Helmet_with_Cap Helmet_with_Cap 1  norman_helmet_a 0  1073807372 0 147 704643238 1.250000 100 28 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_segmented_helmet Segmented_Helmet Segmented_Helmet 1  segmented_helm_new 0  65548 0 174 704643238 1.250000 100 31 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kettle_hat Kettle_Hat Kettle_Hat 1  kettle_hat_new 0  65548 0 193 704643238 1.500000 100 33 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_helmet_with_neckguard Helmet_with_Neckguard Helmet_with_Neckguard 1  neckguard_helm_new 0  65548 0 233 704643238 1.750000 100 35 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_spiked_helmet Spiked_Helmet Spiked_Helmet 1  spiked_helmet_new 0  65548 0 278 704643238 2.000000 100 38 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nordic_helmet Nordic_Helmet Nordic_Helmet 1  helmet_w_eyeguard_new 0  65548 0 340 704643238 2.000000 100 40 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_flat_topped_helmet Flat_Topped_Helmet Flat_Topped_Helmet 1  flattop_helmet_new 0  65548 0 411 704643238 2.000000 100 42 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bascinet Bascinet Bascinet 3  bascinet_avt_new 0  bascinet_avt_new1 132  bascinet_avt_new2 251658240  65548 0 479 704643238 2.250000 100 45 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_guard_helmet Guard_Helmet Guard_Helmet 1  reinf_helmet_new 0  65548 0 555 704643238 2.500000 100 47 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_great_helmet Great_Helmet Great_Helmet 1  great_helmet_new 0  2147549196 0 980 704643238 2.750000 100 53 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_winged_great_helmet Winged_Great_Helmet Winged_Great_Helmet 1  maciejowski_helmet_new 0  2147549196 0 1240 704643238 2.750000 100 55 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wooden_stick Wooden_Stick Wooden_Stick 1  wooden_stick 0  4653058 9223388529554358286 4 0 2.500000 100 0 0 0 0 13312 99 0 90 0 256 525
+ 0
+0
+
+ itm_cudgel Cudgel Cudgel 1  club 0  4653058 9223388529554358286 4 0 2.500000 100 0 0 0 0 13312 99 0 90 0 256 525
+ 0
+0
+
+ itm_hammer Hammer Hammer 1  iron_hammer 0  274882428930 9223388529554358286 7 270356 2.000000 100 0 0 0 0 14336 100 0 55 0 256 526
+ 0
+0
+
+ itm_club Club Club 1  club 0  274882560002 9223388529554358286 11 0 2.500000 100 0 0 0 0 15360 95 0 95 0 256 527
+ 0
+0
+
+ itm_winged_mace Winged_Mace Winged_Mace 1  winged_mace 0  274882428930 9223388532775583758 122 270356 3.500000 100 0 0 0 0 21504 99 0 80 0 256 533
+ 0
+0
+
+ itm_spiked_mace Spiked_Mace Spiked_Mace 1  spiked_mace 0  274882428930 9223388532775583758 180 270356 3.500000 100 0 0 0 0 22528 95 0 90 0 256 534
+ 0
+0
+
+ itm_military_hammer Military_Hammer Military_Hammer 1  iron_hammer 0  274882428930 9223388530091229198 317 270356 4.000000 100 0 0 0 0 25600 92 0 90 0 256 537
+ 0
+0
+
+ itm_maul Maul Maul 1  maul_b 0  313539362819 9223635925844623584 97 270356 6.000000 100 0 0 0 11 33792 84 0 79 0 256 545
+ 0
+0
+
+ itm_sledgehammer Sledgehammer Sledgehammer 1  maul_c 0  313539362819 9223635925844623584 101 270356 7.000000 100 0 0 0 12 35840 82 0 82 0 256 547
+ 0
+0
+
+ itm_warhammer Warhammer Warhammer 1  maul_d 0  313539362819 9223635925844623584 309 270356 9.000000 100 0 0 0 14 38912 85 0 75 0 256 550
+ 0
+0
+
+ itm_pickaxe Pickaxe Pickaxe 1  rusty_pick 0  4521986 9223388530091229198 27 270356 3.000000 100 0 0 0 0 19456 96 0 80 0 256 275
+ 0
+0
+
+ itm_spiked_club Spiked_Club Spiked_Club 1  spiked_club 0  4521986 9223388532775583758 83 270356 3.000000 100 0 0 0 0 21504 97 0 97 0 256 277
+ 0
+0
+
+ itm_fighting_pick Fighting_Pick Fighting_Pick 1  rusty_pick 0  4521986 9223388530091229198 108 270356 3.500000 100 0 0 0 0 25600 94 0 90 0 256 281
+ 0
+0
+
+ itm_military_pick Military_Pick Military_Pick 1  steel_pick 0  4521986 9223388530091229198 142 270356 4.000000 100 0 0 0 0 27648 90 0 90 0 256 283
+ 0
+0
+
+ itm_morningstar Morningstar Morningstar 1  mace_morningstar 0  38659227650 9223388530091229198 205 270356 5.500000 100 0 0 0 13 29696 75 0 98 0 256 285
+ 0
+0
+
+ itm_sickle Sickle Sickle 1  sickle 0  12926978 9223372036879941646 1 0 1.500000 100 0 0 0 0 20480 99 0 40 0 256 20
+ 0
+0
+
+ itm_cleaver Cleaver Cleaver 1  cleaver 0  12926978 9223372036879941646 3 0 1.500000 100 0 0 0 0 24576 103 0 30 0 256 24
+ 0
+0
+
+ itm_knife Knife Knife 1  peasant_knife 0  12664834 9223372037685248015 4 24596 0.500000 100 0 0 0 0 21504 110 0 40 0 269 21
+ 0
+0
+
+ itm_butchering_knife Butchering_Knife Butchering_Knife 1  khyber_knife 0  12664834 9223372037953683471 13 24596 0.750000 100 0 0 0 0 24576 108 0 60 0 273 24
+ 0
+0
+
+ itm_dagger Dagger Dagger 4  dagger 0  scab_dagger 3458764513820540928  dagger_b 251658240  dagger_b_scabbard 3458764514072199168  12664834 9223372072044986383 17 155668 0.750000 100 0 0 0 0 22528 112 0 47 0 275 22
+ 0
+0
+
+ itm_falchion Falchion Falchion 1  falchion 0  4259842 9223388529822793742 105 24596 2.500000 100 0 0 0 8 30720 96 0 73 0 256 30
+ 0
+0
+
+ itm_scimitar Scimitar Scimitar 2  scimeter 0  scab_scimeter 3458764513820540928  4259842 9223388564182532110 108 155668 1.500000 100 0 0 0 0 29696 105 0 97 0 256 29
+ 0
+0
+
+ itm_great_sword Great_Sword Great_Sword 2  b_bastard_sword 0  scab_bastardsw_b 3458764513820540928  6356995 9223635958660858096 423 155668 2.750000 100 0 0 0 10 39936 95 0 125 0 287 39
+ 0
+0
+
+ itm_sword_of_war Sword_of_War Sword_of_War 2  b_bastard_sword 0  scab_bastardsw_b 3458764513820540928  6356995 9223635958660858096 524 155668 3.000000 100 0 0 0 11 40960 93 0 130 0 287 40
+ 0
+0
+
+ itm_hatchet Hatchet Hatchet 1  hatchet 0  80019458 9223388530091229198 3 270356 2.000000 100 0 0 0 0 23552 97 0 60 0 256 23
+ 0
+0
+
+ itm_hand_axe Hand_Axe Hand_Axe 1  hatchet 0  80019458 9223388530091229198 24 270356 2.000000 100 0 0 0 7 27648 95 0 75 0 256 27
+ 0
+0
+
+ itm_fighting_axe Fighting_Axe Fighting_Axe 1  fighting_ax 0  80019458 9223388530091229198 77 270356 2.500000 100 0 0 0 9 31744 92 0 90 0 256 31
+ 0
+0
+
+ itm_axe Axe Axe 1  iron_ax 0  73728003 9223635923965575392 65 270356 4.000000 100 0 0 0 8 32768 91 0 108 0 256 32
+ 0
+0
+
+ itm_voulge Voulge Voulge 1  voulge 0  73728003 9223635923965575392 129 270356 4.500000 100 0 0 0 8 35840 87 0 119 0 256 35
+ 0
+0
+
+ itm_battle_axe Battle_Axe Battle_Axe 1  battle_ax 0  73728003 9223635923965575392 240 270356 5.000000 100 0 0 0 9 41984 88 0 108 0 256 41
+ 0
+0
+
+ itm_war_axe War_Axe War_Axe 1  war_ax 0  73728003 9223635923965575392 264 270356 5.000000 100 0 0 0 10 44032 86 0 110 0 256 43
+ 0
+0
+
+ itm_sword_two_handed_b Two_Handed_Sword Two_Handed_Sword 1  sword_two_handed_b 0  6365187 9223635924301119728 670 155668 2.750000 100 0 0 0 10 40960 93 0 110 0 283 40
+ 0
+0
+
+ itm_sword_two_handed_a Great_Sword Great_Sword 1  sword_two_handed_a 0  6365187 9223635924301119728 1123 155668 2.750000 100 0 0 0 10 43008 89 0 120 0 284 42
+ 0
+0
+
+ itm_bastard_sword_a Bastard_Sword Bastard_Sword 2  bastard_sword_a 0  bastard_sword_a_scabbard 3458764513820540928  4259843 9223635954298781951 294 155668 2.250000 100 0 0 0 9 37888 98 0 101 0 282 37
+ 0
+0
+
+ itm_bastard_sword_b Heavy_Bastard_Sword Heavy_Bastard_Sword 2  bastard_sword_b 0  bastard_sword_b_scabbard 3458764513820540928  4259843 9223635954298781951 526 155668 2.250000 100 0 0 0 9 37888 96 0 105 0 284 37
+ 0
+0
+
+ itm_one_handed_war_axe_a One_Handed_War_Axe One_Handed_War_Axe 1  one_handed_war_axe_a 0  80019458 9223388530091229198 87 270356 1.500000 100 0 0 0 9 32768 100 0 60 0 256 32
+ 0
+0
+
+ itm_one_handed_war_axe_b One_Handed_War_Axe One_Handed_War_Axe 1  one_handed_war_axe_b 0  80019458 9223388530091229198 137 270356 1.500000 100 0 0 0 9 34816 98 0 61 0 256 34
+ 0
+0
+
+ itm_one_handed_battle_axe_a One_Handed_Battle_Axe One_Handed_Battle_Axe 1  one_handed_battle_axe_a 0  80019458 9223388530091229198 102 270356 1.500000 100 0 0 0 9 34816 97 0 69 0 256 34
+ 0
+0
+
+ itm_one_handed_battle_axe_b One_Handed_Battle_Axe One_Handed_Battle_Axe 1  one_handed_battle_axe_b 0  80019458 9223388530091229198 171 270356 1.750000 100 0 0 0 9 36864 96 0 70 0 256 36
+ 0
+0
+
+ itm_one_handed_battle_axe_c One_Handed_Battle_Axe One_Handed_Battle_Axe 1  one_handed_battle_axe_c 0  80019458 9223388530091229198 294 270356 2.000000 100 0 0 0 9 38912 95 0 72 0 256 38
+ 0
+0
+
+ itm_two_handed_axe Two_Handed_Axe Two_Handed_Axe 1  two_handed_battle_axe_a 0  34433466371 9223635923965575392 110 270356 4.500000 100 0 0 0 10 40960 90 0 90 0 256 40
+ 0
+0
+
+ itm_two_handed_battle_axe_2 Two_Handed_War_Axe Two_Handed_War_Axe 1  two_handed_battle_axe_b 0  34433466371 9223635923965575392 202 270356 4.500000 100 0 0 0 10 48128 92 0 92 0 256 47
+ 0
+0
+
+ itm_two_handed_battle_axe_3 Voulge Voulge 1  two_handed_battle_axe_c 0  73728003 9223635923965575392 258 270356 4.500000 100 0 0 0 10 49152 87 0 100 0 256 48
+ 0
+0
+
+ itm_bardiche Bardiche Bardiche 1  two_handed_battle_axe_d 0  34433466371 9223635923965575392 311 270356 4.500000 100 0 0 0 10 51200 87 0 102 0 256 50
+ 0
+0
+
+ itm_great_axe Great_Axe Great_Axe 1  two_handed_battle_axe_e 0  34433466371 9223635923965575392 446 270356 4.500000 100 0 0 0 10 52224 90 0 96 0 256 51
+ 0
+0
+
+ itm_great_bardiche Great_Bardiche Great_Bardiche 1  two_handed_battle_axe_f 0  34433409027 9223635923965575392 617 270356 4.500000 100 0 0 0 10 48128 90 0 116 0 256 47
+ 0
+0
+
+ itm_shortened_military_scythe Shortened_Military_Scythe Shortened_Military_Scythe 1  two_handed_battle_scythe_a 0  6365187 9223635924234010848 264 270356 3.000000 100 0 0 0 10 45056 90 0 112 0 256 44
+ 0
+0
+
+ itm_sword_medieval_a Sword Sword 2  sword_medieval_a 0  sword_medieval_a_scabbard 3458764513820540928  4259842 9223388564182532111 163 155668 1.500000 100 0 0 0 0 27648 99 0 95 0 278 27
+ 0
+0
+
+ itm_sword_medieval_b Sword Sword 4  sword_medieval_b 0  sword_medieval_b_scabbard 3458764513820540928  sword_rusty_a 4  sword_rusty_a_scabbard 3458764513820540932  4259842 9223388564182532111 243 155668 1.500000 100 0 0 0 0 28672 99 0 95 0 279 28
+ 0
+0
+
+ itm_sword_medieval_b_small Short_Sword Short_Sword 2  sword_medieval_b_small 0  sword_medieval_b_small_scabbard 3458764513820540928  4259842 9223388564182532111 152 155668 1.500000 100 0 0 0 0 26624 102 0 85 0 280 26
+ 0
+0
+
+ itm_sword_medieval_c Arming_Sword Arming_Sword 2  sword_medieval_c 0  sword_medieval_c_scabbard 3458764513820540928  4259842 9223388564182532111 410 155668 1.500000 100 0 0 0 0 29696 99 0 95 0 280 29
+ 0
+0
+
+ itm_sword_medieval_c_small Short_Arming_Sword Short_Arming_Sword 2  sword_medieval_c_small 0  sword_medieval_c_small_scabbard 3458764513820540928  4259842 9223388564182532111 243 155668 1.500000 100 0 0 0 0 26624 103 0 86 0 280 26
+ 0
+0
+
+ itm_sword_viking_1 Nordic_Sword Nordic_Sword 2  sword_viking_c 0  sword_viking_c_scabbard 3458764513820540928  4259842 9223388564182532111 147 155668 1.500000 100 0 0 0 0 28672 99 0 94 0 276 28
+ 0
+0
+
+ itm_sword_viking_2 Nordic_Sword Nordic_Sword 2  sword_viking_b 0  sword_viking_b_scabbard 3458764513820540928  4259842 9223388564182532111 276 155668 1.500000 100 0 0 0 0 29696 99 0 95 0 277 29
+ 0
+0
+
+ itm_sword_viking_2_small Nordic_Short_Sword Nordic_Short_Sword 2  sword_viking_b_small 0  sword_viking_b_small_scabbard 3458764513820540928  4259842 9223388564182532111 162 155668 1.250000 100 0 0 0 0 28672 103 0 85 0 277 28
+ 0
+0
+
+ itm_sword_viking_3 Nordic_Sword Nordic_Sword 2  sword_viking_a 0  sword_viking_a_scabbard 3458764513820540928  4259842 9223388564182532111 394 155668 1.500000 100 0 0 0 0 30720 99 0 95 0 277 30
+ 0
+0
+
+ itm_sword_viking_3_small Nordic_Sword Nordic_Sword 2  sword_viking_a_small 0  sword_viking_a_small_scabbard 3458764513820540928  4259842 9223388564182532111 280 155668 1.250000 100 0 0 0 0 29696 103 0 86 0 277 29
+ 0
+0
+
+ itm_sword_khergit_1 Nomad_Sabre Nomad_Sabre 2  khergit_sword_b 0  khergit_sword_b_scabbard 3458764513820540928  4259842 9223388564182532110 105 155668 1.250000 100 0 0 0 0 29696 100 0 97 0 0 29
+ 0
+0
+
+ itm_sword_khergit_2 Sabre Sabre 2  khergit_sword_c 0  khergit_sword_c_scabbard 3458764513820540928  4259842 9223388564182532110 191 155668 1.500000 100 0 0 0 0 30720 99 0 97 0 0 30
+ 0
+0
+
+ itm_sword_khergit_3 Sabre Sabre 2  khergit_sword_a 0  khergit_sword_a_scabbard 3458764513820540928  4259842 9223388564182532110 294 155668 1.500000 100 0 0 0 0 31744 99 0 98 0 0 31
+ 0
+0
+
+ itm_sword_khergit_4 Heavy_Sabre Heavy_Sabre 2  khergit_sword_d 0  khergit_sword_d_scabbard 3458764513820540928  4259842 9223388564182532110 384 155668 1.750000 100 0 0 0 0 33792 96 0 96 0 0 33
+ 0
+0
+
+ itm_club_with_spike_head Club_with_Spike Club_with_Spike 1  mace_e 0  274882428931 9223635923965575423 72 270356 3.500000 100 0 0 0 9 26624 103 0 80 0 281 538
+ 0
+0
+
+ itm_scythe Scythe Scythe 1  scythe 0  138772484 4222131026005760 43 8202 3.000000 100 0 0 0 0 19456 79 0 182 0 270 19
+ 0
+0
+
+ itm_pitch_fork Pitch_Fork Pitch_Fork 1  pitch_fork 0  138772484 4222124851986688 19 8202 3.500000 100 0 0 0 0 0 83 0 154 0 274 512
+ 0
+0
+
+ itm_military_fork Military_Fork Military_Fork 1  military_fork 0  138772484 4222124851986688 153 8202 4.500000 100 0 0 0 0 0 88 0 135 0 279 512
+ 0
+0
+
+ itm_battle_fork Battle_Fork Battle_Fork 1  battle_fork 0  138772484 4222124851986688 282 8202 4.500000 100 0 0 0 0 0 87 0 142 0 280 512
+ 0
+0
+
+ itm_boar_spear Boar_Spear Boar_Spear 1  spear 0  138772484 4222131026002176 76 8202 4.000000 100 0 0 0 0 0 81 0 157 0 279 0
+ 0
+0
+
+ itm_jousting_lance Jousting_Lance Jousting_Lance 1  joust_of_peace 0  2286256132 201326848 158 8202 5.000000 100 0 0 0 0 0 61 0 218 0 529 0
+ 0
+0
+
+ itm_double_sided_lance Double_Sided_Lance Double_Sided_Lance 1  lance_dblhead 0  2286256132 4222124851990272 261 8202 5.500000 100 0 0 0 0 0 80 0 130 0 283 0
+ 0
+0
+
+ itm_glaive Glaive Glaive 1  glaive 0  6651908 4222131026005760 352 8202 4.500000 100 0 0 0 0 38912 83 0 157 0 277 38
+ 0
+0
+
+ itm_poleaxe Poleaxe Poleaxe 1  pole_ax 0  6651908 4222124851990272 384 8202 6.500000 100 0 0 0 0 37888 77 0 180 0 277 37
+ 0
+0
+
+ itm_staff Staff Staff 1  wooden_staff 0  138903556 4222129415393024 36 8202 1.500000 100 0 0 0 0 18432 100 0 130 0 531 530
+ 0
+0
+
+ itm_quarter_staff Quarter_Staff Quarter_Staff 1  quarter_staff 0  138903556 4222129415393024 60 8202 2.000000 100 0 0 0 0 20480 104 0 140 0 532 532
+ 0
+0
+
+ itm_iron_staff Iron_Staff Iron_Staff 1  iron_staff 0  138510340 4222129415393024 202 8202 2.000000 100 0 0 0 0 25600 97 0 140 0 538 537
+ 0
+0
+
+ itm_shortened_spear Shortened_Spear Shortened_Spear 1  spear_g_1-9m 0  138772484 4222131026005760 53 8202 2.000000 100 0 0 0 0 19456 102 0 120 0 281 531
+ 0
+0
+
+ itm_spear Spear Spear 1  spear_h_2-15m 0  138772484 4222131026005760 75 8202 2.250000 100 0 0 0 0 20480 98 0 135 0 282 532
+ 0
+0
+
+ itm_war_spear War_Spear War_Spear 1  spear_i_2-3m 0  138772484 4222131026005760 90 8202 2.500000 100 0 0 0 0 20480 96 0 150 0 283 532
+ 0
+0
+
+ itm_spear_e_2_5m Military_Scythe Military_Scythe 2  spear_e_2-5m 0  spear_c_2-5m 6291486  138772484 4222131026002688 145 8202 2.500000 100 0 0 0 10 36864 93 0 155 0 281 36
+ 0
+0
+
+ itm_light_lance Light_Lance Light_Lance 1  spear_b_2-75m 0  2286256132 4222124851987200 89 8202 2.500000 100 0 0 0 0 16384 90 0 175 0 283 528
+ 0
+0
+
+ itm_lance Lance Lance 1  spear_d_2-8m 0  2286256132 4222124851987200 110 8202 2.500000 100 0 0 0 0 16384 88 0 180 0 282 528
+ 0
+0
+
+ itm_heavy_lance Heavy_Lance Heavy_Lance 1  spear_f_2-9m 0  2286256132 4222124851987200 130 8202 2.750000 100 0 0 0 10 16384 85 0 190 0 282 528
+ 0
+0
+
+ itm_pike Pike Pike 1  spear_a_3m 0  407207940 4222124851987200 125 8202 3.000000 100 0 0 0 0 16384 81 0 245 0 282 528
+ 0
+0
+
+ itm_ashwood_pike Ashwood_Pike Ashwood_Pike 1  pike 0  6651908 4222124851987200 205 8202 3.500000 100 0 0 0 11 19456 90 0 170 0 285 531
+ 0
+0
+
+ itm_awlpike Awlpike Awlpike 1  pike 0  6651908 4222131026002688 378 8202 3.500000 100 0 0 0 12 30720 92 0 160 0 287 30
+ 0
+0
+
+ itm_wooden_shield Wooden_Shield Wooden_Shield 1  shield_round_a 0  327687 5100273664 42 167772194 2.000000 100 0 1 0 0 360 100 0 50 0 0 0
+ 0
+0
+
+ itm_nordic_shield Nordic_Shield Nordic_Shield 1  shield_round_b 0  327687 5100273664 95 167772194 2.000000 100 0 1 0 0 440 100 0 50 0 0 0
+ 0
+0
+
+ itm_fur_covered_shield Fur_Covered_Shield Fur_Covered_Shield 1  shield_kite_m 0  262151 4831838208 227 167772194 3.500000 100 0 1 0 0 600 76 0 81 0 0 0
+ 0
+0
+
+ itm_steel_shield Steel_Shield Steel_Shield 1  shield_dragon 0  65543 5100273664 697 167772194 4.000000 100 0 17 0 0 700 61 0 40 0 0 0
+ 0
+0
+
+ itm_plate_covered_round_shield Plate_Covered_Round_Shield Plate_Covered_Round_Shield 1  shield_round_e 0  0 5100273664 140 167772194 4.000000 100 0 16 0 0 330 90 0 40 0 0 0
+ 0
+0
+
+ itm_leather_covered_round_shield Leather_Covered_Round_Shield Leather_Covered_Round_Shield 1  shield_round_d 0  262151 5100273664 80 167772194 2.500000 100 0 8 0 0 310 96 0 40 0 0 0
+ 0
+0
+
+ itm_hide_covered_round_shield Hide_Covered_Round_Shield Hide_Covered_Round_Shield 1  shield_round_f 0  262151 5100273664 40 167772194 2.000000 100 0 3 0 0 260 100 0 40 0 0 0
+ 0
+0
+
+ itm_shield_heater_c Heater_Shield Heater_Shield 1  shield_heater_c 0  327687 4831838208 277 167772194 3.500000 100 0 2 0 0 410 80 0 50 0 0 0
+ 0
+0
+
+ itm_tab_shield_round_a Old_Round_Shield Old_Round_Shield 1  tableau_shield_round_5 0  327687 5100273664 26 167772194 2.500000 100 0 0 0 0 350 93 0 50 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 7 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_round_b Plain_Round_Shield Plain_Round_Shield 1  tableau_shield_round_3 0  327687 5100273664 65 167772194 3.000000 100 0 2 0 0 460 90 0 50 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 5 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_round_c Round_Shield Round_Shield 1  tableau_shield_round_2 0  327687 5100273664 105 167772194 3.500000 100 0 4 0 0 540 87 0 50 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 4 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_round_d Heavy_Round_Shield Heavy_Round_Shield 1  tableau_shield_round_1 0  327687 5100273664 210 167772194 4.000000 100 0 6 0 0 600 84 0 50 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 3 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_round_e Huscarl's_Round_Shield Huscarl's_Round_Shield 1  tableau_shield_round_4 0  65543 5100273664 430 167772194 4.500000 100 0 8 0 0 690 81 0 50 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 6 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_kite_a Old_Kite_Shield Old_Kite_Shield 1  tableau_shield_kite_1 0  327687 4831838208 33 167772194 2.000000 100 0 0 0 0 285 96 0 60 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 11 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_kite_b Plain_Kite_Shield Plain_Kite_Shield 1  tableau_shield_kite_3 0  327687 4831838208 70 167772194 2.500000 100 0 2 0 0 365 93 0 60 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 13 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_kite_c Kite_Shield Kite_Shield 1  tableau_shield_kite_2 0  327687 4831838208 156 167772194 3.000000 100 0 5 0 0 435 90 0 60 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 12 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_kite_d Heavy_Kite_Shield Heavy_Kite_Shield 1  tableau_shield_kite_2 0  327687 4831838208 320 167772194 3.500000 100 0 8 0 0 515 87 0 60 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 12 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_kite_cav_a Horseman's_Kite_Shield Horseman's_Kite_Shield 1  tableau_shield_kite_4 0  327687 4831838208 205 167772194 2.000000 100 0 10 0 0 310 103 0 40 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 14 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_kite_cav_b Knightly_Kite_Shield Knightly_Kite_Shield 1  tableau_shield_kite_4 0  65543 4831838208 360 167772194 2.500000 100 0 16 0 0 370 100 0 40 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 14 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_heater_a Old_Heater_Shield Old_Heater_Shield 1  tableau_shield_heater_1 0  327687 4831838208 36 167772194 2.000000 100 0 1 0 0 280 96 0 60 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 15 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_heater_b Plain_Heater_Shield Plain_Heater_Shield 1  tableau_shield_heater_1 0  327687 4831838208 74 167772194 2.500000 100 0 3 0 0 360 93 0 60 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 15 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_heater_c Heater_Shield Heater_Shield 1  tableau_shield_heater_1 0  327687 4831838208 160 167772194 3.000000 100 0 6 0 0 430 90 0 60 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 15 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_heater_d Heavy_Heater_Shield Heavy_Heater_Shield 1  tableau_shield_heater_1 0  327687 4831838208 332 167772194 3.500000 100 0 9 0 0 510 87 0 60 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 15 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_heater_cav_a Horseman's_Heater_Shield Horseman's_Heater_Shield 1  tableau_shield_heater_2 0  327687 4831838208 229 167772194 2.000000 100 0 12 0 0 300 103 0 40 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 16 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_heater_cav_b Knightly_Heater_Shield Knightly_Heater_Shield 1  tableau_shield_heater_2 0  327687 4831838208 390 167772194 2.500000 100 0 18 0 0 360 100 0 40 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 16 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_pavise_a Old_Board_Shield Old_Board_Shield 1  tableau_shield_pavise_2 0  268763143 6442450944 60 167772194 3.500000 100 0 0 0 0 510 89 0 84 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 18 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_pavise_b Plain_Board_Shield Plain_Board_Shield 1  tableau_shield_pavise_2 0  268763143 6442450944 114 167772194 4.000000 100 0 1 0 0 640 85 0 84 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 18 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_pavise_c Board_Shield Board_Shield 1  tableau_shield_pavise_1 0  268763143 6442450944 210 167772194 4.500000 100 0 2 0 0 760 81 0 84 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 17 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_pavise_d Heavy_Board_Shield Heavy_Board_Shield 1  tableau_shield_pavise_1 0  268763143 6442450944 370 167772194 5.000000 100 0 3 0 0 980 78 0 84 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 17 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_small_round_a Plain_Cavalry_Shield Plain_Cavalry_Shield 1  tableau_shield_small_round_3 0  327687 5100273664 96 167772194 2.000000 100 0 3 0 0 310 105 0 40 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 10 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_small_round_b Round_Cavalry_Shield Round_Cavalry_Shield 1  tableau_shield_small_round_1 0  327687 5100273664 195 167772194 2.500000 100 0 9 0 0 370 103 0 40 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 8 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_small_round_c Elite_Cavalry_Shield Elite_Cavalry_Shield 1  tableau_shield_small_round_2 0  65543 5100273664 370 167772194 3.000000 100 0 14 0 0 420 100 0 40 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063446 9 1224979098644774912 1224979098644774913 
+
+ itm_jarid Jarid Jarid 2  jarid_new 0  jarid_quiver 3458764513820540928  71368714 36507484160 209 4398046781448 4.000000 100 0 0 0 2 0 89 27 65 7 289 0
+ 0
+0
+
+ itm_javelin Javelin Javelin 2  javelin 0  javelins_quiver 3458764513820540928  71368714 36507484160 75 4398046781448 5.000000 100 0 0 0 1 0 91 28 75 7 284 0
+ 0
+0
+
+ itm_stones Stones Stones 1  throwing_stone 0  4259850 65536 1 4398046511104 4.000000 100 0 0 0 0 0 97 30 8 18 523 0
+ 0
+0
+
+ itm_throwing_knives Throwing_Knives Throwing_Knives 1  throwing_knife 0  4259850 131072 76 4398046781448 3.500000 100 0 0 0 0 0 121 25 0 15 19 0
+ 0
+0
+
+ itm_throwing_daggers Throwing_Daggers Throwing_Daggers 1  throwing_dagger 0  4259850 131072 193 4398046781448 3.500000 100 0 0 0 0 0 110 24 0 14 25 0
+ 0
+0
+
+ itm_throwing_axes Throwing_Axes Throwing_Axes 1  francisca 0  71368714 196608 241 4398046781448 5.000000 100 0 0 0 1 0 99 20 53 7 38 0
+ 0
+0
+
+ itm_hunting_bow Hunting_Bow Hunting_Bow 2  hunting_bow 0  hunting_bow_carry 3458764513820540928  6357000 5905584128 17 655370 1.000000 100 0 0 0 0 0 100 48 0 0 271 0
+ 0
+0
+
+ itm_short_bow Short_Bow Short_Bow 2  short_bow 0  short_bow_carry 3458764513820540928  6357000 5905584128 58 655370 1.000000 100 0 0 0 1 0 98 52 0 0 274 0
+ 0
+0
+
+ itm_nomad_bow Nomad_Bow Nomad_Bow 2  nomad_bow 0  nomad_bow_case 3458764513820540928  6357000 37312532480 164 655370 1.250000 100 0 0 0 2 0 96 53 0 0 276 0
+ 0
+0
+
+ itm_long_bow Long_Bow Long_Bow 2  long_bow 0  long_bow_carry 3458764513820540928  6357000 5905584128 145 655370 1.750000 100 0 0 0 3 0 82 54 0 0 278 0
+ 0
+0
+
+ itm_khergit_bow Khergit_Bow Khergit_Bow 2  khergit_bow 0  khergit_bow_case 3458764513820540928  6357000 37312532480 269 655370 1.250000 100 0 0 0 3 0 95 56 0 0 277 0
+ 0
+0
+
+ itm_strong_bow Strong_Bow Strong_Bow 2  strong_bow 0  strong_bow_case 3458764513820540928  6357000 37312532480 437 131082 1.250000 100 0 0 0 3 0 94 57 0 0 279 0
+ 0
+0
+
+ itm_war_bow War_Bow War_Bow 2  war_bow 0  war_bow_carry 3458764513820540928  6357000 5905584128 728 655370 1.500000 100 0 0 0 4 0 93 58 0 0 281 0
+ 0
+0
+
+ itm_hunting_crossbow Hunting_Crossbow Hunting_Crossbow 1  crossbow 0  6357001 5637160960 22 131082 2.250000 100 0 0 0 0 0 47 50 0 1 284 0
+ 0
+0
+
+ itm_light_crossbow Light_Crossbow Light_Crossbow 1  light_crossbow 0  6357001 5637160960 67 131082 2.500000 100 0 0 0 8 0 45 59 0 1 290 0
+ 0
+0
+
+ itm_crossbow Crossbow Crossbow 1  crossbow 0  274792457 5637160960 182 131082 3.000000 100 0 0 0 8 0 43 68 0 1 294 0
+ 0
+0
+
+ itm_heavy_crossbow Heavy_Crossbow Heavy_Crossbow 1  heavy_crossbow 0  274792457 5637160960 349 131082 3.500000 100 0 0 0 9 0 41 72 0 1 302 0
+ 0
+0
+
+ itm_sniper_crossbow Siege_Crossbow Siege_Crossbow 1  heavy_crossbow 0  274792457 5637160960 683 131082 3.750000 100 0 0 0 10 0 37 74 0 1 305 0
+ 0
+0
+
+ itm_flintlock_pistol Flintlock_Pistol Flintlock_Pistol 1  flintlock_pistol 0  616628240 481036795904 230 131082 1.500000 100 0 0 65 0 0 38 160 0 1 297 0
+ 0
+1
+-51.000000  4 600 1 187 720 2 1 27 721 2 1 36 1969 3 19 1 15 
+
+ itm_court_dress Court_Dress Court_Dress 1  court_dress 0  553648141 0 348 123731968 4.000000 100 0 14 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_outfit Rich_Outfit Rich_Outfit 1  merchant_outf 0  553648141 0 348 123731968 4.000000 100 0 16 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_khergit_guard_armor Khergit_Guard_Armor Khergit_Guard_Armor 1  lamellar_armor_a 0  16777229 0 348 704643236 14.000000 100 0 34 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_khergit_war_helmet Khergit_War_Helmet Khergit_War_Helmet 1  tattered_steppe_cap_a_new 0  12 0 322 123731968 2.000000 100 31 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_khergit_helmet Khergit_Helmet Khergit_Helmet 1  khergit_guard_helmet 0  12 0 361 123731968 2.000000 100 33 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_khergit_guard_helmet Khergit_Guard_Helmet Khergit_Guard_Helmet 1  lamellar_helmet_a 0  12 0 433 123731968 2.000000 100 36 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_khergit_cavalry_helmet Khergit_Cavalry_Helmet Khergit_Cavalry_Helmet 1  lamellar_helmet_b 0  12 0 433 123731968 2.000000 100 36 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_black_hood Black_Hood Black_Hood 1  hood_black 0  65548 0 193 123731968 2.000000 100 18 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_light_leather Light_Leather Light_Leather 1  light_leather 0  16842765 0 352 704643236 5.000000 100 0 26 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_light_leather_boots Light_Leather_Boots Light_Leather_Boots 1  light_leather_boots 0  69390 0 91 123731968 1.000000 100 0 0 15 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mail_and_plate Mail_and_Plate Mail_and_Plate 1  mail_and_plate 0  16777229 0 593 704643236 16.000000 100 0 34 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_olredder Ol'_Redder Ol'_Redder 1  OlRedder 0  2684358668 0 18 123731968 1.000000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wolf Wolf Wolf 2  Wolf 0  Wolf2 251658240  2684358668 0 18 123731968 1.000000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_revolver Revolver Revolver 1  Revolver 0  549457936 483452715008 750 131082 2.000000 100 0 0 75 0 0 57 160 0 6 331 0
+ 0
+1
+-51.000000  4 600 1 64 720 2 1 27 721 2 1 36 1969 3 19 1 15 
+
+ itm_bicycle Bicycle Bicycle 1  Bicycle 0  536870913 0 368 41876193280 0.000000 80 0 15 0 0 0 41 37 0 0 7 0
+ 0
+0
+
+ itm_sanguineblade Blood_Iron_Bastard_Sword Blood_Iron_Bastard_Sword 2  sanguinesword 0  bastard_sword_a_scabbard 3458764513820540928  541069315 9223635954298781951 10000 155668 2.250000 100 0 0 0 0 62464 125 0 101 0 381 381
+ 0
+0
+
+ itm_straightrazor Straightrazor Straightrazor 1  Straightrazor 0  549535746 9223372036879941646 50 155668 1.000000 100 0 0 0 0 22528 120 0 45 0 256 278
+ 0
+0
+
+ itm_coachgun Coachgun Coachgun 1  Boomstick 0  549519376 481036795904 690 131082 2.500000 100 0 0 75 0 0 76 160 0 2 297 0
+ 0
+1
+-51.000000  4 600 1 64 720 2 1 27 721 2 1 36 1969 3 19 1 15 
+
+ itm_bandolier Bandolier Bandolier 1  cartridge_a 0  65554 0 82 4398046511112 4.500000 100 0 0 0 0 0 0 0 3 80 257 0
+ 0
+0
+
+ itm_magnums Magnums Magnums 1  cartridge_a 0  65554 0 82 4398046511112 4.500000 100 0 0 0 0 0 0 0 3 30 258 0
+ 0
+0
+
+ itm_hawkhead Hawk's_Head Hawk's_Head 1  Hawk 0  2684358668 0 18 123731968 1.000000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hawkclaws Hawk's_Claws Hawk's_Claws 2  InvisModel 0  Hawk 1152921504606846976  549457922 9223388529554358286 324 155668 1.500000 100 0 0 0 0 44032 105 0 22 0 256 43
+ 0
+0
+
+ itm_shovel2 Spade_Shovel Spade_Shovel 1  Shovel2 0  684032004 9227594166295334880 100 270356 3.000000 100 0 0 0 8 20480 95 0 116 0 20 20
+ 0
+0
+
+ itm_scythe2 Grain_Scythe Grain_Scythe 1  Scythe2 0  684032004 9227594166295334880 100 270356 3.000000 100 0 0 0 8 24576 95 0 116 0 528 24
+ 0
+0
+
+ itm_pitchfork2 Hay_Fork Hay_Fork 1  Pitchfork2 0  684032004 9227594166295334880 100 270356 3.000000 100 0 0 0 8 16384 95 0 116 0 280 528
+ 0
+0
+
+ itm_besom Besom Besom 1  Broomstick 0  536875009 0 646 110595670016 0.000000 70 0 16 0 0 0 37 43 0 0 11 0
+ 0
+0
+
+ itm_ghostwood_sword Ghostwood_Splinter Ghostwood_Splinter 1  ghostwood_sword 0  12976130 9223388529554358287 6 0 1.500000 100 0 0 0 0 32768 114 0 90 0 532 544
+ 0
+0
+
+ itm_heavy_ghostwood_sword Ghostwood_Thorn Ghostwood_Thorn 1  heavy_ghostwood_sword 0  6684675 9223635919737716976 42 0 6.250000 100 0 0 0 0 53248 104 0 128 0 548 564
+ 0
+0
+
+ itm_ghostwood_mace Ghostwood_Sap Ghostwood_Sap 1  ghostwood_mace 0  274957860866 9223388530091229198 48 270356 2.000000 100 0 0 0 0 40960 105 0 75 0 256 552
+ 0
+0
+
+ itm_ghostwood_staff Ghostwood_Shillelagh Ghostwood_Shillelagh 1  ghostwood_staff 0  138838020 4222129415393024 18 0 2.500000 100 0 0 0 0 32768 114 0 118 0 544 544
+ 0
+0
+
+ itm_ghostwood_lance Ghostwood_Needle Ghostwood_Needle 1  ghostwood_lance 0  2286321668 201326848 36 0 4.250000 100 0 0 0 0 0 64 0 218 0 542 512
+ 0
+0
+
+ itm_ghostwood_javelin Ghostwood_Dart Ghostwood_Dart 2  ghostwood_javelin 0  InvisModel 3458764513820540928  71303178 36507484160 38 4398046781448 5.000000 100 0 0 0 0 0 101 28 75 50 566 0
+ 0
+0
+
+ itm_ghostwood_bow Ghostwood_Sling Ghostwood_Sling 1  ghostwood_bow 0  6291464 5905584128 82 655370 1.500000 100 0 0 0 0 0 99 40 0 0 550 0
+ 0
+0
+
+ itm_ghostwood_arrows Ghostwood_Elfshot Ghostwood_Elfshot 3  ghostwood_arrow 0  flying_missile 2305843009213693952  InvisModel 3458764513820540928  5 2147483648 36 4398046511112 1.500000 100 0 0 0 0 0 0 0 95 80 514 0
+ 0
+0
+
+ itm_ghostwood_crossbow Ghostwood_Prodd Ghostwood_Prodd 1  ghostwood_crossbow 0  6291465 5637160960 91 131082 3.000000 100 0 0 0 0 0 47 68 0 1 576 0
+ 0
+0
+
+ itm_ghostwood_bolts Ghostwood_Gobshot Ghostwood_Gobshot 3  ghostwood_bolt 0  flying_missile 2305843009213693952  InvisModel 3458764513820540928  6 1879048192 64 4398046511112 2.250000 90 0 0 0 0 0 0 0 55 49 514 0
+ 0
+0
+
+ itm_ghostwood_shield Ghostwood_Thimble Ghostwood_Thimble 1  FairyBuckler 0  393223 0 40 0 3.500000 100 0 1 0 0 400 110 0 50 0 0 0
+ 0
+0
+
+ itm_book_sunstone Fairy_Sunstone Fairy_Sunstone 1  Sunstone 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_plagueshroud Plague_Wraps Plague_Wraps 1  plaguehood 0  553713676 0 1 123731968 1.250000 100 14 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_assassinmask Assassin's_Mask Assassin's_Mask 1  NecraMask 0  553648140 0 6 123731968 1.000000 100 10 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fawkesmask Fawkes'_Mask Fawkes'_Mask 1  GuyFawkesMask 0  553648140 0 284 704643236 1.250000 100 25 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_butchercap Butcher's_Cap Butcher's_Cap 1  ButcherCap 0  536936460 0 1 123731968 0.500000 100 4 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_butcherapron Butcher's_Apron Butcher's_Apron 1  ButcherApron 0  553713677 0 3 123731968 1.000000 100 0 5 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_blackshoes Butcher's_Shoes Butcher's_Shoes 1  WhitecollarShoe_L 0  536936462 0 3 123731968 1.000000 100 0 0 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mummerpaint Mummer's_Paint Mummer's_Paint 1  MummerHead 0  2684354572 0 2 123731968 0.500000 100 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mummerpaintf Mummer's_Paint Mummer's_Paint 1  MummerHeadF 0  2684354572 0 2 123731968 0.500000 100 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_dustyhat Dusty_Hat Dusty_Hat 1  CowboyHat 0  536870924 0 13 123731968 1.000000 100 13 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_axeblack Axe_of_the_Black_Cat Axe_of_the_Black_Cat 1  AxeOfTheBlackCat 0  34978660355 9223635923965575392 892 270356 4.500000 100 0 0 0 0 53248 90 0 96 0 256 52
+ 0
+0
+
+ itm_bloodybanner Bloody_Banner Bloody_Banner 1  BloodyBanner 0  683704324 4222124851987200 250 8202 3.000000 100 0 0 0 0 15360 81 0 245 0 281 271
+ 0
+0
+
+ itm_coffinnails Coffin_Nails Coffin_Nails 1  CoffinNails 0  549453834 131072 386 4398046781448 3.500000 100 0 0 0 0 0 110 24 0 13 26 0
+ 0
+0
+
+ itm_saltpick Salt_Pick Salt_Pick 1  SaltPick 0  618921987 9223635923965575392 1338 270356 4.500000 100 0 0 0 0 55296 90 0 96 0 256 310
+ 0
+0
+
+ itm_patchhead Patchwork_Head Patchwork_Head 1  GhoulheadCapped 0  2684358668 0 1 123731968 10.000000 100 4 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_patchbody Patchwork_Body Patchwork_Body 1  GhoulbodyArmless 0  553652237 0 1 123731968 10.000000 100 0 5 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_patchfeet Patchwork_Feet Patchwork_Feet 1  Patchworkfoot_L 0  536875022 0 1 123731968 10.000000 100 0 0 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_patchhands Patchwork_Hands Patchwork_Hands 1  Patchworkhand_R 0  536875023 0 1 123731968 10.000000 120 0 1 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_filthbody Filth_Shambles Filth_Shambles 1  LumpBody 0  553652237 0 1 123731968 25.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_filthfeet Filth_Rickets Filth_Rickets 1  LumpFoot_L 0  536875022 0 1 123731968 25.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_piratehead Pirate's_Barnacled_Buoy Pirate's_Barnacled_Buoy 1  PirateHead 0  2684358668 0 1 123731968 25.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_piratebody Pirate's_Deadman's_Chest Pirate's_Deadman's_Chest 1  PirateBody 0  553652237 0 1 123731968 25.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_piratefeet Pirate's_Peg_Legs Pirate's_Peg_Legs 1  PirateFoot_L 0  536875022 0 1 123731968 25.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_piratehands Pirate's_Slippery_Hooks Pirate's_Slippery_Hooks 1  piratehand_L 0  536875023 0 1 123731968 25.000000 120 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_slimebludgeon Slime_Bludgeon Slime_Bludgeon 1  Ectoclub 0  274882363394 9223388530091229198 205 270356 5.500000 100 0 0 0 13 59392 75 0 98 0 256 570
+ 0
+0
+
+ itm_slimeball Slime_Ball Slime_Ball 1  Ectoball 0  4194314 65536 2 4398046511104 4.000000 100 0 0 0 0 0 97 30 8 18 534 0
+ 0
+0
+
+ itm_slimehead Slime_Plasma Slime_Plasma 1  Ectoplasm 0  2684358668 0 1 123731968 25.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gruefork Gruefork Gruefork 1  Gruefork 0  683966468 9227594166295334880 200 270356 3.000000 100 0 0 0 8 32768 95 0 180 0 304 544
+ 0
+0
+
+ itm_gruesomehead Grue_Head Grue_Head 1  GhastheadTerror 0  2684358668 0 2480 704643238 2.750000 100 110 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gruesomebody Grue_Body Grue_Body 1  GhastbodyTerror 0  553652237 0 13106 704643238 27.000000 100 0 110 34 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gruesomefeet Grue_Feet Grue_Feet 1  GhastfootTerror_L 0  536875022 0 4748 704643236 3.500000 100 0 0 66 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_grue Grue Grue 1  Terror2 0  1 0 5644 110595670016 0.000000 40 0 65 0 0 140 32 35 0 0 125 0
+ 0
+0
+
+ itm_mummydagger Mummy's_Heartrender Mummy's_Heartrender 1  MummyDagger 0  549457922 9223388529554358286 1 155668 1.500000 100 0 0 0 0 62464 125 0 47 0 256 381
+ 0
+0
+
+ itm_mummyhead Mummy's_Rags Mummy's_Rags 1  MummyHead 0  2684358668 0 1 704643238 50.000000 100 55 125 125 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mummybody Mummy's_Ribbons Mummy's_Ribbons 1  MummyBody 0  553652237 0 1 704643238 50.000000 100 0 100 25 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mummyfeet Mummy's_Tatters Mummy's_Tatters 1  MummyFoot_L 0  536875022 0 1 704643236 50.000000 100 0 0 100 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_deathhead Death_Head Death_Head 1  Ghoulhead 0  2684358668 0 1 123731968 1.000000 100 10 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_deathbody Death_Body Death_Body 1  Ghoulbody 0  553652237 0 1 123731968 6.000000 100 0 23 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_deathfeet Death_Feet Death_Feet 1  Ghoulfoot_L 0  536875022 0 1 123731968 1.250000 100 0 0 16 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_deathhands Death_Hands Death_Hands 1  Ghoulhand_L 0  536875023 0 1 123731968 0.250000 120 0 2 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_deathhorse Death_Horse Death_Horse 1  Ghoulhorse 0  536870913 0 1 110595670016 0.000000 70 0 16 0 2 100 37 43 0 0 11 0
+ 0
+0
+
+ itm_burnedhead Burned_Death_Head Burned_Death_Head 1  GhoulheadBurned 0  2684358668 0 6 123731968 0.750000 100 10 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_burnedbody Burned_Death_Body Burned_Death_Body 1  GhoulbodyBurned 0  553652237 0 321 123731968 5.000000 100 0 23 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_burnedfeet Burned_Death_Feet Burned_Death_Feet 1  GhoulfootBurned_L 0  536875022 0 174 123731968 1.000000 100 0 0 16 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_burnedhands Burned_Death_Hands Burned_Death_Hands 1  GhoulhandBurned_L 0  536875023 0 130 123731968 0.000000 120 0 2 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_burnedhorse Burned_Death_Horse Burned_Death_Horse 1  GhoulhorseBurned 0  536870913 0 323 110595670016 0.000000 70 0 16 0 2 100 41 48 0 0 11 0
+ 0
+0
+
+ itm_putridhead Putrid_Death_Head Putrid_Death_Head 1  GhoulheadPutrid 0  2684358668 0 6 123731968 1.000000 100 11 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_putridbody Putrid_Death_Body Putrid_Death_Body 1  GhoulbodyPutrid 0  553652237 0 321 123731968 6.000000 100 0 26 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_putridfeet Putrid_Death_Feet Putrid_Death_Feet 1  GhoulfootPutrid_L 0  536875022 0 174 123731968 1.250000 100 0 0 18 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_putridhands Putrid_Death_Hands Putrid_Death_Hands 1  GhoulhandPutrid_L 0  536875023 0 130 123731968 0.250000 120 0 3 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_putridhorse Putrid_Death_Horse Putrid_Death_Horse 1  GhoulhorsePutrid 0  536870913 0 323 110595670016 0.000000 70 0 18 0 2 110 37 43 0 0 11 0
+ 0
+0
+
+ itm_preservedhead Preserved_Death_Head Preserved_Death_Head 1  Ghoulhead4 0  2684358668 0 6 123731968 1.000000 100 10 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_preservedbody Preserved_Death_Body Preserved_Death_Body 1  GhoulbodyPreserved 0  553652237 0 321 123731968 6.000000 100 0 23 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_preservedfeet Preserved_Death_Feet Preserved_Death_Feet 1  Ghoulfoot4_L 0  536875022 0 174 123731968 1.250000 100 0 0 16 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_preservedhands Preserved_Death_Hands Preserved_Death_Hands 1  GhoulhandPreserved_L 0  536875023 0 130 123731968 0.250000 120 0 2 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_preservedhorse Preserved_Death_Horse Preserved_Death_Horse 1  GhoulhorsePreserved 0  536870913 0 323 110595670016 0.000000 70 0 16 0 1 100 37 43 0 0 13 0
+ 0
+0
+
+ itm_ghasthead Ghastly_Head Ghastly_Head 1  Ghasthead 0  2684358668 0 71 704643236 1.250000 100 22 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghastheadburned Ghastly_Burned_Head Ghastly_Burned_Head 1  Ghasthead2 0  2684358668 0 71 704643236 1.000000 100 22 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghastheadputrid Ghastly_Putrid_Head Ghastly_Putrid_Head 1  Ghasthead3 0  2684358668 0 71 704643236 1.250000 100 25 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghastheadpreserved Ghastly_Preserved_Head Ghastly_Preserved_Head 1  Ghasthead4 0  2684358668 0 71 704643236 1.250000 100 22 0 0 6 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_meatcleaver Ghastly_Right_Cleaver Ghastly_Right_Cleaver 1  MeatCleaver 0  616628227 9223635924234010862 294 155668 2.250000 100 0 0 0 9 37888 98 0 60 0 256 37
+ 0
+0
+
+ itm_ghastbody Ghastly_Body Ghastly_Body 1  Ghastbody 0  553652237 0 920 704643236 19.000000 100 0 37 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghastfeet Ghastly_Feet Ghastly_Feet 1  Ghastfoot_L 0  536875022 0 410 704643236 3.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghasthands Ghastly_Hands Ghastly_Hands 1  Ghasthand_L 0  536875023 0 550 704643236 0.500000 100 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_meatcleaver_dual Ghastly_Left_Cleaver Ghastly_Left_Cleaver 1  MeatCleaverDual 0  536936455 0 294 167772194 2.250000 100 0 1 0 0 600 98 0 60 0 0 0
+ 0
+0
+
+ itm_ghastbodyburned Ghastly_Burned_Body Ghastly_Burned_Body 1  Ghastbody2 0  553652237 0 920 704643236 17.000000 100 0 37 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghastfeetburned Ghastly_Burned_Feet Ghastly_Burned_Feet 1  Ghastfoot2_L 0  536875022 0 410 704643236 2.500000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghasthandsburned Ghastly_Burned_Hands Ghastly_Burned_Hands 1  Ghasthand2_L 0  536875023 0 550 704643236 0.250000 100 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghastbodyputrid Ghastly_Putrid_Body Ghastly_Putrid_Body 1  Ghastbody3 0  553652237 0 920 704643236 19.000000 100 0 41 14 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghastfeetputrid Ghastly_Putrid_Feet Ghastly_Putrid_Feet 1  Ghastfoot3_L 0  536875022 0 410 704643236 3.000000 100 0 0 24 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghasthandsputrid Ghastly_Putrid_Hands Ghastly_Putrid_Hands 1  Ghasthand3_L 0  536875023 0 550 704643236 0.500000 100 0 5 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghastbodypreserved Ghastly_Preserved_Body Ghastly_Preserved_Body 1  Ghastbody4 0  553652237 0 920 704643236 19.000000 100 0 37 12 6 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghastfeetpreserved Ghastly_Preserved_Feet Ghastly_Preserved_Feet 1  Ghastfoot4_L 0  536875022 0 410 704643236 3.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ghasthandspreserved Ghastly_Preserved_Hands Ghastly_Preserved_Hands 1  Ghasthand4_L 0  536875023 0 550 704643236 0.500000 100 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hellworm Hellworm Hellworm 1  Hellworm 0  2684358668 0 71 704643236 1.250000 100 22 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_demonclaw Demon_Right_Claw Demon_Right_Claw 1  DemonClaw 0  549453826 9223388529554358286 26 24596 0.750000 100 0 0 0 0 49152 112 0 60 0 256 48
+ 0
+0
+
+ itm_demonhead Demon_Head Demon_Head 1  Demonhead 0  2684358668 0 71 704643236 1.250000 100 22 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_demonbody Demon_Body Demon_Body 1  Demonbody 0  553652237 0 920 704643236 19.000000 100 0 37 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_demonfeet Demon_Feet Demon_Feet 1  Demonboot_L 0  536875022 0 410 704643236 3.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_demonhands Demon_Hands Demon_Hands 1  Demonhand_L 0  536875023 0 550 704643236 0.500000 100 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_demonclaw_dual Demon_Left_Claw Demon_Left_Claw 1  DemonClawDual 0  536870919 0 26 167772194 0.750000 100 0 1 0 0 600 112 0 60 0 0 0
+ 0
+0
+
+ itm_keresscythe Keres_Scythe Keres_Scythe 1  BloodDemonScythe 0  683966468 9227594166295334880 200 270356 3.000000 100 0 0 0 8 61440 112 0 116 0 552 60
+ 0
+0
+
+ itm_kereshead Keres_Head Keres_Head 1  BloodDemonHead 0  2684358668 0 36 704643236 1.250000 100 11 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_keresbody Keres_Body Keres_Body 1  BloodDemonBody 0  553652237 0 460 704643236 19.000000 100 0 19 6 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_keresfeet Keres_Feet Keres_Feet 1  BloodDemonFoot_L 0  536875022 0 205 704643236 3.000000 100 0 0 11 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kereshands Keres_Hands Keres_Hands 1  bdglove_L 0  536875023 0 275 704643236 0.500000 100 0 2 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_respitehead Respite's_Head Respite's_Head 1  MrJHead 0  2684358668 0 1240 704643238 2.750000 100 55 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_respitebody Respite's_Body Respite's_Body 1  MrJBody 0  553652237 0 6553 704643238 27.000000 100 0 55 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_respitefeet Respite's_Feet Respite's_Feet 1  MrJShoe_L 0  536875022 0 2374 704643236 3.500000 100 0 0 33 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_respitehands Respite's_Hands Respite's_Hands 1  mrjglove_L 0  536875023 0 1940 704643236 1.000000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nepenthehead Nepenthe's_Head Nepenthe's_Head 1  AbbyHead 0  2684358668 0 1240 704643238 2.750000 100 55 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nepenthebody Nepenthe's_Body Nepenthe's_Body 1  AbbyBody 0  553652237 0 6553 704643238 27.000000 100 0 55 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nepenthefeet Nepenthe's_Feet Nepenthe's_Feet 1  AbbyBoot_L 0  536875022 0 2374 704643236 3.500000 100 0 0 33 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nepenthehands Nepenthe's_Hands Nepenthe's_Hands 1  abbyglove_L 0  536875023 0 1940 704643236 1.000000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_destroyersledge Destroyer_Sledge Destroyer_Sledge 1  DestroyerSledge 0  314084556803 9223635924234010848 194 270356 6.000000 100 0 0 0 11 2048 112 0 79 0 256 578
+ 0
+0
+
+ itm_destroyerhead Destroyer_Head Destroyer_Head 1  DestroyerHead 0  2684358668 0 1240 704643238 2.750000 100 55 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_destroyerbody Destroyer_Body Destroyer_Body 1  Destroyerbody 0  553652237 0 6553 704643238 27.000000 100 0 55 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_destroyerfeet Destroyer_Feet Destroyer_Feet 1  Destroyerfoot_L 0  536875022 0 2374 704643236 3.500000 100 0 0 33 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_destroyerhands Destroyer_Hands Destroyer_Hands 1  Destroyerhand_L 0  536875023 0 1940 704643236 1.000000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_brollachanhead Brollachan_Head Brollachan_Head 1  Brollachan 0  2684358668 0 142 704643236 0.000000 100 44 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_shadowsword Shadow_Sword Shadow_Sword 1  Shadowsword 0  549453826 9223388529822793743 210 24596 2.500000 100 0 0 0 8 61440 96 0 73 0 301 60
+ 0
+0
+
+ itm_shadowhead Shadow_Head Shadow_Head 1  Shadowhead 0  2684358668 0 71 704643236 0.000000 100 22 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_shadowbody Shadow_Body Shadow_Body 1  Shadowbody 0  553652237 0 920 704643236 0.000000 100 0 37 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_shadowfeet Shadow_Feet Shadow_Feet 1  Shadowfoot_L 0  536875022 0 410 704643236 0.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_shadowhands Shadow_Hands Shadow_Hands 1  Shadowhand_L 0  536875023 0 550 704643236 0.000000 100 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_shadowshield Shadow_Shield Shadow_Shield 1  Shadowshield 0  536870919 4831838208 210 167772194 0.000000 100 0 1 0 0 600 96 0 73 0 0 0
+ 0
+0
+
+ itm_swhalberd Darkness_Halberd Darkness_Halberd 1  SWAxe 0  618954756 9227594166295334880 768 8202 6.500000 100 0 0 0 0 10240 77 0 180 0 298 74
+ 0
+0
+
+ itm_swhead Darkness_Head Darkness_Head 1  SWHead 0  2684358668 0 1240 704643238 0.000000 100 55 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_swbody Darkness_Body Darkness_Body 1  SWBody 0  553652237 0 6553 704643238 0.000000 100 0 55 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_swfeet Darkness_Feet Darkness_Feet 1  Shadowfoot_L 0  536875022 0 2374 704643236 0.000000 100 0 0 33 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_swhands Darkness_Hands Darkness_Hands 1  Shadowhand_L 0  536875023 0 1940 704643236 0.000000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_shadowbeast Shadowbeast Shadowbeast 1  ShadowBeast 0  536870913 0 1448 110595670016 0.000000 50 0 52 0 4 135 68 54 0 0 18 0
+ 0
+0
+
+ itm_golemfist Golem_Right_Fist Golem_Right_Fist 1  GolemFist 0  275427753986 9223388529554358286 588 270356 6.000000 100 0 0 0 0 12288 95 0 30 0 256 588
+ 0
+0
+
+ itm_golemhead Golem_Head Golem_Head 1  GolemHead 0  2684358668 0 71 704643236 1.250000 100 22 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_golembody Golem_Body Golem_Body 1  Golembody 0  553652237 0 920 704643236 19.000000 100 0 37 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_golemfeet Golem_Feet Golem_Feet 1  Golemfoot_L 0  536875022 0 410 704643236 3.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_golemhands Golem_Hands Golem_Hands 1  Golemhand_L 0  536875023 0 550 704643236 0.500000 100 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_golemfist_dual Golem_Left_Fist Golem_Left_Fist 1  GolemFistDual 0  537133063 0 588 167772194 6.000000 100 0 1 0 0 600 95 0 30 0 0 0
+ 0
+0
+
+ itm_golemfistiron Iron_Golem_Right_Fist Iron_Golem_Right_Fist 1  GolemFistIron 0  275427360770 9223388529554358286 1176 270356 12.000000 100 0 0 0 0 31744 95 0 30 0 256 607
+ 0
+0
+
+ itm_golemheadiron Iron_Golem_Head Iron_Golem_Head 1  GolemHeadIron 0  2684358668 0 142 704643236 2.500000 100 44 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_golembodyiron Iron_Golem_Body Iron_Golem_Body 1  GolembodyIron 0  553652237 0 1840 704643236 38.000000 100 0 74 24 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_golemfeetiron Iron_Golem_Feet Iron_Golem_Feet 1  GolemFootIron_L 0  536875022 0 820 704643236 6.000000 100 0 0 42 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_golemhandsiron Iron_Golem_Hands Iron_Golem_Hands 1  GolemHandIron_L 0  536875023 0 1100 704643236 1.000000 100 0 8 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_golemfistiron_dual Iron_Golem_Left_Fist Iron_Golem_Left_Fist 1  GolemFistIronDual 0  536870919 0 1176 167772194 12.000000 100 0 2 0 0 600 95 0 30 0 0 0
+ 0
+0
+
+ itm_golemfistgold Gold_Golem_Right_Fist Gold_Golem_Right_Fist 1  GolemFistGold 0  275427360770 9223388529554358286 1764 270356 18.000000 100 0 0 0 0 51200 95 0 30 0 256 626
+ 0
+0
+
+ itm_golemheadgold Gold_Golem_Head Gold_Golem_Head 1  GolemHeadGold 0  2684358668 0 213 704643236 3.750000 100 44 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_golembodygold Gold_Golem_Body Gold_Golem_Body 1  GolembodyGold 0  553652237 0 2760 704643236 57.000000 100 0 74 24 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_golemfeetgold Gold_Golem_Feet Gold_Golem_Feet 1  GolemFootGold_L 0  536875022 0 1230 704643236 9.000000 100 0 0 42 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_golemhandsgold Gold_Golem_Hands Gold_Golem_Hands 1  GolemHandGold_L 0  536875023 0 1650 704643236 1.500000 100 0 8 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_golemfistgold_dual Gold_Golem_Left_Fist Gold_Golem_Left_Fist 1  GolemFistGoldDual 0  536870919 0 1764 167772194 18.000000 100 0 2 0 0 600 95 0 30 0 0 0
+ 0
+0
+
+ itm_bloodcannon Blood_Engine_Cannon Blood_Engine_Cannon 1  SiegeCannon 0  616562704 481036795904 1840 131082 5.000000 100 0 0 90 0 0 76 160 0 99 356 0
+ 0
+1
+-51.000000  4 600 1 63 720 2 1 27 721 2 1 36 1969 3 19 1 15 
+
+ itm_bloodcannonballs Blood_Engine_Cannonballs Blood_Engine_Cannonballs 1  Bloodcannonballs 0  536870930 0 336 4398046511112 4.000000 100 0 0 0 0 0 0 0 3 99 260 0
+ 0
+0
+
+ itm_bloodenginehead Blood_Engine_Head Blood_Engine_Head 1  SiegeGolemHead 0  2684358668 0 1240 704643238 2.750000 100 55 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bloodenginebody Blood_Engine_Body Blood_Engine_Body 1  SiegeGolemBody 0  553652237 0 6553 704643238 27.000000 100 0 55 17 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bloodenginefeet Blood_Engine_Feet Blood_Engine_Feet 1  SiegeGolemFoot_L 0  536875022 0 2374 704643236 3.500000 100 0 0 33 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bloodenginehands Blood_Engine_Hands Blood_Engine_Hands 1  SiegeGolemHand_R 0  536875023 0 1940 704643236 1.000000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sludgecannon Sludge_Engine_Cannon Sludge_Engine_Cannon 1  SiegeCannonSludge 0  616562704 481036795904 1840 131082 5.000000 100 0 0 90 0 0 76 160 0 99 612 0
+ 0
+1
+-51.000000  4 600 1 63 720 2 1 27 721 2 1 36 1969 3 19 1 15 
+
+ itm_sludgecannonballs Sludge_Engine_Cannonballs Sludge_Engine_Cannonballs 1  SiegeCannonballsSludge 0  536870930 0 336 4398046511112 4.000000 100 0 0 0 0 0 0 0 3 99 260 0
+ 0
+0
+
+ itm_sludgeenginehead Sludge_Engine_Head Sludge_Engine_Head 1  SiegeGolemHeadSludge 0  2684358668 0 1240 704643238 2.750000 100 55 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sludgeenginebody Sludge_Engine_Body Sludge_Engine_Body 1  SiegeGolemBodySludge 0  553652237 0 6553 704643238 27.000000 100 0 55 17 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sludgeenginefeet Sludge_Engine_Feet Sludge_Engine_Feet 1  SiegeGolemFootSludge_L 0  536875022 0 2374 704643236 3.500000 100 0 0 33 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sludgeenginehands Sludge_Engine_Hands Sludge_Engine_Hands 1  SiegeGolemHandSludge_R 0  536875023 0 1940 704643236 1.000000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_terracottastars Terracotta_Stars Terracotta_Stars 1  TerracottaStar 0  4194314 131072 386 4398046781448 3.500000 100 0 0 0 0 0 110 24 0 15 24 0
+ 0
+0
+
+ itm_terracottahead Terracotta_Head Terracotta_Head 1  TerracottaHead 0  2684358668 0 71 704643236 1.250000 100 22 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_terracottabody Terracotta_Body Terracotta_Body 1  TerracottaBody 0  553652237 0 920 704643236 19.000000 100 0 37 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_terracottafeet Terracotta_Feet Terracotta_Feet 1  TerracottaFoot_L 0  536875022 0 410 704643236 3.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hornedknife Acolyte's_Sacrifice Acolyte's_Sacrifice 1  HornedKnife2 0  616562690 9223388529822793742 4 270356 1.500000 100 0 0 0 0 22528 99 0 40 0 256 22
+ 0
+0
+
+ itm_hornedmask Acolyte's_Silence Acolyte's_Silence 1  HornedMask2 0  536870924 0 2 123731968 0.500000 100 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hornedrobe Acolyte's_Oath Acolyte's_Oath 1  HornedRobe 0  553648141 0 6 123731968 1.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hornedgloves Acolyte's_Ritual Acolyte's_Ritual 1  hornedglove_L 0  536870927 0 104 123731968 0.250000 120 0 2 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hornedsandals Acolyte's_Obedience Acolyte's_Obedience 1  ExorcistBoot_L 0  536870926 0 6 123731968 1.000000 100 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_vessel Vessel Vessel 1  Grail2 0  536870919 0 336 167772194 2.000000 10 0 1 0 0 432 100 0 50 0 0 0
+ 0
+0
+
+ itm_necrostaff Necromancer's_Stroke Necromancer's_Stroke 1  Necrostaff 0  684097540 9227594166295334880 240 8202 2.000000 100 0 0 0 0 22528 104 0 140 0 534 534
+ 0
+0
+
+ itm_necrohelm Necromancer's_Dementia Necromancer's_Dementia 1  Necrohelm 0  2684354572 0 12 123731968 1.000000 100 11 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroarmor Necromancer's_Consumption Necromancer's_Consumption 1  Necroarmor 0  553648141 0 642 123731968 6.000000 100 0 26 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogauntlets Necromancer's_Palsy Necromancer's_Palsy 1  necrogauntlet_L 0  536870927 0 260 123731968 0.250000 120 0 3 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogreaves Necromancer's_Atrophy Necromancer's_Atrophy 1  Necroboot_L 0  536870926 0 348 123731968 1.250000 100 0 0 18 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroshield Necromancer's_Blindness Necromancer's_Blindness 1  Necroshield 0  537133063 6442450944 168 167772194 2.000000 100 0 1 0 0 396 100 0 50 0 0 0
+ 0
+0
+
+ itm_necrohorse Necromancer's_Nightmare Necromancer's_Nightmare 1  Nightmare 0  536870913 0 868 110595670016 0.000000 60 0 29 0 3 130 36 44 0 0 18 0
+ 0
+0
+
+ itm_fracture Fracture Fracture 1  NecroPick 0  541327362 9223388529554358286 1136 270356 4.000000 10 0 0 0 0 33792 90 0 90 0 256 289
+ 0
+0
+
+ itm_necrotorch Fleshburner's_Cinders Fleshburner's_Cinders 1  BurnedTorch 0  549847042 9223388529554358287 22 0 1.750000 100 0 0 0 0 19456 119 0 95 0 256 531
+ 0
+0
+
+ itm_necrohelm2 Fleshburner's_Teeth Fleshburner's_Teeth 1  Necrohelm2 0  536870924 0 12 123731968 0.750000 100 13 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroarmor2 Fleshburner's_Fragments Fleshburner's_Fragments 1  Necroarmor2 0  553648141 0 642 123731968 4.500000 100 0 29 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogauntlets2 Fleshburner's_Ashes Fleshburner's_Ashes 1  necrogauntlet2_L 0  536870927 0 260 123731968 0.000000 120 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogreaves2 Fleshburner's_Blisters Fleshburner's_Blisters 1  Necroboot2_L 0  536870926 0 696 123731968 0.750000 100 0 0 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroshield2 Fleshburner's_Scars Fleshburner's_Scars 1  Necroshield2 0  537133063 6442450944 84 167772194 1.500000 100 0 1 0 0 450 125 0 85 0 0 0
+ 0
+0
+
+ itm_necrohorseburned Fleshburner's_Panic Fleshburner's_Panic 1  BurnedNightmare 0  536870913 0 1736 110595670016 0.000000 60 0 29 0 3 130 45 63 0 0 18 0
+ 0
+0
+
+ itm_kindling Kindling Kindling 1  Kindle 0  683966468 4222124851987200 1000 8202 2.250000 10 0 0 0 0 24576 81 0 245 0 295 536
+ 0
+0
+
+ itm_putridmallet Plaguedoctor's_Medicine Plaguedoctor's_Medicine 1  PutridMallet 0  314084556803 9223635924234010848 202 270356 7.000000 100 0 0 0 12 45056 82 0 82 0 256 556
+ 0
+0
+
+ itm_necrohelm3 Plaguedoctor's_Filter Plaguedoctor's_Filter 1  Necrohelm3 0  536870924 0 24 123731968 1.000000 100 17 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroarmor3 Plaguedoctor's_Shroud Plaguedoctor's_Shroud 1  Necroarmor3 0  553648141 0 642 123731968 6.000000 100 0 37 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogauntlets3 Plaguedoctor's_Bandages Plaguedoctor's_Bandages 1  necrogauntlet3_L 0  536870927 0 520 123731968 0.250000 120 0 5 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogreaves3 Plaguedoctor's_Waders Plaguedoctor's_Waders 1  Necroboot3_L 0  536870926 0 348 123731968 1.250000 100 0 0 25 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroshield3 Plaguedoctor's_Needle Plaguedoctor's_Needle 1  Necroshield3 0  536870919 5100273664 84 167772194 2.000000 100 0 2 0 0 563 100 0 50 0 0 0
+ 0
+0
+
+ itm_necrohorseputrid Plaguedoctor's_Sickness Plaguedoctor's_Sickness 1  PutridNightmare 0  536870913 0 868 110595670016 0.000000 60 0 37 0 3 163 36 50 0 0 18 0
+ 0
+0
+
+ itm_crashkit Crashkit Crashkit 1  Firstaidkit2 0  537133063 0 454 167772194 3.500000 10 0 3 0 0 999 76 0 81 0 0 0
+ 0
+0
+
+ itm_throwingskulls Bloodpreserver's_Remains Bloodpreserver's_Remains 1  NecroThrowingSkull 0  549453834 196608 482 4398046781448 5.000000 100 0 0 0 0 0 99 20 53 7 572 0
+ 0
+0
+
+ itm_necrohelm4 Bloodpreserver's_Countenance Bloodpreserver's_Countenance 1  Necrohelm4 0  2684354572 0 24 123731968 1.000000 100 13 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroarmor4 Bloodpreserver's_Casket Bloodpreserver's_Casket 1  Necroarmor4 0  553648141 0 1284 123731968 6.000000 100 0 29 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogauntlets4 Bloodpreserver's_Will Bloodpreserver's_Will 1  necrogauntlet4_L 0  536870927 0 260 123731968 0.250000 120 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogreaves4 Bloodpreserver's_Legacy Bloodpreserver's_Legacy 1  Necroboot4_L 0  536870926 0 348 123731968 1.250000 100 0 0 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroshield4 Bloodpreserver's_Closure Bloodpreserver's_Closure 1  Necroshield4 0  537133063 6442450944 84 167772194 2.000000 100 0 1 0 0 450 100 0 120 0 0 0
+ 0
+0
+
+ itm_necrohorsepreserved Bloodpreserver's_Tragedy Bloodpreserver's_Tragedy 1  PreservedNightmare 0  536870913 0 868 110595670016 0.000000 60 0 29 0 1 130 36 50 0 0 23 0
+ 0
+0
+
+ itm_inheritance Inheritance Inheritance 1  HeirloomSword 0  549453826 9223388529822793743 1640 155668 1.500000 10 0 0 0 0 56320 99 0 95 0 301 55
+ 0
+0
+
+ itm_guillotine Hellraiser's_Guillotine Hellraiser's_Guillotine 1  Guillotine 0  618954756 9227594167905947616 704 8202 4.500000 100 0 0 0 0 58368 125 0 157 0 544 57
+ 0
+0
+
+ itm_necrohelm5 Hellraiser's_Rathelmet Hellraiser's_Rathelmet 1  Necrohelm5 0  2684354572 0 142 704643236 1.250000 100 33 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroarmor5 Hellraiser's_Ironmaiden Hellraiser's_Ironmaiden 1  Necroarmor5 0  553648141 0 1840 704643236 19.000000 100 0 56 18 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogauntlets5 Hellraiser's_Thumbscrews Hellraiser's_Thumbscrews 1  necrogauntlet5_L 0  536870927 0 2200 704643236 0.500000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogreaves5 Hellraiser's_Pokers Hellraiser's_Pokers 1  Necroboot5_L 0  536870926 0 1640 704643236 3.000000 100 0 0 32 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroshield5 Hellraiser's_Rack Hellraiser's_Rack 1  Necroshield5 0  536870919 5100273664 454 167772194 3.500000 100 0 1 0 0 900 125 0 81 0 0 0
+ 0
+0
+
+ itm_tormented Hellraiser's_Tormented Hellraiser's_Tormented 1  Tormented 0  536870913 0 1448 110595670016 0.000000 50 0 104 0 4 135 34 54 0 0 18 0
+ 0
+0
+
+ itm_tongueflayer Tongueflayer Tongueflayer 1  InfernoKatana 0  549453827 9223635928528978175 1052 155668 2.250000 10 0 0 0 9 10240 125 0 105 0 312 74
+ 0
+0
+
+ itm_soulstealer Shadowlord's_Devourer Shadowlord's_Devourer 1  Soulstealer 0  618659843 9223635924301119728 1048 155668 3.000000 100 0 0 0 11 61440 93 0 130 0 303 60
+ 0
+0
+
+ itm_necrohelm6 Shadowlord's_Aura Shadowlord's_Aura 1  Necrohelm6 0  2684354572 0 142 704643236 0.000000 100 33 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroarmor6 Shadowlord's_Projection Shadowlord's_Projection 1  Necroarmor6 0  553648141 0 3680 704643236 0.000000 100 0 56 18 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogauntlets6 Shadowlord's_Telekinesis Shadowlord's_Telekinesis 1  necrogauntlet6_L 0  536870927 0 1100 704643236 0.000000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogreaves6 Shadowlord's_Whispers Shadowlord's_Whispers 1  Necroboot6_L 0  536870926 0 1640 704643236 0.000000 100 0 0 32 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroshield6 Shadowlord's_Umbra Shadowlord's_Umbra 1  Necroshield6 0  262151 5100273664 454 167772194 0.000000 100 0 1 0 0 900 76 0 62 0 0 0
+ 0
+0
+
+ itm_shadowhorse Shadowlord's_Eclipse Shadowlord's_Eclipse 1  Shadowhorse 0  536870913 0 1448 110595670016 0.000000 50 0 52 0 4 135 68 54 0 0 18 0
+ 0
+0
+
+ itm_usurper Usurper Usurper 1  ShadowSap 0  275427360770 9223388532775583758 1640 270356 5.500000 10 0 0 0 13 59392 75 0 80 0 256 570
+ 0
+0
+
+ itm_blunderbuss Artificer's_Blunderbuss Artificer's_Blunderbuss 1  Blunderbuss 0  618659857 554319740928 920 131082 2.500000 100 0 0 85 0 0 38 160 0 4 318 0
+ 0
+1
+-51.000000  4 600 1 187 720 2 1 27 721 2 1 72 1969 3 20 1 15 
+
+ itm_bearings Artificer's_Bearings Artificer's_Bearings 1  Necrobullet 0  536870930 0 168 4398046511112 2.250000 100 0 0 0 0 0 0 0 3 40 259 0
+ 0
+0
+
+ itm_necrohelm7 Artificer's_Lenses Artificer's_Lenses 1  Necrohelm7 0  2684354572 0 284 704643236 1.250000 100 33 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroarmor7 Artificer's_Belts Artificer's_Belts 1  Necroarmor7 0  553648141 0 1840 704643236 19.000000 100 0 56 18 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogauntlets7 Artificer's_Wrenches Artificer's_Wrenches 1  necrogauntlet7_L 0  536870927 0 1100 704643236 0.500000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necrogreaves7 Artificer's_Hammers Artificer's_Hammers 1  Necroboot7_L 0  536870926 0 820 704643236 3.000000 100 0 0 32 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_necroshield7 Artificer's_Wheel Artificer's_Wheel 1  Necroshield7 0  537133063 5100273664 908 167772194 3.500000 100 0 1 0 0 900 76 0 100 0 0 0
+ 0
+0
+
+ itm_mancatcher Artificer's_Mancatcher Artificer's_Mancatcher 1  Mancatcher 0  536870913 0 1448 110595670016 0.000000 50 0 52 0 0 135 34 54 0 0 36 0
+ 0
+0
+
+ itm_torque Torque Torque 1  Screwdriver 0  549453826 9223388530359664655 136 155668 0.750000 10 0 0 0 0 45056 112 0 47 0 294 44
+ 0
+0
+
+ itm_medusa_bow Medusa's_Gaze Medusa's_Gaze 2  MedusaBow 0  MedusaBow_case 3458764513820540928  610275336 37312532480 2912 655370 1.500000 100 0 0 0 4 0 93 58 0 0 306 0
+ 0
+0
+
+ itm_medusa_arrows Medusa's_Snakes Medusa's_Snakes 3  MedusaArrow 0  flying_missile 2305843009213693952  MedusaQuiver 3458764513820540928  536875013 1610612736 1400 4398046511112 3.000000 50 0 0 0 0 0 0 0 91 58 262 0
+ 0
+0
+
+ itm_medusa_shield Medusa's_Head Medusa's_Head 1  MedusaShield 0  537137159 5100273664 1816 167772194 3.500000 100 0 1 0 0 999 76 0 62 0 0 0
+ 0
+0
+
+ itm_quicksilver_rapier Alchemist's_Thrust Alchemist's_Thrust 1  QuicksilverDagger 0  616566786 9223388529822793743 1640 155668 1.500000 100 0 0 0 0 59392 112 0 95 0 304 58
+ 0
+0
+
+ itm_quicksilver_dagger_dual Alchemist's_Parry Alchemist's_Parry 1  QuicksilverDaggerDual 0  536875015 0 1816 167772194 3.500000 100 0 1 0 0 600 112 0 62 0 0 0
+ 0
+0
+
+ itm_quicksilver_mask Alchemist's_Riposte Alchemist's_Riposte 1  QuicksilverHelm 0  536875020 0 284 704643236 1.250000 100 44 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_headless_helm Horseman's_Death Horseman's_Death 2  HeadlessHelm2 0  MasterblasterHelm 134217728  2684358668 0 1276 704643238 0.000000 10 50 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_headless_armor Horseman's_Demise Horseman's_Demise 2  HeadlessArmor 0  MasterblasterArmor 134217728  553652237 0 9496 704643238 28.000000 10 0 57 18 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_headless_greaves Horseman's_Doom Horseman's_Doom 1  HeadlessGreaves_L 0  536875022 0 3561 704643236 3.500000 10 0 0 35 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_headless_horse Horseman's_Despair Horseman's_Despair 1  HeadlessHorse 0  536875009 0 2896 110595670016 0.000000 50 0 52 0 0 135 34 62 0 0 18 0
+ 0
+0
+
+ itm_hunter_crossbow Hunter's_Moon Hunter's_Moon 1  VHCrossbow 0  618663945 5637160960 10000 131082 2.500000 100 0 0 0 0 0 125 59 0 33 356 0
+ 0
+0
+
+ itm_hunter_crossbow2 Relentless_Hunter's_Moon Relentless_Hunter's_Moon 1  VHCrossbow2 0  618663945 5637160960 10000 131082 2.500000 100 0 0 0 0 0 125 59 0 33 356 0
+ 0
+0
+
+ itm_hunter_bolts Hunter's_Stars Hunter's_Stars 3  HunterBolt 0  flying_missile 2305843009213693952  HunterBoltBag 3458764513820540928  536875014 1879048192 10000 4398046511112 2.500000 20 0 0 0 0 0 0 0 55 99 266 0
+ 0
+0
+
+ itm_hunter_bolts2 Relentless_Hunter's_Stars Relentless_Hunter's_Stars 3  HunterBolt 0  flying_missile 2305843009213693952  HunterBoltBag2 3458764513820540928  536875014 1879048192 10000 4398046511112 2.500000 20 0 0 0 0 0 0 0 55 99 266 0
+ 0
+0
+
+ itm_khanfist Khan's_Fist Khan's_Fist 1  blackgauntlet_L 0  536875023 0 15520 704643236 1.000000 100 0 12 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_trowel Fortunato's_Sign Fortunato's_Sign 1  Trowel 0  12582914 9223388529554358287 32 24596 0.500000 100 0 0 0 0 43008 110 0 40 0 282 42
+ 0
+0
+
+ itm_bricks Fortunato's_Stone Fortunato's_Stone 1  Brick 0  12582922 65536 8 4398046511104 4.000000 100 0 0 0 0 0 97 30 8 18 534 0
+ 0
+0
+
+ itm_pendulum The_Pendulum The_Pendulum 1  ThePendulum 0  14712836 9227594166295334880 3024 8202 3.500000 100 0 0 0 12 61440 92 0 160 0 62 60
+ 0
+0
+
+ itm_partyhat Fortunato's_Screams Fortunato's_Screams 1  Capandbells 0  2684358668 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_partysuit Fortunato's_Season Fortunato's_Season 1  Partysuit 0  553652237 0 12 123731968 1.000000 100 0 10 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_partyfeet Fortunato's_Stupor Fortunato's_Stupor 1  Partyfoot_L 0  536875022 0 12 123731968 1.000000 100 0 0 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_partyhands Fortunato's_Shakes Fortunato's_Shakes 1  Partyhand_L 0  536875023 0 52 123731968 0.250000 120 0 2 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_woodenhead Wooden_Head Wooden_Head 1  WoodenHead 0  2684358668 0 284 704643236 1.250000 100 22 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_woodenbody Wooden_Body Wooden_Body 1  WoodenBody 0  553652237 0 3680 704643236 19.000000 100 0 37 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_woodenfeet Wooden_Feet Wooden_Feet 1  WoodenFoot_L 0  536875022 0 1640 704643236 3.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_woodenhands Wooden_Hands Wooden_Hands 1  woodenglove_L 0  536875023 0 2200 704643236 0.500000 100 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_burnedwoodenhead Burned_Wooden_Head Burned_Wooden_Head 1  BurnedWoodenHead 0  2684358668 0 284 704643236 0.500000 100 22 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_burnedwoodenbody Burned_Wooden_Body Burned_Wooden_Body 1  BurnedWoodenBody 0  553652237 0 3680 704643236 9.500000 100 0 37 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_burnedwoodenfeet Burned_Wooden_Feet Burned_Wooden_Feet 1  BurnedWoodenFoot_L 0  536875022 0 1640 704643236 1.500000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_burnedwoodenhands Burned_Wooden_Hands Burned_Wooden_Hands 1  burnedwoodenglove_L 0  536875023 0 2200 704643236 0.250000 100 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_putridwoodenhead Putrid_Wooden_Head Putrid_Wooden_Head 1  PutridWoodenHead 0  2684358668 0 284 704643236 1.250000 100 33 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_putridwoodenbody Putrid_Wooden_Body Putrid_Wooden_Body 1  PutridWoodenBody 0  553652237 0 3680 704643236 19.000000 100 0 56 18 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_putridwoodenfeet Putrid_Wooden_Feet Putrid_Wooden_Feet 1  PutridWoodenFoot_L 0  536875022 0 1640 704643236 3.000000 100 0 0 32 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_putridwoodenhands Putrid_Wooden_Hands Putrid_Wooden_Hands 1  putridwoodenglove_L 0  536875023 0 2200 704643236 0.500000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_preservedwoodenhead Preserved_Wooden_Head Preserved_Wooden_Head 1  PreservedWoodenHead 0  2684358668 0 284 704643236 1.250000 100 22 0 0 3 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_preservedwoodenbody Preserved_Wooden_Body Preserved_Wooden_Body 1  PreservedWoodenBody 0  553652237 0 3680 704643236 19.000000 100 0 37 12 3 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_preservedwoodenfeet Preserved_Wooden_Feet Preserved_Wooden_Feet 1  PreservedWoodenFoot_L 0  536875022 0 1640 704643236 3.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_preservedwoodenhands Preserved_Wooden_Hands Preserved_Wooden_Hands 1  preservedwoodenglove_L 0  536875023 0 2200 704643236 0.500000 100 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_diamondhead Diamond_Head Diamond_Head 1  DiamondHead 0  2684358668 0 4960 704643238 1.250000 100 83 0 0 5 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_diamondbody Diamond_Body Diamond_Body 1  DiamondBody 0  553652237 0 26212 704643238 13.000000 100 0 83 26 4 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_diamondfeet Diamond_Feet Diamond_Feet 1  DiamondFoot_L 0  536875022 0 9496 704643236 1.750000 100 0 0 50 4 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_diamondhands Diamond_Hands Diamond_Hands 1  diamondglove_L 0  536875023 0 7760 704643236 0.500000 100 0 9 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nymphhead Nymph_Head Nymph_Head 1  NymphHead 0  2684358668 0 568 704643236 1.250000 100 44 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nymphbody Nymph_Body Nymph_Body 1  NymphBody 0  553652237 0 7360 704643236 19.000000 100 0 74 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nymphfeet Nymph_Feet Nymph_Feet 1  NymphFoot_L 0  536875022 0 3280 704643236 3.000000 100 0 0 42 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nymphhands Nymph_Hands Nymph_Hands 1  nymphHand_L 0  536875023 0 4400 704643236 0.500000 100 0 8 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_lamiahead Lamia's_Missing_Eyes Lamia's_Missing_Eyes 1  WidowHelm 0  2684358668 0 4960 704643238 0.000000 100 110 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_lamiabody Lamia's_Faded_Chitin Lamia's_Faded_Chitin 1  WidowArmor 0  553652237 0 26212 704643238 27.000000 100 0 110 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_lamiafeet Lamia's_Wandering_Spinners Lamia's_Wandering_Spinners 1  Widowboot_L 0  536875022 0 9496 704643236 3.500000 100 0 0 66 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_lamiahands Lamia's_Lonely_Mandibles Lamia's_Lonely_Mandibles 1  catglove_L 0  536875023 0 7760 704643236 1.000000 100 0 12 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_skullclub Good_Bone Good_Bone 1  SkullClub 0  275427360770 9223388529554358286 10000 270356 5.500000 100 0 0 0 0 36864 125 0 60 0 256 612
+ 0
+0
+
+ itm_crossboneshelm Crossbones'_Chant Crossbones'_Chant 1  WhiteWerewolfHead 0  2684358668 0 4960 704643238 2.750000 100 110 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_crossbonesarmor Crossbones'_Trance Crossbones'_Trance 1  WhiteWerebody 0  553652237 0 26212 704643238 27.000000 100 0 110 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_crossbonesboots Crossbones'_Dance Crossbones'_Dance 1  WhiteWolfBoot_L 0  536875022 0 9496 704643236 3.500000 100 0 0 66 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_crossbonesgloves Crossbones'_Hex Crossbones'_Hex 1  whitewolfglove_L 0  536875023 0 7760 704643236 1.000000 100 0 12 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_skullclub_dual Bad_Bone Bad_Bone 1  SkullClubDual 0  536870919 0 10000 167772194 5.500000 100 0 17 0 0 999 125 0 60 0 0 0
+ 0
+0
+
+ itm_invisblade The_Undying_Sword_of_Vlad_Dracula The_Undying_Sword_of_Vlad_Dracula 2  VampireSkull 0  VampireSkullCarry 3458764513820540928  618663939 9223635924301119728 4192 155668 3.000000 100 0 0 0 11 16384 112 0 130 0 318 80
+ 0
+0
+
+ itm_invisblade2 The_Unliving_Sword_of_Vlad_Dracula The_Unliving_Sword_of_Vlad_Dracula 1  VampireSkull2 0  618659843 9223635924301119728 2096 155668 3.000000 100 0 0 0 11 16384 112 0 130 0 318 80
+ 0
+0
+
+ itm_gorgonhead Stheno's_Iron_Fangs Stheno's_Iron_Fangs 1  GorgonHead 0  2684358668 0 1276 704643238 2.750000 10 100 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gorgonbody Stheno's_Armored_Torso Stheno's_Armored_Torso 1  GorgonBody 0  553652237 0 18992 704643238 28.000000 10 0 114 36 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gorgonfeet Stheno's_Plated_Tail Stheno's_Plated_Tail 1  GorgonFoot_L 0  536875022 0 7122 704643236 3.500000 10 0 0 70 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gorgonhands Stheno's_Brassen_Hands Stheno's_Brassen_Hands 1  MedusaHand_L 0  536875023 0 15520 704643236 1.000000 100 0 24 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_deathscythe Pox_of_the_Red_Death Pox_of_the_Red_Death 1  RedDeathScythe 0  14974980 9227594166295334880 10000 8202 3.500000 100 0 0 0 0 62464 125 0 175 0 381 381
+ 0
+0
+
+ itm_deathmask Masque_of_the_Red_Death Masque_of_the_Red_Death 1  RedDeathMask 0  2684358668 0 1276 704643238 2.750000 10 100 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_deathrobe Stain_of_the_Red_Death Stain_of_the_Red_Death 1  RedDeathRobe 0  553652237 0 18992 704643238 28.000000 10 0 114 36 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_deathwraps Wake_of_the_Red_Death Wake_of_the_Red_Death 1  Redfoot_L 0  536875022 0 7122 704643236 3.500000 10 0 0 70 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_deathgloves Touch_of_the_Red_Death Touch_of_the_Red_Death 1  Redhand_L 0  536875023 0 15520 704643236 1.000000 100 0 24 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rasputinstaff Metatron Metatron 1  RasputinStaff 0  147095556 9227594166295334880 480 8202 2.000000 100 0 0 0 0 40960 104 0 70 0 552 552
+ 0
+0
+
+ itm_rasputinhead Rasputin's_Ruin Rasputin's_Ruin 1  RasputinHead 0  2684358668 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rasputinrobe Rasputin's_Resurrection Rasputin's_Resurrection 1  RasputinRobe 0  553652237 0 12 123731968 1.000000 100 0 10 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_silverrifle The_Wolfsbane_Alpha The_Wolfsbane_Alpha 1  MoonRifle 0  618663953 554319740928 10000 131082 2.500000 100 0 0 100 0 0 125 160 0 1 381 0
+ 0
+1
+-51.000000  4 600 1 62 720 2 1 27 721 2 1 72 1969 3 20 1 15 
+
+ itm_silverbullets The_Wolfsbane_Beta The_Wolfsbane_Beta 1  SilverBullet2 0  536875026 0 10000 4398046511112 2.250000 100 0 0 0 0 0 0 0 3 99 266 0
+ 0
+0
+
+ itm_silverbowie The_Wolfsbane_Omega The_Wolfsbane_Omega 1  Bowie2 0  549457922 9223388530628100111 10000 24596 0.750000 100 0 0 0 0 62464 125 0 60 0 381 381
+ 0
+0
+
+ itm_silverspectacles Silver_Spectacles_'NA_CL_AG' Silver_Spectacles_'NA_CL_AG' 1  SilverSpectacles 0  553652236 0 568 704643236 1.250000 100 44 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_greatartificerhead Great_Artificer's_Head Great_Artificer's_Head 2  GreatArtificerHelm 0  MasterblasterHelm 4  2684358668 0 1276 704643238 2.750000 10 100 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_greatartificerbody Great_Artificer's_Body Great_Artificer's_Body 2  GreatArtificerBody 0  MasterblasterArmor 4  553652237 0 18992 704643238 28.000000 10 0 114 36 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_greatartificerfeet Great_Artificer's_Feet Great_Artificer's_Feet 2  GreatArtificerBoot_L 0  black_greaves 4  536875022 0 7122 704643236 3.500000 10 0 0 70 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_greatartificerhands Great_Artificer's_Hands Great_Artificer's_Hands 2  greatartificergauntlet_L 0  blackgauntlet_L 4  536875023 0 3880 704643236 1.000000 100 0 12 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_greatartificerblade Great_Artificer's_Vibroblade Great_Artificer's_Vibroblade 1  GreatArtificerFist 0  549457922 9223388529554358286 10000 270356 2.000000 100 0 0 0 0 62464 125 0 70 0 256 381
+ 0
+0
+
+ itm_greatartificerclamp Great_Artificer's_Clamp Great_Artificer's_Clamp 1  GreatArtificerFistDual 0  536870919 0 10000 167772194 3.500000 100 0 1 0 0 999 125 0 70 0 0 0
+ 0
+0
+
+ itm_ravenhead The_Raven's_Warning The_Raven's_Warning 1  TheRaven 0  2684358668 0 24 123731968 1.000000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ravenclaws The_Raven's_Talons The_Raven's_Talons 2  InvisModel 0  TheRaven 1152921504606846976  549457922 9223388529554358286 432 155668 1.500000 100 0 0 0 0 59392 105 0 30 0 256 58
+ 0
+0
+
+ itm_ravengloves Falconry_Gloves_'O.Z._Corvus' Falconry_Gloves_'O.Z._Corvus' 1  falconryglove_L 0  536875023 0 1040 123731968 0.250000 120 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_lamiastaff Zeus'_Sorrow Zeus'_Sorrow 1  KittyStaff 0  14712836 9227594166295334880 10000 8202 7.000000 100 0 0 0 0 62464 125 0 120 0 381 381
+ 0
+0
+
+ itm_cerberus Cerberus Cerberus 1  Cerberus 0  536875009 0 12500 110595670016 0.000000 40 0 250 0 0 250 100 100 0 0 125 0
+ 0
+0
+
+ itm_lichhelm Lich's_Crown Lich's_Crown 1  LichHelm 0  2684358668 0 10000 704643238 2.750000 10 125 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hematite Hematite,_the_Sword_of_Hades Hematite,_the_Sword_of_Hades 1  Hematite 0  549453827 9223635928528978175 10000 155668 2.250000 100 0 0 0 0 62464 125 0 101 0 381 381
+ 0
+0
+
+ itm_hadesrobe Bloodstone,_the_Robe_of_Hades Bloodstone,_the_Robe_of_Hades 1  HadesRobe 0  553652237 0 20000 704643238 28.000000 10 0 125 125 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poseidonstrident Poseidon's_Trident Poseidon's_Trident 1  PoseidonsTrident 0  14712836 9227594166295334880 10000 8202 6.500000 100 0 0 0 0 62464 125 0 180 0 381 381
+ 0
+0
+
+ itm_antiherohelm Helm_of_Prometheus Helm_of_Prometheus 1  AntiHeroHelm 0  2684358668 0 10000 704643238 2.750000 100 125 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fireofthegods Fire_of_the_Gods Fire_of_the_Gods 1  LightningBolt 0  71303178 262144 10000 4398046781448 4.000000 100 0 0 0 0 0 125 125 75 99 381 0
+ 0
+0
+
+ itm_book_lyre Bone_Lyre_of_Persephone Bone_Lyre_of_Persephone 1  BoneLyre 0  20 0 10000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fistofthegods Fist_of_the_Gods Fist_of_the_Gods 1  TeslaCannon 0  616562704 481036795904 10000 131082 18.000000 100 0 0 100 0 0 125 160 0 99 381 0
+ 0
+1
+-51.000000  3 600 1 3 720 2 1 27 721 2 1 36 
+
+ itm_lightningballs Fist_of_the_Gods Fist_of_the_Gods 1  LightningBolt 0  536870930 0 10000 4398046511112 4.000000 100 0 0 0 0 0 0 0 3 99 281 0
+ 0
+0
+
+ itm_golemheadcoil Fist_of_the_Gods Fist_of_the_Gods 1  GolemHeadCoil 0  2684358668 0 10000 704643236 3.750000 100 125 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_manticore Manticore Manticore 1  Manticore 0  536875009 0 12500 110595670016 0.000000 40 0 250 0 0 250 100 100 0 0 125 0
+ 0
+0
+
+ itm_book_tesla Man_Out_of_Time Man_Out_of_Time 1  book_open 0  20 0 20000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_luger Blackwolf Blackwolf 1  Luger 0  549453840 483452715008 10000 131082 2.500000 100 0 0 100 0 0 76 160 0 8 381 0
+ 0
+1
+-51.000000  4 600 1 61 720 2 1 27 721 2 1 36 1969 3 19 1 15 
+
+ itm_atroposshears Atropos'_Abhorred_Shears Atropos'_Abhorred_Shears 1  Shears 0  12582914 9223388530359664655 10000 155668 0.750000 100 0 0 0 0 62464 125 0 47 0 381 381
+ 0
+0
+
+ itm_lachesisrod Lachesis'_Measuring_Rod Lachesis'_Measuring_Rod 1  MeasureRod 0  147095556 9227594166295334880 10000 8202 2.000000 100 0 0 0 0 62464 125 0 70 0 381 381
+ 0
+0
+
+ itm_clothodistaff Clotho's_Golden_Distaff Clotho's_Golden_Distaff 1  Distaff 0  549453827 9223635928528978175 10000 155668 2.250000 100 0 0 0 0 62464 125 0 101 0 381 381
+ 0
+0
+
+ itm_krakenhead The_Kraken's_Roar The_Kraken's_Roar 1  PoseidonsWrath 0  2684358668 0 1 704643238 0.000000 100 125 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_krakenfury The_Kraken's_Fury The_Kraken's_Fury 2  InvisModel 0  PoseidonsWrath 1152921504606846976  14712836 9227594161731932128 1 8202 6.500000 100 0 0 0 0 62464 125 0 180 0 381 381
+ 0
+0
+
+ itm_miaface Persephone's_Angel_Eyes Persephone's_Angel_Eyes 1  MiaHead 0  2684358668 0 1 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bride_dress Persephone's_Divine_Raiment Persephone's_Divine_Raiment 1  bride_dress 0  553648141 0 10000 123731968 3.000000 100 0 10 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_talaria Talaria_of_Hermes Talaria_of_Hermes 1  HermesBoot_L 0  536875022 0 20000 704643236 3.500000 100 0 0 125 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_skyclad Skyclad Skyclad 1  skyclad 0  553652237 0 20000 704643238 28.000000 10 0 125 125 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_skycladf Skyclad Skyclad 1  skycladf 0  553652237 0 20000 704643238 28.000000 10 0 125 125 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poseidonhead Poseidon's_Visage Poseidon's_Visage 1  Poseidonhead 0  2684358668 0 1 704643238 40.000000 10 125 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_vampire_sword Vampire's_Decapitator Vampire's_Decapitator 1  VampireSword 0  618659843 9223635924301119728 2096 155668 3.000000 100 0 0 0 11 16384 112 0 130 0 318 80
+ 0
+0
+
+ itm_vampire_helm Vampire's_Helm Vampire's_Helm 1  VampireHelm2 0  2684358668 0 4960 704643238 2.750000 100 110 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_vampire_helmf Vampire's_Helm Vampire's_Helm 1  VampireHelm2F 0  2684358668 0 4960 704643238 2.750000 100 110 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_vampire_armor Vampire's_Armor Vampire's_Armor 1  VampireArmor 0  553652237 0 26212 704643238 27.000000 100 0 110 34 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_vampire_greaves Vampire's_Greaves Vampire's_Greaves 1  Vampireboot_L 0  536875022 0 9496 704643236 3.500000 100 0 0 66 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_vampire_gauntlets Vampire's_Gauntlets Vampire's_Gauntlets 1  vampiregauntlet_L 0  536875023 0 7760 704643236 1.000000 100 0 12 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bloodletter Bloodletter Bloodletter 1  BloodletterSilver 0  618659843 9223635924301119728 10000 155668 6.000000 100 0 0 0 0 62464 125 0 130 0 381 381
+ 0
+0
+
+ itm_wolfclaw Werewolf's_Right_Claw Werewolf's_Right_Claw 1  WerewolfClaw 0  549453826 9223388529554358286 104 24596 3.000000 100 0 0 0 0 32768 112 0 60 0 256 96
+ 0
+0
+
+ itm_wolfhelm Werewolf's_Head Werewolf's_Head 1  WerewolfHead 0  2684358668 0 4960 704643238 2.750000 100 110 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wolfarmor Werewolf's_Pelt Werewolf's_Pelt 1  Werebody 0  553652237 0 26212 704643238 27.000000 100 0 110 34 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wolfboots Werewolf's_Pads Werewolf's_Pads 1  WolfBoot_L 0  536875022 0 9496 704643236 3.500000 100 0 0 66 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wolfgloves Werewolf's_Paws Werewolf's_Paws 1  wolfglove_L 0  536875023 0 7760 704643236 1.000000 100 0 12 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wolfclaw_dual Werewolf's_Left_Claw Werewolf's_Left_Claw 1  WerewolfClawDual 0  536870919 0 104 167772194 3.000000 100 0 1 0 0 999 112 0 60 0 0 0
+ 0
+0
+
+ itm_elderclaw Elder_Claw Elder_Claw 1  ElderClaw 0  549453826 9223388529554358286 10000 24596 6.000000 100 0 0 0 0 62464 125 0 60 0 256 381
+ 0
+0
+
+ itm_chrysalishead The_Chrysalis'_Nucleus The_Chrysalis'_Nucleus 1  Chrysalis 0  2684358668 0 1 123731968 25.000000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_chrysalisheaddeathly The_Chrysalis'_Deathly_Nucleus The_Chrysalis'_Deathly_Nucleus 1  ChrysalisDeathly 0  2684358668 0 1 123731968 25.000000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mephwrath The_Behemoth_Worm's_Wrath The_Behemoth_Worm's_Wrath 2  InvisModel 0  MephistophelesHead 1152921504606846976  14684163 9223635924234010848 1 155668 3.000000 100 0 0 0 0 62464 125 0 130 0 381 381
+ 0
+0
+
+ itm_mephhead The_Behemoth_Worm's_Jaws The_Behemoth_Worm's_Jaws 1  MephistophelesHead 0  2684358668 0 1 704643238 40.000000 10 100 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mephhead2 The_Behemoth_Worm's_Lich The_Behemoth_Worm's_Lich 1  MephistophelesHead2 0  2684358668 0 1 704643238 0.000000 10 125 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poedagger Poe's_Quill Poe's_Quill 1  ShadowQuill 0  12582914 9223388530359664655 10000 155668 0.750000 100 0 0 0 0 62464 125 0 47 0 381 381
+ 0
+0
+
+ itm_poehead Poe's_Lore Poe's_Lore 1  PoeHead 0  2684354572 0 568 704643236 0.000000 100 66 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poebody Poe's_Terror Poe's_Terror 1  PoeBody 0  553648141 0 7360 704643236 0.000000 100 0 112 36 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poehands Poe's_Dreams Poe's_Dreams 1  Shadowhand_L 0  536870927 0 4400 704643236 0.000000 100 0 12 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poefeet Poe's_Echo Poe's_Echo 1  Shadowfoot_L 0  536870926 0 3280 704643236 0.000000 100 0 0 64 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sphinx The_Sphinx The_Sphinx 1  Sphinx 0  536875009 0 10000 110595670016 0.000000 50 0 250 0 0 250 100 100 0 0 125 0
+ 0
+0
+
+ itm_strange_armor Strange_Armor Strange_Armor 1  samurai_armor 0  553652237 0 1259 704643236 18.000000 100 0 38 19 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_strange_boots Strange_Boots Strange_Boots 1  samurai_boots 0  536878862 0 465 123731968 1.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_strange_helmet Strange_Helmet Strange_Helmet 1  samurai_helmet 0  536875020 0 824 704643238 2.000000 100 44 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_strange_sword Strange_Sword Strange_Sword 2  katana 0  katana_scabbard 3458764513820540928  4194307 9223635962888716543 679 24596 2.000000 100 0 0 0 9 32768 108 0 95 0 274 32
+ 0
+0
+
+ itm_strange_great_sword Strange_Great_Sword Strange_Great_Sword 2  no_dachi 0  no_dachi_scabbard 3458764513820540928  6291459 9223635958593749216 920 270356 3.500000 100 0 0 0 11 38912 92 0 125 0 256 38
+ 0
+0
+
+ itm_strange_short_sword Strange_Short_Sword Strange_Short_Sword 2  wakizashi 0  wakizashi_scabbard 3458764513820540928  4194306 9223388573040902159 321 24596 1.250000 100 0 0 0 0 25600 108 0 65 0 275 25
+ 0
+0
+
+ itm_book_izanagi Eye_of_Izanagi Eye_of_Izanagi 1  IzanagiEye 0  20 0 10000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kameosa Tsukumogami_Jar Tsukumogami_Jar 1  Kameosa 0  314084560899 9223635922086527200 10000 270356 6.000000 100 0 0 0 11 2048 112 0 79 0 256 578
+ 0
+0
+
+ itm_furunushi Tsukumogami_Koto Tsukumogami_Koto 1  Koto 0  2684358668 0 10000 704643238 2.750000 100 55 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_burabura Tsukumogami_Lantern Tsukumogami_Lantern 1  Burabura 0  553652237 0 10000 704643238 27.000000 100 0 55 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_black_helmet Black_Helmet Black_Helmet 1  black_helm 0  536936460 0 638 704643238 2.750000 10 50 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_baron_helmet Head_of_the_Black_Baron Head_of_the_Black_Baron 1  Skullhelm 0  2684358668 0 638 704643238 2.750000 10 50 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_baron_hands Hands_of_the_Black_Baron Hands_of_the_Black_Baron 1  skeleton_handL 0  536875023 0 15520 704643236 1.000000 100 0 12 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_black_armor Black_Armor Black_Armor 1  black_armor 0  553713677 0 9496 704643238 28.000000 10 0 57 18 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_black_greaves Black_Greaves Black_Greaves 1  black_greaves 0  536940302 0 3561 704643236 3.500000 10 0 0 35 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_boneshovel Muckraker Muckraker 1  BoneShovel 0  683966468 9227594166295334880 400 270356 3.000000 100 0 0 0 8 61440 95 0 116 0 60 60
+ 0
+0
+
+ itm_book_ghostmachine Ghost_Machine Ghost_Machine 1  GhostMachine 0  20 0 10000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_monstereviscerator Monster's_Eviscerator Monster's_Eviscerator 1  TyphonSword 0  618659843 9223635924301119728 20000 0 15.000000 100 0 0 0 0 62464 125 0 150 0 381 381
+ 0
+0
+
+ itm_monstertalon Monster's_Right_Talon Monster's_Right_Talon 1  TyphonClaw 0  549453826 9223388529554358286 10000 0 10.000000 100 0 0 0 0 62464 125 0 60 0 256 381
+ 0
+0
+
+ itm_monsterserpents Monster's_Multiplying_Serpents Monster's_Multiplying_Serpents 1  TyphonHead 0  2684358668 0 1 0 0.000000 100 125 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_monsterbulk Monster's_Massive_Bulk Monster's_Massive_Bulk 1  TyphonBody 0  553652237 0 1 0 0.000000 100 0 100 25 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_monstercoils Monster's_Menacing_Coils Monster's_Menacing_Coils 1  TyphonFoot_L 0  536875022 0 1 0 0.000000 100 0 0 100 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_monsterhands Monster's_Protected_Hands Monster's_Protected_Hands 1  typhongauntlet_L 0  536875023 0 1 704643236 0.000000 100 0 25 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_monsterhelm Monster's_War_Helm Monster's_War_Helm 1  EchidnaHead 0  2684358668 0 1 704643238 0.000000 100 125 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_monsterbody Monster's_Wicked_Body Monster's_Wicked_Body 1  EchidnaBody 0  553652237 0 1 704643238 0.000000 100 0 100 25 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_monstertail Monster's_Writhing_Tail Monster's_Writhing_Tail 1  EchidnaFoot_L 0  536875022 0 1 704643236 0.000000 100 0 0 100 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_monstertalon_dual Monster's_Left_Talon Monster's_Left_Talon 1  TyphonClawDual 0  536870919 0 10000 0 10.000000 100 0 25 0 0 999 125 0 60 0 0 0
+ 0
+0
+
+ itm_book_cube Nightmare_Cube Nightmare_Cube 1  NightmareCube 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tartarushead The_Black_Pit_of_Tartarus The_Black_Pit_of_Tartarus 1  Tartarus 0  2684358668 0 1 704643238 55.000000 10 125 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_invisibilityscarf Scarf_of_Invisibility Scarf_of_Invisibility 2  InvisModel 0  woolen_hood 1152921504606846976  2684358668 0 8888 123731968 1.000000 100 40 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_invisibilitycoat Coat_of_Invisibility Coat_of_Invisibility 2  InvisModel 0  blue_gambeson 1152921504606846976  553652237 0 8888 123731968 5.000000 100 0 105 25 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_invisibilitysocks Socks_of_Invisibility Socks_of_Invisibility 2  InvisModel 0  blue_leggings 1152921504606846976  536878862 0 8888 123731968 1.000000 100 0 0 25 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_invisibilitymittens Mittens_of_Invisibility Mittens_of_Invisibility 2  InvisModel 0  mail_mitten_L 1152921504606846976  4111 0 8888 704643236 0.500000 100 0 20 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_flyingointment Flying_Ointment Flying_Ointment 2  InvisModel 0  Ointment 1152921504606846976  536875009 0 8888 110595670016 0.000000 70 0 160 0 0 0 74 86 0 0 22 0
+ 0
+0
+
+ itm_silverhammer Maxwell's_Silver_Hammer Maxwell's_Silver_Hammer 1  silverhammer 0  275427627010 9223388529554358286 634 270356 4.000000 100 0 0 0 0 51200 92 0 90 0 256 562
+ 0
+0
+
+ itm_galateahead Galatea's_Ivory_Head Galatea's_Ivory_Head 1  GalateaHead 0  2684358668 0 4960 704643238 1.250000 100 83 0 0 5 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_galateabody Galatea's_Ivory_Body Galatea's_Ivory_Body 1  GalateaBody 0  553652237 0 26212 704643238 13.000000 100 0 83 26 4 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_galateafeet Galatea's_Ivory_Feet Galatea's_Ivory_Feet 1  GalateaFoot_L 0  536875022 0 9496 704643236 1.750000 100 0 0 50 4 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_galateahands Galatea's_Ivory_Hands Galatea's_Ivory_Hands 1  GalateaHand_L 0  536875023 0 7760 704643236 0.500000 100 0 9 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_flyingcarpet Magic_Carpet Magic_Carpet 1  FlyingCarpet 0  536875009 0 1292 110595670016 0.000000 70 0 32 0 0 0 74 86 0 0 22 0
+ 0
+0
+
+ itm_unicorn Unicorn Unicorn 1  Unicorn 0  536875009 0 100000 110595670016 0.000000 40 0 250 0 0 250 100 100 0 0 250 0
+ 0
+0
+
+ itm_poppetmaster The_Poppetmaster's_Avatar The_Poppetmaster's_Avatar 1  Dollmaster 0  553648141 0 3 123731968 1.000000 100 0 5 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_porcelaindoll Porcelain Porcelain 1  Porcelain 0  2684358668 0 6 123731968 1.000000 100 10 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bonedoll Humerus Humerus 1  SkeletonDoll_L 0  536875022 0 410 704643236 3.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wickerdoll Wickerman Wickerman 1  WickerDoll 0  549720067 9223635919939043583 432 155668 1.500000 100 0 0 0 0 59392 105 0 30 0 256 58
+ 0
+0
+
+ itm_irondoll Karuta Karuta 1  ArmorDoll 0  536870919 5100273664 697 167772194 4.000000 100 0 17 0 0 700 61 0 40 0 0 0
+ 0
+0
+
+ itm_slenderdoll Skinnyshanks Skinnyshanks 1  SlenderDoll 0  4194314 131072 10000 4398046781448 3.500000 100 0 0 0 0 0 125 13 0 1 381 0
+ 0
+0
+
+ itm_book_rumplestiltskin Rumplestiltskin Rumplestiltskin 1  Rumplestiltskin 0  20 0 10000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_dartgun Slayer's_Hand-held_Crossbow Slayer's_Hand-held_Crossbow 1  Dartgun 0  12582921 481036795904 1 131082 2.500000 100 0 0 70 0 0 76 160 0 1 306 0
+ 0
+0
+
+ itm_slayersaltdarts Slayer's_Salt-encrusted_Darts Slayer's_Salt-encrusted_Darts 2  SlayerboltSalt 0  flying_missile 2305843009213693952  6 0 1 4398046511112 2.250000 90 0 0 0 0 0 0 0 20 29 266 0
+ 0
+0
+
+ itm_slayersilverdarts Slayer's_Silver-tipped_Darts Slayer's_Silver-tipped_Darts 2  SlayerboltSilver 0  flying_missile 2305843009213693952  6 0 1 4398046511112 2.250000 90 0 0 0 0 0 0 0 20 29 266 0
+ 0
+0
+
+ itm_slayerhat Slayer's_Wide-brimmed_Hat Slayer's_Wide-brimmed_Hat 1  SlayerHat 0  536870924 0 142 704643236 1.250000 100 33 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_slayerarmor Slayer's_Heavy-cut_Leathers Slayer's_Heavy-cut_Leathers 1  SlayerArmor 0  553648141 0 1840 704643236 19.000000 100 0 56 18 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_slayergloves Slayer's_Well-worn_Gloves Slayer's_Well-worn_Gloves 1  necrogauntlet7_L 0  536870927 0 1100 704643236 0.500000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_slayerboots Slayer's_Seven-league_Boots Slayer's_Seven-league_Boots 1  SlayerFoot_L 0  536870926 0 820 704643236 3.000000 100 0 0 32 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_slayeramulet Slayer's_Amulet Slayer's_Amulet 1  SkullAmulet 0  20 0 1 0 2.000000 10 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_terrormask Terror_Mask Terror_Mask 1  SkullMask 0  536875020 0 638 704643238 2.750000 10 50 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_apothecaryhelm Apothecary's_Retort Apothecary's_Retort 1  ApothecaryHelm 0  2684358668 0 5000 704643238 2.750000 10 125 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_apothecaryrobe Apothecary's_Calcinator Apothecary's_Calcinator 1  ApothecaryArmor 0  553652237 0 10000 704643238 28.000000 10 0 125 125 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_malleus Malleus_Maleficarum Malleus_Maleficarum 1  Malleus 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sheriffhat Sheriff's_Wide-brimmed_Hat Sheriff's_Wide-brimmed_Hat 1  SheriffHelm 0  2684354572 0 142 704643236 1.250000 100 33 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_metalbone Heavy_Metal Heavy_Metal 1  MetalBone 0  313539297283 9223635925844623584 618 270356 9.000000 100 0 0 0 14 39936 85 0 75 0 256 551
+ 0
+0
+
+ itm_graeaehead Alien's_Triplicate_Head Alien's_Triplicate_Head 1  GraeaeHead 0  2684358668 0 4960 704643238 1.250000 100 83 0 0 5 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_graeaehead2 Alien's_Radicate_Head Alien's_Radicate_Head 1  GraeaeHead2 0  2684358668 0 4960 704643238 1.250000 100 83 0 0 5 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_graeaebody Alien's_Intricate_Body Alien's_Intricate_Body 1  GraeaeBody 0  553652237 0 26212 704643238 13.000000 100 0 83 26 4 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_graeaefeet Alien's_Duplicate_Feet Alien's_Duplicate_Feet 1  GraeaeFoot_L 0  536875022 0 9496 704643236 1.750000 100 0 0 50 4 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_moontooth Moon_Tooth Moon_Tooth 1  MoonTooth 0  4194306 9223388530359664655 10000 24596 1.000000 100 0 0 0 0 62464 125 0 45 0 381 381
+ 0
+0
+
+ itm_book_disk Code_Disk Code_Disk 1  ObsidianDisk 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_locnar Green_Meteorite Green_Meteorite 1  LocNar 0  20 0 1 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_goldenbow Chrysaor Chrysaor 1  Chrysaor 0  616566786 9223388529554358287 10000 155668 1.500000 100 0 0 0 0 62464 112 0 95 0 381 381
+ 0
+0
+
+ itm_goldenfiddle Pegasus Pegasus 1  GoldenFiddle 0  536875015 0 10000 167772194 4.000000 100 0 17 0 0 999 125 0 40 0 0 0
+ 0
+0
+
+ itm_goldenmask Mask_of_the_Rat_King Mask_of_the_Rat_King 1  GoldMask 0  553652236 0 10000 704643238 2.750000 100 125 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_plaguerats Plague_Rats Plague_Rats 1  PlagueRats_L 0  536875022 0 174 123731968 1.250000 100 0 0 16 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_demilich1 Demilich_Ego Demilich_Ego 1  Demilich1 0  2684358668 0 1 704643238 2.750000 100 125 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_demilich2 Demilich_Id Demilich_Id 1  Demilich2 0  4198403 9223635919939043583 1 155668 2.250000 100 0 0 0 0 62464 125 0 125 0 381 381
+ 0
+0
+
+ itm_demilich3 Demilich_Superego Demilich_Superego 1  Demilich3 0  536875015 5100273664 1 167772194 5.500000 100 0 25 0 0 999 125 0 125 0 0 0
+ 0
+0
+
+ itm_spirit_armor Green_Spirit_Armor Green_Spirit_Armor 1  samurai_armor_green 0  553652237 0 2518 704643236 18.000000 100 0 76 38 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_spirit_boots Green_Spirit_Boots Green_Spirit_Boots 1  samurai_boots_green 0  536878862 0 930 123731968 1.000000 100 0 0 42 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_spirit_helmet Green_Spirit_Helmet Green_Spirit_Helmet 1  samurai_helmet_green 0  536875020 0 1648 704643238 2.000000 100 88 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_spirit_sword Green_Spirit_Sword Green_Spirit_Sword 1  BokkenGreen 0  4198403 9223635928528978175 1318 24596 2.000000 100 0 0 0 9 0 119 0 95 0 548 576
+ 0
+0
+
+ itm_spirit_stars Green_Spirit_Stars Green_Spirit_Stars 1  GhostwoodStar 0  4194314 131072 1544 4398046781448 3.500000 100 0 0 0 0 0 121 24 0 15 560 0
+ 0
+0
+
+ itm_phoenix_bow Phoenix_Flames Phoenix_Flames 2  PhoenixBow 0  PhoenixBow_case 3458764513820540928  610275336 37312532480 2912 655370 1.500000 100 0 0 0 4 0 93 58 0 0 562 0
+ 0
+0
+
+ itm_phoenix_arrows Phoenix_Embers Phoenix_Embers 3  phoenix_arrow 0  flying_missile 2305843009213693952  phoenix_quiver 3458764513820540928  5 2147483648 1400 4398046511112 3.000000 50 0 0 0 0 0 0 0 91 58 518 0
+ 0
+0
+
+ itm_phoenix_shield Phoenix_Inferno Phoenix_Inferno 1  PhoenixShield 0  537137159 5100273664 1816 167772194 3.500000 100 0 1 0 0 999 76 0 62 0 0 0
+ 0
+0
+
+ itm_end_items End_Items End_Items 1  raw_meat 0  11 0 12 0 40.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+

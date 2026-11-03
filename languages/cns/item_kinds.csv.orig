@@ -1,0 +1,1804 @@
+﻿itm_no_item|无 效 的 物 品 
+itm_no_item_pl|无 效 的 物 品 
+itm_horse_meat|马 肉 
+itm_horse_meat_pl|马 肉 
+itm_practice_sword|练 习 剑 
+itm_practice_sword_pl|练 习 剑 
+itm_heavy_practice_sword|重 型 练 习 剑 
+itm_heavy_practice_sword_pl|重 型 练 习 剑 
+itm_practice_axe|练 习 斧 
+itm_practice_axe_pl|练 习 斧 
+itm_practice_staff|练 习 棍 
+itm_practice_staff_pl|练 习 棍 
+itm_practice_lance|练 习 矛 
+itm_practice_lance_pl|练 习 矛 
+itm_practice_shield|练 习 盾 
+itm_practice_shield_pl|练 习 盾 
+itm_practice_bow|练 习 弓 
+itm_practice_bow_pl|练 习 弓 
+itm_practice_crossbow|练 习 弩 
+itm_practice_crossbow_pl|练 习 弩 
+itm_practice_javelin|练 习 标 枪 
+itm_practice_javelin_pl|练 习 标 枪 
+itm_practice_horse|练 习 马 
+itm_practice_horse_pl|练 习 马 
+itm_practice_arrows|练 习 箭 
+itm_practice_arrows_pl|练 习 箭 
+itm_practice_bolts|练 习 弩 箭 
+itm_practice_bolts_pl|练 习 弩 箭 
+itm_red_tourney_armor|红 色 竞 技 甲 
+itm_red_tourney_armor_pl|红 色 竞 技 甲 
+itm_blue_tourney_armor|蓝 色 竞 技 甲 
+itm_blue_tourney_armor_pl|蓝 色 竞 技 甲 
+itm_green_tourney_armor|绿 色 竞 技 甲 
+itm_green_tourney_armor_pl|绿 色 竞 技 甲 
+itm_gold_tourney_armor|金 色 竞 技 甲 
+itm_gold_tourney_armor_pl|金 色 竞 技 甲 
+itm_red_tourney_helmet|红 色 竞 技 盔 
+itm_red_tourney_helmet_pl|红 色 竞 技 盔 
+itm_blue_tourney_helmet|蓝 色 竞 技 盔 
+itm_blue_tourney_helmet_pl|蓝 色 竞 技 盔 
+itm_green_tourney_helmet|绿 色 竞 技 盔 
+itm_green_tourney_helmet_pl|绿 色 竞 技 盔 
+itm_gold_tourney_helmet|金 色 竞 技 盔 
+itm_gold_tourney_helmet_pl|金 色 竞 技 盔 
+itm_arena_shield_red|盾 
+itm_arena_shield_red_pl|盾 
+itm_arena_shield_blue|盾 
+itm_arena_shield_blue_pl|盾 
+itm_arena_shield_green|盾 
+itm_arena_shield_green_pl|盾 
+itm_arena_shield_yellow|盾 
+itm_arena_shield_yellow_pl|盾 
+itm_arena_armor_red|红 色 竞 技 场 甲 
+itm_arena_armor_red_pl|红 色 竞 技 场 甲 
+itm_arena_armor_blue|蓝 色 竞 技 场 甲 
+itm_arena_armor_blue_pl|蓝 色 竞 技 场 甲 
+itm_arena_armor_green|绿 色 竞 技 场 甲 
+itm_arena_armor_green_pl|绿 色 竞 技 场 甲 
+itm_arena_armor_yellow|黄 色 竞 技 场 甲 
+itm_arena_armor_yellow_pl|黄 色 竞 技 场 甲 
+itm_arena_tunic_red|红 色 竞 技 场 上 衣 
+itm_arena_tunic_red_pl|红 色 竞 技 场 上 衣 
+itm_arena_tunic_blue|蓝 色 竞 技 场 上 衣 
+itm_arena_tunic_blue_pl|蓝 色 竞 技 场 上 衣 
+itm_arena_tunic_green|绿 色 竞 技 场 上 衣 
+itm_arena_tunic_green_pl|绿 色 竞 技 场 上 衣 
+itm_arena_tunic_yellow|黄 色 竞 技 场 上 衣 
+itm_arena_tunic_yellow_pl|黄 色 竞 技 场 上 衣 
+itm_arena_helmet_red|红 色 竞 技 场 盔 
+itm_arena_helmet_red_pl|红 色 竞 技 场 盔 
+itm_arena_helmet_blue|蓝 色 竞 技 场 盔 
+itm_arena_helmet_blue_pl|蓝 色 竞 技 场 盔 
+itm_arena_helmet_green|绿 色 竞 技 场 盔 
+itm_arena_helmet_green_pl|绿 色 竞 技 场 盔 
+itm_arena_helmet_yellow|黄 色 竞 技 场 盔 
+itm_arena_helmet_yellow_pl|黄 色 竞 技 场 盔 
+itm_steppe_helmet_red|红 色 草 原 盔 
+itm_steppe_helmet_red_pl|红 色 草 原 盔 
+itm_steppe_helmet_blue|蓝 色 草 原 盔 
+itm_steppe_helmet_blue_pl|蓝 色 草 原 盔 
+itm_steppe_helmet_green|绿 色 草 原 盔 
+itm_steppe_helmet_green_pl|绿 色 草 原 盔 
+itm_steppe_helmet_yellow|黄 色 草 原 盔 
+itm_steppe_helmet_yellow_pl|黄 色 草 原 盔 
+itm_tourney_helm_red|红 色 竞 技 头 盔 
+itm_tourney_helm_red_pl|红 色 竞 技 头 盔 
+itm_tourney_helm_blue|蓝 色 竞 技 头 盔 
+itm_tourney_helm_blue_pl|蓝 色 竞 技 头 盔 
+itm_tourney_helm_green|绿 色 竞 技 头 盔 
+itm_tourney_helm_green_pl|绿 色 竞 技 头 盔 
+itm_tourney_helm_yellow|黄 色 竞 技 头 盔 
+itm_tourney_helm_yellow_pl|黄 色 竞 技 头 盔 
+itm_book_tactics|《军 事 大 要》 
+itm_book_tactics_pl|《军 事 大 要》 
+itm_book_persuasion|《赫 壬 尼 乌 斯 修 辞 学》 
+itm_book_persuasion_pl|《赫 壬 尼 乌 斯 修 辞 学》 
+itm_book_leadership|《阿 利 克 塞 努 斯 大 帝 传》 
+itm_book_leadership_pl|《阿 利 克 塞 努 斯 大 帝 传》 
+itm_book_intelligence|《逻 辑 学 随 笔》 
+itm_book_intelligence_pl|《逻 辑 学 随 笔》 
+itm_book_trade|《物 价 论》 
+itm_book_trade_pl|《物 价 论》 
+itm_book_weapon_mastery|《刀 剑 战 斗 技 巧》 
+itm_book_weapon_mastery_pl|《刀 剑 战 斗 技 巧》 
+itm_book_engineering|《机 械 学 定 理 的 方 法》 
+itm_book_engineering_pl|《机 械 学 定 理 的 方 法》 
+itm_book_wound_treatment_reference|《治 疗 书》 
+itm_book_wound_treatment_reference_pl|《治 疗 书》 
+itm_book_training_reference|《军 械 教 范》 
+itm_book_training_reference_pl|《军 械 教 范》 
+itm_book_surgery_reference|《外 科 医 学 巨 著》 
+itm_book_surgery_reference_pl|《外 科 医 学 巨 著》 
+itm_book_ouijaboard|灵 应 盘 
+itm_book_ouijaboard_pl|灵 应 盘 
+itm_book_handofglory|光 荣 之 手 
+itm_book_handofglory_pl|光 荣 之 手 
+itm_book_skindrum|军 团 之 鼓 
+itm_book_skindrum_pl|军 团 之 鼓 
+itm_book_bezoar|结 石 护 身 符 
+itm_book_bezoar_pl|结 石 护 身 符 
+itm_book_pandorasbox|潘 朵 拉 之 盒 
+itm_book_pandorasbox_pl|潘 朵 拉 之 盒 
+itm_book_evileye|邪 恶 之 眼 
+itm_book_evileye_pl|邪 恶 之 眼 
+itm_book_philosopherstone|仙 石 
+itm_book_philosopherstone_pl|仙 石 
+itm_book_poppet|人 皮 娃 娃 
+itm_book_poppet_pl|人 皮 娃 娃 
+itm_book_chains|梅 菲 斯 托 费 勒 斯 之 链 
+itm_book_chains_pl|梅 菲 斯 托 费 勒 斯 之 链 
+itm_book_artillery|瘟 疫 炮 
+itm_book_artillery_pl|瘟 疫 炮 
+itm_book_shrunkenhead|缩 小 之 头 
+itm_book_shrunkenhead_pl|缩 小 之 头 
+itm_book_blackring|黑 指 环 
+itm_book_blackring_pl|黑 指 环 
+itm_book_dummy|训 练 模 型 人 
+itm_book_dummy_pl|训 练 模 型 人 
+itm_book_infinitystone|无 限 之 石 
+itm_book_infinitystone_pl|无 限 之 石 
+itm_book_agriculture|农 民 的 年 鉴 
+itm_book_agriculture_pl|农 民 的 年 鉴 
+itm_book_industry|手 艺 人 的 日 志 
+itm_book_industry_pl|手 艺 人 的 日 志 
+itm_book_survival|老 旧 的 菜 谱 
+itm_book_survival_pl|老 旧 的 菜 谱 
+itm_book_creel|老 旧 的 鱼 篓 
+itm_book_creel_pl|老 旧 的 鱼 篓 
+itm_book_necronomicon|《亡 灵 之 书》 
+itm_book_necronomicon_pl|《亡 灵 之 书》 
+itm_book_skeletonkey|骸 骨 钥 匙 
+itm_book_skeletonkey_pl|骸 骨 钥 匙 
+itm_book_amontillado|白 葡 萄 酒 酒 桶 
+itm_book_amontillado_pl|白 葡 萄 酒 酒 桶 
+itm_book_goldbug|金 甲 虫 
+itm_book_goldbug_pl|金 甲 虫 
+itm_book_purloined|失 窃 的 信 
+itm_book_purloined_pl|失 窃 的 信 
+itm_book_telltale|泄 密 的 心 
+itm_book_telltale_pl|泄 密 的 心 
+itm_book_rasputinbrain|拉 斯 普 京 的 大 脑 
+itm_book_rasputinbrain_pl|拉 斯 普 京 的 大 脑 
+itm_book_strangeshell|奇 怪 的 贝 壳 
+itm_book_strangeshell_pl|奇 怪 的 贝 壳 
+itm_book_loadeddice|命 运 
+itm_book_loadeddice_pl|命 运 
+itm_book_lute|老 旧 的 鲁 特 琴 
+itm_book_lute_pl|老 旧 的 鲁 特 琴 
+itm_book_bloodphone|血 琴 
+itm_book_bloodphone_pl|血 琴 
+itm_book_ramunskull|拉 蒙 被 剥 皮 的 头 骨 
+itm_book_ramunskull_pl|拉 蒙 被 剥 皮 的 头 骨 
+itm_book_toad|宠 物 蟾 蜍 
+itm_book_toad_pl|宠 物 蟾 蜍 
+itm_book_snake|宠 物 蛇 
+itm_book_snake_pl|宠 物 蛇 
+itm_book_rat|宠 物 鼠 
+itm_book_rat_pl|宠 物 鼠 
+itm_book_spider|宠 物 蜘 蛛 
+itm_book_spider_pl|宠 物 蜘 蛛 
+itm_book_littleowl|白 猫 头 鹰
+itm_book_littleowl_pl|白 猫 头 鹰
+itm_book_blackcat|黑 猫 
+itm_book_blackcat_pl|黑 猫 
+itm_book_necrotic|死 掉 的 宠 物 
+itm_book_necrotic_pl|死 掉 的 宠 物 
+itm_book_changeling|小 孩
+itm_book_changeling_pl|小 孩
+itm_book_changelingcage|铁 笼 
+itm_book_changelingcage_pl|铁 笼 
+itm_book_thoth|亡 灵 之 书 
+itm_book_thoth_pl|亡 灵 之 书 
+itm_book_annabel|安 娜 贝 尔 之 指 环 
+itm_book_annabel_pl|安 娜 贝 尔 之 指 环 
+itm_book_meatgrinder|绞 肉 机 
+itm_book_meatgrinder_pl|绞 肉 机 
+itm_book_mousetrap|捕 鼠 夹 
+itm_book_mousetrap_pl|捕 鼠 夹 
+itm_book_ect|ECT机 
+itm_book_ect_pl|ECT机 
+itm_book_camera|摄 影 机 
+itm_book_camera_pl|摄 影 机 
+itm_book_sappercharges|工 兵 炸 药
+itm_book_sappercharges_pl|工 兵 炸 药
+itm_smoked_fish|熏 鱼 
+itm_smoked_fish_pl|熏 鱼 
+itm_dried_meat|风 干 肉 
+itm_dried_meat_pl|风 干 肉 
+itm_cattle_meat|牛 肉 
+itm_cattle_meat_pl|牛 肉 
+itm_pork|猪 肉 
+itm_pork_pl|猪 肉 
+itm_bread|面 包 
+itm_bread_pl|面 包 
+itm_apples|苹 果 
+itm_apples_pl|苹 果 
+itm_cheese|奶 酪 
+itm_cheese_pl|奶 酪 
+itm_chicken|鸡 肉 
+itm_chicken_pl|鸡 肉 
+itm_honey|蜂 蜜 
+itm_honey_pl|蜂 蜜 
+itm_sausages|腊 肠 
+itm_sausages_pl|腊 肠 
+itm_cabbages|圆 白 菜 
+itm_cabbages_pl|圆 白 菜 
+itm_butter|黄 油 
+itm_butter_pl|黄 油 
+itm_eggs|鸡 蛋 
+itm_eggs_pl|鸡 蛋 
+itm_raw_fish|生 鱼 
+itm_raw_fish_pl|生 鱼 
+itm_milk|牛 奶 
+itm_milk_pl|牛 奶 
+itm_mulberries|桑 葚 
+itm_mulberries_pl|桑 葚 
+itm_grapes|葡 萄 
+itm_grapes_pl|葡 萄 
+itm_entrails|内 脏 
+itm_entrails_pl|内 脏 
+itm_corpse|人 之 尸 体 
+itm_corpse_pl|人 之 尸 体 
+itm_horsecorpse|马 之 尸 体 
+itm_horsecorpse_pl|马 之 尸 体 
+itm_skin|皮 肤 
+itm_skin_pl|皮 肤 
+itm_flesh|肌 肉 
+itm_flesh_pl|肌 肉 
+itm_bones|骨 骼 
+itm_bones_pl|骨 骼 
+itm_eyes|眼 睛 
+itm_eyes_pl|眼 睛 
+itm_brain|大 脑 
+itm_brain_pl|大 脑 
+itm_heart|心 脏 
+itm_heart_pl|心 脏 
+itm_liver|肝 脏 
+itm_liver_pl|肝 脏 
+itm_blood|血 液 
+itm_blood_pl|血 液 
+itm_bonebread|死 者 面 包 
+itm_bonebread_pl|死 者 面 包 
+itm_vblood|吸 血 鬼 之 血 液 
+itm_vblood_pl|吸 血 鬼 之 血 液 
+itm_wblood|狼 人 之 血 液 
+itm_wblood_pl|狼 人 之 血 液 
+itm_bloodwine|血 酒 
+itm_bloodwine_pl|血 酒 
+itm_marshmallows|棉 花 糖 
+itm_marshmallows_pl|棉 花 糖 
+itm_mumiyo|喜 来 芝 
+itm_mumiyo_pl|喜 来 芝 
+itm_nog|蜜 酒 
+itm_nog_pl|蜜 酒 
+itm_bloodpudding|血 布 丁 
+itm_bloodpudding_pl|血 布 丁 
+itm_coffee|咖 啡 豆 
+itm_coffee_pl|咖 啡 豆 
+itm_tea|茶 叶 
+itm_tea_pl|茶 叶 
+itm_meatpie|肉 饼 
+itm_meatpie_pl|肉 饼 
+itm_glogg|格 拉 格 
+itm_glogg_pl|格 拉 格 
+itm_wine|葡 萄 酒 
+itm_wine_pl|葡 萄 酒 
+itm_ale|麦 芽 酒 
+itm_ale_pl|麦 芽 酒 
+itm_spice|香 料 
+itm_spice_pl|香 料 
+itm_salt|盐 
+itm_salt_pl|盐 
+itm_grain|小 麦 
+itm_grain_pl|小 麦 
+itm_flour|面 粉 
+itm_flour_pl|面 粉 
+itm_iron|铁 
+itm_iron_pl|铁 
+itm_oil|油 
+itm_oil_pl|油 
+itm_pottery|陶 器 
+itm_pottery_pl|陶 器 
+itm_linen|亚 麻 布 
+itm_linen_pl|亚 麻 布 
+itm_furs|毛 皮 
+itm_furs_pl|毛 皮 
+itm_wool|羊 毛 
+itm_wool_pl|羊 毛 
+itm_velvet|天 鹅 绒 
+itm_velvet_pl|天 鹅 绒 
+itm_tools|工 具 
+itm_tools_pl|工 具 
+itm_wax|蜡 
+itm_wax_pl|蜡 
+itm_clay|粘 土 
+itm_clay_pl|粘 土 
+itm_silk|丝 绸 
+itm_silk_pl|丝 绸 
+itm_candles|蜡 烛 
+itm_candles_pl|蜡 烛 
+itm_wood|木 头 
+itm_wood_pl|木 头 
+itm_crystal|水 晶 
+itm_crystal_pl|水 晶 
+itm_silver|白 银 
+itm_silver_pl|白 银 
+itm_sulphur|硫 酸 
+itm_sulphur_pl|硫 酸 
+itm_formaldehyde|甲 醛 
+itm_formaldehyde_pl|甲 醛 
+itm_gold|黄 金 
+itm_gold_pl|黄 金 
+itm_diamonds|钻 石 
+itm_diamonds_pl|钻 石 
+itm_diamondelixir|万 能 炼 钻 药 
+itm_diamondelixir_pl|万 能 炼 钻 药 
+itm_soil|坟 土 
+itm_soil_pl|坟 土 
+itm_garlic|拉 多 吉 尔 大 蒜 
+itm_garlic_pl|拉 多 吉 尔 大 蒜 
+itm_aconite|特 赫 尔 罗 格 乌 头 
+itm_aconite_pl|特 赫 尔 罗 格 乌 头 
+itm_mullein|卡 尔 伯 克 毛 蕊 花 
+itm_mullein_pl|卡 尔 伯 克 毛 蕊 花 
+itm_mandrake|曼 德 拉 草 
+itm_mandrake_pl|曼 德 拉 草 
+itm_crocus|番 红 花 
+itm_crocus_pl|番 红 花 
+itm_ghostwood|鬼 木 
+itm_ghostwood_pl|鬼 木 
+itm_snakeoil|骗 人 的 万 灵 油 
+itm_snakeoil_pl|骗 人 的 万 灵 油 
+itm_siege_supply|补 给 品 
+itm_siege_supply_pl|补 给 品 
+itm_quest_wine|葡 萄 酒 
+itm_quest_wine_pl|葡 萄 酒 
+itm_quest_ale|麦 芽 酒 
+itm_quest_ale_pl|麦 芽 酒 
+itm_sumpter_horse|驮 马 
+itm_sumpter_horse_pl|驮 马 
+itm_saddle_horse|骑 用 马 
+itm_saddle_horse_pl|骑 用 马 
+itm_steppe_horse|草 原 马 
+itm_steppe_horse_pl|草 原 马 
+itm_courser|骏 马 
+itm_courser_pl|骏 马 
+itm_hunter|猎 马 
+itm_hunter_pl|猎 马 
+itm_warhorse|军 用 马 
+itm_warhorse_pl|军 用 马 
+itm_charger|战 马 
+itm_charger_pl|战 马 
+itm_arrows|箭 
+itm_arrows_pl|箭 
+itm_khergit_arrows|诃 儿 吉 惕 箭 
+itm_khergit_arrows_pl|诃 儿 吉 惕 箭 
+itm_barbed_arrows|带 倒 刺 箭 
+itm_barbed_arrows_pl|带 倒 刺 箭 
+itm_bodkin_arrows|锥 头 箭 
+itm_bodkin_arrows_pl|锥 头 箭 
+itm_bolts|弩 箭 
+itm_bolts_pl|弩 箭 
+itm_steel_bolts|钢 弩 箭 
+itm_steel_bolts_pl|钢 弩 箭 
+itm_cartridges|弹 药 筒 
+itm_cartridges_pl|弹 药 筒 
+itm_pilgrim_disguise|朝 圣 者 服 
+itm_pilgrim_disguise_pl|朝 圣 者 服 
+itm_pilgrim_hood|朝 圣 者 风 帽 
+itm_pilgrim_hood_pl|朝 圣 者 风 帽 
+itm_leather_gloves|皮 手 套 
+itm_leather_gloves_pl|皮 手 套 
+itm_mail_mittens|链 甲 连 指 手 套 
+itm_mail_mittens_pl|链 甲 连 指 手 套 
+itm_scale_gauntlets|鳞 甲 臂 铠 
+itm_scale_gauntlets_pl|鳞 甲 臂 铠 
+itm_gauntlets|臂 铠 
+itm_gauntlets_pl|臂 铠 
+itm_wrapping_boots|绑 腿 靴 
+itm_wrapping_boots_pl|绑 腿 靴 
+itm_woolen_hose|羊 毛 紧 身 裤 
+itm_woolen_hose_pl|羊 毛 紧 身 裤 
+itm_blue_hose|蓝 色 紧 身 裤 
+itm_blue_hose_pl|蓝 色 紧 身 裤 
+itm_hunter_boots|猎 靴 
+itm_hunter_boots_pl|猎 靴 
+itm_hide_boots|兽 皮 靴 
+itm_hide_boots_pl|兽 皮 靴 
+itm_ankle_boots|护 踝 靴 
+itm_ankle_boots_pl|护 踝 靴 
+itm_nomad_boots|游 牧 靴 
+itm_nomad_boots_pl|游 牧 靴 
+itm_leather_boots|皮 靴 
+itm_leather_boots_pl|皮 靴 
+itm_mail_chausses|链 甲 马 裤 
+itm_mail_chausses_pl|链 甲 马 裤 
+itm_splinted_leather_greaves|薄 金 属 片 皮 制 护 胫 套 
+itm_splinted_leather_greaves_pl|薄 金 属 片 皮 制 护 胫 套 
+itm_splinted_greaves|薄 金 属 片 护 胫 套 
+itm_splinted_greaves_pl|薄 金 属 片 护 胫 套 
+itm_mail_boots|链 甲 靴 
+itm_mail_boots_pl|链 甲 靴 
+itm_iron_greaves|铁 制 护 胫 套 
+itm_iron_greaves_pl|铁 制 护 胫 套 
+itm_lady_dress_ruby|女 士 连 衣 裙 
+itm_lady_dress_ruby_pl|女 士 连 衣 裙 
+itm_lady_dress_green|女 士 连 衣 裙 
+itm_lady_dress_green_pl|女 士 连 衣 裙 
+itm_lady_dress_blue|女 士 连 衣 裙 
+itm_lady_dress_blue_pl|女 士 连 衣 裙 
+itm_courtly_outfit|宫 廷 服 
+itm_courtly_outfit_pl|宫 廷 服 
+itm_nobleman_outfit|贵 族 服 
+itm_nobleman_outfit_pl|贵 族 服 
+itm_nomad_armor|游 牧 甲 
+itm_nomad_armor_pl|游 牧 甲 
+itm_khergit_armor|诃 儿 吉 惕 甲 
+itm_khergit_armor_pl|诃 儿 吉 惕 甲 
+itm_leather_jacket|皮 护 套 
+itm_leather_jacket_pl|皮 护 套 
+itm_rawhide_coat|生 皮 外 套 
+itm_rawhide_coat_pl|生 皮 外 套 
+itm_leather_armor|皮 甲 
+itm_leather_armor_pl|皮 甲 
+itm_fur_coat|毛 皮 外 套 
+itm_fur_coat_pl|毛 皮 外 套 
+itm_dress|连 衣 裙 
+itm_dress_pl|连 衣 裙 
+itm_blue_dress|蓝 色 连 衣 裙 
+itm_blue_dress_pl|蓝 色 连 衣 裙 
+itm_peasant_dress|农 妇 连 衣 裙 
+itm_peasant_dress_pl|农 妇 连 衣 裙 
+itm_woolen_dress|羊 毛 连 衣 裙 
+itm_woolen_dress_pl|羊 毛 连 衣 裙 
+itm_shirt|单 衣 
+itm_shirt_pl|单 衣 
+itm_linen_tunic|亚 麻 上 衣 
+itm_linen_tunic_pl|亚 麻 上 衣 
+itm_short_tunic|富 丽 上 衣 
+itm_short_tunic_pl|富 丽 上 衣 
+itm_robe|长 袍 
+itm_robe_pl|长 袍 
+itm_coarse_tunic|粗 制 上 衣 
+itm_coarse_tunic_pl|粗 制 上 衣 
+itm_leather_apron|皮 围 裙 
+itm_leather_apron_pl|皮 围 裙 
+itm_tabard|粗 呢 大 衣 
+itm_tabard_pl|粗 呢 大 衣 
+itm_leather_vest|皮 背 心 
+itm_leather_vest_pl|皮 背 心 
+itm_steppe_armor|草 原 甲 
+itm_steppe_armor_pl|草 原 甲 
+itm_gambeson|软 甲 
+itm_gambeson_pl|软 甲 
+itm_blue_gambeson|蓝 色 软 甲 
+itm_blue_gambeson_pl|蓝 色 软 甲 
+itm_red_gambeson|红 色 软 甲 
+itm_red_gambeson_pl|红 色 软 甲 
+itm_padded_cloth|带 衬 里 服 
+itm_padded_cloth_pl|带 衬 里 服 
+itm_leather_jerkin|皮 制 短 上 衣 
+itm_leather_jerkin_pl|皮 制 短 上 衣 
+itm_nomad_vest|游 牧 背 心 
+itm_nomad_vest_pl|游 牧 背 心 
+itm_ragged_outfit|褴 褛 服 
+itm_ragged_outfit_pl|褴 褛 服 
+itm_padded_leather|带 衬 里 皮 衣 
+itm_padded_leather_pl|带 衬 里 皮 衣 
+itm_tribal_warrior_outfit|部 落 勇 士 服 
+itm_tribal_warrior_outfit_pl|部 落 勇 士 服 
+itm_nomad_robe|游 牧 袍 
+itm_nomad_robe_pl|游 牧 袍 
+itm_studded_leather_coat|钉 饰 皮 外 套 
+itm_studded_leather_coat_pl|钉 饰 皮 外 套 
+itm_byrnie|铠 甲 
+itm_byrnie_pl|铠 甲 
+itm_haubergeon|无 袖 衣 
+itm_haubergeon_pl|无 袖 衣 
+itm_mail_shirt|链 甲 衫 
+itm_mail_shirt_pl|链 甲 衫 
+itm_mail_hauberk|链 甲 锁 子 甲 
+itm_mail_hauberk_pl|链 甲 锁 子 甲 
+itm_lamellar_vest|薄 层 背 心 
+itm_lamellar_vest_pl|薄 层 背 心 
+itm_mail_with_surcoat|带 外 衣 链 甲 
+itm_mail_with_surcoat_pl|带 外 衣 链 甲 
+itm_surcoat_over_mail|套 链 甲 外 衣 
+itm_surcoat_over_mail_pl|套 链 甲 外 衣 
+itm_brigandine_a|锁 子 铠 
+itm_brigandine_a_pl|锁 子 铠 
+itm_lamellar_armor|薄 层 甲 
+itm_lamellar_armor_pl|薄 层 甲 
+itm_banded_armor|条 纹 甲 
+itm_banded_armor_pl|条 纹 甲 
+itm_cuir_bouilli|熟 皮 甲 
+itm_cuir_bouilli_pl|熟 皮 甲 
+itm_coat_of_plates|薄 板 外 套 
+itm_coat_of_plates_pl|薄 板 外 套 
+itm_plate_armor|板 甲 
+itm_plate_armor_pl|板 甲 
+itm_heraldic_mail_with_surcoat|带 外 衣 纹 章 链 甲 
+itm_heraldic_mail_with_surcoat_pl|带 外 衣 纹 章 链 甲 
+itm_heraldic_mail_with_tabard|带 粗 呢 大 衣 纹 章 链 甲 
+itm_heraldic_mail_with_tabard_pl|带 粗 呢 大 衣 纹 章 链 甲 
+itm_turret_hat_ruby|炮 塔 帽 
+itm_turret_hat_ruby_pl|炮 塔 帽 
+itm_turret_hat_blue|炮 塔 帽 
+itm_turret_hat_blue_pl|炮 塔 帽 
+itm_turret_hat_green|炮 墩 帽 
+itm_turret_hat_green_pl|炮 墩 帽 
+itm_head_wrappings|包 头 布 
+itm_head_wrappings_pl|包 头 布 
+itm_court_hat|炮 塔 帽 
+itm_court_hat_pl|炮 塔 帽 
+itm_wimple_a|女 式 包 头 巾 
+itm_wimple_a_pl|女 式 包 头 巾 
+itm_wimple_with_veil|带 面 纱 女 式 包 头 巾 
+itm_wimple_with_veil_pl|带 面 纱 女 式 包 头 巾 
+itm_straw_hat|草 帽 
+itm_straw_hat_pl|草 帽 
+itm_common_hood|风 帽 
+itm_common_hood_pl|风 帽 
+itm_headcloth|包 头 巾 
+itm_headcloth_pl|包 头 巾 
+itm_woolen_hood|羊 毛 风 帽 
+itm_woolen_hood_pl|羊 毛 风 帽 
+itm_fur_hat|毛 皮 帽 
+itm_fur_hat_pl|毛 皮 帽 
+itm_nomad_cap|游 牧 帽 
+itm_nomad_cap_pl|游 牧 帽 
+itm_steppe_cap|草 原 帽 
+itm_steppe_cap_pl|草 原 帽 
+itm_padded_coif|带 衬 里 头 巾 
+itm_padded_coif_pl|带 衬 里 头 巾 
+itm_woolen_cap|羊 毛 帽 
+itm_woolen_cap_pl|羊 毛 帽 
+itm_felt_hat|毛 毡 帽 
+itm_felt_hat_pl|毛 毡 帽 
+itm_leather_cap|皮 帽 
+itm_leather_cap_pl|皮 帽 
+itm_arming_cap|军 帽 
+itm_arming_cap_pl|军 帽 
+itm_female_hood|女 士 风 帽 
+itm_female_hood_pl|女 士 风 帽 
+itm_leather_steppe_cap_a|草 原 皮 帽 
+itm_leather_steppe_cap_a_pl|草 原 皮 帽 
+itm_leather_steppe_cap_b|草 原 皮 帽 
+itm_leather_steppe_cap_b_pl|草 原 皮 帽 
+itm_leather_steppe_cap_c|草 原 皮 帽 
+itm_leather_steppe_cap_c_pl|草 原 皮 帽 
+itm_leather_warrior_cap|勇 士 皮 帽 
+itm_leather_warrior_cap_pl|勇 士 皮 帽 
+itm_skullcap|无 边 便 帽 
+itm_skullcap_pl|无 边 便 帽 
+itm_mail_coif|链 甲 头 巾 
+itm_mail_coif_pl|链 甲 头 巾 
+itm_footman_helmet|步 兵 盔 
+itm_footman_helmet_pl|步 兵 盔 
+itm_nasal_helmet|护 鼻 盔 
+itm_nasal_helmet_pl|护 鼻 盔 
+itm_norman_helmet|带 帽 盔 
+itm_norman_helmet_pl|带 帽 盔 
+itm_segmented_helmet|分 段 盔 
+itm_segmented_helmet_pl|分 段 盔 
+itm_kettle_hat|壶 帽 
+itm_kettle_hat_pl|壶 帽 
+itm_helmet_with_neckguard|带 护 颈 盔 
+itm_helmet_with_neckguard_pl|带 护 颈 盔 
+itm_spiked_helmet|带 钉 盔 
+itm_spiked_helmet_pl|带 钉 盔 
+itm_nordic_helmet|北 欧 盔 
+itm_nordic_helmet_pl|北 欧 盔 
+itm_flat_topped_helmet|平 顶 盔 
+itm_flat_topped_helmet_pl|平 顶 盔 
+itm_bascinet|开 式 护 头 盔 
+itm_bascinet_pl|开 式 护 头 盔 
+itm_guard_helmet|护 盔 
+itm_guard_helmet_pl|护 盔 
+itm_great_helmet|巨 盔 
+itm_great_helmet_pl|巨 盔 
+itm_winged_great_helmet|大 翼 盔 
+itm_winged_great_helmet_pl|大 翼 盔 
+itm_wooden_stick|木 杖 
+itm_wooden_stick_pl|木 杖 
+itm_cudgel|小 棍 
+itm_cudgel_pl|小 棍 
+itm_hammer|锤 
+itm_hammer_pl|锤 
+itm_club|棒 
+itm_club_pl|棒 
+itm_winged_mace|翼 杖 
+itm_winged_mace_pl|翼 杖 
+itm_spiked_mace|钉 杖 
+itm_spiked_mace_pl|钉 杖 
+itm_military_hammer|军 锤 
+itm_military_hammer_pl|军 锤 
+itm_maul|大 木 槌 
+itm_maul_pl|大 木 槌 
+itm_sledgehammer|大 锤 
+itm_sledgehammer_pl|大 锤 
+itm_warhammer|军 用 锤 
+itm_warhammer_pl|军 用 锤 
+itm_pickaxe|尖 锄 
+itm_pickaxe_pl|尖 锄 
+itm_spiked_club|钉 棒 
+itm_spiked_club_pl|钉 棒 
+itm_fighting_pick|战 镐 
+itm_fighting_pick_pl|战 镐 
+itm_military_pick|军 镐 
+itm_military_pick_pl|军 镐 
+itm_morningstar|星 锤 
+itm_morningstar_pl|星 锤 
+itm_sickle|镰 刀 
+itm_sickle_pl|镰 刀 
+itm_cleaver|切 肉 刀 
+itm_cleaver_pl|切 肉 刀 
+itm_knife|小 刀 
+itm_knife_pl|小 刀 
+itm_butchering_knife|屠 夫 小 刀 
+itm_butchering_knife_pl|屠 夫 小 刀 
+itm_dagger|短 剑 
+itm_dagger_pl|短 剑 
+itm_falchion|弯 刃 大 刀 
+itm_falchion_pl|弯 刃 大 刀 
+itm_scimitar|短 弯 刀 
+itm_scimitar_pl|短 弯 刀 
+itm_great_sword|巨 剑 
+itm_great_sword_pl|巨 剑 
+itm_sword_of_war|军 用 剑 
+itm_sword_of_war_pl|军 用 剑 
+itm_hatchet|短 柄 小 斧 
+itm_hatchet_pl|短 柄 小 斧 
+itm_hand_axe|手 斧 
+itm_hand_axe_pl|手 斧 
+itm_fighting_axe|战 斗 斧 
+itm_fighting_axe_pl|战 斗 斧 
+itm_axe|斧 
+itm_axe_pl|斧 
+itm_voulge|长 柄 刀 
+itm_voulge_pl|长 柄 刀 
+itm_battle_axe|战 斧 
+itm_battle_axe_pl|战 斧 
+itm_war_axe|军 斧 
+itm_war_axe_pl|军 斧 
+itm_sword_two_handed_b|双 手 剑 
+itm_sword_two_handed_b_pl|双 手 剑 
+itm_sword_two_handed_a|巨 剑 
+itm_sword_two_handed_a_pl|巨 剑 
+itm_bastard_sword_a|奇 形 剑 
+itm_bastard_sword_a_pl|奇 形 剑 
+itm_bastard_sword_b|重 型 奇 形 剑 
+itm_bastard_sword_b_pl|重 型 奇 形 剑 
+itm_one_handed_war_axe_a|单 手 军 斧 
+itm_one_handed_war_axe_a_pl|单 手 军 斧 
+itm_one_handed_war_axe_b|单 手 军 斧 
+itm_one_handed_war_axe_b_pl|单 手 军 斧 
+itm_one_handed_battle_axe_a|单 手 战 斧 
+itm_one_handed_battle_axe_a_pl|单 手 战 斧 
+itm_one_handed_battle_axe_b|单 手 战 斧 
+itm_one_handed_battle_axe_b_pl|单 手 战 斧 
+itm_one_handed_battle_axe_c|单 手 战 斧 
+itm_one_handed_battle_axe_c_pl|单 手 战 斧 
+itm_two_handed_axe|双 手 斧 
+itm_two_handed_axe_pl|双 手 斧 
+itm_two_handed_battle_axe_2|双 手 军 斧 
+itm_two_handed_battle_axe_2_pl|双 手 军 斧 
+itm_two_handed_battle_axe_3|长 柄 刀 
+itm_two_handed_battle_axe_3_pl|长 柄 刀 
+itm_bardiche|砍 刀 
+itm_bardiche_pl|砍 刀 
+itm_great_axe|巨 斧 
+itm_great_axe_pl|巨 斧 
+itm_great_bardiche|大 砍 刀 
+itm_great_bardiche_pl|大 砍 刀 
+itm_shortened_military_scythe|短 柄 军 用 大 镰 刀 
+itm_shortened_military_scythe_pl|短 柄 军 用 大 镰 刀 
+itm_sword_medieval_a|剑 
+itm_sword_medieval_a_pl|剑 
+itm_sword_medieval_b|剑 
+itm_sword_medieval_b_pl|剑 
+itm_sword_medieval_b_small|短 型 剑 
+itm_sword_medieval_b_small_pl|短 型 剑 
+itm_sword_medieval_c|军 剑 
+itm_sword_medieval_c_pl|军 剑 
+itm_sword_medieval_c_small|短 军 剑 
+itm_sword_medieval_c_small_pl|短 军 剑 
+itm_sword_viking_1|北 欧 剑 
+itm_sword_viking_1_pl|北 欧 剑 
+itm_sword_viking_2|北 欧 剑 
+itm_sword_viking_2_pl|北 欧 剑 
+itm_sword_viking_2_small|北 欧 短 型 剑 
+itm_sword_viking_2_small_pl|北 欧 短 型 剑 
+itm_sword_viking_3|北 欧 剑 
+itm_sword_viking_3_pl|北 欧 剑 
+itm_sword_viking_3_small|北 欧 剑 
+itm_sword_viking_3_small_pl|北 欧 剑 
+itm_sword_khergit_1|游 牧 马 刀 
+itm_sword_khergit_1_pl|游 牧 马 刀 
+itm_sword_khergit_2|马 刀 
+itm_sword_khergit_2_pl|马 刀 
+itm_sword_khergit_3|马 刀 
+itm_sword_khergit_3_pl|马 刀 
+itm_sword_khergit_4|重 型 马 刀 
+itm_sword_khergit_4_pl|重 型 马 刀 
+itm_club_with_spike_head|带 钉 棒 
+itm_club_with_spike_head_pl|带 钉 棒 
+itm_scythe|大 镰 刀 
+itm_scythe_pl|大 镰 刀 
+itm_pitch_fork|集 草 叉 
+itm_pitch_fork_pl|集 草 叉 
+itm_military_fork|军 叉 
+itm_military_fork_pl|军 叉 
+itm_battle_fork|战 叉 
+itm_battle_fork_pl|战 叉 
+itm_boar_spear|猪 牙 矛 
+itm_boar_spear_pl|猪 牙 矛 
+itm_jousting_lance|竞 技 矛 
+itm_jousting_lance_pl|竞 技 矛 
+itm_double_sided_lance|双 头 矛 
+itm_double_sided_lance_pl|双 头 矛 
+itm_glaive|宽 刃 刀 
+itm_glaive_pl|宽 刃 刀 
+itm_poleaxe|长 斧 
+itm_poleaxe_pl|长 斧 
+itm_staff|棍 
+itm_staff_pl|棍 
+itm_quarter_staff|细 棍 
+itm_quarter_staff_pl|细 棍 
+itm_iron_staff|铁 棍 
+itm_iron_staff_pl|铁 棍 
+itm_shortened_spear|短 矛 
+itm_shortened_spear_pl|短 矛 
+itm_spear|矛 
+itm_spear_pl|矛 
+itm_war_spear|军 矛 
+itm_war_spear_pl|军 矛 
+itm_spear_e_2_5m|军 用 大 镰 刀 
+itm_spear_e_2_5m_pl|军 用 大 镰 刀 
+itm_light_lance|轻 矛 
+itm_light_lance_pl|轻 矛 
+itm_lance|长 矛 
+itm_lance_pl|长 矛 
+itm_heavy_lance|重 矛 
+itm_heavy_lance_pl|重 矛 
+itm_pike|长 枪 
+itm_pike_pl|长 枪 
+itm_ashwood_pike|青 榔 木 枪 
+itm_ashwood_pike_pl|青 榔 木 枪 
+itm_awlpike|锥 头 枪 
+itm_awlpike_pl|锥 头 枪 
+itm_wooden_shield|木 盾 
+itm_wooden_shield_pl|木 盾 
+itm_nordic_shield|北 欧 盾 
+itm_nordic_shield_pl|北 欧 盾 
+itm_fur_covered_shield|蒙 毛 皮 盾 
+itm_fur_covered_shield_pl|蒙 毛 皮 盾 
+itm_steel_shield|钢 盾 
+itm_steel_shield_pl|钢 盾 
+itm_plate_covered_round_shield|蒙 板 圆 盾 
+itm_plate_covered_round_shield_pl|蒙 板 圆 盾 
+itm_leather_covered_round_shield|蒙 皮 革 圆 盾 
+itm_leather_covered_round_shield_pl|蒙 皮 革 圆 盾 
+itm_hide_covered_round_shield|蒙 兽 皮 圆 盾 
+itm_hide_covered_round_shield_pl|蒙 兽 皮 圆 盾 
+itm_shield_heater_c|扇 形 盾 
+itm_shield_heater_c_pl|扇 形 盾 
+itm_tab_shield_round_a|旧 圆 盾 
+itm_tab_shield_round_a_pl|旧 圆 盾 
+itm_tab_shield_round_b|无 花 纹 圆 盾 
+itm_tab_shield_round_b_pl|无 花 纹 圆 盾 
+itm_tab_shield_round_c|圆 盾 
+itm_tab_shield_round_c_pl|圆 盾 
+itm_tab_shield_round_d|重 型 圆 盾 
+itm_tab_shield_round_d_pl|重 型 圆 盾 
+itm_tab_shield_round_e|侍 卫 圆 盾 
+itm_tab_shield_round_e_pl|侍 卫 圆 盾 
+itm_tab_shield_kite_a|旧 筝 型 盾 
+itm_tab_shield_kite_a_pl|旧 筝 型 盾 
+itm_tab_shield_kite_b|无 花 纹 筝 型 盾 
+itm_tab_shield_kite_b_pl|无 花 纹 筝 型 盾 
+itm_tab_shield_kite_c|筝 型 盾 
+itm_tab_shield_kite_c_pl|筝 型 盾 
+itm_tab_shield_kite_d|重 型 筝 型 盾 
+itm_tab_shield_kite_d_pl|重 型 筝 型 盾 
+itm_tab_shield_kite_cav_a|骑 手 筝 型 盾 
+itm_tab_shield_kite_cav_a_pl|骑 手 筝 型 盾 
+itm_tab_shield_kite_cav_b|骑 士 筝 型 盾 
+itm_tab_shield_kite_cav_b_pl|骑 士 筝 型 盾 
+itm_tab_shield_heater_a|旧 扇 形 盾 
+itm_tab_shield_heater_a_pl|旧 扇 形 盾 
+itm_tab_shield_heater_b|无 花 纹 扇 形 盾 
+itm_tab_shield_heater_b_pl|无 花 纹 扇 形 盾 
+itm_tab_shield_heater_c|扇 形 盾 
+itm_tab_shield_heater_c_pl|扇 形 盾 
+itm_tab_shield_heater_d|重 型 扇 形 盾 
+itm_tab_shield_heater_d_pl|重 型 扇 形 盾 
+itm_tab_shield_heater_cav_a|骑 手 扇 形 盾 
+itm_tab_shield_heater_cav_a_pl|骑 手 扇 形 盾 
+itm_tab_shield_heater_cav_b|骑 士 扇 形 盾 
+itm_tab_shield_heater_cav_b_pl|骑 士 扇 形 盾 
+itm_tab_shield_pavise_a|旧 木 板 盾 
+itm_tab_shield_pavise_a_pl|旧 木 板 盾 
+itm_tab_shield_pavise_b|无 花 纹 木 板 盾 
+itm_tab_shield_pavise_b_pl|无 花 纹 木 板 盾 
+itm_tab_shield_pavise_c|木 板 盾 
+itm_tab_shield_pavise_c_pl|木 板 盾 
+itm_tab_shield_pavise_d|重 型 木 板 盾 
+itm_tab_shield_pavise_d_pl|重 型 木 板 盾 
+itm_tab_shield_small_round_a|无 花 纹 骑 兵 盾 
+itm_tab_shield_small_round_a_pl|无 花 纹 骑 兵 盾 
+itm_tab_shield_small_round_b|骑 兵 圆 盾 
+itm_tab_shield_small_round_b_pl|骑 兵 圆 盾 
+itm_tab_shield_small_round_c|精 英 骑 兵 盾 
+itm_tab_shield_small_round_c_pl|精 英 骑 兵 盾 
+itm_jarid|军 用 标 枪 
+itm_jarid_pl|军 用 标 枪 
+itm_javelin|标 枪 
+itm_javelin_pl|标 枪 
+itm_stones|石 头 
+itm_stones_pl|石 头 
+itm_throwing_knives|飞 镖 
+itm_throwing_knives_pl|飞 镖 
+itm_throwing_daggers|飞 刀 
+itm_throwing_daggers_pl|飞 刀 
+itm_throwing_axes|飞 斧 
+itm_throwing_axes_pl|飞 斧 
+itm_hunting_bow|猎 弓 
+itm_hunting_bow_pl|猎 弓 
+itm_short_bow|短 弓 
+itm_short_bow_pl|短 弓 
+itm_nomad_bow|游 牧 弓 
+itm_nomad_bow_pl|游 牧 弓 
+itm_long_bow|长 弓 
+itm_long_bow_pl|长 弓 
+itm_khergit_bow|诃 儿 吉 惕 弓 
+itm_khergit_bow_pl|诃 儿 吉 惕 弓 
+itm_strong_bow|强 弓 
+itm_strong_bow_pl|强 弓 
+itm_war_bow|战 弓 
+itm_war_bow_pl|战 弓 
+itm_hunting_crossbow|猎 弩 
+itm_hunting_crossbow_pl|猎 弩 
+itm_light_crossbow|轻 弩 
+itm_light_crossbow_pl|轻 弩 
+itm_crossbow|弩 
+itm_crossbow_pl|弩 
+itm_heavy_crossbow|重 弩 
+itm_heavy_crossbow_pl|重 弩 
+itm_sniper_crossbow|围 城 用 弩 
+itm_sniper_crossbow_pl|围 城 用 弩 
+itm_flintlock_pistol|燧 发 手 枪 
+itm_flintlock_pistol_pl|燧 发 手 枪 
+itm_court_dress|宫 廷 服 
+itm_court_dress_pl|宫 廷 服 
+itm_rich_outfit|富 丽 服 
+itm_rich_outfit_pl|富 丽 服 
+itm_khergit_guard_armor|诃 儿 吉 惕 护 甲 
+itm_khergit_guard_armor_pl|诃 儿 吉 惕 护 甲 
+itm_khergit_war_helmet|诃 儿 吉 惕 军 盔 
+itm_khergit_war_helmet_pl|诃 儿 吉 惕 军 盔 
+itm_khergit_helmet|诃 儿 吉 惕 盔 
+itm_khergit_helmet_pl|诃 儿 吉 惕 盔 
+itm_khergit_guard_helmet|诃 儿 吉 惕 护 盔 
+itm_khergit_guard_helmet_pl|诃 儿 吉 惕 护 盔 
+itm_khergit_cavalry_helmet|诃 儿 吉 惕 骑 兵 盔 
+itm_khergit_cavalry_helmet_pl|诃 儿 吉 惕 骑 兵 盔 
+itm_black_hood|黑 风 帽 
+itm_black_hood_pl|黑 风 帽 
+itm_light_leather|轻 皮 衣 
+itm_light_leather_pl|轻 皮 衣 
+itm_light_leather_boots|轻 皮 靴 
+itm_light_leather_boots_pl|轻 皮 靴 
+itm_mail_and_plate|薄 板 链 甲 
+itm_mail_and_plate_pl|薄 板 链 甲 
+itm_olredder|奥 雷 德 
+itm_olredder_pl|奥 雷 德 
+itm_wolf|狼
+itm_wolf_pl|狼
+itm_revolver|左 轮
+itm_revolver_pl|左 轮
+itm_bicycle|自 行 车
+itm_bicycle_pl|自 行 车
+itm_sanguineblade|血 钢 奇 形 剑 
+itm_sanguineblade_pl|血 钢 奇 形 剑 
+itm_straightrazor|直 剃 刀 
+itm_straightrazor_pl|直 剃 刀 
+itm_coachgun|教 练 枪 
+itm_coachgun_pl|教 练 枪 
+itm_bandolier|子 弹 带 
+itm_bandolier_pl|子 弹 带 
+itm_magnums|马 格 南 弹 
+itm_magnums_pl|马 格 南 弹 
+itm_hawkhead|鹰 之 头 
+itm_hawkhead_pl|鹰 之 头 
+itm_hawkclaws|鹰 之 爪 
+itm_hawkclaws_pl|鹰 之 爪 
+itm_shovel2|铲 子 
+itm_shovel2_pl|铲 子 
+itm_scythe2|收 谷 大 镰 刀 
+itm_scythe2_pl|收 谷 大 镰 刀 
+itm_pitchfork2|集 草 叉 
+itm_pitchfork2_pl|集 草 叉 
+itm_besom|扫 帚 
+itm_besom_pl|扫 帚 
+itm_ghostwood_sword|鬼 木 尖 片 
+itm_ghostwood_sword_pl|鬼 木 尖 片 
+itm_heavy_ghostwood_sword|鬼 木 之 刺 
+itm_heavy_ghostwood_sword_pl|鬼 木 之 刺 
+itm_ghostwood_mace|鬼 木 树 液 
+itm_ghostwood_mace_pl|鬼 木 树 液 
+itm_ghostwood_staff|鬼 木 之 棍 
+itm_ghostwood_staff_pl|鬼 木 之 棍 
+itm_ghostwood_lance|鬼 木 尖 针 
+itm_ghostwood_lance_pl|鬼 木 尖 针 
+itm_ghostwood_javelin|鬼 木 之 镖 
+itm_ghostwood_javelin_pl|鬼 木 之 镖 
+itm_ghostwood_bow|鬼 木 弹 弓 
+itm_ghostwood_bow_pl|鬼 木 弹 弓 
+itm_ghostwood_arrows|鬼 木 精 灵 箭 
+itm_ghostwood_arrows_pl|鬼 木 精 灵 箭 
+itm_ghostwood_crossbow|鬼 木 之 弩 
+itm_ghostwood_crossbow_pl|鬼 木 之 弩 
+itm_ghostwood_bolts|鬼 木 地 精 矢 
+itm_ghostwood_bolts_pl|鬼 木 地 精 矢 
+itm_ghostwood_shield|鬼 木 顶 针 
+itm_ghostwood_shield_pl|鬼 木 顶 针 
+itm_book_sunstone|精 灵 太 阳 石 
+itm_book_sunstone_pl|精 灵 太 阳 石 
+itm_plagueshroud|瘟 疫 披 肩 
+itm_plagueshroud_pl|瘟 疫 披 肩 
+itm_assassinmask|刺 客 面 具 
+itm_assassinmask_pl|刺 客 面 具 
+itm_fawkesmask|福 克 斯 面 具 
+itm_fawkesmask_pl|福 克 斯 面 具 
+itm_butchercap|屠 夫 帽 
+itm_butchercap_pl|屠 夫 帽 
+itm_butcherapron|屠 夫 围 裙 
+itm_butcherapron_pl|屠 夫 围 裙 
+itm_blackshoes|屠 夫 鞋 
+itm_blackshoes_pl|屠 夫 鞋 
+itm_mummerpaint|哑 剧 演 员 之 涂 案 
+itm_mummerpaint_pl|哑 剧 演 员 之 涂 案 
+itm_mummerpaintf|哑 剧 演 员 之 涂 案 
+itm_mummerpaintf_pl|哑 剧 演 员 之 涂 案 
+itm_dustyhat|落 满 灰 尘 的 帽 子 
+itm_dustyhat_pl|落 满 灰 尘 的 帽 子 
+itm_axeblack|黑 猫 之 斧 
+itm_axeblack_pl|黑 猫 之 斧 
+itm_bloodybanner|血 腥 旗 帜 
+itm_bloodybanner_pl|血 腥 旗 帜 
+itm_coffinnails|棺 材 钉 
+itm_coffinnails_pl|棺 材 钉 
+itm_saltpick|筛 盐 器 
+itm_saltpick_pl|筛 盐 器 
+itm_patchhead|合 尸 之 头 
+itm_patchhead_pl|合 尸 之 头 
+itm_patchbody|合 尸 之 躯 
+itm_patchbody_pl|合 尸 之 躯 
+itm_patchfeet|合 尸 之 足 
+itm_patchfeet_pl|合 尸 之 足 
+itm_patchhands|合 尸 之 手 
+itm_patchhands_pl|合 尸 之 手 
+itm_filthbody|不 洁 者 之 颤 
+itm_filthbody_pl|不 洁 者 之 颤 
+itm_filthfeet|不 洁 者 之 疳 
+itm_filthfeet_pl|不 洁 者 之 疳 
+itm_piratehead|海 盗 之 浮 标 
+itm_piratehead_pl|海 盗 之 浮 标 
+itm_piratebody|海 盗 之 胸 膛 
+itm_piratebody_pl|海 盗 之 胸 膛 
+itm_piratefeet|海 盗 之 假 腿 
+itm_piratefeet_pl|海 盗 之 假 腿 
+itm_piratehands|海 盗 之 滑 钩 
+itm_piratehands_pl|海 盗 之 滑 钩 
+itm_slimebludgeon|史 莱 姆 之 拳 击 
+itm_slimebludgeon_pl|史 莱 姆 之 拳 击 
+itm_slimeball|史 莱 姆 之 球 体 
+itm_slimeball_pl|史 莱 姆 之 球 体 
+itm_slimehead|史 莱 姆 之 血 浆 
+itm_slimehead_pl|史 莱 姆 之 血 浆 
+itm_gruefork|战 栗 之 叉 
+itm_gruefork_pl|战 栗 之 叉 
+itm_gruesomehead|战 栗 之 头 
+itm_gruesomehead_pl|战 栗 之 头 
+itm_gruesomebody|战 栗 之 躯 
+itm_gruesomebody_pl|战 栗 之 躯 
+itm_gruesomefeet|战 栗 之 足 
+itm_gruesomefeet_pl|战 栗 之 足 
+itm_grue|战 栗 
+itm_grue_pl|战 栗 
+itm_mummydagger|木 乃 伊 之 赠 品 
+itm_mummydagger_pl|木 乃 伊 之 赠 品 
+itm_mummyhead|木 乃 伊 之 破 布 
+itm_mummyhead_pl|木 乃 伊 之 破 布 
+itm_mummybody|木 乃 伊 之 丝 带 
+itm_mummybody_pl|木 乃 伊 之 丝 带 
+itm_mummyfeet|木 乃 伊 之 碎 片 
+itm_mummyfeet_pl|木 乃 伊 之 碎 片 
+itm_deathhead|死 者 之 头 
+itm_deathhead_pl|死 者 之 头 
+itm_deathbody|死 者 之 躯 
+itm_deathbody_pl|死 者 之 躯 
+itm_deathfeet|死 者 之 足 
+itm_deathfeet_pl|死 者 之 足 
+itm_deathhands|死 者 之 手 
+itm_deathhands_pl|死 者 之 手 
+itm_deathhorse|死 马 
+itm_deathhorse_pl|死 马 
+itm_burnedhead|焚 化 死 者 之 头 
+itm_burnedhead_pl|焚 化 死 者 之 头 
+itm_burnedbody|焚 化 死 者 之 躯 
+itm_burnedbody_pl|焚 化 死 者 之 躯 
+itm_burnedfeet|焚 化 死 者 之 足 
+itm_burnedfeet_pl|焚 化 死 者 之 足 
+itm_burnedhands|焚 化 死 者 之 手 
+itm_burnedhands_pl|焚 化 死 者 之 手 
+itm_burnedhorse|焚 化 死 马 
+itm_burnedhorse_pl|焚 化 死 马 
+itm_putridhead|腐 烂 死 者 之 头 
+itm_putridhead_pl|腐 烂 死 者 之 头 
+itm_putridbody|腐 烂 死 者 之 躯 
+itm_putridbody_pl|腐 烂 死 者 之 躯 
+itm_putridfeet|腐 烂 死 者 之 足 
+itm_putridfeet_pl|腐 烂 死 者 之 足 
+itm_putridhands|腐 烂 死 者 之 手 
+itm_putridhands_pl|腐 烂 死 者 之 手 
+itm_putridhorse|腐 烂 死 马 
+itm_putridhorse_pl|腐 烂 死 马 
+itm_preservedhead|抗 腐 死 者 之 头 
+itm_preservedhead_pl|抗 腐 死 者 之 头 
+itm_preservedbody|抗 腐 死 者 之 躯 
+itm_preservedbody_pl|抗 腐 死 者 之 躯 
+itm_preservedfeet|抗 腐 死 者 之 足 
+itm_preservedfeet_pl|抗 腐 死 者 之 足 
+itm_preservedhands|抗 腐 死 者 之 手 
+itm_preservedhands_pl|抗 腐 死 者 之 手 
+itm_preservedhorse|抗 腐 死 马 
+itm_preservedhorse_pl|抗 腐 死 马 
+itm_ghasthead|恐 怖 之 头 
+itm_ghasthead_pl|恐 怖 之 头 
+itm_ghastheadburned|恐 怖 焚 化 之 头 
+itm_ghastheadburned_pl|恐 怖 焚 化 之 头 
+itm_ghastheadputrid|恐 怖 腐 烂 之 头 
+itm_ghastheadputrid_pl|恐 怖 腐 烂 之 头 
+itm_ghastheadpreserved|恐 怖 抗 腐 之 头 
+itm_ghastheadpreserved_pl|恐 怖 抗 腐 之 头 
+itm_meatcleaver|恐 怖 之 右 手 屠 刀 
+itm_meatcleaver_pl|恐 怖 之 右 手 屠 刀 
+itm_ghastbody|恐 怖 之 躯 
+itm_ghastbody_pl|恐 怖 之 躯 
+itm_ghastfeet|恐 怖 之 足 
+itm_ghastfeet_pl|恐 怖 之 足 
+itm_ghasthands|恐 怖 之 手 
+itm_ghasthands_pl|恐 怖 之 手 
+itm_meatcleaver_dual|恐 怖 之 左 手 屠 刀 
+itm_meatcleaver_dual_pl|恐 怖 之 左 手 屠 刀 
+itm_ghastbodyburned|恐 怖 焚 化 之 躯 
+itm_ghastbodyburned_pl|恐 怖 焚 化 之 躯 
+itm_ghastfeetburned|恐 怖 焚 化 之 足 
+itm_ghastfeetburned_pl|恐 怖 焚 化 之 足 
+itm_ghasthandsburned|恐 怖 焚 化 之 手 
+itm_ghasthandsburned_pl|恐 怖 焚 化 之 手 
+itm_ghastbodyputrid|恐 怖 腐 烂 之 躯 
+itm_ghastbodyputrid_pl|恐 怖 腐 烂 之 躯 
+itm_ghastfeetputrid|恐 怖 腐 烂 之 足 
+itm_ghastfeetputrid_pl|恐 怖 腐 烂 之 足 
+itm_ghasthandsputrid|恐 怖 腐 烂 之 手 
+itm_ghasthandsputrid_pl|恐 怖 腐 烂 之 手 
+itm_ghastbodypreserved|恐 怖 抗 腐 之 躯 
+itm_ghastbodypreserved_pl|恐 怖 抗 腐 之 躯 
+itm_ghastfeetpreserved|恐 怖 抗 腐 之 足 
+itm_ghastfeetpreserved_pl|恐 怖 抗 腐 之 足 
+itm_ghasthandspreserved|恐 怖 抗 腐 之 手 
+itm_ghasthandspreserved_pl|恐 怖 抗 腐 之 手 
+itm_hellworm|地 狱 之 虫 
+itm_hellworm_pl|地 狱 之 虫 
+itm_demonclaw|恶 魔 之 右 爪 
+itm_demonclaw_pl|恶 魔 之 右 爪 
+itm_demonhead|恶 魔 之 头 
+itm_demonhead_pl|恶 魔 之 头 
+itm_demonbody|恶 魔 之 躯 
+itm_demonbody_pl|恶 魔 之 躯 
+itm_demonfeet|恶 魔 之 足 
+itm_demonfeet_pl|恶 魔 之 足 
+itm_demonhands|恶 魔 之 手 
+itm_demonhands_pl|恶 魔 之 手 
+itm_demonclaw_dual|恶 魔 之 左 爪 
+itm_demonclaw_dual_pl|恶 魔 之 左 爪 
+itm_keresscythe|凯 列 斯 镰 刀
+itm_keresscythe_pl|凯 列 斯 镰 刀
+itm_kereshead|凯 列 斯 头
+itm_kereshead_pl|凯 列 斯 头
+itm_keresbody|凯 列 斯 之 躯
+itm_keresbody_pl|凯 列 斯 之 躯
+itm_keresfeet|凯 列 斯 之 足
+itm_keresfeet_pl|凯 列 斯 之 足
+itm_kereshands|凯 列 斯 之 手
+itm_kereshands_pl|凯 列 斯 之 手
+itm_respitehead|梦 魇 之 头
+itm_respitehead_pl|梦 魇 之 头
+itm_respitebody|梦 魇 之 躯
+itm_respitebody_pl|梦 魇 之 躯
+itm_respitefeet|梦 魇 之 足
+itm_respitefeet_pl|梦 魇 之 足
+itm_respitehands|梦 魇 之 手
+itm_respitehands_pl|梦 魇 之 手
+itm_nepenthehead|魅 魔 之 头
+itm_nepenthehead_pl|魅 魔 之 头
+itm_nepenthebody|魅 魔 之 躯
+itm_nepenthebody_pl|魅 魔 之 躯
+itm_nepenthefeet|魅 魔 之 足
+itm_nepenthefeet_pl|魅 魔 之 足
+itm_nepenthehands|魅 魔 之 手
+itm_nepenthehands_pl|魅 魔 之 手
+itm_destroyersledge|摧 毁 者 之 大 锤 
+itm_destroyersledge_pl|摧 毁 者 之 大 锤 
+itm_destroyerhead|摧 毁 者 之 头 
+itm_destroyerhead_pl|摧 毁 者 之 头 
+itm_destroyerbody|摧 毁 者 之 躯 
+itm_destroyerbody_pl|摧 毁 者 之 躯 
+itm_destroyerfeet|摧 毁 者 之 足 
+itm_destroyerfeet_pl|摧 毁 者 之 足 
+itm_destroyerhands|摧 毁 者 之 手 
+itm_destroyerhands_pl|摧 毁 者 之 手 
+itm_brollachanhead|布 罗 拉 罕 之 头
+itm_brollachanhead_pl|布 罗 拉 罕 之 头
+itm_shadowsword|暗 影 之 剑 
+itm_shadowsword_pl|暗 影 之 剑 
+itm_shadowhead|暗 影 之 头 
+itm_shadowhead_pl|暗 影 之 头 
+itm_shadowbody|暗 影 之 躯 
+itm_shadowbody_pl|暗 影 之 躯 
+itm_shadowfeet|暗 影 之 足 
+itm_shadowfeet_pl|暗 影 之 足 
+itm_shadowhands|暗 影 之 手 
+itm_shadowhands_pl|暗 影 之 手 
+itm_shadowshield|暗 影 之 盾 
+itm_shadowshield_pl|暗 影 之 盾 
+itm_swhalberd|黑 暗 之 戟 
+itm_swhalberd_pl|黑 暗 之 戟 
+itm_swhead|黑 暗 之 头 
+itm_swhead_pl|黑 暗 之 头 
+itm_swbody|黑 暗 之 躯 
+itm_swbody_pl|黑 暗 之 躯 
+itm_swfeet|黑 暗 之 足 
+itm_swfeet_pl|黑 暗 之 足 
+itm_swhands|黑 暗 之 手 
+itm_swhands_pl|黑 暗 之 手 
+itm_shadowbeast|影 兽
+itm_shadowbeast_pl|影 兽
+itm_golemfist|魔 像 的 右 拳 
+itm_golemfist_pl|魔 像 的 右 拳 
+itm_golemhead|魔 像 的 头 
+itm_golemhead_pl|魔 像 的 头 
+itm_golembody|魔 像 的 身 躯 
+itm_golembody_pl|魔 像 的 身 躯 
+itm_golemfeet|魔 像 的 脚 
+itm_golemfeet_pl|魔 像 的 脚 
+itm_golemhands|魔 像 的 手 臂 
+itm_golemhands_pl|魔 像 的 手 臂 
+itm_golemfist_dual|魔 像 之 左 拳 
+itm_golemfist_dual_pl|魔 像 之 左 拳 
+itm_golemfistiron|钢 铁 魔 像 的 右 拳 
+itm_golemfistiron_pl|钢 铁 魔 像 的 右 拳 
+itm_golemheadiron|钢 铁 魔 像 的 头 
+itm_golemheadiron_pl|钢 铁 魔 像 的 头 
+itm_golembodyiron|钢 铁 魔 像 的 身 躯 
+itm_golembodyiron_pl|钢 铁 魔 像 的 身 躯 
+itm_golemfeetiron|钢 铁 魔 像 的 脚 
+itm_golemfeetiron_pl|钢 铁 魔 像 的 脚 
+itm_golemhandsiron|钢 铁 魔 像 的 手 臂 
+itm_golemhandsiron_pl|钢 铁 魔 像 的 手 臂 
+itm_golemfistiron_dual|钢 铁 魔 像 的 左 拳 
+itm_golemfistiron_dual_pl|钢 铁 魔 像 的 左 拳 
+itm_golemfistgold|黄 金 魔 像 的 右 拳 
+itm_golemfistgold_pl|黄 金 魔 像 的 右 拳 
+itm_golemheadgold|黄 金 魔 像 的 头 
+itm_golemheadgold_pl|黄 金 魔 像 的 头 
+itm_golembodygold|黄 金 魔 像 的 身 躯 
+itm_golembodygold_pl|黄 金 魔 像 的 身 躯 
+itm_golemfeetgold|黄 金 魔 像 的 脚 
+itm_golemfeetgold_pl|黄 金 魔 像 的 脚 
+itm_golemhandsgold|黄 金 魔 像 的 手 臂 
+itm_golemhandsgold_pl|黄 金 魔 像 的 手 臂 
+itm_golemfistgold_dual|黄 金 魔 像 的 左 拳 
+itm_golemfistgold_dual_pl|黄 金 魔 像 的 左 拳 
+itm_bloodcannon|血 液 发 动 机 的 大 炮 
+itm_bloodcannon_pl|血 液 发 动 机 的 大 炮 
+itm_bloodcannonballs|血 液 发 动 机 的 炮 弹 
+itm_bloodcannonballs_pl|血 液 发 动 机 的 炮 弹 
+itm_bloodenginehead|血 液 发 动 机 的 头 
+itm_bloodenginehead_pl|血 液 发 动 机 的 头 
+itm_bloodenginebody|血 液 发 动 机 的 身 躯 
+itm_bloodenginebody_pl|血 液 发 动 机 的 身 躯 
+itm_bloodenginefeet|血 液 发 动 机 的 脚 
+itm_bloodenginefeet_pl|血 液 发 动 机 的 脚 
+itm_bloodenginehands|血 液 发 动 机 的 手 
+itm_bloodenginehands_pl|血 液 发 动 机 的 手 
+itm_sludgecannon|淤 泥 发 动 机 的 大 炮
+itm_sludgecannon_pl|淤 泥 发 动 机 的 大 炮
+itm_sludgecannonballs|淤 泥 发 动 机 的 炮 弹
+itm_sludgecannonballs_pl|淤 泥 发 动 机 的 炮 弹
+itm_sludgeenginehead|淤 泥 发 动 机 的 头
+itm_sludgeenginehead_pl|淤 泥 发 动 机 的 头
+itm_sludgeenginebody|淤 泥 发 动 机 的 身 躯
+itm_sludgeenginebody_pl|淤 泥 发 动 机 的 身 躯
+itm_sludgeenginefeet|淤 泥 发 动 机 的 脚
+itm_sludgeenginefeet_pl|淤 泥 发 动 机 的 脚
+itm_sludgeenginehands|淤 泥 发 动 机 的 手
+itm_sludgeenginehands_pl|淤 泥 发 动 机 的 手
+itm_terracottastars|兵 马 俑 的 飞 镖
+itm_terracottastars_pl|兵 马 俑 的 飞 镖
+itm_terracottahead|兵 马 俑 的 头
+itm_terracottahead_pl|兵 马 俑 的 头
+itm_terracottabody|兵 马 俑 的 身 躯
+itm_terracottabody_pl|兵 马 俑 的 身 躯
+itm_terracottafeet|兵 马 俑 的 脚
+itm_terracottafeet_pl|兵 马 俑 的 脚
+itm_hornedknife|侍 祭 之 牺 牲 
+itm_hornedknife_pl|侍 祭 之 牺 牲 
+itm_hornedmask|侍 祭 之 沉 默 
+itm_hornedmask_pl|侍 祭 之 沉 默 
+itm_hornedrobe|侍 祭 之 誓 言 
+itm_hornedrobe_pl|侍 祭 之 誓 言 
+itm_hornedgloves|侍 祭 之 典 礼 
+itm_hornedgloves_pl|侍 祭 之 典 礼 
+itm_hornedsandals|侍 祭 之 恭 顺 
+itm_hornedsandals_pl|侍 祭 之 恭 顺 
+itm_vessel|盛 液 之 皿 
+itm_vessel_pl|盛 液 之 皿 
+itm_necrostaff|亡 灵 巫 师 之 中 风 
+itm_necrostaff_pl|亡 灵 巫 师 之 中 风 
+itm_necrohelm|亡 灵 巫 师 之 痴 呆 
+itm_necrohelm_pl|亡 灵 巫 师 之 痴 呆 
+itm_necroarmor|亡 灵 巫 师 之 憔 悴 
+itm_necroarmor_pl|亡 灵 巫 师 之 憔 悴 
+itm_necrogauntlets|亡 灵 巫 师 之 瘫 痪 
+itm_necrogauntlets_pl|亡 灵 巫 师 之 瘫 痪 
+itm_necrogreaves|亡 灵 巫 师 之 虚 脱 
+itm_necrogreaves_pl|亡 灵 巫 师 之 虚 脱 
+itm_necroshield|亡 灵 巫 师 之 失 明 
+itm_necroshield_pl|亡 灵 巫 师 之 失 明 
+itm_necrohorse|亡 灵 巫 师 之 恶 梦 
+itm_necrohorse_pl|亡 灵 巫 师 之 恶 梦 
+itm_fracture|骨 折 之 杖 
+itm_fracture_pl|骨 折 之 杖 
+itm_necrotorch|肉 体 焚 烧 者 之 炭 渣 
+itm_necrotorch_pl|肉 体 焚 烧 者 之 炭 渣 
+itm_necrohelm2|肉 体 焚 烧 者 之 牙 齿 
+itm_necrohelm2_pl|肉 体 焚 烧 者 之 牙 齿 
+itm_necroarmor2|肉 体 焚 烧 者 之 碎 片 
+itm_necroarmor2_pl|肉 体 焚 烧 者 之 碎 片 
+itm_necrogauntlets2|肉 体 焚 烧 者 之 骨 灰 
+itm_necrogauntlets2_pl|肉 体 焚 烧 者 之 骨 灰 
+itm_necrogreaves2|肉 体 焚 烧 者 之 水 泡 
+itm_necrogreaves2_pl|肉 体 焚 烧 者 之 水 泡 
+itm_necroshield2|肉 体 焚 烧 者 之 伤 疤 
+itm_necroshield2_pl|肉 体 焚 烧 者 之 伤 疤 
+itm_necrohorseburned|肉 体 焚 烧 者 之 恐 慌 
+itm_necrohorseburned_pl|肉 体 焚 烧 者 之 恐 慌 
+itm_kindling|点 火 之 棍 
+itm_kindling_pl|点 火 之 棍 
+itm_putridmallet|鼠 疫 医 生 之 药 品 
+itm_putridmallet_pl|鼠 疫 医 生 之 药 品 
+itm_necrohelm3|鼠 疫 医 生 之 滤 器 
+itm_necrohelm3_pl|鼠 疫 医 生 之 滤 器 
+itm_necroarmor3|鼠 疫 医 生 之 寿 衣 
+itm_necroarmor3_pl|鼠 疫 医 生 之 寿 衣 
+itm_necrogauntlets3|鼠 疫 医 生 之 绷 带 
+itm_necrogauntlets3_pl|鼠 疫 医 生 之 绷 带 
+itm_necrogreaves3|鼠 疫 医 生 之 筒 靴 
+itm_necrogreaves3_pl|鼠 疫 医 生 之 筒 靴 
+itm_necroshield3|鼠 疫 医 生 之 磁 针 
+itm_necroshield3_pl|鼠 疫 医 生 之 磁 针 
+itm_necrohorseputrid|鼠 疫 医 生 之 呕 吐 
+itm_necrohorseputrid_pl|鼠 疫 医 生 之 呕 吐 
+itm_crashkit|撞 击 之 箱 
+itm_crashkit_pl|撞 击 之 箱 
+itm_throwingskulls|血 液 防 腐 者 之 遗 骸 
+itm_throwingskulls_pl|血 液 防 腐 者 之 遗 骸 
+itm_necrohelm4|血 液 防 腐 者 之 面 容 
+itm_necrohelm4_pl|血 液 防 腐 者 之 面 容 
+itm_necroarmor4|血 液 防 腐 者 之 棺 材 
+itm_necroarmor4_pl|血 液 防 腐 者 之 棺 材 
+itm_necrogauntlets4|血 液 防 腐 者 之 遗 嘱 
+itm_necrogauntlets4_pl|血 液 防 腐 者 之 遗 嘱 
+itm_necrogreaves4|血 液 防 腐 者 之 遗 产 
+itm_necrogreaves4_pl|血 液 防 腐 者 之 遗 产 
+itm_necroshield4|血 液 防 腐 者 之 终 结 
+itm_necroshield4_pl|血 液 防 腐 者 之 终 结 
+itm_necrohorsepreserved|血 液 防 腐 者 之 悲 剧 
+itm_necrohorsepreserved_pl|血 液 防 腐 者 之 悲 剧 
+itm_inheritance|遗 赠 之 剑 
+itm_inheritance_pl|遗 赠 之 剑 
+itm_guillotine|地 狱 召 唤 者 之 铡 刀 
+itm_guillotine_pl|地 狱 召 唤 者 之 铡 刀 
+itm_necrohelm5|地 狱 召 唤 者 之 鼠 盔 
+itm_necrohelm5_pl|地 狱 召 唤 者 之 鼠 盔 
+itm_necroarmor5|地 狱 召 唤 者 之 铁 处 女 
+itm_necroarmor5_pl|地 狱 召 唤 者 之 铁 处 女 
+itm_necrogauntlets5|地 狱 召 唤 者 之 拶 子 
+itm_necrogauntlets5_pl|地 狱 召 唤 者 之 拶 子 
+itm_necrogreaves5|地 狱 召 唤 者 之 火 钳 
+itm_necrogreaves5_pl|地 狱 召 唤 者 之 火 钳 
+itm_necroshield5|地 狱 召 唤 者 之 肢 刑 架 
+itm_necroshield5_pl|地 狱 召 唤 者 之 肢 刑 架 
+itm_tormented|地 狱 召 唤 者 之 痛 苦 
+itm_tormented_pl|地 狱 召 唤 者 之 痛 苦 
+itm_tongueflayer|剥 舌 之 刀 
+itm_tongueflayer_pl|剥 舌 之 刀 
+itm_soulstealer|暗 影 领 主 之 吞 噬 者 
+itm_soulstealer_pl|暗 影 领 主 之 吞 噬 者 
+itm_necrohelm6|暗 影 领 主 之 光 环 
+itm_necrohelm6_pl|暗 影 领 主 之 光 环 
+itm_necroarmor6|暗 影 领 主 之 凸 物 
+itm_necroarmor6_pl|暗 影 领 主 之 凸 物 
+itm_necrogauntlets6|暗 影 领 主 之 心 灵 传 动 
+itm_necrogauntlets6_pl|暗 影 领 主 之 心 灵 传 动 
+itm_necrogreaves6|暗 影 领 主 之 私 语 
+itm_necrogreaves6_pl|暗 影 领 主 之 私 语 
+itm_necroshield6|暗 影 领 主 之 隐 形 
+itm_necroshield6_pl|暗 影 领 主 之 隐 形 
+itm_shadowhorse|暗 影 领 主 之 失 色 
+itm_shadowhorse_pl|暗 影 领 主 之 失 色 
+itm_usurper|篡 位 之 锤 
+itm_usurper_pl|篡 位 之 锤 
+itm_blunderbuss|巧 匠 之 喇 叭 枪 
+itm_blunderbuss_pl|巧 匠 之 喇 叭 枪 
+itm_bearings|巧 匠 之 轴 承 
+itm_bearings_pl|巧 匠 之 轴 承 
+itm_necrohelm7|巧 匠 之 透 镜 
+itm_necrohelm7_pl|巧 匠 之 透 镜 
+itm_necroarmor7|巧 匠 之 皮 带 
+itm_necroarmor7_pl|巧 匠 之 皮 带 
+itm_necrogauntlets7|巧 匠 之 扳 手 
+itm_necrogauntlets7_pl|巧 匠 之 扳 手 
+itm_necrogreaves7|巧 匠 之 榔 头 
+itm_necrogreaves7_pl|巧 匠 之 榔 头 
+itm_necroshield7|巧 匠 之 转 轮 
+itm_necroshield7_pl|巧 匠 之 转 轮 
+itm_mancatcher|巧 匠 之 捕 人 器 
+itm_mancatcher_pl|巧 匠 之 捕 人 器 
+itm_torque|拧 转 之 器 
+itm_torque_pl|拧 转 之 器 
+itm_medusa_bow|美 杜 莎 之 凝 视 
+itm_medusa_bow_pl|美 杜 莎 之 凝 视 
+itm_medusa_arrows|美 杜 莎 之 蛇 
+itm_medusa_arrows_pl|美 杜 莎 之 蛇 
+itm_medusa_shield|美 杜 莎 之 头 
+itm_medusa_shield_pl|美 杜 莎 之 头 
+itm_quicksilver_rapier|炼 金 术 士 之 猛 刺 
+itm_quicksilver_rapier_pl|炼 金 术 士 之 猛 刺 
+itm_quicksilver_dagger_dual|炼 金 术 士 之 挡 避 
+itm_quicksilver_dagger_dual_pl|炼 金 术 士 之 挡 避 
+itm_quicksilver_mask|炼 金 术 士 之 回 击 
+itm_quicksilver_mask_pl|炼 金 术 士 之 回 击 
+itm_headless_helm|骑 手 之 死 亡 
+itm_headless_helm_pl|骑 手 之 死 亡 
+itm_headless_armor|骑 手 之 终 止 
+itm_headless_armor_pl|骑 手 之 终 止 
+itm_headless_greaves|骑 手 之 厄 运 
+itm_headless_greaves_pl|骑 手 之 厄 运 
+itm_headless_horse|骑 手 之 绝 望 
+itm_headless_horse_pl|骑 手 之 绝 望 
+itm_hunter_crossbow|猎 手 之 月 
+itm_hunter_crossbow_pl|猎 手 之 月 
+itm_hunter_crossbow2|无 情 猎 手 之 月 
+itm_hunter_crossbow2_pl|无 情 猎 手 之 月 
+itm_hunter_bolts|猎 手 之 星 
+itm_hunter_bolts_pl|猎 手 之 星 
+itm_hunter_bolts2|无 情 猎 手 之 星 
+itm_hunter_bolts2_pl|无 情 猎 手 之 星 
+itm_khanfist|可 汗 之 拳 
+itm_khanfist_pl|可 汗 之 拳 
+itm_trowel|福 吐 纳 托 之 标 志 
+itm_trowel_pl|福 吐 纳 托 之 标 志 
+itm_bricks|福 吐 纳 托 之 石 块 
+itm_bricks_pl|福 吐 纳 托 之 石 块 
+itm_pendulum|钟 摆 
+itm_pendulum_pl|钟 摆 
+itm_partyhat|福 吐 纳 托 之 大 叫 
+itm_partyhat_pl|福 吐 纳 托 之 大 叫 
+itm_partysuit|福 吐 纳 托 之 季 节 
+itm_partysuit_pl|福 吐 纳 托 之 季 节 
+itm_partyfeet|福 吐 纳 托 之 麻 木 
+itm_partyfeet_pl|福 吐 纳 托 之 麻 木 
+itm_partyhands|福 吐 纳 托 之 颤 抖 
+itm_partyhands_pl|福 吐 纳 托 之 颤 抖 
+itm_woodenhead|木 质 之 头 
+itm_woodenhead_pl|木 质 之 头 
+itm_woodenbody|木 质 之 躯 
+itm_woodenbody_pl|木 质 之 躯 
+itm_woodenfeet|木 质 之 足 
+itm_woodenfeet_pl|木 质 之 足 
+itm_woodenhands|木 质 之 手 
+itm_woodenhands_pl|木 质 之 手 
+itm_burnedwoodenhead|焚 化 木 质 之 头 
+itm_burnedwoodenhead_pl|焚 化 木 质 之 头 
+itm_burnedwoodenbody|焚 化 木 质 之 躯 
+itm_burnedwoodenbody_pl|焚 化 木 质 之 躯 
+itm_burnedwoodenfeet|焚 化 木 质 之 足 
+itm_burnedwoodenfeet_pl|焚 化 木 质 之 足 
+itm_burnedwoodenhands|焚 化 木 质 之 手 
+itm_burnedwoodenhands_pl|焚 化 木 质 之 手 
+itm_putridwoodenhead|腐 烂 木 质 之 头 
+itm_putridwoodenhead_pl|腐 烂 木 质 之 头 
+itm_putridwoodenbody|腐 烂 木 质 之 躯 
+itm_putridwoodenbody_pl|腐 烂 木 质 之 躯 
+itm_putridwoodenfeet|腐 烂 木 质 之 足 
+itm_putridwoodenfeet_pl|腐 烂 木 质 之 足 
+itm_putridwoodenhands|腐 烂 木 质 之 手 
+itm_putridwoodenhands_pl|腐 烂 木 质 之 手 
+itm_preservedwoodenhead|抗 腐 木 质 之 头 
+itm_preservedwoodenhead_pl|抗 腐 木 质 之 头 
+itm_preservedwoodenbody|抗 腐 木 质 之 躯 
+itm_preservedwoodenbody_pl|抗 腐 木 质 之 躯 
+itm_preservedwoodenfeet|抗 腐 木 质 之 足 
+itm_preservedwoodenfeet_pl|抗 腐 木 质 之 足 
+itm_preservedwoodenhands|抗 腐 木 质 之 手 
+itm_preservedwoodenhands_pl|抗 腐 木 质 之 手 
+itm_diamondhead|钻 石 之 头 
+itm_diamondhead_pl|钻 石 之 头 
+itm_diamondbody|钻 石 之 躯 
+itm_diamondbody_pl|钻 石 之 躯 
+itm_diamondfeet|钻 石 之 足 
+itm_diamondfeet_pl|钻 石 之 足 
+itm_diamondhands|钻 石 之 手 
+itm_diamondhands_pl|钻 石 之 手 
+itm_nymphhead|仙 女 的 头
+itm_nymphhead_pl|仙 女 的 头
+itm_nymphbody|仙 女 的 身 躯
+itm_nymphbody_pl|仙 女 的 身 躯
+itm_nymphfeet|仙 女 的 脚
+itm_nymphfeet_pl|仙 女 的 脚
+itm_nymphhands|仙 女 的 手
+itm_nymphhands_pl|仙 女 的 手
+itm_lamiahead|拉 弥 亚 之 思 念 双 眼 
+itm_lamiahead_pl|拉 弥 亚 之 思 念 双 眼 
+itm_lamiabody|拉 弥 亚 之 褪 色 甲 壳 
+itm_lamiabody_pl|拉 弥 亚 之 褪 色 甲 壳 
+itm_lamiafeet|拉 弥 亚 之 徘 徊 转 物 
+itm_lamiafeet_pl|拉 弥 亚 之 徘 徊 转 物 
+itm_lamiahands|拉 弥 亚 之 孤 独 下 颚 
+itm_lamiahands_pl|拉 弥 亚 之 孤 独 下 颚 
+itm_skullclub|好 骨 头 
+itm_skullclub_pl|好 骨 头 
+itm_crossboneshelm|叉 骨 之 咏 唱 
+itm_crossboneshelm_pl|叉 骨 之 咏 唱 
+itm_crossbonesarmor|叉 骨 之 恍 惚 
+itm_crossbonesarmor_pl|叉 骨 之 恍 惚 
+itm_crossbonesboots|叉 骨 之 舞 蹈 
+itm_crossbonesboots_pl|叉 骨 之 舞 蹈 
+itm_crossbonesgloves|叉 骨 之 魔 咒 
+itm_crossbonesgloves_pl|叉 骨 之 魔 咒 
+itm_skullclub_dual|坏 骨 头 
+itm_skullclub_dual_pl|坏 骨 头 
+itm_invisblade|弗 拉 德· 德 拉 库 拉 的 不 死 之 剑 
+itm_invisblade_pl|弗 拉 德· 德 拉 库 拉 的 不 死 之 剑 
+itm_invisblade2|弗 拉 德· 德 拉 库 拉 的 不 生 之 剑 
+itm_invisblade2_pl|弗 拉 德· 德 拉 库 拉 的 不 生 之 剑 
+itm_gorgonhead|丝 西 娜 的 铁 铸 之 牙 
+itm_gorgonhead_pl|丝 西 娜 的 漆 黑 之 牙 
+itm_gorgonbody|丝 西 娜 的 装 甲 之 躯 
+itm_gorgonbody_pl|丝 西 娜 的 装 甲 之 躯 
+itm_gorgonfeet|丝 西 娜 的 衬 板 之 尾 
+itm_gorgonfeet_pl|丝 西 娜 的 衬 板 之 尾 
+itm_gorgonhands|丝 西 娜 的 铜 化 之 手 
+itm_gorgonhands_pl|丝 西 娜 的 铜 化 之 手 
+itm_deathscythe|红 死 魔 的 水 痘 
+itm_deathscythe_pl|红 死 魔 的 水 痘 
+itm_deathmask|红 死 魔 的 面 具 
+itm_deathmask_pl|红 死 魔 的 面 具 
+itm_deathrobe|红 死 魔 的 污 迹 
+itm_deathrobe_pl|红 死 魔 的 污 迹 
+itm_deathwraps|红 死 魔 的 觉 醒 
+itm_deathwraps_pl|红 死 魔 的 觉 醒 
+itm_deathgloves|红 死 魔 的 触 碰 
+itm_deathgloves_pl|红 死 魔 的 触 碰 
+itm_rasputinstaff|米 达 伦 
+itm_rasputinstaff_pl|米 达 伦 
+itm_rasputinhead|拉 斯 普 京 的 毁 灭 
+itm_rasputinhead_pl|拉 斯 普 京 的 毁 灭 
+itm_rasputinrobe|拉 斯 普 京 的 复 活 
+itm_rasputinrobe_pl|拉 斯 普 京 的 复 活 
+itm_silverrifle|附 子 草 阿 尔 法 
+itm_silverrifle_pl|附 子 草 阿 尔 法 
+itm_silverbullets|附 子 草 贝 塔 
+itm_silverbullets_pl|附 子 草 贝 塔 
+itm_silverbowie|附 子 草 欧 米 伽 
+itm_silverbowie_pl|附 子 草 欧 米 伽 
+itm_silverspectacles|银 眼 镜“NA CL AG” 
+itm_silverspectacles_pl|银 眼 镜“NA CL AG” 
+itm_greatartificerhead|大 巧 匠 的 头 
+itm_greatartificerhead_pl|大 巧 匠 的 头 
+itm_greatartificerbody|大 巧 匠 的 身 躯 
+itm_greatartificerbody_pl|大 巧 匠 的 身 躯 
+itm_greatartificerfeet|大 巧 匠 的 脚 
+itm_greatartificerfeet_pl|大 巧 匠 的 脚 
+itm_greatartificerhands|大 巧 匠 的 手 
+itm_greatartificerhands_pl|大 巧 匠 的 手 
+itm_greatartificerblade|大 巧 匠 的 振 动 刀 
+itm_greatartificerblade_pl|大 巧 匠 的 振 动 刀 
+itm_greatartificerclamp|大 巧 匠 的 振 动 夹 钳 
+itm_greatartificerclamp_pl|大 巧 匠 的 振 动 夹 钳 
+itm_ravenhead|乌 鸦 的 警 告 
+itm_ravenhead_pl|乌 鸦 的 警 告 
+itm_ravenclaws|乌 鸦 的 双 爪 
+itm_ravenclaws_pl|乌 鸦 的 双 爪 
+itm_ravengloves|驯 鹰 手 套“O.Z. Corvus” 
+itm_ravengloves_pl|驯 鹰 手 套“O.Z. Corvus” 
+itm_lamiastaff|宙 斯 之 忧 伤 
+itm_lamiastaff_pl|宙 斯 之 忧 伤 
+itm_cerberus|刻 耳 柏 洛 斯 
+itm_cerberus_pl|刻 耳 柏 洛 斯 
+itm_lichhelm|巫 妖 王 冠 
+itm_lichhelm_pl|巫 妖 王 冠 
+itm_hematite|哈 得 斯 之 剑“乌 钢 石” 
+itm_hematite_pl|哈 得 斯 之 剑“乌 钢 石” 
+itm_hadesrobe|哈 得 斯 之 袍“血 星 石” 
+itm_hadesrobe_pl|哈 得 斯 之 袍“血 星 石” 
+itm_poseidonstrident|波 塞 顿 的 三 叉 戟 
+itm_poseidonstrident_pl|波 塞 顿 的 三 叉 戟 
+itm_antiherohelm|普 罗 米 修 斯 之 盔 
+itm_antiherohelm_pl|普 罗 米 修 斯 之 盔 
+itm_fireofthegods|诸 神 之 火 
+itm_fireofthegods_pl|诸 神 之 火 
+itm_book_lyre|珀 耳 塞 福 涅 的 骨 琴 
+itm_book_lyre_pl|珀 耳 塞 福 涅 的 骨 琴 
+itm_fistofthegods|诸 神 之 拳 
+itm_fistofthegods_pl|诸 神 之 拳 
+itm_lightningballs|诸 神 之 拳 
+itm_lightningballs_pl|诸 神 之 拳 
+itm_golemheadcoil|诸 神 之 拳 
+itm_golemheadcoil_pl|诸 神 之 拳 
+itm_manticore|曼 提 柯 尔 
+itm_manticore_pl|曼 提 柯 尔
+itm_book_tesla|被 埋 没 的 天 才 
+itm_book_tesla_pl|被 埋 没 的 天 才 
+itm_luger|黑 狼 
+itm_luger_pl|黑 狼 
+itm_atroposshears|阿 特 罗 波 斯 的 憎 恨 剪 刀
+itm_atroposshears_pl|阿 特 罗 波 斯 的 憎 恨 剪 刀
+itm_lachesisrod|拉 克 西 斯 的 测 量 杆
+itm_lachesisrod_pl|拉 克 西 斯 的 测 量 杆
+itm_clothodistaff|克 洛 索 的 金 拉 线
+itm_clothodistaff_pl|克 洛 索 的 金 拉 线
+itm_krakenhead|海 妖 的 咆 哮
+itm_krakenhead_pl|海 妖 的 咆 哮
+itm_krakenfury|海 妖 的 愤 怒
+itm_krakenfury_pl|海 妖 的 愤 怒
+itm_miaface|珀 耳 塞 福 涅 的 天 使 眼
+itm_miaface_pl|珀 耳 塞 福 涅 的 天 使 眼
+itm_bride_dress|珀 耳 塞 福 涅 的 神 圣 外 衣
+itm_bride_dress_pl|珀 耳 塞 福 涅 的 神 圣 外 衣
+itm_talaria|海 默 斯 的 脚 翼
+itm_talaria_pl|海 默 斯 的 脚 翼
+itm_skyclad|天 之 盔 甲
+itm_skyclad_pl|天 之 盔 甲
+itm_skycladf|天 之 盔 甲
+itm_skycladf_pl|天 之 盔 甲
+itm_poseidonhead|波 塞 冬 的 面 容
+itm_poseidonhead_pl|波 塞 冬 的 面 容
+itm_vampire_sword|吸 血 鬼 的 断 头 剑 
+itm_vampire_sword_pl|吸 血 鬼 的 断 头 剑 
+itm_vampire_helm|吸 血 鬼 之 盔 
+itm_vampire_helm_pl|吸 血 鬼 之 盔 
+itm_vampire_helmf|吸 血 鬼 之 盔 
+itm_vampire_helmf_pl|吸 血 鬼 之 盔 
+itm_vampire_armor|吸 血 鬼 之 甲 
+itm_vampire_armor_pl|吸 血 鬼 之 甲 
+itm_vampire_greaves|吸 血 鬼 之 护 胫 套 
+itm_vampire_greaves_pl|吸 血 鬼 之 护 胫 套 
+itm_vampire_gauntlets|吸 血 鬼 之 臂 铠 
+itm_vampire_gauntlets_pl|吸 血 鬼 之 臂 铠 
+itm_bloodletter|放 血 者
+itm_bloodletter_pl|放 血 者
+itm_wolfclaw|狼 人 的 右 爪 
+itm_wolfclaw_pl|狼 人 的 右 爪 
+itm_wolfhelm|狼 人 的 头 
+itm_wolfhelm_pl|狼 人 的 头 
+itm_wolfarmor|狼 人 的 毛 皮 
+itm_wolfarmor_pl|狼 人 的 毛 皮 
+itm_wolfboots|狼 人 的 肉 趾 
+itm_wolfboots_pl|狼 人 的 肉 趾 
+itm_wolfgloves|狼 人 的 肉 爪 
+itm_wolfgloves_pl|狼 人 的 肉 爪 
+itm_wolfclaw_dual|狼 人 的 左 爪 
+itm_wolfclaw_dual_pl|狼 人 的 左 爪 
+itm_elderclaw|长 老 爪
+itm_elderclaw_pl|长 老 爪
+itm_chrysalishead|蛹 之 细 胞 核 
+itm_chrysalishead_pl|蛹 之 细 胞 核 
+itm_chrysalisheaddeathly|蛹 的 死 亡 核
+itm_chrysalisheaddeathly_pl|蛹 的 死 亡 核
+itm_mephwrath|巨 虫 的 狂 怒 
+itm_mephwrath_pl|巨 虫 的 狂 怒 
+itm_mephhead|巨 虫 的 口 部 
+itm_mephhead_pl|巨 虫 的 口 部 
+itm_mephhead2|巨 虫 的 死 尸 
+itm_mephhead2_pl|巨 虫 的 死 尸 
+itm_poedagger|爱 伦· 坡 的 羽 毛 笔 
+itm_poedagger_pl|爱 伦· 坡 的 羽 毛 笔 
+itm_poehead|爱 伦· 坡 的 学 识 
+itm_poehead_pl|爱 伦· 坡 的 学 识 
+itm_poebody|爱 伦· 坡 的 恐 怖 故 事 
+itm_poebody_pl|爱 伦· 坡 的 恐 怖 故 事 
+itm_poehands|爱 伦· 坡 的 梦 想 
+itm_poehands_pl|爱 伦· 坡 的 梦 想 
+itm_poefeet|爱 伦· 坡 的 回 声 
+itm_poefeet_pl|爱 伦· 坡 的 回 声 
+itm_sphinx|斯 芬 克 斯 
+itm_sphinx_pl|斯 芬 克 斯 
+itm_strange_armor|奇 怪 的 铠 甲 
+itm_strange_armor_pl|奇 怪 的 铠 甲 
+itm_strange_boots|奇 怪 的 靴 子 
+itm_strange_boots_pl|奇 怪 的 靴 子 
+itm_strange_helmet|奇 怪 的 头 盔 
+itm_strange_helmet_pl|奇 怪 的 头 盔 
+itm_strange_sword|奇 怪 的 刀 
+itm_strange_sword_pl|奇 怪 的 刀 
+itm_strange_great_sword|奇 怪 的 长 刀 
+itm_strange_great_sword_pl|奇 怪 的 长 刀 
+itm_strange_short_sword|奇 怪 的 短 刀 
+itm_strange_short_sword_pl|奇 怪 的 短 刀 
+itm_book_izanagi|伊 邪 那 歧 之 眼 
+itm_book_izanagi_pl|伊 邪 那 歧 之 眼 
+itm_kameosa|付 丧 神 罐
+itm_kameosa_pl|付 丧 神 罐
+itm_furunushi|付 丧 神 筝
+itm_furunushi_pl|付 丧 神 筝
+itm_burabura|付 丧 神 灯
+itm_burabura_pl|付 丧 神 灯
+itm_black_helmet|黑 之 盔 
+itm_black_helmet_pl|黑 之 盔 
+itm_baron_helmet|黑 男 爵 的 头 
+itm_baron_helmet_pl|黑 男 爵 的 头 
+itm_baron_hands|黑 男 爵 的 手 
+itm_baron_hands_pl|黑 男 爵 的 手 
+itm_black_armor|黑 之 甲 
+itm_black_armor_pl|黑 之 甲 
+itm_black_greaves|黑 之 护 胫 套 
+itm_black_greaves_pl|黑 之 护 胫 套 
+itm_boneshovel|揭 发 者
+itm_boneshovel_pl|揭 发 者
+itm_book_ghostmachine|鬼 魂 机 器
+itm_book_ghostmachine_pl|鬼 魂 机 器
+itm_monstereviscerator|怪 物 的 剔 骨 器
+itm_monstereviscerator_pl|怪 物 的 剔 骨 器
+itm_monstertalon|怪 物 的 右 爪
+itm_monstertalon_pl|怪 物 的 右 爪
+itm_monsterserpents|怪 物 的 倍 增 蛇
+itm_monsterserpents_pl|怪 物 的 倍 增 蛇
+itm_monsterbulk|怪 物 的 巨 大 体 积
+itm_monsterbulk_pl|怪 物 的 巨 大 体 积
+itm_monstercoils|怪 物 的 威 胁 线 圈
+itm_monstercoils_pl|怪 物 的 威 胁 线 圈
+itm_monsterhands|怪 物 的 保 护 之 手
+itm_monsterhands_pl|怪 物 的 保 护 之 手
+itm_monsterhelm|怪 物 的 战 争 头 盔
+itm_monsterhelm_pl|怪 物 的 战 争 头 盔
+itm_monsterbody|怪 物 的 邪 恶 躯 体
+itm_monsterbody_pl|怪 物 的 邪 恶 躯 体
+itm_monstertail|怪 物 扭 曲 的 尾 巴
+itm_monstertail_pl|怪 物 扭 曲 的 尾 巴
+itm_monstertalon_dual|怪 物 的 左 爪
+itm_monstertalon_dual_pl|怪 物 的 左 爪
+itm_book_cube|噩 梦 立 方 体
+itm_book_cube_pl|噩 梦 立 方 体
+itm_tartarushead|黑 坑 地 狱
+itm_tartarushead_pl|黑 坑 地 狱
+itm_invisibilityscarf|隐 形 围 巾
+itm_invisibilityscarf_pl|隐 形 围 巾
+itm_invisibilitycoat|隐 形 衣
+itm_invisibilitycoat_pl|隐 形 衣
+itm_invisibilitysocks|隐 形 袜
+itm_invisibilitysocks_pl|隐 形 袜
+itm_invisibilitymittens|隐 形 手 套
+itm_invisibilitymittens_pl|隐 形 手 套
+itm_flyingointment|飞 行 软 膏
+itm_flyingointment_pl|飞 行 软 膏
+itm_silverhammer|麦 克 斯 韦 的 银 锤
+itm_silverhammer_pl|麦 克 斯 韦 的 银 锤
+itm_galateahead|加 拉 蒂 亚 的 象 牙 头
+itm_galateahead_pl|加 拉 蒂 亚 的 象 牙 头
+itm_galateabody|加 拉 蒂 亚 的 象 牙 之 躯
+itm_galateabody_pl|加 拉 蒂 亚 的 象 牙 之 躯
+itm_galateafeet|加 拉 蒂 亚 的 象 牙 之 足
+itm_galateafeet_pl|加 拉 蒂 亚 的 象 牙 之 足
+itm_galateahands|加 拉 蒂 亚 的 象 牙 之 手
+itm_galateahands_pl|加 拉 蒂 亚 的 象 牙 之 手
+itm_flyingcarpet|魔 毯
+itm_flyingcarpet_pl|魔 毯
+itm_unicorn|独 角 兽
+itm_unicorn_pl|独 角 兽
+itm_poppetmaster|木 偶 师 头 像
+itm_poppetmaster_pl|木 偶 师 头 像
+itm_porcelaindoll|瓷
+itm_porcelaindoll_pl|瓷
+itm_bonedoll|肱 骨
+itm_bonedoll_pl|肱 骨
+itm_wickerdoll|柳 条 人
+itm_wickerdoll_pl|柳 条 人
+itm_irondoll|纸 牌
+itm_irondoll_pl|纸 牌
+itm_slenderdoll|瘦 小 柄
+itm_slenderdoll_pl|瘦 小 柄
+itm_book_rumplestiltskin|朗 普 斯 金
+itm_book_rumplestiltskin_pl|朗 普 斯 金
+itm_dartgun|驱 魔 师 的 手 弩
+itm_dartgun_pl|驱 魔 师 的 手 弩
+itm_slayersaltdarts|驱 魔 师 的 盐 之 弩 箭 
+itm_slayersaltdarts_pl|驱 魔 师 的 盐 之 弩 箭
+itm_slayersilverdarts|驱 魔 师 的 银 之 弩 箭
+itm_slayersilverdarts_pl|驱 魔 师 的 银 之 弩 箭
+itm_slayerhat|驱 魔 师 的 宽 边 帽
+itm_slayerhat_pl|驱 魔 师 的 宽 边 帽
+itm_slayerarmor|驱 魔 师 的 重 型 皮 革
+itm_slayerarmor_pl|驱 魔 师 的 重 型 皮 革
+itm_slayergloves|驱 魔 师 的 皮 革 手 套
+itm_slayergloves_pl|驱 魔 师 的 皮 革 手 套
+itm_slayerboots|驱 魔 师 的 七 联 靴
+itm_slayerboots_pl|驱 魔 师 的 七 联 靴
+itm_book_slayeramulet|驱 魔 师 的 护 身 符
+itm_book_slayeramulet_pl|驱 魔 师 的 护 身 符
+itm_terrormask|恐 怖 的 面 具 
+itm_terrormask_pl|恐 怖 的 面 具 
+itm_apothecaryhelm|药 剂 师 的 蒸 馏 器
+itm_apothecaryhelm_pl|药 剂 师 的 蒸 馏 器
+itm_apothecaryrobe|药 剂 师 的 煅 烧 炉
+itm_apothecaryrobe_pl|药 剂 师 的 煅 烧 炉
+itm_book_malleus|女 巫 之 锤
+itm_book_malleus_pl|女 巫 之 锤
+itm_sheriffhat|治 安 官 的 宽 边 帽
+itm_sheriffhat_pl|治 安 官 的 宽 边 帽
+itm_metalbone|重 金 属
+itm_metalbone_pl|重 金 属
+itm_graeaehead|异 形 的 三 头
+itm_graeaehead_pl|异 形 的 三 头
+itm_graeaehead2|异 形 的 辐 射 头
+itm_graeaehead2_pl|异 形 的 辐 射 头
+itm_graeaebody|异 形 的 复 杂 身 体
+itm_graeaebody_pl|异 形 的 复 杂 身 体
+itm_graeaefeet|异 形 的 复 制 脚
+itm_graeaefeet_pl|异 形 的 复 制 脚
+itm_moontooth|月 牙
+itm_moontooth_pl|月 牙
+itm_book_disk|密 码 盘
+itm_book_disk_pl|密 码 盘
+itm_book_locnar|重 金 属 陨 石
+itm_book_locnar_pl|重 金 属 陨 石
+itm_goldenbow|克 律 萨 俄 耳
+itm_goldenbow_pl|克 律 萨 俄 耳
+itm_goldenfiddle|珀 伽 索 斯 
+itm_goldenfiddle_pl|珀 伽 索 斯 
+itm_goldenmask|鼠 王 的 面 具
+itm_goldenmask_pl|鼠 王 的 面 具
+itm_plaguerats|瘟 疫 大 鼠
+itm_plaguerats_pl|瘟 疫 大 鼠
+itm_demilich1|半 神 巫 妖 的 自 我
+itm_demilich1_pl|半 神 巫 妖 的 自 我
+itm_demilich2|半 神 巫 妖 的 身 份
+itm_demilich2_pl|半 神 巫 妖 的 身 份
+itm_demilich3|半 神 巫 妖 的 超 自 我
+itm_demilich3_pl|半 神 巫 妖 的 超 自 我
+itm_spirit_armor|绿 精 灵 盔 甲
+itm_spirit_armor_pl|绿 精 灵 盔 甲
+itm_spirit_boots|绿 精 灵 靴 子
+itm_spirit_boots_pl|绿 精 灵 靴 子
+itm_spirit_helmet|绿 精 灵 头 盔
+itm_spirit_helmet_pl|绿 精 灵 头 盔
+itm_spirit_sword|绿 色 的 灵 魂 之 剑
+itm_spirit_sword_pl|绿 色 的 灵 魂 之 剑
+itm_end_items|结 束 物 品 
+itm_end_items_pl|结 束 物 品 
+itm_ivory|象 牙 
+itm_ivory_pl|象 牙 
+itm_spirit_stars|绿 灵 星 
+itm_spirit_stars_pl|绿 灵 星 
+itm_phoenix_bow|菲 尼 克 斯 之 炽 焰 
+itm_phoenix_bow_pl|菲 尼 克 斯 之 炽 焰 
+itm_phoenix_arrows|菲 尼 克 斯 之 余 烬 
+itm_phoenix_arrows_pl|菲 尼 克 斯 之 余 烬 
+itm_phoenix_shield|菲 尼 克 斯 之 炼 狱 
+itm_phoenix_shield_pl|菲 尼 克 斯 之 炼 狱 

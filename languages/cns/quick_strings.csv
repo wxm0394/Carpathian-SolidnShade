@@ -1,0 +1,1348 @@
+﻿qstr_Next_Page|下一页 
+qstr_Candidate_#1:_{s1}|候选者 #1： {s1}
+qstr_Candidate_#2:_{s1}|候选者 #2： {s1}
+qstr_{s3}_of_{s4}_wishes_|{s4}的 {s3}想选一位新元帅并邀请他的封臣来商议。 {s1}与 {s2}是适当的候选人。
+qstr_Continue...|继续……  
+qstr_Who_do_you_wish_to_s|你想支持谁？ 
+qstr_{s1}|{s1}
+qstr_{s1}_gives_his_suppo|{s1}支持 {s2}。 
+qstr_Number_of_Supporters|支持者人数： {reg0}
+qstr_{s2}_has_heard_his_v|{s2}听了他的封臣的劝告。他选了 {s1}为 {s3}的元帅。 
+qstr_Action|行动 
+qstr_Mount|骑上坐骑 
+qstr_Attack_Type|攻击类型 
+qstr_Hold_This_Position|守住此据点 
+qstr_Follow_Me|跟随我 
+qstr_Charge|冲锋 
+qstr_Advance|前进 
+qstr_Fall_Back|后退 
+qstr_Stand_Closer|站拢 
+qstr_Spread_Out|散开 
+qstr_Stand_Ground|站在地面 
+qstr_Dismount|离开坐骑 
+qstr_Use_Any_Weapon|使用任何武器 
+qstr_Use_Blunt_Weapons|使用钝的武器 
+qstr_Hold_Your_Fire|停止射击 
+qstr_Fire_At_Will|任意射击 
+qstr_Us|我军 
+qstr_Enemies|敌军 
+qstr_Ready|准备 
+qstr_Wounded|受伤 
+qstr_Dead|死亡 
+qstr_Allies|盟军 
+qstr_Number_of_men_knocke|被击倒的人数： {reg1}
+qstr_Number_of_men_left:_|余下的人数： {reg1}
+qstr_Opponents_Beaten:_{r|被击倒的对手人数： {reg1}
+qstr_Opponents_Remaining:|余下的对手人数： {reg1}
+qstr_Remain_in_retirement|保持退役。 
+qstr_Go_back_to_the_adven|回到冒险。 
+qstr_You_have_retired_at_|冒险 {reg5}日后，你在 {reg4}级时退休。 
+qstr_Effect_on_Score|分数结果 
+qstr_Settlements_owned_by|你的领地： {reg0}
+qstr_{reg0?+:}{reg0}|{reg0?+:}{reg0}
+qstr_Friendly_Settlements|友方领地： {reg0}
+qstr_Hostile_Settlements:|敌方领地： {reg0}
+qstr_{reg0}|{reg0}
+qstr_Friendly_Lords:_{reg|友方领主： {reg0}
+qstr_Enemy_Lords:_{reg0}|敌方领主： {reg0}
+qstr_Victories:_{reg0}|战斗胜利： {reg0}
+qstr_Defeats:_{reg0}|战斗失败： {reg0}
+qstr_Quests_Completed:_{r|完成任务： {reg0}
+qstr_Companions_Found:_{r|找到同伴： {reg0}
+qstr_Companions_Lost/Depa|失去同伴： {reg0}
+qstr_Wealth:_{reg0}_denar|财富金额： {reg0}第纳尔 
+qstr_Inventory:_{reg0}_de|物品存储： {reg0}第纳尔 
+qstr_Renown:_{reg0}|声望数值： {reg0}
+qstr_Experience:_{reg0}|经验数值： {reg0}
+qstr_Days_Passed:_{reg0}|过去天数： {reg0}
+qstr_Difficulty:_{reg0}%|游戏难度： {reg0}%
+qstr_{reg3?+:}{reg0}|{reg3?+:}{reg0}
+qstr_TOTAL_SCORE:_{reg0}|总共分数： {reg0}
+qstr_{s1}_of_{s3}_was_def|{s3}的 {s1}在战斗中被击败了但是设法逃走了。 
+qstr_DEBUG:_{s1}_no_longe|除去故障： {s1}不再领导一支队伍。 
+qstr_DEBUG:_{s1}_is_no_lo|除去故障： {s1}不再是一名俘虏。 
+qstr_DEBUG:_{s1}_is_now_a|除去故障： {s1}现在是玩家的俘虏。 
+qstr_DEBUG:_{s1}_is_now_a_|除去故障： {s1}现在是 {s2}的俘虏。 
+qstr_+{reg1}_to_party_mor|+{reg1}到队伍士气 
+qstr_Requires_{reg1}_inte|要求 {reg1}点智慧才能阅读 
+qstr_Reading_Progress:_{r|阅读进度： {reg1}%
+qstr_wound_treament|疗伤 
+qstr_trainer|教练 
+qstr_surgery|手术 
+qstr_tracking|追踪 
+qstr_looting|掠夺 
+qstr_pathfinding|寻路 
+qstr_first_aid|急救 
+qstr_trade|交易 
+qstr_spotting|侦察 
+qstr_tactics|战术 
+qstr_prisoner_management|控俘 
+qstr_engineer|工程 
+qstr_wound_treatment|疗伤 
+qstr_weapon_master|武艺 
+qstr_+1_to_{s1}|{s1}+1
+qstr_+1_to_Looting_while_|装备时掠夺 +1
+qstr_+1_to_Trade_while_eq|装备时交易 +1
+qstr_+1_to_Trainer_while_|装备时教练 +1
+qstr_+1_to_Spotting_while|装备时侦察 +1
+qstr_+1_to_Wound_Treatmen|装备时疗伤 +1
+qstr_+1_to_First_Aid_whil|装备时急救 +1
+qstr_+1_to_Pathfinding_wh|装备时寻路 +1
+qstr_+1_to_Tracking_while|装备时追踪 +1
+qstr_+1_to_Surgery_while_|装备时手术 +1
+qstr_+1_to_Weapon_Master_|装备时武艺 +1
+qstr_+1_to_Prisoner_Manag|装备时控俘 +1
+qstr_+1_to_Tactics_while_|装备时战术 +1
+qstr_+1_to_Engineer_while|装备时工程 +1
+qstr_+1_to_Spotting|侦查 +1
+qstr_+1_to_Looting|掠夺 +1
+qstr_+1_to_Prisoner_Manage|控俘 +1
+qstr_+1_to_13_skills_whil|装备时 13项技能 +1
+qstr_+1_to_Pathfinding|寻路 +1
+qstr_+1_to_Engineer|工程 +1
+qstr_+1_to_Tactics|战术 +1
+qstr_+1_to_Tracking|追踪 +1
+qstr_+1_to_First_Aid|急救 +1
+qstr_+1_to_Trade|交易 +1
+qstr_+1_to_Weapon_Master|武艺 +1
+qstr_+1_to_Wound_Treatment|疗伤 +1
+qstr__Press_Z_to_banish_f|（按 Z消除迷雾） 
+qstr__Rob_graves_safely_|（安全地洗劫墓穴） 
+qstr__Cheat_death___destr|（逃避死亡——会在此过程中毁掉） 
+qstr__Permanently_cheat_d|（永远逃避死亡） 
+qstr__Troubadour:_sell_mu|（吟游诗人：通过城镇 /城堡菜单演奏赚钱，按 7，8或 9演奏音乐） 
+qstr__Seer:_use_dactyloma|（先知：通过营地菜单预言） 
+qstr__Study_theories_via_|（通过营地菜单学习理论） 
+qstr__Grind_corpses_via_c|（通过营地菜单研磨尸体） 
+qstr__Chance_to_cure_Madn|（通过营地菜单尝试治疗疯病） 
+qstr__Use_graverobbing_vi|（通过城镇 /城堡菜单挖坟）
+qstr__Use_necromancy_via_|（通过营地菜单使用《亡灵之书》） 
+qstr__Teleport_via_camp_m|（通过营地菜单传送） 
+qstr__You_can_hear_the_oc|（你能听到海洋，吟游诗人：通过城镇 /城堡菜单演奏赚钱，按 M演奏音乐） 
+qstr__Some_people_are_jus|（有些人生来就是幸运的，按 6来掷骰子） 
+qstr__Troubadour:_sell_mus|（吟游诗人：通过城镇 /城堡菜单演奏赚钱，按 7或 8演奏音乐） 
+qstr__Troubadour:_sell_musi|（吟游诗人：通过城镇 /城堡菜单演奏赚钱，按 B演奏音乐） 
+qstr__Seer:_use/sell_exst|（先知：通过营地 /村庄菜单使用 /兜售特殊能力） 
+qstr__Use_agriculture_via|（通过村庄菜单发展农业） 
+qstr__Use_industry_via_vi|（通过村庄菜单发展工业） 
+qstr__Use_survival_via_vi|（通过村庄菜单使用生存技能） 
+qstr__Seer:_read_the_taro|（先知：通过营地菜单读塔罗牌） 
+qstr_Acolyte_s_Ceremony|侍祭之仪式 
+qstr_Necromancer_s_Wither|亡灵巫师之消亡 
+qstr_Fleshburner_s_Char|肉体焚烧者之焦炭 
+qstr_Plaguedoctor_s_Remed|鼠疫医生之治疗 
+qstr_Bloodpreserver_s_Eul|血液防腐者之悼词 
+qstr_Hellraiser_s_Abattoi|地狱召唤者之屠宰场 
+qstr_Shadowlord_s_Presenc|暗影领主之风采 
+qstr_Artificer_s_Tools|巧匠之工具 
+qstr_Medusa_s_Blood|美杜莎之血 
+qstr_The_Alchemist_s_Adam|炼金术士之硬物 
+qstr_The_Horseman_s_Curse|骑手之诅咒 
+qstr_Hunter_s_Night|猎手之夜 
+qstr_Khan_s_Fist|可汗之拳 
+qstr_Misfortunate_Fortuna|不幸的福吐纳托 
+qstr_Oak_Ash_and_Thorn|橡树· 青榔树· 刺树 
+qstr_Lamia_s_Lament|拉弥亚之哀悼 
+qstr_Crossbones__Craft|叉骨之手艺 
+qstr__Seer:_use_voodoo_vi|（先知：通过营地菜单使用巫毒术，装备坏骨头时允许叉骨施展读骨术） 
+qstr__Seer:_use_voodoo_via|（先知：通过营地菜单使用巫毒术，装备好骨头时允许叉骨施展读骨术） 
+qstr_The_Undying_Sword_of|弗拉德· 德拉库拉的不死之剑 
+qstr_Scales_of_the_Gorgon|丝西娜之鳞 
+qstr_The_Plague_of_the_Re|红死魔之瘟疫 
+qstr_Rasputin_s_Requiem|拉斯普京之安魂曲 
+qstr__Seer:_use_dactyloman|（先知：通过营地菜单预言，装备梅塔特隆（？）时允许拉斯普京询问它)
+qstr_The_Wolfsbane_Pack|附子草包 
+qstr_The_Great_Artificer|大巧匠 
+qstr_Quoth_the_Raven__Nev|乌鸦说：“永不复焉！” 
+qstr_Gifts_of_the_Gods|诸神之礼物 
+qstr__Troubadour:_sell_music|（吟游诗人：通过城镇 /城堡菜单演奏赚钱，按 7，8，9或 0演奏音乐） 
+qstr_The_Vampire_s_Livery|吸血鬼之装束 
+qstr_The_Werewolf_s_Howl|狼人之咆哮
+qstr_The_Behemoth_Worm|巨虫 
+qstr_Poe_s_Shade|爱伦· 坡的幽灵 
+qstr_The_Rising_Sun|东升旭日 
+qstr__Summon_the_Terracot|（通过营地菜单召唤兵马俑大军，并使盲人重复光明） 
+qstr_The_Dark_Knight|暗黑骑士 
+qstr__Use_graverobbing_via|（通过城镇 /城堡菜单挖坟，安全地掘墓）
+qstr__Turn_prisoners_into|（通过营地菜单将俘虏转化为史莱姆） 
+qstr_Here_There_Be_Monste|这里有怪物……
+qstr_Garments_of_Invisibi|隐形服装 
+qstr_Pygmalion_and_Galate|皮格马利翁和伽拉泰亚 
+qstr_The_Last_Unicorn|最后的独角兽 
+qstr_The_Poppetmaster|木偶大师 
+qstr__Turn_wheat_into_gol|（通过营地菜单将小麦转化成金子） 
+qstr_The_Exorcist|驱魔师 
+qstr__Do_not_remove_|（不要移除） 
+qstr_Ancient_Aliens|古代外星人 
+qstr_The_Plague_of_the_Bl|黑死病瘟疫 
+qstr__Troubadour:_sell_music_|（吟游诗人：通过城镇 /城堡菜单演奏赚钱，按 7，8，9或 N演奏音乐） 
+qstr__Troubadour:_May_sum|（吟游诗人：通过城镇 /城堡菜单演奏梅菲斯特之赞歌时可能召唤瘟疫之鼠） 
+qstr_The_Demilich_s_Suffe|半神巫妖之苦难 
+qstr_The_Rising_Mist|弥漫之雾 
+qstr_Move_here|移动到此 
+qstr_View_notes|检视注释 
+qstr__{s61}|{s61}
+qstr_ERROR:_More_than_15_|错误： 15条以上的贸易路线被给了 {s1}。 
+qstr_{reg4}_killed_{reg5}|死亡： {reg4}；受伤： {reg5}
+qstr_killed|死亡
+qstr_wounded|受伤
+qstr_{reg3?{reg3}:}_{s1}_|{reg3?{reg3}个 :}{s1}（{s2}） 
+qstr_{s0}_{reg3?{reg3}:}_|{s0}， {reg3?{reg3}个 :}{s1}（{s2}） 
+qstr_{s0}^{reg3?{reg3}:}_|{s0}^{reg3?{reg3}个 :}{s1}（{s2}） 
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^总共： {reg3}（{s2}） 
+qstr_None|无 
+qstr_^None|^无 
+qstr_nothing|无 
+qstr_{reg0}_village{reg1?|{reg0}座村庄
+qstr_{reg0}_castle{reg1?s|{reg0}座城堡
+qstr_{reg0}_castle{reg1?s:|{reg0}座城堡与 {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0}座城镇
+qstr_{reg0}_town{reg1?s:}_|{reg0}座城镇与 {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0}座城镇， {s0}
+qstr_Battle_Advantage_=_{|战斗优势 ={reg0}。
+qstr_{s9}_wants_you_to_re|{s9}想要你继续跟随他的军队直到进一步的通知。 
+qstr__Being_Raided_|（正在被突袭） 
+qstr__Looted_|（被掠夺了） 
+qstr__Under_Siege_|（被包围了） 
+qstr_The_village_of_{s1}_|{s1}村被 {s2}掠夺了。 
+qstr_{s3}_is_no_longer_un|{s3}不再被包围了。 
+qstr_Enemies_spotted_near|在 {s1}附近发现了敌人。 
+qstr_{s1}_has_been_besieg|{s1}被 {s3}的 {s2}围困了。 
+qstr_{s1}_is_chosen_as_th|{s1}被选为了 {s2}的元帅。 
+qstr_{s1}_is_the_new_mars|{s1}是 {s2}的新元帅。 
+qstr_{s1}_decided_to_do_n|{s1}决定什么都不做。 
+qstr_{s1}_decided_to_gath|{s1}决定召集军队。 
+qstr_{s1}_decided_to_besi|{s1}决定围攻 {s2}。 
+qstr_{s1}_decided_to_raid|{s1}决定突袭 {s2}。 
+qstr_{s1}_decided_to_atta|{s1}决定攻击 {s2}。 
+qstr_{s1}_decided_to_attac|{s1}决定攻击 {s2}附近的敌人。 
+qstr_You_gained_{reg12}_r|你得到 {reg12}点声望。 
+qstr_You_lose_{reg12}_ren|你失去 {reg12}点声望。 
+qstr_Your_relation_with_{|你与 {s1}的关系提升。 
+qstr_Your_relation_with_{s|你与 {s1}的关系恶化。 
+qstr_You_gain_honour.|你得到荣誉。 
+qstr_You_lose_honour.|你失去荣誉。 
+qstr_{s1}_has_declared_wa|{s1}向 {s2}宣战。 
+qstr_{s1}_and_{s2}_have_m|{s1}与 {s2}达成和平。 
+qstr_{s2}_{reg3?was:is_cu|{s2}{reg3?曾:最近} 在 {s3}。 
+qstr_{s2}_{reg3?was:is}_t|{s2}{reg3?曾:正} 在赶往 {s3}并且 {reg4?她:他} {reg3?曾:此刻应该} 在 {s4}附近。 
+qstr_{s2}_{reg3?was:is}_i|{s2}{reg3?曾:正} 在野外并且 {reg4?她:他} {reg3?曾:此刻应该} 在 {s3}附近。 
+qstr_{s2}_{reg3?was:is}_b|{s2}{reg3?曾:正} 被囚禁于 {s3}。 
+qstr_{s2}_{reg3?was:has_b|{s2}{reg3?曾:已} 被 {reg4?她:他} 的敌人俘虏。 
+qstr_{reg3?{s2}_s_locatio|{reg3?{s2}的位置不明:我不知道 {s2}在哪里}。 
+qstr_{s6}_has_joined_your|{s6}加入了你的队伍。 
+qstr_You_now_owe_{reg2}_d|你现在欠 {s1}{reg2}第纳尔。 
+qstr_Renown_value_for_thi|这场战斗的声望值为 {reg8}。 
+qstr_You_have_run_into_a_|你中了圈套！ 
+qstr_You_are_attacked_by_|你被一群强盗袭击！ 
+qstr_Holding|正在坚守 
+qstr_Following|正在跟随 
+qstr_Charging|正在冲锋 
+qstr_Advancing|正在前进 
+qstr_Falling_Back|正在后退 
+qstr_Standing_Closer|正在站拢 
+qstr_Spreading_Out|正在散开 
+qstr_Standing|正在站立 
+qstr_N/A|不适用 
+qstr_Free|正在自由行动 
+qstr_Any_Weapon|任何武器 
+qstr_Blunt_Weapons|钝的武器 
+qstr_Infantry__{reg1}_|步兵（{reg1}） 
+qstr_Archers__{reg2}_|射手（{reg2}） 
+qstr_Cavalry__{reg3}_|骑兵（{reg3}） 
+qstr_{reg4}|{reg4}
+qstr_{reg5}|{reg5}
+qstr_{reg6}|{reg6}
+qstr_{reg7}|{reg7}
+qstr_{reg8}|{reg8}
+qstr_{reg9}|{reg9}
+qstr_{reg10}|{reg10}
+qstr_{reg11}|{reg11}
+qstr_{reg12}|{reg12}
+qstr_{s1}_Rebels|{s1}叛军 
+qstr_Given_by:_{s62}|给予者： {s62}
+qstr_Given_on:_{s60}|始于： {s60}
+qstr_You_have_{reg0}_days|你有 {reg0}天来完成此任务。 
+qstr_This_quest_has_been_|任务已结束。与 {s59}对话来完成它。 
+qstr_This_quest_has_been_s|任务已被成功完成。与 {s59}对话来索要你的报酬。 
+qstr_This_quest_has_faile|任务已失败。与 {s59}对话来解释情况。 
+qstr_At_the_time_quest_wa|在任务被给出时： ^{s1}
+qstr_{s4}_is_in_{s5}|{s4}在 {s5}
+qstr_{s1}_is_infested_by_|{s1}正被强盗骚扰。 
+qstr_nowhere|无 
+qstr_{s7}_and_{s8}|{s7}和 {s8}
+qstr_{s7}_{s8}|{s7}、 {s8}
+qstr_noone|无 
+qstr_{s9}_and_{s10}|{s9}和 {s10}
+qstr_{s9}_{s10}|{s9}、 {s10}
+qstr_{s11}_and_{s12}|{s11}和 {s12}
+qstr_{s11}_{s12}|{s11}、 {s12}
+qstr_{s5}_is_ruled_by_{s6|{s5}被 {s6}统治着。 ^它占据着 {s8}。 ^它的封臣是 {s10}。 ^{s5}在与 {s12}交战。 
+qstr_{s5}_has_been_defeat|{s5}已被击败！ 
+qstr_{s5}_has_a_strength_|{s5}的总兵力为 {reg1}人。 
+qstr_{s54}_is_a_claimant_|{s54}是 {s56}王位的一位索要者。 
+qstr_{s57}_and_{s58}|{s57}和 {s58}
+qstr_{s57}_{s58}|{s57}、 {s58}
+qstr_{reg3?She:He}|{reg3?她:他} 
+qstr_^{s59}|^{s59}
+qstr_{reg6?:{reg4?{s54}_i|{reg6?:{s54}是 {s56}的 {reg4?统治者:{s55}的一位封臣}。 ^}声望： {reg5}。 ^{reg3?她:他} {reg9?是 {s58}的 {reg3?女 :}主人:没有封地}。 {s59}
+qstr_The_last_time_you_sa|上次你见到 {reg1?她:他} 时， {s1}
+qstr_The_last_time_you_he|上次你听说到 {reg1?她:他} 时， {s1}
+qstr_The_town_of_{s50}|{s50}镇 
+qstr_The_village_of_{s50}|{s52}附近的 {s50}村 
+qstr_{s50}|{s50}
+qstr_{s51}_belongs_to_{s1|{s51}属于 {s2}的 {s1}。 ^
+qstr_{s2}It_has_no_villag|{s2}它没有下属村庄。 ^
+qstr_{s2}{reg0?Its_villag|{s2}它的下属村庄是 {s8}。 ^
+qstr_{s2}Its_prosperity_i|{s2}它的繁荣度是： {s50}
+qstr_Current_garrison_con|当前的驻军有 {reg5}人。 ^储存的食物可供 {reg6}天。 
+qstr_Very_Poor|很穷
+qstr_Poor|穷
+qstr_Average|一般
+qstr_Rich|富
+qstr_Very_Rich|很富
+qstr_Manor|庄园
+qstr_A_manor_lets_you_res|庄园让你在村庄休息并让你在休息时只支付你的部队一半的薪水。 
+qstr_Mill|磨坊
+qstr_A_mill_increases_vil|磨坊提高村庄繁荣度的 5%。 
+qstr_Watch_Tower|瞭望塔
+qstr_A_watch_tower_lets_t|瞭望塔让村民更早地发出警报，让敌人掠夺村庄所花费的时间提高 25%。 
+qstr_School|学校
+qstr_A_school_increases_t|学校每月提高 1点村民对你的忠诚度。 
+qstr_Messenger_Post|信使站
+qstr_A_messenger_post_let|信使站让居民在敌人处在附近时向你发送消息，即使你远离于此。 
+qstr_Prison_Tower|监狱塔
+qstr_A_prison_tower_reduc|监狱塔降低被关押于此的俘虏成功逃走的机会。 
+qstr_Prosperity_of_{s2}_h|{s2}的繁荣度从 {s3} 变为了 {s4}。 
+qstr_{s4}_looks_upset.|{s4}看起来不满。 
+qstr_your_party|你的队伍 
+qstr_{reg0?One_of_your_pr|{reg0?你的一名俘虏， :}{s3}的 {s1}从囚禁中逃脱了！ 
+qstr_You_brought_{reg3}_h|你带了 {reg3}头牛到 {s1}。 
+qstr_I_heard_that_there_w|我听说在 {s62}即将有一场竞技大会。 
+qstr_I_heard_that_one_can|我听说在 {s63}买 {s62}很便宜。 
+qstr_I_heard_that_they_pa|我听说在 {s63}{s62}的卖价很高。 
+qstr_Log_entry_{reg3}:_ty|进入记录 {reg3}：类型 {reg4}
+qstr_Center:_{s4}|中心： {s4}
+qstr_Troop:_{s4}|部队： {s4}
+qstr_Lord:_{s4}|领主： {s4}
+qstr_Ally_party_is_presen|友军部队在当前 
+qstr_{s4}_is_present_at_e|{s4}现在在项目中 
+qstr_Event_#{reg5}_type_{|事件 #{reg5}，类型 {reg6}，时间 {reg8}：玩家的王国对队伍目标的关系 ={reg7}
+qstr_Event_#{reg5}_type_{r|事件 #{reg5}，类型 {reg6}，时间 {reg8}：玩家的王国对中心目标阵营的关系 ={reg7}
+qstr_Event_#{reg5}_type_{re|事件 #{reg5}，类型 {reg6}，时间 {reg8}：玩家的王国对阵营目标的关系 ={reg7}
+qstr_Event_#{reg5}_type_{reg|事件 #{reg5}，类型 {reg6}，时间 {reg8}。无相关王国关系 
+qstr_Event_#{reg5}_type_{reg6|事件 #{reg5}，类型 {reg6}，时间 {reg8}。独立的玩家 
+qstr_Elapsed_hours:_{reg7|经过小时数： {reg7}
+qstr_Reputation_type:_{s1|声誉类型： {s15}
+qstr_Entries_up_to_#{reg5|进入至 #{reg5}跳过 
+qstr_BLOODBATH!|浴血！ 
+qstr_You_cannot_escape_Th|你无法逃脱命运！ 
+qstr_The_Fates_have_spoke|命运开口了！ 
+qstr_Khan_s_Fist_drops_to|可汗之拳掉到地上了！ 
+qstr_Bloodstone_the_Robe_|哈得斯之袍“血星石”掉到地上了！ 
+qstr_The_Infinity_Stone_d|无限之石掉到地上了。
+qstr_Imhotep_crumbles_int|伊姆霍特普碎成红色的灰尘，并吹走！唉，他的坟墓已用完了喜来芝！
+qstr_Crossbones_cringes..|叉骨开始打颤……
+qstr_The_werewolves_stumb|狼人们步履蹒跚……
+qstr_You_feel_weak..._the|你感到虚弱……这附近有银……
+qstr_The_full_moon_makes_|满月使叉骨发狂！ 
+qstr_The_full_moon_makes_t|满月使狼人们发狂！ 
+qstr_The_full_moon_makes_y|满月使你发狂！你发出了嗜血的嗥叫！ 
+qstr_Lamia_gasps...|拉米亚喘息着……
+qstr_The_vampires_hesitat|吸血鬼们仿徨着……
+qstr_The_salt_is_overwhel|盐正在将你压倒！ 
+qstr_You_feel_weak..._ther|你感到虚弱……这附近有盐……
+qstr_The_new_moon_makes_L|新月使拉米亚发狂！ 
+qstr_The_new_moon_makes_t|新月使吸血鬼们发狂！ 
+qstr_The_new_moon_makes_y|新月使你发狂！你发出了嗜血的嘶嘶声！ 
+qstr_Poseidon_heals_you!_|波塞冬治愈了你！赞美海洋之力！ 
+qstr_The_sapper_charges_b|工兵的背上燃烧了起来！ 
+qstr_The_ghostwood_nymphs|鬼木蜂鸟看起来让人不舒服……
+qstr_You_feel_disoriented|你感到头晕目眩……这附近有铁块…… 
+qstr_Ghostwood_makes_you_|鬼木使你感觉就像一个林地之王！ 
+qstr_You_feel_invigorated|手中的木头物品使你感到振奋！ 
+qstr_You_take_a_bite_of_a|你咬了一口人的尸体，对你的敌人大发脾气！
+qstr_You_eat_a_crocus_pet|你吃了番红花，感觉好了点！
+qstr_Your_feet_ache...|你感到头疼……
+qstr_You_feel_terribly_il|你感到病很重！
+qstr_DANGER!|危险！ 
+qstr_You_suffer_a_concuss|你遭受了脑震荡！但你快速地恢复了。 
+qstr_You_are_mortally_wou|你受了致命伤……但是你又站起来了，因为你是死人！
+qstr_You_are_mortally_woun|你受了致命伤……但是你又站起来了，因为你是死人！
+qstr_Overflow!_See_Camp_M|溢出了！查看营地菜单！ 
+qstr_A_Vampire_infects_yo|一个吸血鬼感染了你，并像一个残忍的玩笑一样留了你一条命！ 
+qstr_You_burn_with_a_thir|你燃烧起了对鲜血的渴望！你成为吸血鬼了！ 
+qstr_Agility_+6!_Charisma|敏捷 +6！魅力 -6！ 
+qstr_{s28}{s31}{s29}{s20}|{s28}{s31}{s29}{s20}{s21}{s22}{s23}{s24}{s25}{s30}{s26}{s27}
+qstr_A_Werewolf_infects_y|一个狼人感染了你，并像一个残忍的玩笑一样留了你一条命！
+qstr_You_howl_with_bestia|你以野兽的狂怒而嗥叫！你成为狼人了！ 
+qstr_Strength_+6!_Intelli|力量 +6！智慧 -6！ 
+qstr_You_wake_up_and_shak|你醒来，并拍落了你肩上的尘土……似乎你的敌人已经让你去死了，黑猫……
+qstr_Bad_idea!|真是个坏主意！
+qstr_The_magic_works_back|魔法消退了！ 
+qstr_The_Eye_of_Izanagi_l|伊邪那岐之眼让你重复光明了！ 
+qstr_The_Evil_Eye_lets_yo|伊邪那岐之眼让你重复光明了！只是依稀的……
+qstr_You_banish_the_fog!|你消退了雾！ 
+qstr_You_smell_fresh_dry_|你闻到新鲜的，干燥的木头……
+qstr_You_smell_damp_wood.|你闻到潮湿的木头。还有些烂掉的东西……
+qstr_You_smell_burnt_wood|你闻到烧焦的木头……
+qstr_You_feel_very_excite|你感到十分激动！ 
+qstr_You_smell_apples_and|你闻到了苹果的香气，和……一些别的东西……
+qstr_You_smell_death...|你闻到了死亡……
+qstr_The_hairs_stand_up_o|你脖子后的汗毛竖了起来！ 
+qstr_You_sense_something_|你感到有些不祥和致命的东西……
+qstr_You_hear_a_faint_tap|你听到微弱的的敲击声并感到恐惧紧紧抓住了你的灵魂……
+qstr_You_feel_weak_and_di|你感到虚弱和迷茫，听到响亮的敲击声……
+qstr_Your_pulse_races!_Yo|你的脉搏振动着！你变得强壮！ 
+qstr_You_feel_a_cold_draf|你感到有冷风。腐朽的味道很强烈。 
+qstr_You_can_barely_breat|你难以呼吸……有什么东西在看着你……
+qstr_There_is_a_musty_sme|从哪传来了发霉的味道。 
+qstr_There_is_a_malevolen|这所房间里存在着恶意。你有些发抖……
+qstr_There_is_a_faint_sme|有什么烂掉的东西发出的微弱气息……
+qstr_The_stench_of_death_|死亡的恶臭！你生病了。
+qstr_You_feel_very_strang|你觉得很奇怪……
+qstr_You_smell_salt._And_|你闻到盐和血。
+qstr_The_sound_of_the_oce|海洋的声音在这里大声回响。
+qstr_There_is_a_smell_of_|有一种油，化学物质的味道……还有别的东西……
+qstr_The_strong_scent_of_|葡萄酒浓浓的气味在空气中挥之不去。
+qstr_You_hear..._whisperi|你听到……耳语，它会使你冷到骨髓中。
+qstr_Observed_by_some_awe|通过观察一些可怕的存在，你的膝盖微微颤抖。
+qstr_You_thrill_to_the_so|你对远处狼嚎的声音感到兴奋。
+qstr_The_air_is_fresh_her|这里的空气很新鲜，带着淡淡气味的烟雾……
+qstr_Chemicals_salt_blood|化工、盐、血和烟……像一些可怕的实验室……
+qstr_You_smell_mildew...|你闻到霉味了……
+qstr_The_odor_of_burning_|肉体燃烧的气味刺鼻……
+qstr_You_smell_something_|你闻到甜腻的气味……
+qstr_You_hear_the_soundin|你听到大海的声音……
+qstr_There_is_an_awful_lo|有很多沙子……
+qstr_You_smell_spices_and|你闻到香料和泥土……和腐肉……
+qstr_You_feel_a_chill._So|你感到一阵寒意。有人在看着你……
+qstr_You_smell_something.|你闻到东西了……辛辣的，令人不快的。
+qstr_Something_smells_ter|什么东西闻起来很糟糕…
+qstr_You_smell_a_rat...|你闻到老鼠的味道…
+qstr_There_is_a..._very_s|有一个……很奇怪很强大的存在在这里。
+qstr_You_hear_a_snap!_You|啪的一声！或许是小偷的尖叫，你紧紧盯着黑暗的胡同……
+qstr_You_hear_a_snap!_Your|啪的一声！或许是小偷的尖叫，你的捕鼠器坏了！
+qstr_You_ve_been_merciles|你已经被无情地偷了！你所有的第纳尔似乎失踪了，你发誓你刚才听到嘲弄的笑声……
+qstr_You_ve_been_pickpock|你已经被偷了！幸运的是，你父亲教你把一半的钱放在你的靴子里……
+qstr_You_ve_been_pickpocke|你已经被偷了！
+qstr_You_smell_like_old_s|你闻起来像旧香料…
+qstr_Your_odor_offends_a_|你的气味使一个路人反感…
+qstr_Your_Alchemist_s_Rip|你的炼金术士之回击完美的隐藏你…
+qstr_Your_Plaguedoctor_s_|你的鼠疫医生之滤器是一个完美的伪装……
+qstr_Your_Plague_Wraps_hi|你的瘟疫包裹足够隐藏你的病情……
+qstr_Wear_Plague_Wraps_or|穿上瘟疫外衣，否则你很快就会受不了欢迎的…
+qstr_The_creature_devours|生物吞噬天鹅绒的尖叫声比以前更响亮！茧在中间裂开！
+qstr_The_creature_devours_|生物吞噬天鹅绒的尖叫更响亮！
+qstr_You_sing_The_Burning|你唱着燃烧的村庄，一首悲伤的歌……
+qstr_You_play_The_Cold_He|你演奏着冰冷的炉边，一首流浪的歌……
+qstr_You_play_Siege_at_Dh|你演奏着保卫，一首战歌……
+qstr_You_play_The_Wedding|你演奏着冥王和冥后珀耳塞福涅的婚礼，一首爱的歌…
+qstr_You_play_Dirge_of_Th|你唱着大墓地的挽歌，一首黑暗的歌…
+qstr_Crossbones_chants_Da|图咏舞的骨头，恍惚的歌…
+qstr_Lamia_sings_Weeping_|拉米娅唱着哀伤之孀妇，一首哀乐的歌…… 
+qstr_You_play_Hymn_to_Mep|你演奏梅菲斯特的赞美诗，瘟疫之歌……
+qstr_You_play_Siren_Song_|你演奏潜水歌，悼念淹死的水手…
+qstr_The_Tsukumogami_play|付丧神演奏伊邪那歧的战号《东方之歌》… 
+qstr_Shiner_plays_Shining|希纳演奏的是《耀光》，一首关于 - 是的，你猜对了… 
+qstr_Smitty_plays_Smiting|史密蒂演奏史密特，一首哀悼人类自寻死路的歌…  
+qstr_You_sing_Hiraeth_a_s|你唱的是希雷厄斯，一首关于寻找家园的歌…   
+qstr_You_sing_Redemption_|你唱着救赎，一首关于因果的歌…… 
+qstr_The_Code_Disk_plays_|密码盘播放月亮之齿，一首关于在无尽的星空中航行的歌…  
+qstr_1|投骰子：1 
+qstr_2|投骰子：2 
+qstr_3|投骰子：3 
+qstr_4|投骰子：4 
+qstr_5|投骰子：5 
+qstr_6|投骰子：6 
+qstr_Heads!|投硬币：正面！
+qstr_Tails!|投硬币：反面！
+qstr_Your_army_shouts_the|你的军队齐声高喊：给卡拉迪亚死亡！！！ 
+qstr_You_invoke_the_name_|你呼唤波塞冬之名，并且大地轰隆作响起来了！ 
+qstr_A_black_light_oozes_|赫柏之杯散发出黑色的光芒……
+qstr_A_succubus_appears_a|魅魔在你面前凭空出现……
+qstr_She_looks_at_her_han|她看着她的手，然后看着你，开始高兴地哭了起来…
+qstr_She_looks_down_and_b|她观察着自己，开始摸索她身上的裘革和珠宝，高兴地笑着…
+qstr_She_turns_and_kneels|她转身跪在你面前，她是你单纯可爱的仆人，你的所有愿望亦为她心之所向…
+qstr_She_bares_her_fangs_|她露出了獠牙和发出低沉的声音，她甚至比你还要高大，这是你梦想中的恶魔情妇……
+qstr_She_licks_her_luscio|她充满欲望地舔着她的性感的嘴唇，说出一句话：“渴了……
+qstr_She_stares_through_y|她冷冷地盯着你的眼睛，让你不寒而栗，她说了一句话：“死亡”。
+qstr_Her_eyes_sparkle_wit|她的眼睛充满好奇，尽管她只说了一句话：“知识？”
+qstr_She_giggles_as_she_t|她握着你的手，笑着说：“我的！”
+qstr_With_bread_and_wine_|享受面包和红酒，在亚麻布上完成你的地狱之爱……
+qstr_By_candlelight_and_b|以烛光和鲜血为见证，你们的结为灵魂之伴侣！
+qstr_An_incubus_appears_a|梦魇在你面前凭空出现……
+qstr_He_looks_at_his_hand|他看着他的手，然后看着你，开始高兴地哭了起来……
+qstr_He_explores_the_intr|他正在面带微笑地搜索他正在穿着的皮革裤子。
+qstr_He_turns_and_kneels_|他转过身来，跪在你面前，瞪着你，闷闷不乐，他是仆人，你的所有愿望亦为他毕生所求……
+qstr_He_strides_forward_a|他向前一个箭步，狂野地嘶嚎着，跨在你身上，他要发泄着他的欲望，，，，当然也有你的。。
+qstr_He_licks_his_generou|他舔了舔嘴唇，充满欲望和慷慨的说了一句：“渴…
+qstr_He_stares_right_thro|他凝视着你，让你不寒而栗，他说了一句话：“死亡”。
+qstr_His_eyes_sparkle_wit|他的眼睛充满好奇，尽管他只说了一句话：“知识？”
+qstr_He_takes_your_hand_p|他握着你的手，亲眼看着他，注视着你的眼睛，说出一句话：“我的！
+qstr_The_coursers_you_hav|你带来了喜欢疾驰通过村里的波塞冬神庙的骏马，消失在海浪中！
+qstr_The_sea_becomes_calm|海洋变得平静，你有一种平静的感觉…… 
+qstr_You_melt_the_eyes_wi|你用蜂蜜融化眼睛，凝结成粘稠的物质！
+qstr_The_cauldron_bubbles|大锅散发出的泡沫，发出很甜的气味…
+qstr_You_stir_the_mixture|你搅拌这一混合物，并且大地轰隆作响起来了！ 
+qstr_You_invoke_the_name_o|你召唤冥后珀耳塞福涅的名字，地面发出隆隆声！
+qstr_You_stir_the_cauldro|你用扫帚逆时针搅拌大锅，同时倒过来说你的名字…
+qstr_The_flying_ointment_|飞行软膏融化在衣服上！
+qstr_Imhotep_comes_to_lif|伊姆霍特普加入你的军队！
+qstr_Cannot_wake_up_now.|现在不能醒来。
+qstr_Cannot_leave_now.|现在不能离开。 
+qstr_Thomas_drops_a_power|托马斯放下了一件强大的武器，子弹打在了他的手上 !   
+qstr_Marian_saves_Robin_w|玛丽安迅速的治疗罗宾！他现在要活了！
+qstr_Marian_saves_John_wi|尽管伤势严重，玛丽安还是很快就把约翰救了起来！他现在要活了！
+qstr_Marian_saves_John_wit|玛丽安迅速的治疗了约翰！他现在要活了！
+qstr_Marian_tries_to_save|玛丽安试图节省很多钱……但他尖叫着说她是个女巫，挣扎着离开，加重了他的伤口…和死亡。
+qstr_Marian_saves_Much_wi|玛丽安迅速的拯救了他！他现在要活了！
+qstr_Marian_saves_Tuck_wi|玛丽安迅速的拯救了他！他现在要活了！
+qstr_Marian_saves_Alan_wi|玛丽安迅速的拯救了他！他现在要活了！
+qstr_Marian_saves_Will_wi|玛丽安迅速的拯救了他！他现在要活了！
+qstr_John_pulls_his_hair_|约翰把头发拔出来，痛苦地哭着说他尽力了……并将匕首刺向自己的心！
+qstr_John_sacrifices_hims|约翰为了罗宾牺牲自己！他虽然受了致命伤，但……
+qstr_John_sacrifices_himse|约翰为了玛丽安牺牲自己！他虽然受了致命伤，但……
+qstr_John_sacrifices_himsel|约翰为了马奇牺牲自己！他虽然受了致命伤，但……
+qstr_John_sacrifices_himself|约翰为了塔克牺牲自己！他虽然受了致命伤，但……
+qstr_John_sacrifices_himself_|约翰为了艾伦牺牲自己！他虽然受了致命伤，但……
+qstr_John_sacrifices_himself_f|约翰为了自己而打架！他虽然受了致命伤，但……
+qstr_Robin_is_dead!|罗宾死了！
+qstr_Marian_is_dead!|玛丽安死了！
+qstr_John_is_dead!|约翰死了！
+qstr_Much_is_dead!|马奇死了！
+qstr_Tuck_is_dead!|塔克死了！
+qstr_Alan_is_dead!|艾伦死了！
+qstr_Will_is_dead!|威尔死了！
+qstr_Circe_is_dead!|瑟茜死了！
+qstr_You_were_born_a_boy|你生来就是个男孩
+qstr_You_were_born_a_girl|你生来就是个女孩
+qstr__on_the_first_day_|在第一天
+qstr__on_the_second_day_| 在第二天
+qstr__on_the_third_day_| 在第三天
+qstr__on_the_fourth_day_| 在第四天
+qstr__on_the_fifth_day_| 在第五天
+qstr__on_the_sixth_day_| 在第六天
+qstr__on_the_seventh_day_| 在第七天
+qstr__on_the_eighth_day_| 在第八天
+qstr__on_the_ninth_day_|在第九天
+qstr__on_the_tenth_day_| 在第十天
+qstr__on_the_eleventh_day| 在第十一天
+qstr__on_the_twelfth_day_| 在第十二天
+qstr__on_the_thirteenth_d| 在第十三天
+qstr__on_the_fourteenth_d| 在第十四天
+qstr__on_the_fifteenth_da| 在第十五天
+qstr__on_the_sixteenth_da| 在第十六天
+qstr__on_the_seventeenth_| 在第十七天
+qstr__on_the_eighteenth_d| 在第十八天
+qstr__on_the_nineteenth_d| 在第十九天
+qstr__on_the_twentieth_da| 在第二十天
+qstr__on_the_twenty_first| 在第二十一天
+qstr__on_the_twenty_secon| 在第二十二天
+qstr__on_the_twenty_third| 在第二十三天
+qstr__on_the_twenty_fourt| 在第二十四天
+qstr__on_the_twenty_fifth| 在第二十五天
+qstr__on_the_twenty_sixth| 在第二十六天
+qstr__on_the_twenty_seven| 在第二十七天
+qstr__on_the_twenty_eight| 在第二十八天
+qstr__on_the_twenty_ninth| 在第二十九天
+qstr__on_the_thirtieth_da| 在第三十天
+qstr__on_the_thirty_first| 在第三十一天
+qstr_of_the_month_of_Wolf| 狼月
+qstr_of_the_month_of_Cand| 烛月
+qstr_of_the_month_of_Deat| 死月
+qstr_of_the_month_of_Drou| 旱月
+qstr_of_the_month_of_With| 枯月
+qstr_of_the_month_of_Locu| 蝗月
+qstr_of_the_month_of_Plag| 瘟月
+qstr_of_the_month_of_Stor| 风月
+qstr_of_the_month_of_Fami| 荒月
+qstr_of_the_month_of_Bloo| 血月
+qstr_of_the_month_of_Ice_| 冰月
+qstr_of_the_month_of_Ghos| 鬼月
+qstr__under_the_sign_of_t| 在匕首的标志下
+qstr___Int_1_| （智 -1）
+qstr__under_the_sign_of_th| 在笔者的签名下
+qstr___Cha_1_| （魅 -1）
+qstr__under_the_sign_of_the| 在头骨的标志下
+qstr___Agi_1_| （敏 -1）
+qstr__under_the_sign_of_the_| 在枯树的标志下
+qstr___Str_1_| （力 -1）
+qstr__under_the_sign_of_the_C| 在瘸子的标志下
+qstr__under_the_sign_of_the_S| 在裹尸布的标志下
+qstr__under_the_sign_of_the_D|在医生的标志下
+qstr__under_the_sign_of_the_L|在疯子的标志下
+qstr__under_the_sign_of_the_Cr| 在王冠的标志下
+qstr__under_the_sign_of_the_Ca| 食人者的标志下
+qstr__under_the_sign_of_the_R| 乌鸦的标志下
+qstr__under_the_sign_of_the_Do| 在门的标志下
+qstr__under_the_omen_of_t|在野兽标记的征兆下。你有一个恶魔的胎记。
+qstr___Silver_Resist_|抵制白银 
+qstr__under_the_omen_of_th|在日食的征兆下。你出生的那一刻太阳变黑了。 
+qstr___Salt_Resist_|抵制盐
+qstr__under_the_omen_of_the|在黑克特洪水的征兆下。在你出生的那天，天上降下了倾盆大雨的青蛙。   
+qstr___Iron_Resist_|抵制铁
+qstr_A_{reg3?daughter:son|作为一位殡葬承办人之 {reg3?女:子}，你的早期生活是忧郁而平静的。由于你父亲的停尸间是在你们家的地下室，死亡成为了你生活中的一个常见的部分。你甚至偶尔在他工作的时候，被允许去观察，并且他会跟你说你未来的职业也许会是医学方面的。你们的生活是免税的。尽管你很好地记住了镇里的几乎每个人的脸，但是死神最后还是没有放掉任何人——一个接一个地，许多曾经表情兴奋的面容最后在冰冷的天花板下都变得茫然。今日在此，明日便去。这就是生命的本质。 
+qstr_As_the_{reg3?daughte|作为一位动物标本剥制者之 {reg3?女:子}，你的早期生活既有城市的，也有乡村的。因为你父亲的剥制术，你的家庭住在城市的一个繁忙部分的一所大型的宅子里，但是你们也时常去乡村，为了事业而捕获猎物、采集新死的动物。你在仅仅十岁大时，就射中了你的第一只母兽，而你的第一只公兽是在十二岁。恰当地给尸体剥皮，才能使它们能被保存与缝合，以成为众多的木仿制品中的一个。你自豪地在你父亲的小棚里完成了这项任务。你很快在技术上胜过了你的父亲。你的家庭吃得很好，为舒适的生活赚了足够的钱。 
+qstr_The_life_of_a_chandl|作为一位蜡烛商人之 {reg3?女:子} 的生活是艰苦而需要耐心的，你学习了烛芯、石蜡与油的制作手法。为烛芯涂油是你的第一个职责，你很小的时候便开始认真着手了。很快你的父亲教了你正确的用长杆子搅拌大桶石蜡然后将它倒进模子，以及轻拍它们以避免水泡伤害了其表面的方法。你的家庭将会周期性地去海滨收集沙粒以炼制玻璃——瓶子和油灯的制作成为了你最后的课程，也成为了你的熟练之道。至今，油的气味仍能为你带来和家人一起在煤烟与火光中的温柔的童年回忆。 
+qstr_An_executioner_s_{re|作为一名刽子手的 {reg3?女儿:儿子}，你很早就了解了正义之道和锋刃之道。你的父亲是个好人，并且精于自己的职业——你们从没挨过饿，并且你父亲的技艺在全卡拉迪亚都有名。即使是在你小时候最稚嫩的年代，你的家庭也经常会赶去进行死刑。死亡成了生活中正常的一部分，而剑术也是——你的父亲过去总是龇牙笑着说：“剑造就了人。一生如果不趁早习剑，那最后就会被剑砍。”而剑真正造就的是肌肉。现在不管用不用武器，你都几乎不会在决斗中输掉。 
+qstr_You_came_into_the_wo|你作为一个没落的贵族之 {reg3?女:子} 来到这个世界，只拥有他们曾经居住过的房子。不过，尽管你的家庭生活艰苦，他们还是为你提供了良好的教育并从你童年起就教导你贵族的严格与宫廷的生活。 
+qstr_You_were_born_the_{r|你生来便是旅行商人之 {reg3?女:子}，你们总是为了寻找财富而一个地方又一个地方地迁移。虽然你的父母比其余大多数人富有并且尽其所能地给了你教育，但是你极少有机会在路上交到朋友，你几乎生来就是为了以后能卖东西给别人。 
+qstr_As_a_child_your_fami|当你还是个孩子时，你的家庭靠你父亲为当地的领主当卫兵的薪水过着穷困的生活。生活并不轻松，并且你们太过贫穷以至于不能给你多少教育。你在街道上主要学会了如何在手中有武器或无武器时保护你自己。 
+qstr_{reg3?daughter:son}|{reg3?女:子}
+qstr_You_were_the_{reg3?d|你是一个靠树林生活的家庭的 {reg3?女儿:儿子}，你们做任何你们需要做的以维持收支平衡。狩猎、伐木、制作箭支，甚至在日子不好过的时候去偷猎。对于你的家庭，冬天从不是个好时间，寒冷会带走动物的生命，也会带走人的，但是你总是能活着见到下一个黎明，尽管你的兄弟姐妹也许不这么幸运。 
+qstr_You_were_a_child_of_|你是一个草原的孩子，你生于一个游牧部落，你们部落生活在遍布于干草地的大帐篷中。如同其他的族人，你的家庭比敬重其余一切更加敬重马匹，并且几乎在你学会如何走路之前他们就教你如何骑马了。 
+qstr_As_the_{reg3?daughter|作为一名盗贼之 {reg3?女:子}，你几乎没有学过什么“正规”教育。作为替代，你离家在外，在街上乞讨，直到你学会如何割钱包，你割钱包，直到你学会如何撬锁，所有的这些生活方式遍布于你的童年。然而，这些漫长的岁月使你熟悉了民间的疾苦和城市与阴暗的后巷的秘密。 
+qstr_Some_people_are_simp|有些人只是对政治和经济感到厌恶。所有封建领主在整个土地上的战斗，压迫性的税收，通货膨胀，饥饿和其他腐败的迹象最终剥夺了他们对制度的信仰。你的父亲是那种人。所以他相信自给自足，不依赖于任何联盟，他告诉了你需要用自己的双手 - 没关系，有时候你不得不抢富人给穷人。当你成为了年轻的 {reg3?女:男}人，他把自己的食谱《生存与自律》托付给你，从此你就一直保留下去了。他还向你展示了如何在野外和战斗中生存，他的方法从未让你失望过。
+qstr_As_a_child_You_were_|作为一个孩子，你在某些方面有点特别。无论是你的力量，你的敏捷，你的狡猾，还是你的性格，你总是站出来的。也可能是因为你父亲是一位出版的作家和教授，从很小的时候他就教育自己，你总是走在最前面，你父亲的遗产伴随着他的名字继续陪伴着你。
+qstr_Slavery._It_s_a_livi|奴隶制。一个死刑。你很少在你年轻的时候看到你的父亲。他总是出去打猎，做些他能做的事。他是一个好人，他对好人做可怕的事来养活他的家人。他是一个严厉的人，然而，矛盾的人往往是，他的惩罚是无情的。但他教你如何战斗。他甚至给你他可靠的权杖，当你最后能找到他时。那天你成了他眼中的一个男人，你常常怀疑那个在他睡觉时最终谋杀他的海盗是否也像个男人一样。如果你找到他，他会觉得死要好得多，这是肯定的……
+qstr_Your_father_seems_to|你的父亲似乎已经消失在柴堆…字面上的意思。因为你很年轻，很明显你的血液里有超自然的东西。虽然你有点不守规矩，但你很有魅力，而且比木头更有智慧。你的朋友很少…你说话的方式很快，当你在附近的时候植物会不知不觉地成长，打扰了他们。很快你就会发现自己在高高的草丛中，忘记他们甚至走了…
+qstr_Call_me_Ishmael._You|你父亲的老笑话…说他已经从一本。你还不知道这意味着什么。在任何情况下，你的父亲是相当厉害的垂钓者，和浮子不远极。还有他那篓鱼，有时候你会发现其他的事情…人们不想发现的东西。但这不关你的事。你更愿意去钓鱼…
+qstr_Your_father_never_to|你父亲从来没有告诉过你他在你年轻的时候做了什么。你只知道他有一笔可观的存款，而不知道他是怎么得到这笔钱的。你记得小时候在房间里到处乱转时，他被激怒了…他特别肯定地告诉你远离他床脚下的一个锁着的箱子。你无论如何也不可能在你这个年纪打开它，你答应过，从此再也没注意过那个箱子…直到他死后。你收到了一把钥匙，当你把那把钥匙插在那把坚实的锁里，打开盖子，从里面取出一块黑色的盔甲来解释一切……
+qstr_There_is_power_in_th|我们的肉体有可以传承的无穷之力。这是你父亲挂在嘴边上的，当你质疑自己的家人时，，，，，那不是没有理由的……真是不寻常的饮食习俗。那是在文明之源泉涌出智慧之水滋润这土地前的最古老的习俗，那真是有韵味，，，，，，它是一种古文化传统，你的家庭成员死后必须依礼法吞食——父食祖——子食父——如此往复，直到终结。现在你有了你父亲的尸首，又一古老的誓言要应验了。但这种力量是真实的。只要你继续你的小家族传统，你就会收获几个世纪以来的传承之力…… 
+qstr_You_were_born_the_{re|你是一个考古学家的 {reg3?女儿:儿子} ，总是从一个地方移动到另一个地方，寻找新的废墟和墓地，尽管在卡尔拉迪亚的野外，残存的土著民族经常恶毒地反对。他死后，你继承了很多遗产，包括一个你从未见过的上锁的盒子和一把钥匙。要是有人看见你把钥匙插进那把结实的锁里，打开盖子，从里面取出那张具有很多任务的神秘密码盘，那该多好啊……
+qstr_As_a_{reg3?girl:boy}|作为一个 {reg3?女孩 :男孩 }度过童年，你从小就在本地的公墓里挖坟谋生。工作很辛苦，但很充实，时至今日，你手里拿着一把铲子都比一把剑更自在。你仍然有着一个坚挺的腰，随时准备再次行动。并且在晚上和一帮人围绕着火堆讲述令人毛骨悚然的故事。 {reg3?女人 :男人 }。
+qstr_As_a_{reg3?girl:boy}_|作为一个 {reg3?女孩 :男孩 }度过童年，你从小就为本地屠夫切肉为生。牛排、排骨、肋骨、腰肉和翅膀尖，你都会弄，甚至教别人怎么做。当然，这工作十分残忍的，但总得有人来做，而且你似乎有一种天赋——你不仅擅长用剑，你和你可靠的刀子，这世上没有你不能剁成块带走或生吃的尸体。
+qstr_As_a_{reg3?girl:boy}_g|作为一个 {reg3?女孩 :男孩 }度过童年，你从小在一个小农场里收割和堆放干草为生。并且还有一堆其他任务需要完成——给奶牛挤奶、养鸡，包括收集鸡蛋——到了收获的季节，你得从日出干到日落直到每一片田都收干净。你父母说劳作可以塑造人格，事实确实如此。你与荒原中奴隶们一起工作，学会了许多歌曲和笑话。
+qstr_As_a_{reg3?girl:boy}_gr|作为一个 {reg3?女孩 :男孩 }度过童年，你从小就加入了一个由流浪艺人组成的剧团，从一个镇子到另一个镇子之间举行哑剧表演。这是种艰苦的生活，从蜂拥而至观看你滑稽表演的观众那出售东西、向他们乞讨、窃取他们的钱包。随着时间推移，你成了一名能够吸引观众的演员。
+qstr_As_a_{reg3?girl:boy}_gro|作为一个 {reg3?女孩 :男孩 }度过童年，你从小直觉就非常好——你倾向于跟随你的直觉，它们对你很有帮助。你特别擅长发现东西——丢失的钱、珠宝和其他贵重物品——随着时光流逝，普通人无法发现的隐蔽通道和特意被人藏起来的小物件你都能发现。最终你开始协助调查盗窃，抢劫，甚至是谋杀，每次都带来令人目瞪口呆的结果。如果有什么谜题的事情要解决，你就是他们要找的人！
+qstr_As_a_{reg3?girl:boy}_grow|作为一个 {reg3?女孩 :男孩 }度过童年，你从小就被安排到一位贵族的宫廷居住。在那里你的第一堂课是谦卑，因为你将侍候贵族和贵族夫人小姐们。你从他们的棋局、他们的闲话，甚至是吹嘘出的伟大事迹和赞扬宫廷爱情的诗歌当中，你很快了解到了这个充满矛盾并且相互竞争的成人世界。你也从其他孩子的野蛮游戏中学到了什么，他们假装手里的木棍是大人们决斗时的剑。
+qstr_As_a_{reg3?girl:boy}_growi|作为一个 {reg3?女孩 :男孩 }度过童年，你从小就跟着当地的一名工匠学习一门手艺。在师傅的指导下，经过多年的努力学习，你成为了一名出色的工匠并和你的师傅一同工作，直到你决定离开家乡。
+qstr_As_a_{reg3?girl:boy}_growin|作为一个 {reg3?女孩 :男孩 }度过童年，你从小作为一名富商的学徒，从事了多年的商铺工作和带领商队。你很快就学会了低价买进、高价卖出的艺术，让顾客自大的认为他们赚到了。
+qstr_As_a_{reg3?girl:boy}_growing|作为一个 {reg3?女孩 :男孩 }度过童年，你从小露宿街头，做出一切可以保证你活下去的事情，乞讨、偷窃、为帮派干黑活赚取买面包的钱，你每天都生活在这个暴力的世界里，总是比那些愿你不得好死的家伙抢先一步。
+qstr_As_a_{reg3?girl:boy}_growing_|作为一个 {reg3?女孩 :男孩 }度过童年，你从小就骑着你的马驹行走于大草原上，学习如何在草地和沙漠间行走。虽然有时你会挨饿，但你成为了这个荒漠国家上的一名猎人和寻路者。随着你长大成为一名游牧民，你的身体也因为长出了肌肉而逐渐壮实。 {reg3?女人 :男人 }。
+qstr_As_a_{reg3?girl:boy}_growing_o|作为一个 {reg3?女孩 :男孩 }度过童年，你从小就是一名当地糖果屋的助手。面包、糕点、蛋糕、布丁和馅饼——你懂得如何使用烤箱，甚至可以教导别人。这是一项累死人的工作，但它既是一门艺术，也是一种锻炼，并且你懂得诀窍——你擅长用手，打出来的面团十分精致，你的力气很大，没有你扛不动的面粉。
+qstr_As_a_{reg3?girl:boy}_growing_ou|作为一个 {reg3?女孩 :男孩 }度过童年，你从小就在一个小农场里以赶牲口为生。通常你会和你的牛群在田野里呆上几天——捕食者在捕猎时会非常安静——你的耳朵很尖，即使是在牛的哞哞声之中，你的眼睛也很尖，即使是在黑暗之中。你的父母说这份工作对大脑有好处，确实。很少有你不能解决的问题，你所学到的关于预测兽群移动的知识甚至可以应用到战斗战术中。你也永远不会忘戴你的帽子。
+qstr_As_a_{reg3?girl:boy}_growing_out|作为一个 {reg3?女孩 :男孩 }度过童年，你从小就喜好喝酒，为了被他们聘用，你故意欠了当地一家酿酒厂的钱…。。你成功了，并且你一直坚持下去。这是种艰苦的生活，如同一只地窖里的老鼠——在数百桶葡萄酒和啤酒之间来回穿梭，以“检测”它们。他们说：“酒已经让你头脑发昏了”你告诉他们，你有着苹果的智慧，一整桶的，经过发酵的。他们大笑了起来。此外，你可以做一种无酒精饮料…如果你记得住配方。
+qstr_As_a_{reg3?girl:boy}_growing_out_|作为一个 {reg3?女孩 :男孩 }度过童年，你从小就为镇上的警卫和当地的神射手们造弓与箭矢谋生。这项工作虽然重复但充实，时至今日，你时常带着弓箭而不是剑。你不是个难对付的人，但你的手能在强压下依旧移动自如，现在即使是再怎么令人毛骨悚然的故事也没法触动到你，用你值得信赖的弓箭进行狩猎与战斗已经成为了你的一部分 {reg3?女人 :男人 }。
+qstr_As_a_{reg3?girl:boy}_growing_out_o|作为一个 {reg3?女孩 :男孩 }度过童年，你从小被送到一座遥远的寺庙。在那里你的第一场修行是谦卑，你与其他无论老少的僧侣一起，修行着内心的平静。在自主、自律、自愿秩序的修行中，你很快明白了世俗之人眼中的一个充满矛盾并且相互竞争的成人世界。当其他僧侣休息时，你仍然坐在外面，当其他孩子用棍子互相攻击，模仿大人的剑时，你却静静地注视着一朵即将凋谢的花朵。
+qstr_As_a_{reg3?girl:boy}_growing_out_of|作为一个 {reg3?女孩 :男孩 }度过童年，你从小就是一名裁缝的学徒。你很有天赋，马上就有了自己的店铺，对一个如此年幼的人来说，这给人留下了深刻的印象。时代变了，你的职业也是，但你仍然擅长使用剪刀，而且喜欢随身带着工具和材料进行修补。毕竟你也不清楚何时需要缝一条裂开的缝，或是当你需要一双新手套或靴子的时候。时至今日，没有人怀疑过你作品的质量。
+qstr_As_a_{reg3?girl:boy}_growing_out_of_|作为一个 {reg3?女孩 :男孩 }度过童年，你从小露宿街头，为了生存你在一家军需工厂找到了一份工作，给火药测量、包装、靠着装填子弹来谋生，在这个充满暴力的世界寻找到了自己的意义。枪支以前很流行，现在甚至越来越流行了。
+qstr_As_a_{reg3?girl:boy}_growing_out_of_c|作为一个 {reg3?女孩 :男孩 }度过童年，你从小露宿街头，但是你靠着用谷物蒸馏器酿造啤酒、葡萄酒，甚至制造灯油来谋生，在这个充满暴力的世界寻找到了自己的意义。酒精可以缓解生活中的一切痛苦和磨难。
+qstr_{reg3?daughter:man}|{reg3?女人:男人}
+qstr_{reg3?女 人 :男 人 }|{reg3?女人:男人} 
+qstr_Though_the_distincti|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。死亡这个话题对你来说总有一种病态的魅力，但在你发现《亡灵之书》之前你永远无法完全理解正在强烈地呼唤着你的真正力量。这本书是在那个决定你命运的日子里你遇到的一个旅行商人所出售的书之一。当你表示你想看看这本奇怪的书时，商人表现出困惑和怀疑。他坚决不让你看，尽管你把你的所有旅费都给他只为了看一眼也不行，然后你愤怒地杀死了他，你无法控制你自己。在他包里发现的黑袍和匕首已经足够有趣了，但你还发现他藏起来的那本书正是传说中的邪恶之书，用未知的语言撰写而成，《亡灵之书》。显然你的受害者是一个有抱负的亡灵巫师！那种转变感觉很公平，你把那个商人的尸体扔进你的手推车里，并再次启程，来寻找一些方法翻译它。 
+qstr_Though_the_distinctio|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。你身体里的某些东西在某一天崩溃了，然后你冷血地杀了某人。从警察那里逃脱后，你带着凶器逃离了可怕的案发现场，从那以后你就一直在逃跑。你用乞丐的破衣烂衫在街道隐藏你的身份，但你……那反社会的天性，导致最仁慈的人都会在任何时候避开你。总是保持小心，你从一个地方旅行到另一个地方，一个被过去所困扰的 {s13}——你作为一个响马，甚至在它展现它自己时去做正当的工作。无论是谋生还是杀生，都好过在中世纪法庭接受审判，然后不可避免地被血腥地处决。
+qstr_Though_the_distinction|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。从你年轻时开始，你就知道自己与众不同。异象与征兆总是突然出现在你周围——你会被熊熊燃烧的火焰、鱼跃出水面溅起的水花、甚至落叶的图案所吸引。不仅如此，你还很快学会了如何极其精准地解读这些迹象。一年春天，那时你还很年轻，你无意识地预言所有马都会产下双胞胎，当时你凝视着云彩。而与此同时一些母马死于并发症，它们与所有成功生育的母马都被发现产的是双胞胎。那之后你被当地的先知收为学徒，并教给你古老的占卜艺术——通过检查一种被选中的献祭动物的肝脏来占卜——对你来说，就是马。通过这种艺术你得以在一生中维持生计，你也因自己的特殊能力在本地得到了高度的尊重。 
+qstr_Though_the_distinction_|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。政治是一门棘手的生意。当富人受屈时他们就雇人把事情摆平。他们雇佣你，如果他们雇得起你的话。以及如果他们找得到你。在沙漠深处经过最优秀的射手训练，你的实力不容小觑，而你的服务也不便宜。但卡拉迪亚是一个充满了腐败的大陆，而腐败一直是你的面包与黄油。黑夜中的箭矢；窗户外的匕首；背后面的火枪；庙宇中的门闩；阴影以及诅咒；钱包中的硬币。这是你被授予的诗歌，而你以此为生。就这样夜间玩着游戏而又一个士兵棋子被战车棋子消灭了…… 
+qstr_Though_the_distinction_f|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。海盗的生活是属于你的生活。白天掠夺与剽窃，晚上则是麦芽酒、葡萄酒以及音乐。卡拉迪亚对于收割来说是个好地方——毕竟所有的领主都忙于勾心斗角，他们几乎没有任何时间去守护一个位于他们领土边缘的荒凉村庄，在死寂的夜晚中。你就是你的队伍所攻击的地方，拿走你想要的，并烧毁剩余的。战场上的硝烟对你来说就如同香水。鲜血与恐惧是你的旗帜。卡拉迪亚的死亡! 
+qstr_Though_the_distinction_fe|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。你意识到你是一个大城市的大学的学生，你在那里学习了神学、哲学、和医学。但并不是说你所有的课程都是在讲堂学习的。你可能有也可能没有加入你那些在大街小巷游荡的同伴并一起寻找葡萄酒、女人、以及一场好戏。然而，你无疑能注意到一个碎裂的下颌是如何被固定的，或是如何使一个愤怒的镇民放下他的棍棒并接受对于他店铺损坏的现金赔偿。
+qstr_Though_the_distinction_fel|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。当你被任命为一名贵族的扈从时，你花了很长时间学习如何使用武器，也学会了如何招架敌人的攻击，并懂得了如何反击敌人。你被教导要敬畏你的主人，也教导着那些将来会成为你扈从的侍从们。但除了学习骑士精神以外，你还了解到了不那么光荣的一面——老兵们讲述有关于残酷的强权政治、背叛和篡夺权利的故事，还有那些狡诈却依旧英勇的人不惜一切实现个人目标的故事。
+qstr_Though_the_distinction_felt|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。你加入了关系紧密的宫廷女士交流会，她们都做着一本正经的淑女会做的事情，圈子里的成员有些是贵族男人的妻子或情妇，还有些没有找到真爱的少女。然而即使是在这里你也发现了政治的影响力，因为女士们都在策划着怎么出人头地，为了吸引那些单身贵族男子的眼球，宫廷里的女士们相互勾心斗角是很常见的。因此你很快就学会了如何在男士们面前展现自己的魅力，并利用好自己的优势。你的宫廷生活也逐渐使你意识到只要运用一点点自己的小诡计，你就可以在这个世界拥有巨大的影响力。 
+qstr_Though_the_distinction_felt_|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。你独自离开家乡，除了背上的乐器和你的嗓门外，你一无所有。这是种很艰苦的生活，你经常挨饿，特别是人们不欣赏你的音乐时，却只能靠着手里的乐器才能活下去。随着时光流逝，你善于在酒馆的醉汉之间演奏，也善于说服别人放弃你所看上的东西。 
+qstr_Though_the_distinction_felt_s|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。听从开阔道路的呼唤，你从一个村庄旅行到另一个村庄尽你所能地买和卖。这并不是一种富裕的生活方式，但你成为了一个讨价还价的大师以至于最吝啬的长者们都能给你一个好价钱。不久后，你明白了，你将于一个合适的地方开创你自己的贸易帝国…… 
+qstr_Though_the_distinction_felt_su|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。你获得了一份铁匠的工作，用简单的金属创造出使用又精致的物品。随着时间的流逝你成为了你行业中的大师，而那精湛的技艺开始变得能卖出个好价钱了。与你肚中的食物和火中的干柴一起，你可以为你的工作以及你日益增长的声望而感到自豪。 
+qstr_Though_the_distinction_felt_sud|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。你不屑于世人那人为财死鸟为食亡的生存之道，所以你决定来到当地领主的私人猎场，开始了盗猎生涯，去它的法律。你猎杀牡鹿、野猪和鹅，私底下出售它们的皮和肉，也在护林人眼皮底下砍树，将它们变为了冬日每家每户炉子里的火焰。你做的这一切是为了什么呢，只是几枚硬币罢了。 
+qstr_Though_the_distinction_felt_sudd|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。当你可以同时骗两人的时候为什么要只骗一人呢？何必做一名诚实的人——这是你的座右铭。你没有伤害过任何人——但他们还是在不予退款时变得非常暴力——也不乏有些人真的从你卖的蛇油中获得好处。蛇油配方里只有马血和油——包治百病！但你成为了一个讨价还价的大师以至于最吝啬的长者们都能给你一个好价钱。你可以在你的闲暇时光继续你的退休生活，或继续你的骗局。 
+qstr_Though_the_distinction_felt_sudde|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。无论是偶然的，一些可怕的战伤，还是宗教仪式，你被变成了一个阉人，因此你适合守卫最美丽的妓女。你一直都很瘦，脚尖敏捷。顾客们变得咄咄逼人，甚至对你或你的珍贵商品施暴，但你的刀刃总是很锋利很迅速。傻瓜们，想想这些女孩对你来说意味着什么——你觉得她们像父亲一样。他们确实为你的服务支付了很高的报酬，而且他们总是再次寻找你。现在很难找到好的帮助——卡拉迪亚的街上和酒馆都不是一个不设防的女孩会在的地方，以免她突然发现自己陷入困境痛苦。但这就是为什么你永远不会远离——竖起的耳朵和持剑的手。 
+qstr_Though_the_distinction_felt_sudden|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。你欠了债，而你被卖为了奴隶。你以前总是漂亮的女孩之一，而且很有魅力——而他们用他们的方式对待你，你拥有了他们的钱包，以及最终你赎回了你的自由之身。虽然你已经学会了交易中的所有标准流程，而且这些天你很少发现这是件困难的事然而……好吧，钱比预期的要多得多，在节省的情况下。富人花钱去触碰其他人可以任意想象的事情是极易被误导的。以及被麻醉。以及绑在床柱上。有一次，一个你的忠实顾客的妻子当场捉住了你——而说服她并不困难，在这种情况下，你被她丈夫野蛮地虐待。尽管她亲手打伤了你，对你大打出手。这都是一天的工作。
+qstr_Though_the_distinction_felt_sudden_|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。你遇到了一伙在荒漠中游荡的草原强盗并最终加入了他们。卡拉迪亚对于收割来说是个好地方——毕竟所有的领主都忙于勾心斗角，他们几乎没有任何时间去守护一个位于他们领土边缘的荒凉村庄，在死寂的夜晚中。你就是你的队伍所攻击的地方，拿走你想要的，并烧毁剩余的。战场上的硝烟对你来说就如同香水。鲜血与恐惧是你的旗帜。卡拉迪亚的死亡! 
+qstr_Though_the_distinction_felt_sudden_t|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。洁净。这近乎于信仰，无论他们是最光明或是最黑暗的神。而你的个人道德准则，无论它们是什么，使你成为了一个理发师。给头发修剪或是做造型、修剪胡子、尤其是剔除胡须成为了你的专长——以及修剪指甲，小型外科手术，拔牙，拔火罐，放血，以及其它精细的外科手术。一个理发师的职务，以及他在当地市场的地位，在社会上都是非常重要的，这些都为当地的闲聊与辩论提供了话题。大量的传言，真实的和不实的，你打听并传播，连同你对这些事的博学意见一起，当你谨慎小心地剔除那些定期来到作为你艺术象征的红白柱子周围的男人们的胡子时。理发师是值得尊敬的人，而稳重的手和理性的行为举止是关键所在。
+qstr_Though_the_distinction_felt_sudden_to|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。劳役。而不是奴役。一个是祝福，而另一个肯定是诅咒。仆人的职责非常明确，你自豪地承担了它们。首先，为了轻轻地叫醒女主人，把厨师做好的早餐带给她，你经常轻声唱着歌走进她的卧室。她总是很欣赏你这点。修补与裁剪衣服不是一件小事，因为女主人确实需要而且应该感到舒适。她总是称赞你的手艺。为她洗浴时，你会选择最香的花朵，并确保水温适合她，根据气候来决定——永远不要在夏天弄得太热，且永远不要在冬天弄得太冷。她从不让你弄脏你的手，或是让清理和打扫工作弄脏你的裙子——那是更底层的仆人要做的工作。你被尊为她最亲密的助理，而且薪资不菲。这样的美好生活持续了一段时间，但无论出于什么原因，你发现你已经不得不前进。你的才能是被高度需要的，然而，你应该不难找到另一个人来协助你的旅程。
+qstr_Though_the_distinction_felt_sudden_to_|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。你的创造欲总是很强烈。自从你小时候从那棵树上掉下来以后，你就梦想着飞行。这些天你修补一些你周围能拿到的东西——你修复钟表，而且你因修复首饰、网和链子而出名。你知道链甲与鳞片间基本的秘密。你甚至有一个你自己的发明——一个你将其称之为自行车的机器；像是一个只有两个轮子的自走式推车，一个轮子在另一个的前面，需要骑手来保持它们的平衡。它并不比驮马快多少，而且需要更多的体力去驾驭，但它不需要饲料。你知道它会流行起来的——而人们也会停止嘲笑——一旦你开始制作和销售更多……
+qstr_Though_the_distinction_felt_sudden_to_y|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。你收拾好东西背上行囊，向全世界传授亚伯兄弟会的福音！随着你向那些愿意倾听的民众们布道，吸引到了许多志同道合的人，他们被你那充满了信念的激情演讲所感动——为了全人类的利益必须净化那些令人作呕的巫术和妖术。他们发誓在你的旅途中保护你，而许多村庄都会回避你——有时甚至会诅咒你并用石头砸你——你很少要求食物、饮品或是住处；不那么迷信的好客农民总是对一个清白的外来 {reg3?女人 :男人 } 很慷慨，在这个阴暗的世界里…… 
+qstr_Only_you_know_exactl|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。你的想法、感觉和行为都不再是你自己的了。你是你自己思想的一个囚犯而……某些别的东西；某些邪恶的东西……利用你的权力和势力作为手段以达到它自己那些恶魔般的目的。它迫使你放弃你所爱的人和你的旧生活。你的尖叫声于你的头骨中回响而它嘲笑着你并以你的名义去犯下了又一桩罪行……
+qstr_Only_you_know_exactly|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。不是你的错……真的不是！你完全正常，而其他人都有问题。他们是怎样盯着你的！简直就像他们无法看见与你说话的人……嗯，好吧……你也并不是总能看到他们，但你总能听到他们，而且不回答会有些太过不礼貌，不是吗？是的，是的那样的确会……是的，真的非常粗鲁……
+qstr_Only_you_know_exactly_|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。当你还是个孩子的时候，三名女巫来到你的父母面前，声称你身上有着怪物的印记。她们预言来自深渊的存在将会渴望你身上强大的力量，在未来某天你会得到它们的保护……代价则是你所爱的一切。最终，预言实现了，你身无分文的被丢在了一个陌生的地方，站在了一座被遗弃的镇子外，被一名可怕的存在护送至今。 
+qstr_Only_you_know_exactly_w|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。有些人就是生来幸运，而那些人的其中之一似乎就是你。你甚至有一个幸运符——一个旧骨制骰子你将其用于做出艰难的决定以及……没错，有时可能用于赌博。它是你祖父送给你的一个礼物……你最久远的记忆是他微笑着，洋洋得意地把它拿在空中并说着一个词：幸运！所以这就是你一直以来对它的称呼，而它则从不会让你出差错……
+qstr_Only_you_know_exactly_wh|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。冲突、战争、屠杀、血液，你渴望它们。你会与任何人、在任何地方、因为任何一种原因起冲突……有着这种生活态度的人同时也擅长战斗不是吗？你非常，非常的擅长这些。当你击败了每位试图挑战你的家伙时，你被他们称呼为恶霸，但他们那样称呼你时……他们的牙齿却被你打上了天。 
+qstr_Only_you_know_exactly_wha|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。尽管如此，离开并不是一个困难的选择，伴随着你心中剧烈燃烧的怒火。你想要复仇。你想要公平。你曾经的所作所为已无法挽回，这些债只能用鲜血来偿还……
+qstr_Only_you_know_exactly_what|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。你能说的只有你无法承受停留，无法与你和你爱人间的亲密和伤感的记忆一起。也许你的新生活将使你忘记，或是祭奠那个你再也无法提起的名字…… 
+qstr_Only_you_know_exactly_what_|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。你甚至不知道你的家于何时变为了一个监狱，熟悉的于何时变为了平凡的，但你流浪的梦想已经充斥了你的生活。无论你是渴望某个遥远的地方或是仅仅只是开阔的道路和旅行的自由，你再也无法忍受待在同一个地方。你就这样离开了且永不回头……
+qstr_Only_you_know_exactly_what_c|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。然而，你知道你不能回去。也没什么地方可以回去了。你亲自冒犯了哈尔劳斯国王，而无论你在普拉芬镇有什么对于未来的希望和梦想现在都完了，并且你必须直面你到了广阔的、广阔的世界里、孤身一人这个事实。另一个王国可能会更加宽容，但在斯瓦迪亚，你的名声就和淤泥一样……
+qstr_Only_you_know_exactly_what_ca|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。对于其他任何人来说，很明显你现在唯一的动机就是个人利益。你想变得富有、强大、被尊敬、被惧怕。你想被其他人匆忙地服从。你想让人们知晓你的名字，且无论在何时提起都令人颤抖。你想要一切，而且你不会让任何人阻止你拥有那些…… 
+qstr_Only_you_know_exactly_what_cau|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。你从记事起就是个盲人。人们试图把你当成乞丐对待，但你有着一个顽固的性格使你一直坚持着自己的事情自己做。尽管战斗和读书这两种事情对你来说有些不切实际，但你还是可以雇保镖……然后让他们读给你听，如果他们会的话。即使你必须一个人走，你也会想方设法过去的…… 
+qstr_Only_you_know_exactly_what_caus|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。你身上携带着瘟疫。你可能还不知道——毕竟症状需要一段时间才会出现。在这个黑暗的时代，无论是城里人或村里人都会在家里或储藏室里遇到老鼠，甚至在他们的床上。所以当你在睡梦中翻身时，你发现了一只老鼠咬了你的后臂，你认为这只是一场噩梦。而那只酸痛的手臂很快就会成为一场真正的噩梦……
+qstr_Only_you_know_exactly_what_cause|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。你对超自然现象感兴趣并完全不是因为那个相机，但那也算是原因之一。有一天，你在路上遇到了一个江湖骗子，他向你展示了他的蛇油疗法——但真正吸引你注意力的是个有着闪闪发亮玻璃片的笨重盒子。当他说他准备卖出那玩意时，你有点不情愿的掏出了腰间的钱包，但是为什么——他告诉你要让相机运作得用上银和盐。这玩意的价格倒是无所谓，但人们似乎从这些相机里拍到了……呃，鬼神…… 
+qstr_Only_you_know_exactly_what_caused|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。呃……如你所见，你死了，但是你也更好了。多亏了他，如此善良的一个人——他待你如父亲一样。虽然你的身体可能不会像以前一样运作良好，这取决于你如何看待它——但你也为自己还活着而高兴。相对而言，你比其它的不死生物有了更多的自主意识，因为他非常细心的找回了属于你的灵魂和躯体。所以你还是你……或者说……一只僵尸。他帮了你许多，但他还是承诺在他离去之前将协助你变得更加强大，如果你通过了测试的话…… 
+qstr_Only_you_know_exactly_what_caused_|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。作为一名水手，你经常在波塞冬神庙前献祭贡品以确保旅行平安——你总是比你的水手同胞们过得更好，你经常往返于卡拉迪亚的海岸，直到有天斯库拉现身了。啊……还记得那个大漩涡将你的船整个吞下时，那些涌出的泡沫顺着墙壁浮向甲板，随之飘向天空——当她吞下你时，难以置信。当你逐渐在深渊中被遗忘时，你依旧坚信波塞冬会饶恕作为他最虔诚的信徒的你。当你在沉船中痛苦地醒来时，眼前即是波塞冬的神庙，你屏住呼吸，向他再次宣誓你的命是属于他的…… 
+qstr_Only_you_know_exactly_what_caused_y|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。学习，你的眼里只有这个。如同猪吞食苹果一样不断的吞食知识。他们总是叫你书呆子，而最近你又设法搞到了一本新书。随着你对知识的渴望越来越强烈，你开始意识到这个世界上有很多很多东西是你做梦也想不到的——比那些描写战争的著作或是画满了动物的寓言集的很大一部分。你集中精力，下一盘叫做人生的棋局…… 
+qstr_Only_you_know_exactly_what_caused_yo|只有你知道是什么使你放弃了旧的生活并成为了一个冒险者。有罪！这就是判决。无论你因什么而进来——谋杀、抢劫、叛国或袭击他人——都不是光荣的事迹，现在该付出代价了。时候到了，你判决的第一部分将迅速而残忍地执行，就像某种形式的酷刑或折磨的替代品……第二部分是你坐下来开始思考这十年来你都做了些什么。并不是说你会坐在哈里麻儿的粘土矿中无所事事——在卡拉迪亚没有任何一名囚犯会被浪费，隧道可不是它自己长出来，甚至别想着逃跑，警卫会盯着你的…… 
+qstr_{s4}:_M{reg3}_2M{reg|{s4}: M{reg3}， 2M{reg4}， PC{reg5}， 2PC{reg6}， PM{reg7}
+qstr_You_were_a_child_of_t|你是草原的孩子，出生在一个游牧部落位于干旱草原中央的大营地里。像其他部落民一样，你的家人把马看的比什么都重要，而且他们在你学会如何走路之前就已经教会你如何骑马了。 
+qstr_As_a_child_You_were_a|在仍是一个孩子的时候，你就在某些方面有点特别。无论是你的力量，你的敏捷，你的智慧，或是你的性格，你总是出类拔萃。也可能是你的父亲是一位出版作家的缘故，从很小的时候起，他就亲自教育你每一门用得到的学问，你父亲的遗产和他的名字一直伴随着你，即使现在他已经离开了。 
+qstr_As_a_{reg3?girl:boy}_growing_out_of_ch|作为一个 {reg3?女孩 :男孩 }度过童年，你从小就在一个小农场里以赶牲口为生。通常你会和你的牛群在田野里呆上几天——捕食者在捕猎时会非常安静——你的耳朵很尖，即使是在牛的哞哞声之中，你的眼睛也很尖，即使是在黑暗之中。但是这也是你闻起来很臭的原因。无所谓的。你的父母说这份工作对大脑有好处，确实。很少有你不能解决的问题，你所学到的关于预测兽群移动的知识甚至可以应用到战斗战术中。你也永远不会忘戴你的帽子。
+qstr_Though_the_distinction_felt_sudden_to_yo|虽然这种改变对你来说很突然，但在此途中你成为了一个 {reg3?女人 :男人 }，而且整个世界似乎都围绕着你改变了。无论是偶然的，一些可怕的战伤，还是宗教仪式，你被变成了一个阉人，因此你适合守卫最美丽的妓女。你一直都很瘦，脚尖敏捷。顾客们变得咄咄逼人，甚至对你或你的珍贵商品施暴，但你的刀刃总是很锋利很迅速。傻瓜们，想想这些女孩对你来说意味着什么——你觉得她们像父亲一样。他们确实为你的服务支付了很高的报酬，而且他们总是再次寻找你。现在很难找到好的帮助——卡拉迪亚的街上和酒馆都不是一个不设防的女孩会在的地方，以免她突然发现自己陷入困境痛苦。但这就是为什么你永远不会远离——竖起的耳朵和持剑的手。 
+qstr_Character_History:^^|人物历史:^^{s19} {s16} {s17} {s18}^^{s10}^^{s11}^^{s12}^^{s13}
+qstr_Back_to_the_beginnin|回到开始……  
+qstr_View_next_segment...|检视下一部分……  
+qstr___|-
+qstr__|
+qstr__+|+
+qstr_^No_food:___{reg7}|^没有食物： -{reg7}
+qstr_^Wage_debt:___{reg6}|^拖欠工资： -{reg6}
+qstr_Current_party_morale|当前队伍士气为 {reg5}。 ^当前队伍士气修正为： ^^基础士气： +50^队伍规模： {s2}{reg1}^统御技能： {s3}{reg2}^食物品种： {s4}{reg3}{s5}{s6}^最近事件： {s7}{reg4}^共计： {reg5}
+qstr_Defending|正在防御 
+qstr_Gathering_army|正在集结军队 
+qstr_Besieging_{s11}|正在包围 {s11}
+qstr_Raiding_{s11}|正在突袭 {s11}
+qstr_Attacking_enemies_ar|正在攻击 {s11}附近的敌人 
+qstr_No_one|无人 
+qstr_{s9}{s10}^Current_st|{s9}{s10}^当前状态： {s11}^元帅： {s12}^从最近一次的进攻已过了： {reg1}小时 ^进攻的最大追随者数： {reg2}^^
+qstr_Selected_faction_is:|被选的阵营为： {s10}^^{s9}
+qstr_You_are_currently_re|你最近在阅读 {s8}。 
+qstr_You_are_not_reading_|你没在阅读任何书。 
+qstr_none|无 
+qstr_{s5}_and_{s6}|{s5}和 {s6}
+qstr_{s5}_{s6}|{s5}、 {s6}
+qstr_Renown:_{reg2}.^Hono|声望： {reg2}。 ^荣誉： {reg3}。 ^朋友： {s8}。 ^敌人： {s6}。^{s9}
+qstr_Your_estates_are:_{s|你的封地是： {s8}。 ^{s9}
+qstr_You_are_a_lord_of_{s|你是 {s8}的领主。 ^{s9}
+qstr_Current_party_size_l|当前队伍上限为 {reg5}。 ^队伍规模修正为： ^^基础： +10^统御： {s2}{reg1}^魅力： {s3}{reg2}^声望： {s4}{reg3}^共计： {reg5}
+qstr_Loyal|忠诚的
+qstr_Devoted|忠实的
+qstr_Fond|喜欢的
+qstr_Gracious|亲切的
+qstr_Friendly|友好的
+qstr_Supportive|支持的
+qstr_Favorable|称赞的
+qstr_Cooperative|合作的
+qstr_Accepting|接受的
+qstr_Indifferent|冷淡的
+qstr_Suspicious|猜疑的
+qstr_Grumbling|抱怨的
+qstr_Hostile|敌意的
+qstr_Resentful|怨恨的
+qstr_Angry|愤怒的
+qstr_Hateful|憎恨的
+qstr_Revengeful|报复的
+qstr_Vengeful|复仇的
+qstr_{s2}^{s4}:_{reg1}__{|{s2}^{s4}： {reg1}（{s3}） 
+qstr_Your_relation_with_t|你与各阵营的关系为： ^{s2}
+qstr_The_disk_suddenly_ac|磁盘突然激活！
+qstr_The_disk_no_longer_f|磁盘不再起作用！
+qstr_Nothing_happens!|什么都没发生！
+qstr_You_fry_your_brain!_|你很愤怒！ -1 Int!
+qstr_Your_madness_is_cure|你的疯狂被治愈了！你的恶梦和头脑中的声音和声音都消失了！
+qstr_Your_addiction_is_cu|你的毒瘾被治愈了！喜来芝将对你没有进一步的效果…除非你再狂饮一次。
+qstr_Your_camera_also_req|你的相机还需要盐才能使用！
+qstr_Your_camera_also_requ|你的相机也需要使用银！
+qstr_Your_camera_requires|您的相机需要银和盐才能使用！
+qstr_Player_renown_is_inc|玩家声望提高了 100。 
+qstr_{reg1}_{s1}_{reg2?ac|{reg1}个 {s1}接受了提议。 
+qstr_No_one_accepts_the_o|无人接受提议。 
+qstr_You_start_reading_{s|你开始阅读 {s2}。读了几页后，你觉得你能从这本书中学到许多。你决定把它留在身边并在任何你有时间的时候阅读。 
+qstr_You_flip_through_the|你快速地翻阅了 {s2}的书页，但是你发现正文令你困惑并且很难理解。你尽力尝试，它很快就让你头痛了，并且你被迫放弃了阅读的企图。 
+qstr_You_can_only_scaveng|你只能在白天进行搜寻！ 
+qstr_The_Necronomicon_ref|亡灵之书拒绝翻页，去找喷血池！
+qstr_The_Necronomicon_refu|亡灵之书拒绝翻页，去找喷血池！
+qstr_Party_full!|队伍满了！ 
+qstr_Inventory_full!|物品栏满了！ 
+qstr_Agility_+3!_Intellig|敏捷 + 3！智力 + 1！魅力 - 3！力量 - 1！
+qstr_Strength_+3!_Intelli|力量 + 3！智力 + 1！魅力 - 4！
+qstr_Intelligence_+4!_Agi|智力 + 4！敏捷 - 1！魅力 - 3！
+qstr_You_have_summoned_a_|你已经召唤了一只蟾蜍！
+qstr_Strength_+2!|力量 + 2！
+qstr_You_have_summoned_a_S|你已经召唤了一条蛇！
+qstr_Agility_+2!|敏捷 + 2！
+qstr_You_have_summoned_a_Sp|你已经召唤了一只蜘蛛！
+qstr_Intelligence_+2!|智力 + 2!
+qstr_You_have_summoned_a_R|你已经召唤了一只老鼠！
+qstr_Charisma_+2!|魅力 + 2！
+qstr_You_have_summoned_a_W|你已经召唤了一只白猫头鹰！
+qstr_You_have_summoned_Th|你已经召唤了一只黑猫!
+qstr_You_are_finding_it_v|你发现很难集中精神！
+qstr_Intelligence__1!|智力 - 1!
+qstr_You_ache_and_throb_a|疼痛和悸动遍布你的身体！
+qstr_Agility__1!|敏捷 - 1！
+qstr_You_are_miserably_il|你惨患鼠疫！
+qstr_Strength__1!_Charism|力量 - 1！魅力 - 1！
+qstr_Your_condition_worse|你的病情恶化了！
+qstr_Strength__1!_Agility|力量 - 1！敏捷 - 1！智力 - 1！魅力 - 1！
+qstr_Your_condition_gets_|你的情况变的更糟！快点！
+qstr_Your_condition_becom|你的病情变得越来越可怕！
+qstr_Your_condition_is_cr|你的病情很危急！你必须找到治疗方法！
+qstr_Your_condition_is_te|你的健康状况已经到了终点！你很快就会死的！
+qstr_Strength__3!_Agility|力量 - 3！敏捷 - 3！智力 - 3！魅力 - 3！
+qstr_You_learn_from_this_|你从这个黑暗的秘密中学习，但你的良心受到了折磨。
+qstr_Intelligence_+1!_Cha|智力 + 1！魅力 - 1！
+qstr_You_learn_from_this_d|你从这个黑暗的秘密中学习…有点太多了… 
+qstr_Your_Toad_Familiar_w|你的蟾蜍变弱了！
+qstr_Strength__1!|力量 - 1！
+qstr_Your_Snake_Familiar_|你的蛇变弱了！
+qstr_Your_Spider_Familiar|你的蜘蛛变弱了！
+qstr_Your_Rat_Familiar_we|你的老鼠变弱了！
+qstr_Charisma__1!|魅力 - 1！
+qstr_Your_Changeling_Fami|你的小孩变弱了！
+qstr_Your_White_Owl_Famil|你的白猫头鹰变弱了！
+qstr_Your_Black_Cat_Famil|你的黑猫变弱了！
+qstr_Strength__2!|力量 -2！
+qstr_Agility__2!|敏捷 - 2！
+qstr_Intelligence__2!|智力 - 2!
+qstr_Charisma__2!|魅力 - 2！
+qstr_Strength__2!_Agility|力量 - 2！敏捷 - 2！智力 - 2！魅力 - 2！
+qstr_Strength_+2!_Agility|力量 + 2！敏捷 + 2！智力 + 2！魅力 + 2！
+qstr_Your_Toad_Familiar_d|你的蟾蜍死了！
+qstr_Your_Snake_Familiar_d|你的蛇死了！
+qstr_Your_Spider_Familiar_|你的蜘蛛死了！
+qstr_Your_Rat_Familiar_di|你的老鼠死了！
+qstr_Your_Changeling_Famil|你的小孩死了！
+qstr_Your_White_Owl_Famili|你的白猫头鹰死了！
+qstr_Your_Black_Cat_Famili|你的黑猫死了！
+qstr_Your_Toad_Familiar_g|你的蟾蜍变得更强大了！
+qstr_Strength_+1!|力量 + 1!
+qstr_Your_Snake_Familiar_g|你的蛇变得更强大了！
+qstr_Agility_+1!|敏捷 + 1！
+qstr_Your_Spider_Familiar_g|你的蜘蛛变得更强大了！
+qstr_Intelligence_+1!|智力 + 1!
+qstr_Your_Rat_Familiar_gr|你的老鼠变得更强大了！
+qstr_Charisma_+1!|魅力 + 1！
+qstr_Your_Changeling_Famili|你的小孩变得更强大了！
+qstr_Strength_+1!_Agility|力量 + 1！敏捷 + 1！智力 + 1！魅力 + 1！
+qstr_Your_White_Owl_Familia|你的白猫头鹰变得更强大了！
+qstr_Your_Black_Cat_Familia|你的黑猫变得更强大了！
+qstr_Bless_this_meal...|祝福这顿饭……
+qstr_You_open_a_doorway_t|你打开了一条到旧曾扎尔的通道！ 
+qstr_You_open_a_doorway_to|你打开了一条到大墓地的通道！ 
+qstr_You_feel_disoriented.|你感到不知所措……你似乎不记得 1 3 号血月之后发生了什么… 
+qstr_You_open_a_gateway_t|你打开了一条到博物馆的通道！
+qstr_You_suddenly_find_yo|你突然发现自己在精灵岛！
+qstr_You_paid_{reg3}_of_y|你支付了你的 {reg4}第纳尔中的 {reg3}第纳尔给你的部下。你有 {reg5}第纳尔余下
+qstr_Your_debt_to_your_me|你对你部下的欠债累计至了 {reg3}第纳尔，然而你只有 {reg4}第纳尔。未支付的 {reg5}第纳尔被添加为了负债。你的队伍失去士气
+qstr_This_week_s_wages:_{|本周薪水： {reg6}第纳尔 ^之前负债： {reg2}第纳尔 ^总共支付： {reg3}第纳尔 ^当前财富： {reg4}第纳尔 ^^{s1}
+qstr_Villagers|村民们 
+qstr_You_have_encountered|你遇到 {s1}了。 
+qstr_You_have_engaged_{s1|你在 {s1}突袭 {s3}时与之交战。 
+qstr_You_were_caught_by_{|当你的军队在突袭 {s3}时，你们被 {s1}撞上了。 
+qstr_You_were_victorious!|你胜利了！ 
+qstr_Battle_was_lost._You|战斗失败。你的军队被彻底毁灭。 
+qstr_Your_companions_carr|你的同伴将你从战斗中运走。 
+qstr_You_have_defeated_th|你击败了敌人。 
+qstr_You_have_retreated_f|你从战斗中撤退。 
+qstr_^^Ally_Casualties:{s|^^友军伤亡： {s0}
+qstr_{s1}_of_{s3}_managed|{s3}的 {s1}设法逃走了。 
+qstr_{s17}|{s17}
+qstr_Victory_comment._Pla|胜利注释：玩家是孤单一人的。 
+qstr_Ordinary_victory_com|普通的胜利注释：玩家出了至少 40%的兵力。 
+qstr_Player_participation|玩家参与注释：敌人至少有 1000的初始强度。 
+qstr_No_victory_comment._|没有胜利注释。战斗很小，并且玩家提供的兵力不及盟军的兵力的 40%。
+qstr_Some_of_your_tendons|你的一些肌腱在战斗中被伤害了。你失去了 1点力量。 
+qstr_You_took_a_nasty_wou|你受了重伤，它将导致你走路有点跛，即使是在它被治好后。你失去了 1点敏捷。 
+qstr_You_have_trouble_thi|就在战斗后，你思考变得困难了，也许这是因为你的头部受了一记特别的打击，并且现在有频繁的头痛折磨着你的生活。你的智力下降 1点。 
+qstr_Perhaps_I_m_getting_|也许我的运气在变差……  
+qstr_Retirement_is_starti|退役听起来越来越好。 
+qstr_No_matter!_I_will_pe|没关系！我会坚持！ 
+qstr_What_did_I_do_to_des|我做了什么才得到了这个？ 
+qstr_I_suppose_it_ll_make|我想这会造就一个好故事，至少……  
+qstr_Player_retreats_from|玩家从战斗中撤退 
+qstr_The_tunnel_has_colla|隧道坍塌了！门打不开…
+qstr_You_fit_the_code_dis|你把密码盘塞进活板门的印模里…
+qstr_There_is_a_disk_shap|在活板门上有一个圆盘形的印痕…
+qstr_The_diamond_shaped_k|钻石形的钥孔已经消失了……你不能进去！
+qstr_You_say_the_password|你说出了密码“守护者”，锁开了。
+qstr_There_is_a_diamond_s|门上有一个钻石形的钥匙孔…… 
+qstr_You_thrust_your_rapi|你把你的剑杆刺入钻石钥匙孔……
+qstr_There_is_a_disk_shape|墙上有一个圆盘状的标志…
+qstr_You_fit_the_code_disk|你将密码盘放在墙上的标志中……
+qstr_Well_n_ye_suffer_f_r|你们会受苦吗？哈哈！
+qstr_Well_n_ye_prosper!|你们要变得更加繁荣！
+qstr_Well_n_ye_suffer!|你们受苦了！
+qstr_{s9}_wants_you_to_fo|{s9}想要你跟随他的军队直到有进一步的通知。 
+qstr_{s8}_of_{s9}|{s9}的 {s8}
+qstr__Your_own_banner_fli|你自己的旗帜飞扬在城堡大门上空。 
+qstr__You_see_the_banner_|你看见 {s7}的旗帜在城堡大门上空。 
+qstr__This_castle_seems_t|这个城堡似乎不属于任何人。 
+qstr__Your_own_banner_flie|你自己的旗帜飞扬在城镇大门上空。 
+qstr__You_see_the_banner_o|你看见 {s7}的旗帜在城镇大门上空。 
+qstr__The_townsfolk_here_|这里的市民宣告了他们的独立。 
+qstr_The_{reg6?town_s:cas|城 {reg6?镇:堡} 的食物存储应该还能再持续 {reg3}天。 
+qstr_The_{reg6?town_s:cast|城 {reg6?镇:堡} 的食物存储被耗尽了并且守卫者们在挨饿。 
+qstr_You_re_preparing_to_|你准备攻击城墙，准备工作应在 {reg9}小时后结束。 
+qstr_Your_forces_are_buil|你的军队在建造一座攻城塔。他们估计再过 {reg9}小时才能完成建造。 
+qstr_You_are_ready_to_att|你随时都可以攻击城墙了。 
+qstr_The_siege_tower_is_b|攻城塔已被建造好并准备好发动攻击了。 
+qstr_As_a_last_defensive_|作为最后的防卫努力，你撤退至了要塞大厅。你和你剩下的士兵们将要在这里拼死战斗。如果你们被击败了，就没有退路了。 
+qstr_You_ve_been_driven_a|你们被从城墙赶走了。现在攻击者们涌入了街道。如果你能击败他们，你也许就能扭转形势，反败为胜。 
+qstr_You_ve_breached_the_|你们已经突破了城镇城墙，但是那些顽固的守卫者们继续在街道上抵抗你！你将不得不在你能攻击城镇中心的要塞前对付他们。 
+qstr_The_town_centre_is_y|城镇中心是你的了，但是那些剩下的防卫者们已撤退到了城堡里。你必须攻陷它才能达到胜利。 
+qstr_The_remaining_defend|剩下的防卫者们已撤退到了城堡里作为最后的防御。你必须进去粉碎掉任何残余的抵抗。 
+qstr_However_since_you_ar|不过，由于你不是一个向 {s9}宣过誓的人，他是不可能认可你为这座城 {reg8?镇:堡} 的 {/女 }主人的。 
+qstr_The_enemy_has_been_f|敌人已被迫撤退。攻击结束了，但是围困还在继续。 
+qstr__This_village_and_th|这座村庄及周边的土地属于你。 
+qstr__You_remember_that_t|你记得这座村庄及周边的土地属于 {s7}。 
+qstr__These_lands_belong_|这片土地不属于任何人。 
+qstr__{s3}__{reg9}_.|{s3}（{reg9}）。 
+qstr__The_village_is_infe|村庄正受到 {reg8}个 {s35}的侵扰。 
+qstr__The_village_has_bee|村庄已被掠夺。在你经过这些被烧掉的房子时，冤魂们四散而去。 
+qstr__The_village_is_bein|村庄正被突袭。 
+qstr_The_door_will_not_op|门不会打开……
+qstr_No_one_here_seems_to|这里似乎没人愿意加入你的队伍。 
+qstr_One_{s3}_volunteers_|一个 {s3}志愿者愿意追随你。 
+qstr_{reg5}_{s3}_voluntee|{reg5}个 {s3}志愿者愿意追随你。 
+qstr_Try_as_you_might_you|你已尽力了，但是你仍然不能击败这些强盗。被触怒了的强盗们将村庄夷为了平地以惩罚这些农民，然后丢下燃烧着的荒地去寻找更绿的牧场劫掠。 
+qstr_village|村庄 
+qstr_town|城镇 
+qstr_castle|城堡 
+qstr_{s0}|{s0}
+qstr_{s18}_{s0}|{s18}， {s0}
+qstr_The_{s17}_has_no_imp|这座 {s17}没有用于改善的建筑物。 
+qstr_The_{s17}_has_the_fo|这座 {s17}有以下用于改善的建筑物： {s18}。 
+qstr_The_assasins_beat_yo|暗杀者们打倒了你并留下你等死……  
+qstr_You_have_fallen._The|你倒下了。强盗们迅速搜走了你身上的每一枚他们能找到的钱币，之后消失在夜色之中。他们让你活着，只要你勉强活得下去的话。 
+qstr_Luckily_some_of_your|非常幸运地，当你没回去的时候，你的一些同伴来找到了你，并发现你躺在路面上。他们急忙将你送到了安全的地方并包扎了你的伤口。 
+qstr_Luckily_some_passing|非常幸运地，一些路过的市民发现你躺在路面上并认出你不是一个普通的乞丐。他们将你运到了最近的小客栈并包扎了你的伤口。 
+qstr_You_fail_to_steal_an|你没能成功偷到一头牛。 
+qstr_You_drive_away_{reg1|你从村庄的畜群里赶走了 {reg17}头牛。 
+qstr_You_found_a_doctor_a|你找到了一名医生，你的情人受伤得到了照顾。伤口会正常愈合！
+qstr_You_found_no_doctor_|你在这里没有找到医生！
+qstr_You_are_at_{s2}.|你在 {s2}。 
+qstr__You_have_successful|你成功潜入了。 
+qstr_{s13}_A_tournament_w|{s13}一场竞技大会很快就要开始了。 
+qstr___{reg1}_denars_per_|（{reg1}第纳尔每夜） 
+qstr_You_can_only_rob_gra|你只能在晚上洗劫墓穴！ 
+qstr_Moreover_you_earn_{r|此外，由于你聪明地为你自己下了赌注，你还多赢得了 {reg8}第纳尔……  
+qstr_Victory_is_yours!_Yo|你胜利了！你在混战中取胜了，但是现在你必须为下一回合做好准备。 
+qstr_You_have_been_bested|你在混战中被打败了，但是大会主办人公开认可了你的技能与勇气，允许你加入下一回合。 
+qstr_{s11}^{s12}|{s11}^{s12}
+qstr_You_were_beaten._The|你被击败了。农民们因为他们的成功而受鼓舞，但是你想教给他们的课程可能并没有被他们掌握……  
+qstr_After_beating_your_l|在击败你的刚才的对手后，你向农民们讲解他们该如何更好地防御如此的一击。他们充满了希望并准备好在下一次进一步地练习。 
+qstr_The_bandits_are_brok|强盗被击溃了！剩下的那几个还活着并且有意识的人夹着尾巴逃走了，他们害怕农民及其新的拥护者。 
+qstr_{s1}_s_Ship|{s1}的船 
+qstr_^{s3}_=_{reg1}{s1}|^{s3}={reg1}个 {s1}
+qstr_^{s3}_=_{reg1}{s2}|^{s3}={reg1}个 {s2}
+qstr_However_{reg3?You_ar|不过， {reg3?你 :{s1}}找不到任何会带来利益的贸易货物。 
+qstr_^Buying_{s4}_here_an|^在此收购 {s4}并在 {s5}将之贩卖掉，每件将会带来 {reg6}第纳尔的利润。 {s3}
+qstr_{reg3?You_find:{s1}_|{reg3?你 :{s1}}的调查结果如下： ^{s3}
+qstr_{s13}_asked_you_to_r|{s13}叫你带着至少 {reg13}个人的兵力的部队向他报告。 
+qstr_{s13}_ordered_you_to|{s13}命令你加入对 {s14}的攻击。 
+qstr_Find_and_speak_with_|找到 {s4}的 {s3}并与他对话，向他宣誓效忠。 
+qstr_you|你 
+qstr_Your_mind_races_with|黑暗知识在你的脑海里飞转！你成为巫妖了！ 
+qstr_Intelligence_+12!_Ch|智慧 +12！魅力 +12！力量 -12！敏捷 -12！ 
+qstr_You_can_feel_the_unm|你能感受到无与伦比的力量通过哈得斯之剑“乌钢石”而振动！ 
+qstr_You_have_summoned_The|你召唤了坏死！
+qstr_Strength_+3!|力量 + 3！
+qstr_Agility_+3!|敏捷 + 3！
+qstr_Intelligence_+3!|智力 + 3！
+qstr_Charisma_+3!|魅力 + 3！
+qstr_Strength_+3!_Agility|力量 +3！敏捷 +3！智慧 +3！魅力 +3！ 
+qstr_You_are_physically_w|你的身体变得虚弱了！
+qstr_You_wake_up_and_shake|你醒来，把你肩膀上的灰尘甩开……死亡不会那么容易地降临到你身上，看来，黑猫……
+qstr_You_dig...|你挖到了…… 
+qstr_You_play_The_Cold_Hea|你唱着冰冷的心，回家的歌……
+qstr_You_play_The_Wedding_|你演奏着冥王和冥后珀耳塞福涅的婚礼，一首爱情悲剧的歌…
+qstr_You_play_Dance_of_th|你唱着骨头舞，恍惚的歌…
+qstr_You_play_Weeping_of_|你唱着寡妇的哭泣，一首悲伤的歌…
+qstr_You_perform_for_the_|你为群众表演… 
+qstr_You_keep_your_senses|你开始警觉，警惕犯罪活动…
+qstr_You_keep_your_ears_a|你开始警觉，准备好武器…
+qstr_You_go_out_dressed_t|你穿上衣服出去杀人…
+qstr_You_put_on_your_best|你穿上你最好的衣服，开始准备……
+qstr_You_put_on_your_best_|你很好的宣传了自己……
+qstr_You_try_your_hand_at|你在尝试用你的手来偷窃……
+qstr_You_practice_your_ha|你在练习你的手工艺品…
+qstr_You_advertise_your_s|你正在宣传你的服务…
+qstr_You_get_to_work...|你开始工作了…
+qstr_You_tinker_about...|你开始思考了…
+qstr_You_sit_and_wait_unt|你坐下来等人找到你……
+qstr_You_infest_the_place|你正在这里散播瘟疫！
+qstr_You_start_the_hunt..|你开始狩猎了…
+qstr_The_Red_Death_plague|红死病开始蔓延！
+qstr_The_Red_Death_plague_|红死病！
+qstr_You_can_feel_your_wi|你能感觉到你会更加敏锐！你成为反常英雄了！ 
+qstr_Your_entire_being_se|你整个人似乎都充满了光明！你感觉波塞冬就在你周围！
+qstr_Strength_+6!_Agility|力量 + 6！敏捷 + 6！智力 + 6！魅力 + 6！
+qstr_You_have_become_a_be|你成为一个更好的清道夫！你现在很少招募脏东西，而不是随便拼凑！
+qstr_You_found_Medusa_s_H|你找到了美杜莎之头！ 
+qstr_The_red_plague_boils|红死病在你身上沸腾起来，你已经成为死亡本身，+ 不朽！
+qstr_The_curse_of_the_Hor|骑手之诅咒降临于你！你成为幽灵了！ 
+qstr_You_shriek_voracious|你变身时，开始尖叫起来！你已经成为食尸鬼！
+qstr_Strength_+6!_Agility_|力量 + 6！敏捷 + 6！
+qstr_You_are_no_longer_a_|你不再是吸血鬼了！
+qstr_Agility__6!_Charisma|敏捷 - 6！魅力 + 6！
+qstr_You_are_no_longer_a_W|你不再是狼人了！
+qstr_Strength__6!_Intelli|力量 - 6！智力 + 6！
+qstr_Happy_birthday!_Stre|生日快乐！力量 + 1！
+qstr_Happy_birthday!_Agil|生日快乐！敏捷 + 1！
+qstr_Happy_birthday!_Inte|生日快乐！智力 + 1！
+qstr_Happy_birthday!_Char|生日快乐！魅力 + 1！
+qstr_Happy_Birthday!|生日快乐！
+qstr_You_feel_the_Mumiyo_|你觉得喜来芝提升了你的力量！所以这就是神…
+qstr_You_feel_disoriented..|你感到迷失方向，你非常需要喜来芝……
+qstr_You_feel_the_Mumiyo_l|你觉得喜来芝提升了你的力量！你又觉得无敌了！
+qstr_The_Behemoth_Worm_Li|巨兽虫妖诞生了！
+qstr_The_Behemoth_Worm_is|巨兽蠕虫诞生了！
+qstr_The_Chrysalis_looks_|蛹看起来非常…
+qstr_You_have_caught_a_Ch|你已经抓住了一个小孩！
+qstr_It_is_weak!|它是虚弱的！
+qstr_Call_me_Ishmael._Cha|你叫我伊士梅尔吧。魅力 + 1！
+qstr_The_River_Styx_Pirat|斯提克斯河的海盗们现在已经安息了。阿卡德•泰尔终于不在了 ! 
+qstr_The_greatest_victory|最伟大的胜利是不需要战斗的。
+qstr_In_the_midst_of_chao|在混乱之中，也有机会
+qstr_Let_your_plans_be_da|让你的计划在夜里黑暗不可穿透，当你移动时，像雷电一样迅速。
+qstr_Move_swift_as_the_wi|像风一样迅速移动，与木头紧密相连。攻击像火一样，安静的像山一样。
+qstr_When_the_enemy_is_re|当敌人放松，让他们变得辛劳。饱了或饿了。安顿好后，让他们搬家。
+qstr_Foreknowledge_cannot|预支不能从鬼魂中获得，不可以通过类推，不能通过计算找到。必须从知道敌人状况的人获得。
+qstr_Unhappy_is_the_fate_|一个人如果不努力培养精神，就要争取胜利，才能成功地进攻，这是不幸福的，因为结果是浪费时间和普遍的停滞。
+qstr_Disorder_came_from_o|无序来自秩序，恐惧来自勇气，虚弱来自力量。
+qstr_There_are_roads_whic|有不可遵循的路；不可进攻的军队；不可围困的城镇；不可竞争的阵地；不可服从的君主的命令。
+qstr_There_are_five_dange|有五个危险的事可能会影响：鲁莽，导致破坏；怯懦，导致捕获；一个急躁的脾气，可受到侮辱；一种微妙的荣誉，这是敏感的羞耻；在关注他的人，使他担心和感到麻烦。
+qstr_You_add_the_remainde|你把剩下的黑色粉末加到一个小木桶里，盖上盖子。  
+qstr_You_add_the_remainder|你把剩下的浓缩液体加到一个粘土壶里，盖上盖子。 
+qstr_1!|1!
+qstr_2!|2!
+qstr_3!|3!
+qstr_4!|4!
+qstr_5!|5!
+qstr_6!|6!
+qstr_You_down_two_of_your|你放下你的两个人类猎物！祝福树精！
+qstr_A_blood_curdling_how|一声令人毛骨悚然的嚎叫划破了寂静 ! 你的人类猎物尖叫着跑开了 ! 你听到附近疯子的笑声……树精 !  
+qstr_You_down_two_of_your_|你放下你的两个猎物！祝福树精！
+qstr_A_pebble_flies_out_o|球飞了出来，打击你的猎物！你听到附近疯狂的笑…树精！
+qstr_Breaking_camp...|终止宿营……  
+qstr_Current_wealth:_{reg|当前财富： {reg1}
+qstr_Your_party_is_spotte|你的部队被 {s1}探察到了。 
+qstr_Party_has_nothing_to|队伍没有吃的了！ 
+qstr_{reg1}_{s1}_{reg2?ha|{reg1}个 {s1}在夜间从你的队伍逃走了。 
+qstr_{s1}_of_{s3}_has_bee|{s3}的 {s1}从囚禁中被释放了。 
+qstr_Building_of_{s0}_in_|{s4}的建筑 {s0} 已被完成。 
+qstr_{s1}_has_won_the_tou|{s1}赢得了 {s2}的竞技大会。 
+qstr_{s1}_is_infested_by_b|{s1}（在夜间）被强盗侵扰了。 
+qstr_{s1}_is_no_longer_in|{s1}（在夜间）不再被强盗侵扰了。 
+qstr_{s1}_is_holding_a_to|{s1}正在举办一场竞技大会。 
+qstr_You_pay_for_accommod|你支付住宿费。 
+qstr__Your_tactics_skill_|你的战术技能提高了 1点。 
+qstr__Your_persuasion_ski|你的说服技能提高了 1点。 
+qstr__Your_leadership_ski|你的统御技能提高了 1点。 
+qstr__Your_intelligence_h|你的智力提高了 1点。 
+qstr__Your_trade_skill_ha|你的交易技能提高了 1点。 
+qstr__Your_weapon_master_|你的武艺技能提高了 1点。 
+qstr__Your_engineer_skill|你的工程技能提高了 1点。 
+qstr_You_have_finished_re|你读完了 {s1}。 {s2}
+qstr_Book_Read|读书 
+qstr_You_must_follow_{s1}|你必须跟随 {s1}！ 
+qstr_You_must_follow_{s1}!|你必须跟随 {s1}！这是对你的最后一次警告！ 
+qstr_{s1}_is_scouted.|{s1}被侦察了。 
+qstr_{s1}_has_switched_fr|{s1}从 {s2}转到了 {s3}。 
+qstr_You_scare_a_rat_away|你吓走了面包上的老鼠……
+qstr_So_much_clay._It_s_e|这么多的粘土。到处都是…
+qstr_So_much_sand._You_mu|这么多的沙子。您必须关闭…
+qstr_An_inmate_dies._You_|一个囚犯死了。你继续挖…… 
+qstr_Your_sinister_antago|你的邪恶对手出现！你的复仇快到了！
+qstr_Your_righteous_antag|你的正义对手出现了！你的复仇快到了！
+qstr_Your_sinister_antagon|你那阴险的对手又回来了，但更厉害了，他会毁了你的！
+qstr_Your_righteous_antago|你的正义的对手又回来了，但更强大，他会毁了你的！
+qstr_Your_sinister_antagoni|你那阴险的对手已经来了，为最后的对抗做好了充分的准备！
+qstr_Your_righteous_antagon|你那正义的对手已经到来，为最后的对抗做好了充分的准备！
+qstr_An_earthquake_shakes|一场地震震动了地面，神秘的波涛汹涌从的北方响起！波塞冬的愤怒！
+qstr_Respite_falls_uncons|暂时失去知觉了！你必须找个医生！
+qstr_Nepenthe_falls_uncon|忘忧草跌倒昏迷了！你必须找个医生！
+qstr_You_find_garlic!_Ret|你找到大蒜了！回去找药剂师！
+qstr_You_find_aconite!_Re|你找到乌头草了！回去找药剂师！
+qstr_You_find_mullein!_Re|你找到毛蕊花了！回去找药剂师！
+qstr_You_find_mandrake!_T|你发现曼德拉草了！在你的耳朵塞一些蜡可以防止你的死亡，但是它会液化！
+qstr_Someone_has_trampled|有人践踏了你所有的花！你发誓，你听到有人窃笑…
+qstr_Why_this_flower_has_|为什么，这朵花已经生长了两个完整的茎！
+qstr_Nothing_but_weeds!|只有杂草！
+qstr_You_cultivated_nothi|你一无所有！
+qstr_A_mine_shaft_collaps|矿井坍塌！你听到附近有敲击声…
+qstr_You_found_even_more_|你比你想象中发现了更多的钻石！
+qstr_You_produced_nothing|你什么都没有做出来！
+qstr_Your_line_snaps!_You|你正在拍照，听到附近有窃听声…
+qstr_Such_catches_today!_|今天捕获的很好!
+qstr_You_catch_nothing!|你什么都没有！
+qstr_It_s_a_big_one___you|这是一个很大的陷阱——你的圈套把你拖下水了 ! 你完全被一个巨大的生物从深处吞噬了 !
+qstr_You_catch_nothing!_Y|你什么都没抓到！你迅速重新整理你的网！
+qstr_Izanagi_catches_noth|伊邪那歧什么也没抓到！伊邪那歧迅速重做！
+qstr_You_are_sneaking_up_|你偷偷摸摸的靠近一匹马，这幽灵跑了！你听到附近有疯狂的笑声……
+qstr_You_find_a_mated_pai|你找到配对的马！
+qstr_You_found_nothing!|你什么都没找到！ 
+qstr_Your_axehead_shatter|你的斧头破碎在一棵鬼树上！你听到有人在说话…… 
+qstr_Such_a_ghostwood_tre|这样一个鬼木 - 可以获得双倍的木材！ 
+qstr_A_dying_flower...|垂死的花朵……
+qstr_...|……
+qstr_The_feeling_is_const|我清楚感觉到，我是第一个听到一个星球对另一个星球的问候之人。
+qstr_The_human_being_is_a|人类是完全受外部影响控制的东西。一切皆有定数，但是此数就像浮躁的波涛一样浮沉。
+qstr_The_spread_of_civili|文明的传播可以比作火，先是微弱的星火，接着是耀眼的火花，终会化作燎原之火，亦如时间之狂风卷起滔天巨浪，永不虚弱，随岁月流逝反而更加强大。
+qstr_Let_the_future_tell_|让未来吐露出万物之本源，工作和成就是用来评价某人的依据。现在是他们的造物之世界，吾曾经注入灵魂之物则独属于我。
+qstr_I_do_not_think_there|我不认为有什么刺激可以穿透人的灵魂，但就像发明者感觉到的那样，当他看到臆想的某些创造物成功的时候…那种情绪使人忘记饥饿、劳累、朋友、爱、一切。
+qstr_Every_living_being_i|每一个位于宇宙中有趣的灵魂，包括宇宙本身，如同一个个永不停息的泵出滋养灵肉之血液的机械，影响的范围虽然似乎只对其周围环境有所作用，但却被不可视之怪力携到无限远之彼方。
+qstr_I_myself_eschew_all_|我抛下所有激情与欲望。我也几乎不食荤腥
+qstr_The_history_of_scien|科学史表明理论是容易迂腐的。随着揭示出的每一个新真理，我们对自然有了更好的理解，我们的概念和观点也被提到了更新的层次。
+qstr_If_we_want_to_reduce|如果我们想减少贫苦和灾难，如果我们想给每一个值得尊敬的----有作为之人栖身之处，我们就必须提供更多的“血泵”，更多的力量。那即是人类进化之本源
+qstr_With_ideas_it_is_lik|始拥破茧之念，亦如攀上令我等不寒而栗的绝望之峰：冒险之伊始所带来的宵暗以及黑暗中予你的彻魂痛击，令你如同位于生死之边界，犹位于太初之混沌，如陷入不覆之狱，汝定会不忠于自身之力; 只要乘名为“时间”之巨浪，汝定会帮脱离动荡之地，远离无尽之血海，自身之高度得以使慧明之风拂于汝始得磨练之颜; 这时汝必将相信自身之坚毅与雄劲，遂定会返身而觅伊始之暗，遁形于太古之荒
+qstr_Too_complex!|太复杂了！
+qstr_Complex!_But_you_alm|复杂！但你几乎拥有它…
+qstr_The_Filth_you_were_c|你所造成的污秽自发地崩溃了！你听到附近有疯狂的笑声…… 
+qstr_You_scrape_up_enough|你搜集了一个额外污秽足够的材料！
+qstr_You_scavenged_nothin|你什么都没找到！
+qstr_You_could_have_sworn|你发誓那里刚刚有一颗钻石！你听到有人吵了…… 
+qstr_Two_diamonds_for_the|一个价格为两个钻石！
+qstr_The_applause_is_deaf|掌声震耳欲聋！起立鼓掌！
+qstr_You_are_offered_dinn|你提供晚餐！
+qstr_The_audience_cheers!|观众欢呼！他们爱你！
+qstr_A_crowd_gathers._Som|人群聚集。有些人跟着音乐跳舞。
+qstr_A_lone_onlooker_sing|一个孤独的人在唱…
+qstr_Spirits_are_low...|情绪很低落…
+qstr_The_crowd_goes_wild!|人群疯狂！有的甚至丢花！
+qstr_The_crowd_cheers!_Th|人群欢呼！他们崇拜你！
+qstr_A_crowd_gathers_amus|人群聚集，被你滑稽的动作逗乐了。
+qstr_A_lone_onlooker_watc|一个孤单的旁观者……
+qstr_You_attract_no_atten|你不吸引眼球……
+qstr_The_crowd_is_frantic|人群疯狂！他们相信你的每一个字！
+qstr_The_crowd_scrambles_|人群争冠！他们需要治疗！
+qstr_The_crowd_shouts_out|人群喊出问题 - 你随时可以回答，赚取更多的出价！
+qstr_The_crowd_murmurs_an|人群杂乱无章，偶尔出价，令你感到震惊。
+qstr_Nobody_is_buying_it.|没有人在买它……
+qstr_Can_anyone_outbid_th|谁能击败这个人，一个奇迹吗？
+qstr_Anybody?_Going_once.|有人吗？一次……
+qstr_Only_one_bottle_left|只剩下一瓶了！两次…
+qstr_Sold!|出售!
+qstr_You_drew_your_lady_s|你把你的女士的洗澡水弄得太烫了！她烫伤了，你被解雇了！
+qstr_You_wake_your_lady_g|你温柔地叫醒你的女士，按时提供美味的早餐和完美的温度浴。她很感激！
+qstr_The_breakfast_could_|早餐可能更热……但是，你的女士很满意，并且支付了你的费用。
+qstr_The_bathwater_could_|洗澡水可能变冷了……但是，你的女士很满意，并且支付你的费用
+qstr_You_accidentally_wak|你不小心吵醒了你的女士，比他们预料的要晚一些，这可能会干扰她可能的其他约会。女士不满，但她还是给了你一些硬币
+qstr_Dusting!_How_inappro|除尘！怎么不合适 - 你没有女佣！他们也勉强付钱。你会发现其他地方的工作……
+qstr_You_move_door_to_doo|你在最富有的社区找到工作，要求手工……
+qstr_Your_customer_moves_|你的客户咒骂你，跑了！
+qstr_You_carefully_remove|在阑尾破裂并杀死病人之前，你要小心地切除阑尾。他们很感激你！
+qstr_An_infected_tooth_ex|感染的牙齿拔牙。客户很痛苦，但缓解了致命的可能性。他们感激不尽。
+qstr_A_bloodletting._Your|放血。您的客户感到头晕，并略微超支……
+qstr_Fire_cupping._This_e|拔火罐。这个实验技能来自远东，充其量受到怀疑。客户不确定他们是否感觉更好，但他们给了你一些硬币。
+qstr_Shave_and_a_haircut!|刮脸和理发！
+qstr_Several_people_stop_|几个人停下来聊天，但似乎没有人需要你的帮助…
+qstr_You_accidentally_bre|你不小心打破你正在拉直的剑！你的客户咒骂你，并离开了……
+qstr_You_skillfully_repai|你巧妙地修理了一件装甲 - 客户说它比买的更好，他们付了你很多的钱！
+qstr_Now_that_is_one_stur|这是一个坚固的盾牌 - 你保证！你的报酬更好。
+qstr_That_blade_has_never|那个刀片从来没有更尖锐 - 你保证！你的报酬更好。
+qstr_One_less_broken_wago|少了一个破碎的车轮 - 在你的钱包里多了几个硬币
+qstr_A_horse_needs_shoes.|一匹马需要鞋子……你恰好是这个工作的合适人选！你收到一些硬币
+qstr_Nobody_requires_your|现在没有人需要你的手艺… 
+qstr_You_accidentally_brea|你不小心把正在修理的珠宝弄坏了 ! 你的顾客咒骂你，然后离开……  
+qstr_You_skillfully_repair|你熟练地修理一件首饰——你把它擦得干干净净，闪闪发光，而那位女士很喜欢它——他们付给你一大笔钱 !   
+qstr_That_coif_looks_good|那顶帽子看起来跟新的一样 ! 顾客说它甚至感觉更轻。你的工资很高。   
+qstr_Those_scale_gauntlet|那些伸缩手套比以前更灵活了 ! 你的工资很高。
+qstr_That_barding_looks_e|在顾客的马上，那顶帽子看起来更锋利，更光亮——你的钱包里又多了几声叮当声。 
+qstr_Another_broken_clock|另一个破碎的时钟…他们只是不像以前那样做了 ! 你的麻烦得到了几个硬币。   
+qstr_Nobody_requires_your_|目前没有人需要你的巧手
+qstr_You_receive_a_terrib|你收到了可怕的预言！你的客户诅咒你，跑了！
+qstr_You_receive_a_wonder|你收到一个好预言！你的客户很高兴！
+qstr_A_bad_omen._The_cust|不祥之兆。顾客不高兴，但还是付钱给你。
+qstr_A_good_omen._The_cus|一个好兆头客户很高兴，并付钱给你
+qstr_The_answer_is_uncert|答案不确定，客户看起来有点不满意，但很开心，给你了一些硬币。
+qstr_No_customers_approac|没有客户接近你……
+qstr_Your_charge_returns_|你的回报很好！你不要问怎么了，她给了你很多的钱，和一些面包还有葡萄酒…
+qstr_Cheers!|干杯！
+qstr_Your_escort_is_paid_|你的护送费用很高。她说她确定他会回来……
+qstr_A_satisfied_client._|满意的客户。一个满意的伴侣
+qstr_Your_courtesan_is_pa|你的妓女的收入差不多，就像你一样。
+qstr_You_hear_your_charge|你听到尖叫声，你冲进房间，拿起武器。
+qstr_In_the_scuffle_the_c|在混战中，客户被打死了——你听到守卫的呼喊！
+qstr_No_customers._At_lea|没有客户。至少你有良好的商业…
+qstr_Your_host_falls_asle|你的主人睡着了，像蜗牛一样喝醉了！
+qstr_He_ll_never_notice..|他永远不会注意到……
+qstr_A_return_customer._D|回头客。不谈恋爱，现在…
+qstr_One_satisfied_client|一个满意的客户。他会回来的…
+qstr_A_disappointing_clie|令人失望的客户…你希望永远不要再看到他…
+qstr_Your_customer_tries_|你的顾客试图粗暴地对待你，但你的陪护者冲进房间，抽出武器。
+qstr_No_customers._You_al|没有客户。你几乎感到孤独…
+qstr_No_customers._That_w|没有客户。这种情况不会持续太久……
+qstr_You_almost_get_caugh|你差点抓住小偷，但你让他溜走了…
+qstr_You_manage_to_lift_a|你可以提起整个钱包！它以前的所有者不是很聪明……
+qstr_A_nice_gold_ring_als|一个漂亮的金戒指也非常好玩！
+qstr_All_in_a_day_s_work.|一整天的工作。
+qstr_A_pittance_for_a_pot|潜在监狱的一个漏洞……
+qstr_You_find_no_marks._B|你没有找到任何痕迹。照常营业……
+qstr_Plague_rats_pour_for|瘟疫老鼠爬上城墙，来吧，小家伙……	
+qstr_Plague_rats_scurry_f|瘟疫老鼠发抖！
+qstr_You_find_no_rats...|你找不到老鼠……
+qstr_You_accuse_the_wrong|你指控错了人 ! 你不停地道歉，但被告却义愤填膺，你的名誉受损……
+qstr_You_investigate_a_mu|你调查一桩谋杀案并抓住罪犯 ! 受害者的家人很感激——他们给了你丰厚的报酬，并为你歌功颂德 ! 
+qstr_You_stumble_across_a|你无意中发现一个女人遭到了野蛮的攻击——你在逮捕攻击她的人时不够温柔，被镇警拖走了。你救了她的命，她给了你优厚的报酬。   
+qstr_You_interrogate_part|你审问一场斗殴的参与者和目击者，然后把行凶者交给镇警。他们从镇上的金库里给你钱，让你当副看守 !  
+qstr_You_stop_a_horse_thi|你阻止了一个偷马贼 ! 你几乎被践踏，但马厩的主人给了你一些硬币，并向城镇广场高呼你的胜利 !   
+qstr_You_catch_a_pickpock|你当场抓住了扒手 ! 一个当地的无赖…卫兵队长给了你几个硬币，但拿走了功劳……   
+qstr_You_observe_no_crimi|你没有观察到犯罪活动… 
+qstr_You_toss_and_turn_in|你辗转反侧，继续进入了梦境…
+qstr_Human_prey_is_nearby|人类猎物就在附近……
+qstr_No_luck_yet._You_wai|没有运气。等着瞧……
+qstr_Game_is_nearby...|游戏就在附近…
+qstr_Unworthy..._the_Infi|不值得…无限之石回到了它的安息之地。
+qstr_Something_follows_yo|有东西跟着你通过大门……
+qstr_You_find_a_deadly_fi|你发现一把致命的枪夹在你的腰带上，还有一张便条……
+qstr_It_reads__Here_s_a_l|上面写着：当你不在的时候，妈妈教了我一个小诀窍。
+qstr_A_Ghostwood_Nymph_fo|鬼木若虫通过大门跟着你…
+qstr_The_Strange_shell_pl|奇怪的贝壳播放着塞壬的歌声，向溺水的水手致敬……
+qstr_Vi_Veri_Veniversum_V|我的意思是…… 
+qstr_You_feel_the_Mumiyo_li|你感觉到喜来芝像一个神一样举起你！在你心中少了一个负担…
+qstr_You_feel_the_Mumiyo_lif|你感觉到喜来芝像一个神一样举起你！
+qstr_You_feel_fragile_and|你感到脆弱和迷失方向……你现在需要喜来芝！
+qstr_One_less_Mumiyo_in_I|在伊姆霍特普的坟墓中少一个喜来芝 
+qstr_Imhotep_crumbles_into|伊姆霍特普碎成红色的灰尘，并吹走！
+qstr_The_Tsukumogami_reun|付丧神团聚，看起来更强大一些！
+qstr_Some_of_your_silk_se|你的一些丝绸似乎失踪了…… 
+qstr_Galatea_shatters_her|加拉蒂亚粉碎了自己的心，放下银锤！
+qstr_Whispers_of_death...|死亡的低语…
+qstr_Rumors_of_infection.|关于感染的谣言…
+qstr_Cries_of_despair...|绝望的呼喊…
+qstr_The_plague_progresse|瘟疫进展了一步！
+qstr_No_change_in_plague_|瘟疫的状况没有变化！
+qstr_The_Red_Death_grows_|红死病变得更强……
+qstr_Better_check_on_your|更好地检查你的实验！
+qstr_Your_experiment_stil|你的实验还需要时间！
+qstr_A_hawker_has_tamed_a|一个小贩已经驯服了一只新的鹰！
+qstr_Terracotta_stars_hav|赤陶星已经被创造出来了 !
+qstr_A_terracotta_warrior|一个兵马俑被创造出来了 !
+qstr_A_slave_girl_has_giv|一个奴隶女孩把自己给了你 !
+qstr_Familiar_still_in_st|熟悉仍然停滞不止 !
+qstr_{reg65?my_Lady:my_Lo|我的 {reg65?女士:大人}
+qstr_{reg65?My_Lady:My_Lo|我的 {reg65?女士:大人}
+qstr_{reg65?madame:sir}|{reg65?女士:阁下}
+qstr_{reg65?Madame:Sir}|{reg65?女士:阁下}
+qstr_Poseidon_has_forsake|波塞冬抛弃了你！你觉得他的祝福消失了！
+qstr_Strength__6!_Agility|力量 - 6！敏捷 - 6！智力 - 6！魅力 - 6！
+qstr_You_feel_your_will_s|当你最终接受命运的智慧时，你感到你的意志会变得敏锐！
+qstr_No_crystal!|没有水晶！
+qstr_Quest_in_progress!|任务正在进行！
+qstr_No_silver!|没有白银！
+qstr_No_gold!|没有黄金！
+qstr_No_diamonds!|没有钻石！
+qstr_No_code_disk!|没有密码盘！
+qstr_You_feel_a_tingling_|你感到一阵刺痛。
+qstr_Denars_+10000!|第纳尔 +10000!
+qstr_Renown_+50!|声望 +50!
+qstr_You_thrill_to_the_cr|你因灵感的刺激而激动！你成为遗物收集师了！ 
+qstr_The_Undying_Sword_of_|弗拉德· 德拉库拉的不死之剑掉到地上了，又成了一件无生命的骨制武器……  
+qstr_The_Hunter_s_Night_s|猎手之夜套装升到了空中，现在化为有生命的无情猎手了！ 
+qstr_The_Great_Artificer_|工兵炸药扔到外面的洞口，震耳欲聋的爆炸！
+qstr_Old_King_Cole_|老国王科尔
+qstr_The_Queen_of_Hearts_|红心女王
+qstr_Blood_|血
+qstr_Bones_|骨骼
+qstr_Flesh_|肉体
+qstr_Dried_Meat_|风干肉
+qstr_Bread_|面包
+qstr_Bread_of_the_Dead_|死亡面包
+qstr_Blood_Pudding_|血布丁
+qstr_Nog_|酒
+qstr_Candles_|蜡烛
+qstr_Salt_|盐
+qstr_Tools_|工具
+qstr_Graveyard_Soil_|坟土
+qstr_Ale_|麦芽酒
+qstr_Wine_|葡萄酒
+qstr_Bloodwine_|血酒
+qstr_Mumiyo_|喜来芝
+qstr_Human_Corpse_|人类尸体
+qstr_Wax_|蜡
+qstr_Honey_|蜂蜜
+qstr_Apples_|苹果
+qstr_Wheat_|小麦
+qstr_Milk_|牛奶
+qstr_Grapes_|葡萄
+qstr_Crocuses_|番红花
+qstr_Linen_|亚麻布
+qstr_Oil_|油
+qstr_Formaldehyde_|甲醛
+qstr_Sulfuric_Acid_|硫酸
+qstr_Eggs_|鸡蛋 
+qstr_Mulberries_|桑葚
+qstr_Glogg_|格拉格 
+qstr_It_s_your_money_or_y|要钱还是要命， {老弟/小妞}？不许动，否则我们一箭射穿你。 
+qstr_Lucky_for_you_you_ca|你很幸运，今天我正好心情很好。给我们你所有的钱币，那么我也许就会让你活着。 
+qstr_This_a_robbery_eh?_I|这是一场抢劫，嗯？我给你一个机会来交出你所有的东西，不然我和我的同伴会杀了你。懂了？
+qstr_we_have_made_very_li|到目前为止，我们没取得什么进展
+qstr_we_have_suceeded_in_|我们成功地获得了一些土地，但是我们仍然有一条长路要走
+qstr_we_have_become_a_sig|我们成为了一股显著的力量，并且我们有相等的胜利机会
+qstr_we_are_winning_the_w|我们在赢得这场战争，但是我们的敌人仍在坚持
+qstr_we_are_on_the_verge_|我们接近胜利了。余下的敌人已构不成威胁，但是我们仍需追捕并消灭他们。
+qstr_Smitty_also_manages_|史密提还设法制作了一些工匠的轴承 ! 那些就行了 !  
+qstr_Shiner_also_manages_|夏纳还设法制作了一些血酒 ! 为了一个特别的日子 ! 
+qstr_You_drink_the_wine_a|你喝了这些酒并觉得自己强壮了！得到 +3 点力量！ 
+qstr_You_eat_the_heart_an|你吃了这颗心并觉得自己伶俐了！得到 +3 点敏捷！ 
+qstr_You_read_the_letter_|你读了这封信并觉得自己睿智了！得到 +3 点智慧！ 
+qstr_You_swallow_the_bug_|你吞下了这只虫并觉得自己善于雄辩了！得到 +3 点魅力！ 
+qstr_Lamia_drains_a_priso|拉弥亚吸了一名俘虏的血，之后令其喝你提供的血，最后便作为吸血鬼加入了你的队列！ 
+qstr_Crossbones_bites_a_p|叉骨咬了一名俘虏，而在其从初始表征中恢复过来后，便作为狼人加入了你的队列！ 
+qstr_You_swiftly_decapita|你迅速地砍掉了拉斯普京的头，而从他被砍下的头中，那只蛹喷了出来！ 
+qstr_You_feel_disoriented...|你感到迷失方向…力量、敏捷、智力和魅力完全随机化！
+qstr__no_fiefs_|（无封地） 
+qstr__fiefs:_{s0}_|（封地： {s0}） 
+qstr_{playername}_when_we|{playername}，当我们开始我们漫长的征程时，几乎没有人有勇气支持我。有少数人为了我的事业甘冒性命之险。但是你对于投身去对付我的敌人，没有犹豫过片刻。我们在一起经历了许多，并且有几次我快要彻底丧失希望了。但是凭借着神明的帮助，我们胜利了。现在，该是我离开你的队伍去取得属于我的东西的时候了。从现在起，我会实现统治 {s3}的伟大职责。前方仍然有许多挑战并且我指望着你会帮助我战胜这些。并且，当然，你将一直是我最重要的封臣。 
+qstr_{s6}_has_joined_your_|{s6}加入了你的队伍。 
+qstr_I_am_{s4}_the_ruler_|我是 {s4}， {s6}的统治者
+qstr_I_am_{s4}_a_vassal_o|我是 {s4}， {s6}的一名封臣
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5?，并且是 {s8}的主人:}。 
+qstr_Your_mission_is_comp|你的任务被完成了， {s9}想要你继续跟随他的军队直到有进一步的通知。 
+qstr_{s13}_asked_you_to_g|{s13}叫你征集 {reg3}头牛并将它们运回他那里。 
+qstr_{s9}_asked_you_to_sc|{s9}叫你侦察 {s13}、 {s14}和 {s15}，之后向他报告。 
+qstr_{s16}_and_{s17}|{s16}和 {s17}
+qstr_{s16}_{s17}|{s16}、 {s17}
+qstr_Very_well_I_will_acc|很好，如果你准备好再次向我郑重地宣誓效忠的话，我会接受你回到我的封臣之列。 
+qstr_A_pardon_will_only_b|你愿意向我交出 {s17}的话，才有可能得到原谅。你同意我的条件吗？ 
+qstr_No._There_is_no_chan|不。我们之间没有和平的机会，我不感兴趣。 
+qstr_We_are_not_at_war_wi|我没有与任何人交战。 
+qstr_We_are_at_war_with_{|我们在与 {s12}交战。 
+qstr_Prior_argument_effec|由先前辩论影响的结果： {reg6}，反叛机会： {reg7}
+qstr_Rebellion_chance__30|反叛机会因为对手 -30={reg7}
+qstr_Consistency_check:_{|协调核对后的结果： {reg10}/{reg11}
+qstr_Current_argument_eff|由当前辩论影响的结果： {reg6}，反叛机会： {reg7}
+qstr_Persuasion_effect:_{|由说服技能影响的结果： {reg6}，反叛机会： {reg7}
+qstr_Personal_relation_ef|由个人关系影响的结果： {reg6}，反叛机会： {reg7}
+qstr_Rebellion_check:_{re|反叛机会核对后的结果： {reg6}
+qstr_You_promised_to_help|你答应帮助 {s13}取得 {s14}的统治权。 
+qstr_{s9}_asked_you_to_ta|{s9}叫你带封信给 {s13}。当你接受此任务时， {s13}被确信在 {s4}。 
+qstr_{s9}_asked_you_to_tak|{s9}叫你带封信给 {s15}的 {s13}。当你接受此任务时， {s13}据信在 {s4}。 
+qstr_{s11}_asked_you_to_e|{s11}叫你护送他的 {s17} {s13}到 {s14}。 
+qstr_{s13}_asked_you_to_d|{s13}叫你对付正占据着 {s15}村的强盗并在之后回去向他报告。 
+qstr_{s9}_asked_you_to_ra|{s9}叫你培养 {reg1}个 {s14}并把他们带给他。 
+qstr_{s9}_asked_you_to_co|{s9}叫你从 {s3}收税。他愿意你留下你在那里收到的钱的总数的五分之一。 
+qstr_{s9}_asked_you_to_hu|{s9}叫你追捕名为 {s4} 的逃亡者。他最近被确信在 {s3}。 
+qstr_{s9}_asked_you_to_as|{s9}叫你暗杀 {s3}的一名地方商人。 
+qstr_{s9}_has_asked_you_t|{s9}叫你在 {s13}与一个密探碰头。 
+qstr_{s9}_asked_you_to_ca|{s9}叫你捕获并掠夺 {reg13}支商队，这样就能挑起对 {s13}的战争。 
+qstr_{s9}_asked_you_to_cat|{s9}叫你捉住三群逃跑的农奴并把他们活着带回 {s4}。他说这三群一定都在朝 {s3}的方向逃跑。 
+qstr_{s11}_asked_you_to_f|{s11}叫你尾随将要离开 {s12}的密探。你必须小心，不要让密探在路上看见你，否则他可能会起疑并折回去。当密探和他的同谋碰头时，你得捕获他们并把他们带回给 {s11}。 
+qstr_{s11}_asked_you_to_c|{s11}叫你捉捕一位 {s13}的领主，任何领主都行，并且之后你要押送你的受害人回到 {s11}那里以对他严加看管。 
+qstr_{s9}_asked_you_to_le|{s9}叫你把你的同伴 {s3}借给他一个星期。 
+qstr_{s9}_asked_you_to_col|{s9}叫你收回 {s3}欠他的 {reg4}第纳尔的债。当你接受此任务时， {s3}在 {s4}。 
+qstr_{s11}_gave_you_a_fak|{s11}给了你一封伪造的信件来欺骗 {s13}放逐他的封臣 {s16}。你得走到 {s14}附近，把信件交给你的一名 {s15}并派遣他作为一名送信人进入镇里，以使 {s13}相信 {s11}的命令不是伪造的。 
+qstr_{s9}_has_requested_y|{s9}要求你带给他 {reg1}个 {s3}作为俘虏。 
+qstr_Lend_your_experience|把你的老练的外科医生 {s3}借给 {s1}。 
+qstr_Then_take_it_with_my|那么，请收下它，以及我永恒的感谢。你是个高尚的人。我会永远不会忘记你曾在我需要的时候帮助了我。 
+qstr_Forgive_me_{playerna|原谅我， {playername}，但是我必须坚持让你接受它。这些钱对我来说不算什么，并且我欠你如此之多。这里，收下，让我们再也别说这个了。 
+qstr_{playername}_what_a_|{playername}，你是多么可爱的一个人啊，但是我不会允许你拒绝这个。我欠你的比我能说的还多得多，并且我确信你比我更能用好这笔钱。 
+qstr_{s11}_asked_you_to_r|{s11}叫你通过交换衣物并代替其待在监狱里来从 {s14}解救她的 {s17} {s13}。 
+qstr_{s11}_asked_you_to_d|{s11}叫你传信给 {s13}，他被监禁在 {s14}。 
+qstr_You_agreed_to_challe|你同意挑战 {s13}以守住 {s11}的荣誉。 
+qstr_{s5}__Persuasion_str|{s5}（说服力： {reg5}） 
+qstr_Persuasion_Attempt|尝试说服 
+qstr_A_villager_from_{s7}|一位来自 {s7}的村民恳请你从避难于他们的村庄的强盗手中解救那里。 
+qstr_You_chose_well_{sir/|你选得很好， {阁下/女士}。我的伙伴们知道如何信守他们的话并赢回你的支付。 
+qstr_Well_done_{sir/madam|做得好， {阁下/女士}。持续给我们金钱与美酒，你在卡拉迪亚就不会有需要害怕的反对者。 
+qstr_We_are_at_your_servi|我们为您效劳， {阁下/女士}。您只需为我们指出那些需要被干掉的人的方向，剩下的由我们来做就是。 
+qstr_You_will_not_be_diss|你不会失望的， {阁下/女士}。你不会在全卡拉迪亚找到更好的勇士了。 
+qstr_The_Guildmaster_of_{|{s13}的商会会长叫你对付附近乡间的掠夺者。 
+qstr_{s9}_of_{s3}_asked_y|{s3}的 {s9}叫你在 7天内运送 {reg5}单位的 {s6}到 {s4}的酒馆。 
+qstr_Escort_the_merchant_|护送商人的商队到 {s8}镇。 
+qstr_Merchant_{s9}_of_{s4|{s4}的 {s9}叫你追捕城镇附近地区的难对付的强盗。 
+qstr_Guildmaster_of_{s4}_|{s4}的商会会长给了你 {reg12}第纳尔来向强盗支付一位被绑架的女孩的赎金。你得在 {s3}附近与那些强盗会面并支付他们赎金。在那之后，你得带女孩回 {s4}。 
+qstr_Guildmaster_of_{s4}_p|{s4}的商会会长答应你，如果你能确保 {s12}和 {s13}不再对 {s15}和 {s14}的和平协定做出威胁的话，他会给你 {reg12}第纳尔。为了做到这个，你必须要么说服他们，要么确保他们被俘虏并保持这样直到一个和平协定被制定。 
+qstr_The_Guildmaster_of_{s|{s14}的商会会长叫你对付一群对 {s14}的街道造成恐怖的强盗。他们只在夜间出来，并只袭击街道上的单身旅行者。 
+qstr_Guildmaster_of_{s10}|{s10}的商会会长叫你赶一群牛到 {s13}。你会赚得 {reg8}第纳尔作为回报。 
+qstr_He_is_not_commanding|此刻他没在指挥任何人。 
+qstr_He_currently_command|他最近在指挥 {reg0}个人{reg1?，其中大约有 {reg1}个人已受伤:}。 
+qstr_The_elder_of_the_vil|{s3}的村庄长老叫你给他们带 {reg5}包小麦。 
+qstr_The_elder_of_the_vill|{s13}的村庄长老叫你训练 {reg5}个农民来抵抗当地的强盗。 
+qstr_The_elder_of_the_villa|{s3}的村庄长老叫你给他们带 {reg5}头牛。 
+qstr_{s16}_and_{s15}|{s16}和 {s15}
+qstr_{s16}_{s15}|{s16}、 {s15}
+qstr_I_can_smell_a_fat_pu|我在一里外就闻到了一个鼓鼓的钱包。我想你的钱包可以变轻一点，嗯？ 
+qstr_Why_it_be_another_tr|咦，又来了个旅行者，正好在路上遇到了！我应该警告你，这里的乡村对你这样的 {家伙/女人} 有点危险。但是只要捐一点点钱出来，我的小子们和我就会保证你能顺利到达你的目的地，嗯？ 
+qstr_Well_well_look_at_th|很好，很好，看看这个！你最好立刻咳出些银币来，朋友，不然我和我的小子们将不得不弄碎你。 
+qstr_There_s_a_toll_for_p|路过此地要交通行费，我们就是收费的，如果你不干的话，我们就会从你的钱包中取走我们应得的……  
+qstr_Another_fool_come_to|又一个傻瓜把 {他/她} 自己往我的武器上撞来了，嗯？很好，开打！
+qstr_We_re_not_afraid_of_|我们不怕你，小 {子/妞儿}。该是打爆一些脑袋的时候了！ 
+qstr_That_was_a_mistake._|这是个错误。现在我将不得不让你不得好死。 
+qstr_Brave_words._Let_s_s|豪言壮语。让我们看看你将如何以行动证明它们，坏蛋！ 
+qstr_A_{s5}?_Well..._Yes_|{s5}？嗯……是的，我想是的。要了个多奇怪的东西呀。 
+qstr_Eh?_No_it_most_certa|嗯？不，它无疑不会是一个 {s5}。如果我是你的话，我最好开始质疑我的眼力。 
+qstr_This_is_the_{reg4?to|这是 {s5}{reg4?镇:村}， {阁下/女士}。 
+qstr_{s6}_Our_{reg4?town:|{s6}我们 {reg4?镇:村} 及周边的土地属于你，我的 {大人/女士}。 
+qstr_{s6}_Our_{reg4?town:v|{s6}我们 {reg4?镇:村} 及周边的土地属于 {s8}的 {s7}。
+qstr_{s3}_and_{s5}|{s3}和 {s5}
+qstr_{s3}_{s5}|{s3}、 {s5}
+qstr_{reg20?We_mostly_pro|我们这 {reg20?里盛产 {s5}:些日子里没出产什么}。如果你想了解更多，你可以找我们的 {reg4?商会会长:村庄长老} 说话。他就在附近，就在那边。 
+qstr_Phoenix_Fire|菲尼克斯之火 
+qstr_Moon_Tooth_takes_his|月牙捉住它了！ 
