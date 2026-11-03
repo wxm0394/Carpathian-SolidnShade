@@ -50,6 +50,7 @@ def str_id(n): return OPMASK_STRING + n
 def script_id(n): return OPMASK_SCRIPT + n
 def prsnt_id(n): return OPMASK_PRESENTATION + n
 def troop_id(n): return OPMASK_TROOP + n
+def mesh_id(n): return OPMASK_MESH + n
 
 def make_op_block(raw_str):
     toks = raw_str.split()
@@ -326,68 +327,65 @@ def run():
     # 4. Generate new scripts
     new_scripts = []
     
-    # 1. prsnt_lines (15 ops)
-    code_prsnt_lines = make_op_block(
-        f"23 2 {local_var(0)} 1 23 2 {local_var(1)} 2 23 2 {local_var(2)} 3 23 2 {local_var(3)} 4 23 2 {local_var(4)} 5 "
-        f"911 2 {reg(1)} {id_mesh_white_plane} "
-        f"2107 2 {local_var(0)} 50 2107 2 {local_var(1)} 50 "
-        f"729 2 0 {local_var(0)} 730 2 0 {local_var(1)} 925 2 {reg(1)} 0 "
-        f"729 2 0 {local_var(2)} 730 2 0 {local_var(3)} 926 2 {reg(1)} 0 "
-        f"921 2 {reg(1)} {local_var(4)}"
-    )
-    new_scripts.append(("prsnt_lines", f" {code_prsnt_lines}"))
-    
-    # 2. prsnt_lines_to (25 ops)
-    code_lines_to = make_op_block(
-        f"23 2 {local_var(0)} 1 23 2 {local_var(1)} 2 23 2 {local_var(2)} 3 23 2 {local_var(3)} 4 23 2 {local_var(4)} 5 "
-        f"4 0 31 2 {local_var(0)} {local_var(2)} "
-        f"2121 3 {local_var(5)} {local_var(1)} {local_var(3)} 2113 1 {local_var(5)} 2110 2 {local_var(1)} {local_var(3)} "
-        f"1 6 {idx_prsnt_lines} 4 {local_var(5)} {local_var(0)} {local_var(1)} {local_var(4)} "
-        f"5 0 31 2 {local_var(1)} {local_var(3)} "
-        f"2121 3 {local_var(5)} {local_var(0)} {local_var(2)} 2113 1 {local_var(5)} 2110 2 {local_var(0)} {local_var(2)} "
-        f"1 6 {idx_prsnt_lines} {local_var(5)} 4 {local_var(0)} {local_var(1)} {local_var(4)} "
-        f"5 0 "
-        f"2120 3 {local_var(6)} {local_var(0)} {local_var(2)} 2108 2 {local_var(6)} 2 2106 2 {local_var(6)} 6 "
-        f"1 6 {idx_prsnt_lines} {local_var(0)} {local_var(1)} {local_var(6)} {local_var(1)} {local_var(4)} "
-        f"1 6 {idx_prsnt_lines} {local_var(6)} {local_var(1)} {local_var(6)} {local_var(3)} {local_var(4)} "
-        f"1 6 {idx_prsnt_lines} {local_var(6)} {local_var(3)} {local_var(2)} {local_var(3)} {local_var(4)} "
-        f"3 0"
-    )
-    new_scripts.append(("prsnt_lines_to", f" {code_lines_to}"))
-    
-    # 3. prsnt_upgrade_tree_troop_and_name (40 ops)
-    code_troop_name = make_op_block(
-        f"23 2 {local_var(0)} 1 23 2 {local_var(1)} 2 23 2 {local_var(2)} 3 23 2 {local_var(3)} 4 "
-        f"2322 2 1 {local_var(0)} "
-        f"910 3 {reg(1)} {qstr(6)} 4112 "
-        f"4 0 2147483678 2 {local_var(3)} 100 "
-        f"729 2 1 480 730 2 1 480 925 2 {reg(1)} 1 "
-        f"729 2 1 {local_var(1)} 730 2 1 {local_var(2)} 926 2 {reg(1)} 1 "
-        f"2106 2 {local_var(1)} 42 2122 3 {local_var(4)} {local_var(0)} 2 "
-        f"938 4 {reg(1)} -1 {(TAG_TABLEAU<<56)+id_tab_party} {local_var(4)} "
-        f"729 2 1 300 730 2 1 400 925 2 {reg(1)} 1 "
-        f"729 2 1 {local_var(1)} 730 2 1 {local_var(2)} 926 2 {reg(1)} 1 "
-        f"5 0 "
-        f"729 2 1 600 730 2 1 600 925 2 {reg(1)} 1 "
-        f"729 2 1 {local_var(1)} 730 2 1 {local_var(2)} 926 2 {reg(1)} 1 "
-        f"2106 2 {local_var(1)} 52 2122 3 {local_var(4)} {local_var(0)} 2 "
-        f"938 4 {reg(1)} -1 {(TAG_TABLEAU<<56)+id_tab_party} {local_var(4)} "
-        f"729 2 1 375 730 2 1 500 925 2 {reg(1)} 1 "
-        f"729 2 1 {local_var(1)} 730 2 1 {local_var(2)} 926 2 {reg(1)} 1 "
-        f"3 0"
-    )
-    new_scripts.append(("prsnt_upgrade_tree_troop_and_name", f" {code_troop_name}"))
-    
-    # 4. prsnt_upgrade_tree_troop_cost (11 ops)
-    code_cost = make_op_block(
-        f"23 2 {local_var(0)} 1 23 2 {local_var(1)} 2 23 2 {local_var(2)} 3 "
-        f"1 2 {idx_game_get_upgrade_cost} {local_var(0)} "
-        f"910 3 {reg(1)} {qstr(44)} 4100 "
-        f"729 2 1 {local_var(1)} 730 2 1 {local_var(2)} 926 2 {reg(1)} 1 "
-        f"729 2 1 600 730 2 1 600 925 2 {reg(1)} 1"
-    )
-    new_scripts.append(("prsnt_upgrade_tree_troop_cost", f" {code_cost}"))
+    # 1-4. Copy 1866 helper scripts VERBATIM with strict ID remapping
+    with open(os.path.join(SOURCE_1866, "scripts.txt"), "r", encoding="latin1") as f:
+        _sl = [l.strip() for l in f if l.strip()]
+    _s1866 = {}
+    for _i in range(2, len(_sl), 2):
+        _s1866[_sl[_i].split()[0]] = _sl[_i + 1]
+    _REMAP = {
+        (TAG_SCRIPT, 444): (TAG_SCRIPT, idx_game_get_upgrade_cost),
+        (TAG_SCRIPT, 446): (TAG_SCRIPT, idx_prsnt_lines_to),
+        (TAG_SCRIPT, 447): (TAG_SCRIPT, idx_upgrade_tree_troop_and_name),
+        (TAG_SCRIPT, 448): (TAG_SCRIPT, idx_upgrade_tree_troop_cost),
+        (TAG_SCRIPT, 449): (TAG_SCRIPT, idx_prsnt_lines),
+        (TAG_TROOP, 489): (TAG_TROOP, id_trp_temp_a & 0xFFFFFFFF),
+        (TAG_TROOP, 490): (TAG_TROOP, id_trp_temp_b & 0xFFFFFFFF),
+        (TAG_TROOP, 491): (TAG_TROOP, id_trp_temp_c & 0xFFFFFFFF),
+        (TAG_MESH, 165): (TAG_MESH, id_mesh_white_plane),
+        (TAG_TABLEAU, 2): (TAG_TABLEAU, id_tab_party),
+        (TAG_QUICK_STRING, 6): (TAG_QUICK_STRING, 6),
+        (TAG_QUICK_STRING, 44): (TAG_QUICK_STRING, 44),
+    }
+    _SAFE_TAGS = {0, TAG_REGISTER, TAG_LOCAL_VARIABLE}
 
+    def parse_1866(name):
+        t = _s1866[name].split()
+        ops, i = [], 1
+        while i < len(t):
+            op, n = int(t[i]), int(t[i + 1])
+            ops.append([op, n, t[i + 2:i + 2 + n]])
+            i += 2 + n
+        assert len(ops) == int(t[0]), name
+        return ops
+
+    def remap_ops(ops, name):
+        out = []
+        for op, n, args in ops:
+            na = []
+            for a in args:
+                v = int(a)
+                tag = (v >> 56) & 0xFF if v > 0 else 0
+                if tag in _SAFE_TAGS:
+                    na.append(a)
+                    continue
+                key = (tag, v & 0xFFFFFFFF)
+                if key not in _REMAP:
+                    raise ValueError(f"{name}: unmapped ref tag={tag} idx={v & 0xFFFFFFFF}")
+                nt, ni = _REMAP[key]
+                na.append(str((nt << 56) | ni))
+            out.append((op, n, na))
+        return out
+
+    def ser(ops):
+        tk = []
+        for op, n, args in ops:
+            tk += [str(op), str(n)] + list(args)
+        return f"{len(ops)} {' '.join(tk)}"
+
+    # order matters: script indices fixed above (lines, lines_to, troop_and_name, troop_cost)
+    for _nm in ["prsnt_lines", "prsnt_lines_to", "prsnt_upgrade_tree_troop_and_name", "prsnt_upgrade_tree_troop_cost"]:
+        new_scripts.append((_nm, " " + ser(remap_ops(parse_1866(_nm), _nm))))
     # 5. get_troop_max_hp
     code_hp = make_op_block(
         f"21 1 {local_var(0)} 2172 3 {local_var(1)} {local_var(0)} 0 "
@@ -422,95 +420,28 @@ def run():
     )
     new_scripts.append(("game_get_upgrade_cost", f" {code_upgrade_cost}"))
 
-    # 8. prsnt_culture_troop_tree (Full 1866 Caba'drin algorithm with 17 root branches)
-    ROOT_TROOPS = [
-        184,  # 0: 匈牙利/摩拉维亚 (trp_swadian_recruit)
-        198,  # 1: 瓦拉几亚 (trp_vaegir_recruit)
-        212,  # 2: 奥斯曼 (trp_khergit_tribesman)
-        222,  # 3: 克罗地亚 (trp_nord_recruit)
-        235,  # 4: 摩尔多瓦 (trp_rhodok_tribesman)
-        80,   # 5: 普通丧尸 (trp_undead1)
-        84,   # 6: 火焚丧尸 (trp_burned1)
-        88,   # 7: 腐烂丧尸 (trp_putrid1)
-        92,   # 8: 防腐丧尸 (trp_preserved1)
-        97,   # 9: 恶魔与毁灭者 (trp_demon)
-        104,  # 10: 暗影造物 (trp_brollachan)
-        108,  # 11: 魔偶与血肉机 (trp_golem)
-        22,   # 12: 雇佣平民与民兵 (trp_farmer)
-        24,   # 13: 雇佣城镇工人与剑士 (trp_townsman)
-        265,  # 14: 难民与女剑客姐妹 (trp_refugee)
-        256,  # 15: 赏金猎人与猎奴首领 (trp_manhunter)
-        249,  # 16: 盗匪与绿林好汉 (trp_bandit)
-    ]
-    
-    # Read 1866 ops
-    with open(os.path.join(SOURCE_1866, "scripts.txt"), "r", encoding="latin1") as f:
-        s_lines_1866 = [l.strip() for l in f if l.strip()]
-    s_map_1866 = {}
-    for i in range(2, len(s_lines_1866), 2):
-        parts = s_lines_1866[i].split()
-        s_map_1866[parts[0]] = s_lines_1866[i+1]
-    
-    toks_1866 = s_map_1866['prsnt_culture_troop_tree'].split()
-    ops_1866 = []
-    i = 1
-    while i < len(toks_1866):
-        op = int(toks_1866[i])
-        nargs = int(toks_1866[i+1])
-        args = toks_1866[i+2 : i+2+nargs]
-        ops_1866.append((op, nargs, args))
-        i += 2 + nargs
-        
-    culture_tree_ops = []
-    # Param 1: choice
-    culture_tree_ops.append((21, 1, [str(local_var(0))]))
-    culture_tree_ops.append((4, 0, [])) # try_begin
-    for c_idx, root_id in enumerate(ROOT_TROOPS):
-        if c_idx > 0:
-            culture_tree_ops.append((5, 0, [])) # else_try
-        if c_idx < len(ROOT_TROOPS) - 1:
-            culture_tree_ops.append((31, 2, [str(local_var(0)), str(c_idx)]))
-        culture_tree_ops.append((2133, 2, [str(local_var(1)), "0"]))
-        culture_tree_ops.append((2133, 2, [str(local_var(2)), "0"]))
-        culture_tree_ops.append((2133, 2, [str(local_var(15)), str(troop_id(root_id))]))
-    culture_tree_ops.append((3, 0, [])) # try_end
-    
-    # Append Caba'drin algorithm (ops 76..328) with translated IDs
-    for idx in range(76, len(ops_1866)):
-        op, nargs, args = ops_1866[idx]
-        new_args = []
-        for a in args:
-            val = int(a)
-            if val == 360287970189640169: # trp_temp_array_a in 1866
-                new_args.append(str(id_trp_temp_a))
-            elif val == 360287970189640170: # trp_temp_array_b in 1866
-                new_args.append(str(id_trp_temp_b))
-            elif val == 360287970189640171: # trp_temp_array_c in 1866
-                new_args.append(str(id_trp_temp_c))
-            elif val == 936748722493063614: # script_prsnt_lines_to in 1866
-                new_args.append(str(script_id(idx_prsnt_lines_to)))
-            elif val == 936748722493063615: # script_prsnt_upgrade_tree_troop_and_name in 1866
-                new_args.append(str(script_id(idx_upgrade_tree_troop_and_name)))
-            elif val == 936748722493063616: # script_prsnt_upgrade_tree_troop_cost in 1866
-                new_args.append(str(script_id(idx_upgrade_tree_troop_cost)))
-            else:
-                new_args.append(a)
-        if idx in [82, 83]: # make mesh1/mesh2 overlay invisible
-            new_args[1] = "0"
-        culture_tree_ops.append((op, nargs, new_args))
-        
-    # Serialize culture tree ops
-    culture_tree_toks = []
-    for op, nargs, args in culture_tree_ops:
-        culture_tree_toks.append(str(op))
-        culture_tree_toks.append(str(nargs))
-        culture_tree_toks.extend(args)
-    code_culture_tree = f"{len(culture_tree_ops)} {' '.join(culture_tree_toks)}"
-    new_scripts.append(("prsnt_culture_troop_tree", f" {code_culture_tree}"))
-    
+    # 8. prsnt_culture_troop_tree: 1866 Caba'drin algorithm (ops 88..328) verbatim + our root selector
+    ROOT_TROOPS = [184, 198, 212, 222, 235,       # Hungary, Moldavia, Ottoman, Wallachia, Croatia (verified: pt_kingdom_N_reinforcements_a)
+                   80, 84, 88, 92, 97, 104, 108,  # undead / burned / putrid / preserved / demon / brollachan / golem
+                   22, 24, 265, 256, 249]         # farmer / townsman / refugee / manhunter / bandit
+    _ops = parse_1866("prsnt_culture_troop_tree")
+    hdr = [(21, 1, [str(local_var(0))]), (4, 0, [])]
+    for ci, rt in enumerate(ROOT_TROOPS):
+        if ci > 0:
+            hdr.append((5, 0, []))
+        if ci < len(ROOT_TROOPS) - 1:
+            hdr.append((31, 2, [str(local_var(0)), str(ci)]))
+        hdr.append((2133, 2, [str(local_var(3)), str(troop_id(rt))]))  # 1866 algo reads root troop from :local3
+    hdr.append((3, 0, []))
+    body = remap_ops(_ops[88:], "prsnt_culture_troop_tree")
+    for op, n, args in body:  # sanity: algo must not depend on dropped mesh locals 1/2
+        assert str(local_var(1)) not in args and str(local_var(2)) not in args
+    new_scripts.append(("prsnt_culture_troop_tree", " " + ser(hdr + body)))
+
     # 9. all_items_populate_category (Strict Warband standard item types)
     pop_items_lines = [
         f"21 1 {local_var(0)}", # store_script_param_1, :category
+        f"6 3 {local_var(6)} 0 910 500 3 {id_trp_temp_c} {local_var(6)} 0 3 0", # clear stale slots
         f"2133 2 {local_var(1)} 0", # assign, :num_matches, 0
         f"6 3 {local_var(2)} 1 902", # try_for_range, :item, 1, 902
         f"1570 2 {local_var(3)} {local_var(2)}", # item_get_type, :type, :item
@@ -571,10 +502,10 @@ def run():
         f"948 1 {v_obj_1} "
         f"729 2 1 500 730 2 1 600 926 2 {v_obj_1} 1 "
         f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_hungary'])} "
-        f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_wallachia'])} "
-        f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_ottoman'])} "
-        f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_croatia'])} "
         f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_moldavia'])} "
+        f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_ottoman'])} "
+        f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_wallachia'])} "
+        f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_croatia'])} "
         f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_undead'])} "
         f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_burned'])} "
         f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_putrid'])} "
@@ -587,14 +518,14 @@ def run():
         f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_women'])} "
         f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_manhunters'])} "
         f"931 2 {v_obj_1} {qstr(existing_qs['qstr_tree_outlaws'])} "
-        f"2112 3 {v_tree_sel} 0 16 "
+        f"2112 3 {v_tree_sel} 0 17 "
         f"927 2 {v_obj_1} {v_tree_sel} "
-        f"1 2 {idx_prsnt_culture_troop_tree} {v_tree_sel}"
+        f"1 2 {script_id(idx_prsnt_culture_troop_tree)} {v_tree_sel}"
     )
     
     p1_t1 = make_trigger(-62.0,
         f"2071 1 {local_var(0)} 2072 1 {local_var(1)} 2124 1 1000 "
-        f"4 0 31 2 {local_var(0)} {v_obj_1} 2133 2 {v_tree_sel} {local_var(1)} 900 1 {idx_prsnt_troop_tree} "
+        f"4 0 31 2 {local_var(0)} {v_obj_1} 2133 2 {v_tree_sel} {local_var(1)} 900 1 {prsnt_id(idx_prsnt_troop_tree)} "
         f"5 0 31 2 {local_var(0)} {v_obj_21} 902 1 0 "
         f"5 0 "
         f"520 3 {local_var(2)} {id_trp_temp_c} 100 2105 2 {local_var(2)} 1 2133 2 {local_var(3)} 0 "
@@ -603,7 +534,7 @@ def run():
         f"540 3 {id_trp_temp_c} {local_var(4)} {local_var(0)} "
         f"520 3 {local_var(3)} {id_trp_temp_b} {local_var(4)} "
         f"3 0 "
-        f"32 2 {local_var(3)} 0 2133 2 {v_temp} {local_var(3)} 2133 2 {v_next_prsnt} {idx_prsnt_troop_tree} 900 1 {idx_prsnt_troop_note} "
+        f"32 2 {local_var(3)} 0 2133 2 {v_temp} {local_var(3)} 2133 2 {v_next_prsnt} {prsnt_id(idx_prsnt_troop_tree)} 900 1 {prsnt_id(idx_prsnt_troop_note)} "
         f"3 0"
     )
     
@@ -615,13 +546,13 @@ def run():
     # 2) prsnt_troop_note
     p2_t0 = make_trigger(-60.0,
         f"902 1 999999 2124 1 1000 "
-        f"1 3 {idx_copy_inventory} {v_temp} {id_trp_temp_a} "
+        f"1 3 {script_id(idx_copy_inventory)} {v_temp} {id_trp_temp_a} "
         f"6 3 {local_var(0)} 0 10 "
         f"1541 3 {local_var(1)} {id_trp_temp_a} {local_var(0)} "
         f"32 2 {local_var(1)} -1 1530 2 {id_trp_temp_a} {local_var(1)} 1543 3 {id_trp_temp_a} {local_var(0)} -1 3 0 "
         f"940 2 {v_obj_1} {qstr(existing_qs['qstr_done'])} "
         f"729 2 1 885 730 2 1 30 926 2 {v_obj_1} 1 "
-        f"1 2 {idx_get_max_hp} {v_temp} 2171 2 {reg(1)} {v_temp} 2322 2 1 {v_temp} "
+        f"1 2 {script_id(idx_get_max_hp)} {v_temp} 2171 2 {reg(1)} {v_temp} 2322 2 1 {v_temp} "
         f"910 3 {reg(2)} {qstr(existing_qs['qstr_troop_note_name_lvl'])} 0 "
         f"729 2 1 150 730 2 1 640 926 2 {reg(2)} 1 "
         f"729 2 1 1400 730 2 1 1400 925 2 {reg(2)} 1 "
@@ -648,7 +579,7 @@ def run():
         f"6 3 {local_var(5)} 0 16 "
         f"1541 3 {local_var(6)} {v_temp} {local_var(5)} "
         f"4 0 32 2 {local_var(6)} -1 "
-        f"911 2 {reg(7)} {id_mesh_mp_inventory_choose} "
+        f"911 2 {reg(7)} {mesh_id(id_mesh_mp_inventory_choose)} "
         f"729 2 1 600 730 2 1 600 925 2 {reg(7)} 1 "
         f"729 2 1 {local_var(3)} 730 2 1 {local_var(4)} 926 2 {reg(7)} 1 "
         f"944 2 {reg(8)} {local_var(6)} "
@@ -674,13 +605,12 @@ def run():
     # 3) prsnt_all_items (Clean UI: Category combo box on right panel, centered pagination, left-aligned title)
     p3_t0 = make_trigger(-60.0,
         f"902 1 999999 2124 1 1000 "
-        f"1 2 {idx_all_items_populate} {v_cat} "
+        f"1 2 {script_id(idx_all_items_populate)} {v_cat} "
         f"520 3 {local_var(0)} {id_trp_temp_c} 0 "
         f"2120 3 {local_var(1)} {local_var(0)} 55 2108 2 {local_var(1)} 56 "
         f"2111 2 {local_var(1)} 1 "
-        f"2121 3 {local_var(2)} {local_var(1)} 1 "
-        f"2112 3 {v_page} 0 {local_var(2)} "
-        f"911 2 {reg(1)} {id_mesh_load_window} 729 2 1 0 730 2 1 0 926 2 {reg(1)} 1 "
+        f"2112 3 {v_page} 0 {local_var(1)} "
+        f"911 2 {reg(1)} {mesh_id(id_mesh_load_window)} 729 2 1 0 730 2 1 0 926 2 {reg(1)} 1 "
         # Title: top left at (40, 665), left justified (0)
         f"910 3 {reg(1)} {qstr(existing_qs['qstr_all_items_title'])} 0 "
         f"729 2 1 40 730 2 1 665 926 2 {reg(1)} 1 "
@@ -722,13 +652,14 @@ def run():
         f"6 3 {local_var(7)} 0 8 "
         f"2122 3 {local_var(8)} {v_page} 56 2105 2 {local_var(8)} {local_var(5)} 2105 2 {local_var(8)} 1 "
         f"520 3 {local_var(9)} {id_trp_temp_c} {local_var(8)} "
-        f"911 2 {reg(1)} {id_mesh_mp_inventory_choose} "
+        f"911 2 {reg(1)} {mesh_id(id_mesh_mp_inventory_choose)} "
         f"729 2 1 640 730 2 1 640 925 2 {reg(1)} 1 "
         f"729 2 1 {local_var(3)} 730 2 1 {local_var(4)} 926 2 {reg(1)} 1 "
         f"500 3 {id_trp_temp_a} {local_var(5)} {reg(1)} "
         f"500 3 {id_trp_temp_b} {local_var(5)} {local_var(9)} "
+        f"2120 3 {local_var(12)} {local_var(5)} 60 500 3 {id_trp_temp_a} {local_var(12)} 0 "
         f"4 0 32 2 {local_var(9)} 0 "
-        f"944 2 {reg(2)} {local_var(9)} "
+        f"944 2 {reg(2)} {local_var(9)} 500 3 {id_trp_temp_a} {local_var(12)} {reg(2)} "
         f"729 2 1 800 730 2 1 800 925 2 {reg(2)} 1 "
         f"2120 3 {local_var(10)} {local_var(3)} 40 2120 3 {local_var(11)} {local_var(4)} 40 "
         f"729 2 1 {local_var(10)} 730 2 1 {local_var(11)} 926 2 {reg(2)} 1 "
@@ -738,7 +669,7 @@ def run():
         # Right Preview Panel
         f"4 0 2147483680 2 {v_sel_item} 0 "
         f"520 3 {v_sel_item} {id_trp_temp_b} 1 3 0 "
-        f"911 2 {reg(1)} {id_mesh_mp_inventory_choose} "
+        f"911 2 {reg(1)} {mesh_id(id_mesh_mp_inventory_choose)} "
         f"729 2 1 1800 730 2 1 1800 925 2 {reg(1)} 1 "
         f"729 2 1 730 730 2 1 340 926 2 {reg(1)} 1 "
         f"4 0 32 2 {v_sel_item} 0 "
@@ -746,7 +677,7 @@ def run():
         f"729 2 1 2400 730 2 1 2400 925 2 {reg(2)} 1 "
         f"729 2 1 840 730 2 1 450 926 2 {reg(2)} 1 "
         f"2325 2 1 {v_sel_item} "
-        f"910 3 {reg(3)} {str_id(1)} 16 "
+        f"910 3 {reg(3)} {qstr(6)} 16 "
         f"729 2 1 840 730 2 1 300 926 2 {reg(3)} 1 "
         f"940 2 {v_get_btn} {qstr(existing_qs['qstr_get_item'])} "
         f"729 2 1 780 730 2 1 220 926 2 {v_get_btn} 1 3 0"
@@ -756,27 +687,29 @@ def run():
         f"2071 1 {local_var(0)} 2072 1 {local_var(1)} "
         f"4 0 31 2 {local_var(1)} 0 "
         f"6 3 {local_var(2)} 1 57 "
-        f"540 3 {id_trp_temp_a} {local_var(2)} {local_var(0)} "
+        f"2120 3 {local_var(4)} {local_var(2)} 60 "
+        f"4 0 1073741855 3 {id_trp_temp_a} {local_var(2)} {local_var(0)} 540 3 {id_trp_temp_a} {local_var(4)} {local_var(0)} "
         f"520 3 {local_var(3)} {id_trp_temp_b} {local_var(2)} "
         f"4 0 32 2 {local_var(3)} 0 "
-        f"972 4 {local_var(3)} {v_imod} 0 100 "
+        f"946 2 0 {local_var(0)} 972 4 {local_var(3)} {v_imod} 0 100 "
         f"2133 2 {v_tooltip_slot} {local_var(2)} "
-        f"3 0 3 0 "
+        f"3 0 3 0 3 0 "
         f"5 0 "
         f"6 3 {local_var(2)} 1 57 "
-        f"540 3 {id_trp_temp_a} {local_var(2)} {local_var(0)} "
+        f"2120 3 {local_var(4)} {local_var(2)} 60 "
+        f"4 0 1073741855 3 {id_trp_temp_a} {local_var(2)} {local_var(0)} 540 3 {id_trp_temp_a} {local_var(4)} {local_var(0)} "
         f"4 0 31 2 {v_tooltip_slot} {local_var(2)} 971 0 3 0 "
-        f"3 0 3 0"
+        f"3 0 3 0 3 0"
     )
     
     p3_t2 = make_trigger(-62.0,
         f"2071 1 {local_var(0)} 2072 1 {local_var(1)} "
         f"4 0 31 2 {local_var(0)} {v_cat_sel} "
-        f"2133 2 {v_cat} {local_var(1)} 2133 2 {v_page} 0 2133 2 {v_sel_item} 0 900 1 {idx_prsnt_all_items} "
+        f"2133 2 {v_cat} {local_var(1)} 2133 2 {v_page} 0 2133 2 {v_sel_item} 0 900 1 {prsnt_id(idx_prsnt_all_items)} "
         f"5 0 31 2 {local_var(0)} {v_prev_btn} "
-        f"2106 2 {v_page} 1 2111 2 {v_page} 0 900 1 {idx_prsnt_all_items} "
+        f"2106 2 {v_page} 1 2111 2 {v_page} 0 900 1 {prsnt_id(idx_prsnt_all_items)} "
         f"5 0 31 2 {local_var(0)} {v_next_btn} "
-        f"2105 2 {v_page} 1 900 1 {idx_prsnt_all_items} "
+        f"2105 2 {v_page} 1 900 1 {prsnt_id(idx_prsnt_all_items)} "
         f"5 0 31 2 {local_var(0)} {v_done_btn} "
         f"902 1 0 "
         f"5 0 31 2 {local_var(0)} {v_get_btn} "
@@ -786,12 +719,13 @@ def run():
         f"1106 1 {qstr(existing_qs['qstr_added_item'])} 3 0 "
         f"5 0 "
         f"6 3 {local_var(2)} 1 57 "
-        f"540 3 {id_trp_temp_a} {local_var(2)} {local_var(0)} "
+        f"2120 3 {local_var(4)} {local_var(2)} 60 "
+        f"4 0 1073741855 3 {id_trp_temp_a} {local_var(2)} {local_var(0)} 540 3 {id_trp_temp_a} {local_var(4)} {local_var(0)} "
         f"520 3 {local_var(3)} {id_trp_temp_b} {local_var(2)} "
         f"4 0 32 2 {local_var(3)} 0 "
         f"2133 2 {v_sel_item} {local_var(3)} "
-        f"900 1 {idx_prsnt_all_items} 3 0 "
-        f"3 0 "
+        f"900 1 {prsnt_id(idx_prsnt_all_items)} 3 0 "
+        f"3 0 3 0 "
         f"3 0"
     )
     
@@ -829,11 +763,11 @@ def run():
             ("qstr_get_item", "获取该装备"),
             ("qstr_added_item", "已将 {s1} 放入背包。"),
             ("qstr_page_str", "第 {reg0} / {reg1} 页 (共 {reg2} 件物品)"),
-            ("qstr_tree_hungary", "摩拉维亚王国 (匈牙利)"),
+            ("qstr_tree_hungary", "匈牙利王国"),
             ("qstr_tree_wallachia", "瓦拉几亚公国"),
             ("qstr_tree_ottoman", "奥斯曼帝国"),
             ("qstr_tree_croatia", "克罗地亚王国"),
-            ("qstr_tree_moldavia", "摩尔多瓦公国"),
+            ("qstr_tree_moldavia", "摩尔达维亚公国"),
             ("qstr_tree_undead", "死灵：普通丧尸"),
             ("qstr_tree_burned", "死灵：火焚丧尸"),
             ("qstr_tree_putrid", "死灵：腐烂丧尸"),
@@ -866,13 +800,34 @@ def run():
         ]
         cns_updated = False
         for k, v in cns_additions:
-            if k not in existing_cns:
-                cns_lines.append(f"{k}|{v}\r\n")
-                cns_updated = True
+            cns_lines = [l for l in cns_lines if not l.startswith(k + "|")]
+            cns_lines.append(f"{k}|{v}\r\n")
+            cns_updated = True
         if cns_updated:
             with open(cns_csv, "w", encoding="utf-8") as f:
                 f.writelines(cns_lines)
             print("Updated languages/cns/quick_strings.csv with Chinese localizations.")
+
+    # 7. Update menus.txt with tagged presentation references
+    menus_path = os.path.join(MODULE_DIR, "menus.txt")
+    with open(menus_path, "r", encoding="latin1") as f:
+        menus_content = f.read()
+    
+    # Tag mno_troop_tree_viewer and mno_all_items
+    import re
+    menus_content = re.sub(
+        r'(mno_troop_tree_viewer\s+\d+\s+[^\.]+\.\s+1\s+900\s+1\s+)\d+',
+        r'\g<1>' + str(prsnt_id(idx_prsnt_troop_tree)),
+        menus_content
+    )
+    menus_content = re.sub(
+        r'(mno_all_items\s+\d+\s+[^\.]+\.\s+\d+\s+2133\s+2\s+\d+\s+0\s+900\s+1\s+)\d+',
+        r'\g<1>' + str(prsnt_id(idx_prsnt_all_items)),
+        menus_content
+    )
+    with open(menus_path, "w", encoding="latin1") as f:
+        f.write(menus_content)
+    print("Updated menus.txt with tagged presentation references.")
 
     print("ALL INSTALLATION COMPLETED SUCCESSFULLY!")
 

@@ -1346,51 +1346,51 @@ qstr_{s3}_{s5}|{s3}、 {s5}
 qstr_{reg20?We_mostly_pro|我们这 {reg20?里盛产 {s5}:些日子里没出产什么}。如果你想了解更多，你可以找我们的 {reg4?商会会长:村庄长老} 说话。他就在附近，就在那边。 
 qstr_Phoenix_Fire|菲尼克斯之火 
 qstr_Moon_Tooth_takes_his|月牙捉住它了！ qstr_faction_troop_tree|兵种升级树
-qstr_view_troop_trees|查看兵种升级树
-qstr_view_all_items|查看所有装备物品
-qstr_all_items_title|装备与物品查看器
-qstr_done|完成 / 返回
-qstr_prev_page|< 前一页
-qstr_next_page|后一页 >
-qstr_get_item|获取该装备
-qstr_added_item|已将 {s1} 放入玩家物品栏。
-qstr_page_str|第 {reg0} / {reg1} 页 (共 {reg2} 件物品)
-qstr_tree_hungary|匈牙利王国
-qstr_tree_moldavia|摩尔达维亚公国
-qstr_tree_ottoman|奥斯曼帝国
-qstr_tree_wallachia|瓦拉几亚公国
-qstr_tree_croatia|克罗地亚王国
-qstr_tree_undead|死灵/普通丧尸
-qstr_tree_burned|烈焰丧尸
-qstr_tree_putrid|腐烂丧尸
-qstr_tree_preserved|不朽防腐丧尸
-qstr_tree_demons|恶魔军团
-qstr_tree_brollachan|暗影异形
-qstr_tree_golem|魔像傀儡
-qstr_tree_outlaws|强盗与不法之徒
-qstr_tree_commoners|平民与雇佣军
-qstr_tree_manhunters|赏金猎人
-qstr_tree_women|难民与女剑士
-qstr_cat_all|全部装备与物品
-qstr_cat_horses|战马坐骑
-qstr_cat_1h|单手武器
-qstr_cat_2h|双手武器
-qstr_cat_polearms|长杆武器
-qstr_cat_bows|弓
-qstr_cat_arrows|箭矢
-qstr_cat_crossbows|弩
-qstr_cat_bolts|弩矢
-qstr_cat_thrown|投掷武器
-qstr_cat_shields|盾牌
-qstr_cat_helmets|头盔防具
-qstr_cat_armor|身体铠甲
-qstr_cat_boots|腿部防具
-qstr_cat_gloves|手套防具
-qstr_cat_firearms|火器与弹药
-qstr_cat_goods|商品与书籍
 qstr_troop_note_name_lvl|姓名: {s1}^等级: {reg1}^生命值: {reg0}
 qstr_troop_note_attr|基础属性:^力量: {reg1}^智力: {reg2}^^技能:^强击: {reg3}^强弓: {reg4}^强掷: {reg5}^骑射: {reg6}^^武器熟练度:^单手武器: {reg7}^双手武器: {reg8}^长杆武器: {reg9}
 qstr_troop_note_attr2|敏捷: {reg1}^魅力: {reg2}^^盾防: {reg3}^跑动: {reg4}^骑术: {reg5}^^弓箭: {reg6}^弩箭: {reg7}^投掷: {reg8}
 qstr_troop_note_equip|装备清单:
 qstr_faction_troop_tree|阵营兵种升级树
+qstr_view_troop_trees|查看兵种升级树
+qstr_view_all_items|查看全部装备与物品
+qstr_all_items_title|装备与物品查看器
+qstr_done|完成 / 返回
+qstr_prev_page|< 上一页
+qstr_next_page|下一页 >
+qstr_get_item|获取该装备
+qstr_added_item|已将 {s1} 放入背包。
+qstr_page_str|第 {reg0} / {reg1} 页 (共 {reg2} 件物品)
+qstr_tree_hungary|匈牙利王国
+qstr_tree_wallachia|瓦拉几亚公国
+qstr_tree_ottoman|奥斯曼帝国
+qstr_tree_croatia|克罗地亚王国
+qstr_tree_moldavia|摩尔达维亚公国
+qstr_tree_undead|死灵：普通丧尸
+qstr_tree_burned|死灵：火焚丧尸
+qstr_tree_putrid|死灵：腐烂丧尸
+qstr_tree_preserved|死灵：防腐丧尸
+qstr_tree_demons|死灵：恶魔与毁灭者
+qstr_tree_brollachan|死灵：暗影造物
+qstr_tree_golem|死灵：魔偶与血肉机
+qstr_tree_commoners|雇佣平民与民兵
 qstr_tree_townsmen|雇佣城镇工人与剑士
+qstr_tree_women|难民与女剑客姐妹
+qstr_tree_manhunters|赏金猎人与猎奴首领
+qstr_tree_outlaws|盗匪与绿林好汉
+qstr_cat_all|全部装备与物品
+qstr_cat_horses|战马与坐骑
+qstr_cat_1h|单手武器
+qstr_cat_2h|双手武器
+qstr_cat_polearms|长杆武器
+qstr_cat_bows|弓类武器
+qstr_cat_arrows|箭矢弹药
+qstr_cat_crossbows|弩类武器
+qstr_cat_bolts|弩矢弹药
+qstr_cat_thrown|投掷武器
+qstr_cat_shields|盾牌装备
+qstr_cat_helmets|头部防具
+qstr_cat_armor|身体铠甲
+qstr_cat_boots|腿部防具
+qstr_cat_gloves|手套防具
+qstr_cat_firearms|火器与弹药
+qstr_cat_goods|商品与书籍
