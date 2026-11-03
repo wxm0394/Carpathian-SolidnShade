@@ -1392,3 +1392,5 @@ qstr_troop_note_name_lvl|姓名: {s1}^等级: {reg1}^生命值: {reg0}
 qstr_troop_note_attr|基础属性:^力量: {reg1}^智力: {reg2}^^技能:^强击: {reg3}^强弓: {reg4}^强掷: {reg5}^骑射: {reg6}^^武器熟练度:^单手武器: {reg7}^双手武器: {reg8}^长杆武器: {reg9}
 qstr_troop_note_attr2|敏捷: {reg1}^魅力: {reg2}^^盾防: {reg3}^跑动: {reg4}^骑术: {reg5}^^弓箭: {reg6}^弩箭: {reg7}^投掷: {reg8}
 qstr_troop_note_equip|装备清单:
+qstr_faction_troop_tree|阵营兵种升级树
+qstr_tree_townsmen|雇佣城镇工人与剑士

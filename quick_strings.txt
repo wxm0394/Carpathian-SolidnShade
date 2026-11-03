@@ -1,4 +1,4 @@
-1427
+1428
 qstr_Next_Page Next_Page
 qstr_Candidate_#1:_{s1} Candidate_#1:_{s1}
 qstr_Candidate_#2:_{s1} Candidate_#2:_{s1}
@@ -1426,3 +1426,4 @@ qstr_troop_note_name_lvl Name:_{s1}^Level:_{reg1}^HP:_{reg0}
 qstr_troop_note_attr Attributes:^STR:_{reg1}^INT:_{reg2}^^Skills:^Power_Strike:_{reg3}^Power_Draw:_{reg4}^Power_Throw:_{reg5}^Horse_Archery:_{reg6}^^Proficiencies:^1_Hand:_{reg7}^2_Hand:_{reg8}^Polearms:_{reg9}
 qstr_troop_note_attr2 AGI:_{reg1}^CHA:_{reg2}^^Shield:_{reg3}^Athletics:_{reg4}^Riding:_{reg5}^^Archery:_{reg6}^Crossbow:_{reg7}^Throwing:_{reg8}
 qstr_troop_note_equip Equipment:
+qstr_tree_townsmen Townsmen_&_Mercenaries
