@@ -7,3 +7,4 @@
 .DS_Store
 Thumbs.db
 .backup_cns_orig/
+*.orig_pre_viewers

@@ -1274,3 +1274,16 @@ g_hp_hud_blind
 fief_selected
 lord_selected
 g_player_faction_last_marshal_appointment
+g_faction_troop_tree_sel
+g_all_items_category
+g_all_items_page
+g_all_items_sel_item
+g_all_items_imod
+g_all_items_qty
+g_all_items_cat_selector
+g_all_items_prev_btn
+g_all_items_next_btn
+g_all_items_get_btn
+g_all_items_done_btn
+g_all_items_tooltip_slot
+g_all_items_quality_selector
