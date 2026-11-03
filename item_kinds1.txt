@@ -2321,9 +2321,10 @@ itemsfile version 3
  0
 0
 
- itm_brollachanhead Brollachan_Head Brollachan_Head 1  Brollachan 0  2684358668 0 142 704643236 0.000000 100 44 0 0 7 0 0 0 0 0 0 0
+ itm_brollachanhead Brollachan_Head Brollachan_Head 1  SWHead 0  2684358668 0 142 704643236 0.000000 100 44 0 0 7 0 0 0 0 0 0 0
  0
-0
+1
+-50.000000  2 1955 3 0 0 15 1965 1 1008806316530991150 
 
  itm_shadowsword Shadow_Sword Shadow_Sword 1  Shadowsword 0  549453826 9223388529822793743 210 24596 2.500000 100 0 0 0 8 61440 96 0 73 0 301 60
  0
@@ -3417,9 +3418,10 @@ itemsfile version 3
  0
 0
 
- itm_tartarushead The_Black_Pit_of_Tartarus The_Black_Pit_of_Tartarus 1  Tartarus 0  2684358668 0 1 704643238 55.000000 10 125 0 0 0 0 0 0 0 0 0 0
+ itm_tartarushead The_Black_Pit_of_Tartarus The_Black_Pit_of_Tartarus 1  SWHead 0  2684358668 0 1 704643238 55.000000 10 125 0 0 0 0 0 0 0 0 0 0
  0
-0
+1
+-50.000000  2 1955 3 0 0 15 1965 1 1008806316530991150 
 
  itm_invisibilityscarf Scarf_of_Invisibility Scarf_of_Invisibility 2  InvisModel 0  woolen_hood 1152921504606846976  2684358668 0 8888 123731968 1.000000 100 40 0 0 0 0 0 0 0 0 0 0
  0
