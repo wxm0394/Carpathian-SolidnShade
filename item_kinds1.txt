@@ -2699,11 +2699,11 @@ itemsfile version 3
  0
 0
 
- itm_necrohelm6 Shadowlord's_Aura Shadowlord's_Aura 1  Necrohelm6 0  2684354572 0 142 704643236 0.000000 100 33 0 0 7 0 0 0 0 0 0 0
+ itm_necrohelm6 Shadowlord's_Aura Shadowlord's_Aura 1  SWHead 0  2684354572 0 142 704643236 0.000000 100 33 0 0 7 0 0 0 0 0 0 0
  0
 0
 
- itm_necroarmor6 Shadowlord's_Projection Shadowlord's_Projection 1  Necroarmor6 0  553648141 0 3680 704643236 0.000000 100 0 56 18 7 0 0 0 0 0 0 0
+ itm_necroarmor6 Shadowlord's_Projection Shadowlord's_Projection 1  SWBody 0  553648141 0 3680 704643236 0.000000 100 0 56 18 7 0 0 0 0 0 0 0
  0
 0
 
@@ -3283,7 +3283,7 @@ itemsfile version 3
  0
 0
 
- itm_poehead Poe's_Lore Poe's_Lore 1  PoeHead 0  2684354572 0 568 704643236 0.000000 100 66 0 0 7 0 0 0 0 0 0 0
+ itm_poehead Poe's_Lore Poe's_Lore 1  SWHead 0  2684354572 0 568 704643236 0.000000 100 66 0 0 7 0 0 0 0 0 0 0
  0
 0
 
