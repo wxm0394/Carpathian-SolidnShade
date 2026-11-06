@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 911
+918
 spr_bloodfountain 0 0 BloodFountain bo_BloodFountain 1
 -40.000000  1 600 1 24 
 
@@ -2784,3 +2784,23 @@ spr_obstacle_fallen_tree_a 0 0 destroy_tree_a bo_destroy_tree_a 0
 spr_obstacle_fallen_tree_b 0 0 destroy_tree_b bo_destroy_tree_b 0
 
 
+
+spr_blood1 0 0 blood_spray1 0 0
+
+
+spr_blood2 0 0 blood_spray2 0 0
+
+
+spr_blood3 0 0 blood_spray3 0 0
+
+
+spr_blood_hit 0 0 blood_spray 0 0
+
+
+spr_blood_hit2 0 0 blood_spray_2 0 0
+
+
+spr_head_dynamic_male 327680 0 cut_off_head_male_dynamic bo_cut_off_head_dynamic 0
+
+
+spr_head_dynamic_female 327680 0 cut_off_head_female_dynamic bo_cut_off_head_dynamic 0

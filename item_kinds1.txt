@@ -1,5 +1,5 @@
 itemsfile version 3
-902
+903
  itm_no_item INVALID_ITEM INVALID_ITEM 1  practice_sword 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
  0
 0
@@ -3647,3 +3647,6 @@ itemsfile version 3
  0
 0
 
+ itm_neck Headless Headless 1  neck 0  65552 0 0 0 4.000000 0 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0

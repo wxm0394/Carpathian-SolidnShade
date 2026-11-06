@@ -1,5 +1,5 @@
 soundsfile version 3
-448
+452
  Drip.ogg 257
  tutorial_1.ogg 1793
  tutorial_2.ogg 1793
@@ -448,7 +448,11 @@ soundsfile version 3
  Wind.ogg 2177
  arena_loop11.ogg 899
  Wind4.ogg 899
-232
+decap1.ogg 2960
+decap2.ogg 2960
+decap3.ogg 2960
+decap4.ogg 2960
+233
 snd_click 257 1 0 0 
 snd_tutorial_1 1793 1 1 0 
 snd_tutorial_2 1793 1 2 0 
@@ -681,3 +685,4 @@ snd_distant_carpenter 897 2 30 0 31 0
 snd_distant_blacksmith 1153 2 30 0 31 0 
 snd_arena_ambiance 899 1 446 0 
 snd_town_ambiance 899 3 445 0 447 0 29 0 
+snd_decapitation 2960 4 448 0 449 0 450 0 451 0
