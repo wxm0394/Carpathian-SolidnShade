@@ -73,6 +73,7 @@ def parse_items(mod_dir):
     declared = int(non_empty[1][1])
     items = []
     p = 2
+    format_errors = []
     while p < len(non_empty):
         orig_ln, s = non_empty[p]
         toks = s.split()
@@ -88,14 +89,26 @@ def parse_items(mod_dir):
                 "raw_line_idx": orig_ln,
                 "flag_tok_idx": flag_tok_idx,
             })
-            p += 2
-            if p < len(non_empty) and re.match(r"^\d+$", non_empty[p][1]):
+            p += 1
+            # Check simple triggers count line
+            if p >= len(non_empty) or not non_empty[p][1].isdigit():
+                format_errors.append(f"行 {orig_ln+1} [{toks[0]}]: 缺失 simple_triggers 计数行")
+            else:
+                num_trigs = int(non_empty[p][1])
+                p += 1 + num_trigs * 2
+            # Check factions count line
+            if p >= len(non_empty) or not non_empty[p][1].isdigit():
+                format_errors.append(f"行 {orig_ln+1} [{toks[0]}]: 缺失 factions 计数行")
+            else:
                 fk = int(non_empty[p][1])
                 p += 1 + (1 if fk > 0 else 0)
-            while p < len(non_empty) and not non_empty[p][1].startswith("itm_"):
-                p += 1
         else:
+            format_errors.append(f"行 {orig_ln+1}: 意外非 itm_ 开头行 '{s[:30]}'")
             p += 1
+    if format_errors:
+        print("[严重格式错误] item_kinds1.txt 语法不合法:")
+        for err in format_errors[:5]:
+            print("  -", err)
     return declared, items, raw_lines
 
 
