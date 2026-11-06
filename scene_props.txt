@@ -1,5 +1,5 @@
 scene_propsfile version 1
-918
+ 998
 spr_bloodfountain 0 0 BloodFountain bo_BloodFountain 1
 -40.000000  1 600 1 24 
 
@@ -2804,3 +2804,243 @@ spr_head_dynamic_male 327680 0 cut_off_head_male_dynamic bo_cut_off_head_dynamic
 
 
 spr_head_dynamic_female 327680 0 cut_off_head_female_dynamic bo_cut_off_head_dynamic 0
+spr_ado_fantasy_beacon_pillar 0 0 ado_fantasy_beacon_pillar bo_ado_fantasy_beacon_pillar 0
+
+
+spr_ado_fantasy_castle 0 0 ado_fantasy_castle bo_ado_fantasy_castle 0
+
+
+spr_ado_fantasy_gatehouse 0 0 ado_fantasy_gatehouse bo_ado_fantasy_gatehouse 0
+
+
+spr_ado_fantasy_house_long 0 0 ado_fantasy_house_long bo_ado_fantasy_house_long 0
+
+
+spr_ado_fantasy_house_small 0 0 ado_fantasy_house_small bo_ado_fantasy_house_small 0
+
+
+spr_ado_fantasy_platform_octagon 0 0 ado_fantasy_platform_octagon bo_ado_fantasy_platform_octagon 0
+
+
+spr_ado_fantasy_platform_small_stone 0 0 ado_fantasy_platform_small_stone bo_ado_fantasy_platform_small_stone 0
+
+
+spr_ado_fantasy_temple 0 0 ado_fantasy_temple bo_ado_fantasy_temple 0
+
+
+spr_ado_fantasy_temple2 0 0 ado_fantasy_temple2 bo_ado_fantasy_temple2 0
+
+
+spr_ado_fantasy_temple_base 0 0 ado_fantasy_temple_base bo_ado_fantasy_temple_base 0
+
+
+spr_ado_fantasy_tower 0 0 ado_fantasy_tower bo_ado_fantasy_tower 0
+
+
+spr_ado_fantasy_wall_large 0 0 ado_fantasy_wall_large bo_ado_fantasy_wall_large 0
+
+
+spr_ado_fantasy_wall_large_arrow_slits 0 0 ado_fantasy_wall_large_arrow_slits bo_ado_fantasy_wall_large_arrow_slits 0
+
+
+spr_ado_fantasy_wall_large_bend 0 0 ado_fantasy_wall_large_bend bo_ado_fantasy_wall_large_bend 0
+
+
+spr_ado_fantasy_wall_large_corner 0 0 ado_fantasy_wall_large_corner bo_ado_fantasy_wall_large_corner 0
+
+
+spr_ado_fantasy_wall_large_stairs 0 0 ado_fantasy_wall_large_stairs bo_ado_fantasy_wall_large_stairs 0
+
+
+spr_ado_fantasy_wall_large_stairs_right 0 0 ado_fantasy_wall_large_stairs_right bo_ado_fantasy_wall_large_stairs_right 0
+
+
+spr_ado_fantasy_wall_small 0 0 ado_fantasy_wall_small bo_ado_fantasy_wall_small 0
+
+
+spr_ado_fantasy_wall_small_corner 0 0 ado_fantasy_wall_small_corner bo_ado_fantasy_wall_small_corner 0
+
+
+spr_ado_fantasy_wall_small_decay 0 0 ado_fantasy_wall_small_decay bo_ado_fantasy_wall_small_decay 0
+
+
+spr_ado_fantasy_wall_small_decay2 0 0 ado_fantasy_wall_small_decay2 bo_ado_fantasy_wall_small_decay2 0
+
+
+spr_ado_fantasy_wall_small_gate 0 0 ado_fantasy_wall_small_gate bo_ado_fantasy_wall_small_gate 0
+
+
+spr_ado_fantasy_wall_stone_regular_gate 0 0 ado_fantasy_wall_stone_regular_gate bo_ado_fantasy_wall_stone_regular_gate 0
+
+
+spr_ado_fantasy_wall_stone_regular_pillar 0 0 ado_fantasy_wall_stone_regular_pillar bo_ado_fantasy_wall_stone_regular_pillar 0
+
+
+spr_basket_big 0 0 basket_large 0 0
+
+
+spr_cave_entrance_1 0 0 cave_entrance_1 bo_cave_entrance_1 0
+
+
+spr_chariot 0 0 chariot bo_chariot 0
+
+
+spr_city_swad_01 0 0 city_swad_01 bo_city_swad_01 0
+
+
+spr_city_swad_02 0 0 city_swad_02 bo_city_swad_02 0
+
+
+spr_city_swad_04 0 0 city_swad_04 bo_city_swad_04 0
+
+
+spr_city_swad_05 0 0 city_swad_05 bo_city_swad_05 0
+
+
+spr_crystal1 0 0 crystal1 bo_crystal1 0
+
+
+spr_crystal3 0 0 crystal3 bo_crystal3 0
+
+
+spr_crystal4 0 0 crystal4 bo_crystal4 0
+
+
+spr_crystal5 0 0 crystal5 bo_crystal5 0
+
+
+spr_crystal6 0 0 crystal6 bo_crystal6 0
+
+
+spr_dye_blue 0 0 raw_dye_blue 0 0
+
+
+spr_dye_red 0 0 raw_dye_red 0 0
+
+
+spr_dye_yellow 0 0 raw_dye_yellow 0 0
+
+
+spr_flax_bundle 0 0 raw_flax 0 0
+
+
+spr_lava 0 0 lava 0 0
+
+
+spr_leatherwork_frame 0 0 leatherwork_frame 0 0
+
+
+spr_mill_flour_sack_desk_b 0 0 mill_flour_sack_desk_b bo_mill_flour_sack_desk_b 0
+
+
+spr_mine_a 0 0 mine_a bo_mine_a 0
+
+
+spr_mushroom2 0 0 mushroom2 bo_mushroom2 0
+
+
+spr_mushroom4 0 0 mushroom4 bo_mushroom4 0
+
+
+spr_mushroom5 0 0 mushroom5 bo_mushroom5 0
+
+
+spr_rock1 0 0 rock1 bo_rock1 0
+
+
+spr_rock3 0 0 rock3 bo_rock3 0
+
+
+spr_rock4 0 0 rock4 bo_rock4 0
+
+
+spr_rock5 0 0 rock5 bo_rock5 0
+
+
+spr_rock6 0 0 rock6 bo_rock6 0
+
+
+spr_rock7 0 0 rock7 bo_rock7 0
+
+
+spr_rock_a 0 0 rock_a bo_rock_a 0
+
+
+spr_rock_b 0 0 rock_b bo_rock_b 0
+
+
+spr_rock_bridge_a 0 0 rock_bridge_a bo_rock_bridge_a 0
+
+
+spr_rock_c 0 0 rock_c bo_rock_c 0
+
+
+spr_rock_d 0 0 rock_d bo_rock_d 0
+
+
+spr_rock_e 0 0 rock_e bo_rock_e 0
+
+
+spr_rock_f 0 0 rock_f bo_rock_f 0
+
+
+spr_rock_g 0 0 rock_g bo_rock_g 0
+
+
+spr_rock_h 0 0 rock_h bo_rock_h 0
+
+
+spr_rock_i 0 0 rock_i bo_rock_i 0
+
+
+spr_rock_k 0 0 rock_k bo_rock_k 0
+
+
+spr_rock_l 0 0 rock_l bo_rock_l 0
+
+
+spr_rock_m 0 0 rock_m bo_rock_m 0
+
+
+spr_rock_n 0 0 rock_n bo_rock_n 0
+
+
+spr_rock_o 0 0 rock_o bo_rock_o 0
+
+
+spr_rock_p 0 0 rock_p bo_rock_p 0
+
+
+spr_roman_temple_new_a 0 0 roman_temple_new_a bo_roman_temple_new_a 0
+
+
+spr_small_wall_f 0 0 small_wall_f bo_small_wall_f 0
+
+
+spr_smithy_anvil 0 0 smithy_anvil bo_smithy_anvil 0
+
+
+spr_smithy_grindstone_wheel 0 0 smithy_grindstone_wheel bo_smithy_grindstone_wheel 0
+
+
+spr_weavery_dye_pool_y 0 0 weavery_dye_pool_y bo_weavery_dye_pool_y 0
+
+
+spr_well_shaft 0 0 well_shaft bo_well_shaft 0
+
+
+spr_winery_barrel_shelf 0 0 winery_barrel_shelf bo_winery_barrel_shelf 0
+
+
+spr_winery_huge_barrel 0 0 winery_huge_barrel bo_winery_huge_barrel 0
+
+
+spr_winery_middle_barrel 0 0 winery_middle_barrel bo_winery_middle_barrel 0
+
+
+spr_winery_wall_shelf 0 0 winery_wall_shelf bo_winery_wall_shelf 0
+
+
+spr_winery_wine_cart_loaded 0 0 winery_wine_cart_loaded bo_winery_wine_cart_loaded 0
+
+

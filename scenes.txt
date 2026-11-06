@@ -156,7 +156,7 @@ scn_training_ground_ranged_melee_5 training_ground_ranged_melee_5 256 none none 
   0 
   1  819 
  outer_terrain_plain 
-scn_zendar_center zendar_center 257 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+scn_zendar_center zendar_center 257 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000040000c910003e8fa0000538900003e9e00005301
   0 
   1  797 
  outer_terrain_plain_1 
