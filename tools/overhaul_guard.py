@@ -90,18 +90,18 @@ def parse_items(mod_dir):
                 "flag_tok_idx": flag_tok_idx,
             })
             p += 1
-            # Check simple triggers count line
+            # 1. Factions count line (Warband process_items.py writes factions FIRST)
+            if p >= len(non_empty) or not non_empty[p][1].isdigit():
+                format_errors.append(f"行 {orig_ln+1} [{toks[0]}]: 缺失 factions 计数行")
+            else:
+                num_factions = int(non_empty[p][1])
+                p += 1 + (1 if num_factions > 0 else 0)
+            # 2. Simple triggers count line (Warband process_items.py writes triggers SECOND)
             if p >= len(non_empty) or not non_empty[p][1].isdigit():
                 format_errors.append(f"行 {orig_ln+1} [{toks[0]}]: 缺失 simple_triggers 计数行")
             else:
                 num_trigs = int(non_empty[p][1])
-                p += 1 + num_trigs * 2
-            # Check factions count line
-            if p >= len(non_empty) or not non_empty[p][1].isdigit():
-                format_errors.append(f"行 {orig_ln+1} [{toks[0]}]: 缺失 factions 计数行")
-            else:
-                fk = int(non_empty[p][1])
-                p += 1 + (1 if fk > 0 else 0)
+                p += 1 + num_trigs
         else:
             format_errors.append(f"行 {orig_ln+1}: 意外非 itm_ 开头行 '{s[:30]}'")
             p += 1
