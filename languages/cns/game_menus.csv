@@ -3967,20 +3967,20 @@ mno_fallenclose_continue|好……
 menu_fallen_found|黑男爵叫停了整支队伍——就是这里！那位反英雄陨落之地……
 mno_fallenfound_continue|太好了！
 menu_scene_viewer|场景查看器与实机展厅：你可以随时传送进入任意聚落与地下秘境进行实机核查。在场景中按 TAB 随时原路返回本菜单。
-mno_sv_to_redlist|1. 【红名单】S&S 机制聚落场景（34 座聚落 / 35 个红名单场景，换皮重点排查）...
-mno_sv_to_secrets|2. S&S 专属大地图秘境与隐藏维度（盐矿/大巧匠/巴特镇/迷宫/鲸腹/罗宾汉等 24 处）...
-mno_sv_to_towns|3. 1521 历史城镇街道漫步（18 座历史首府与商埠街道）...
-mno_sv_to_castles|4. 1521 历史要塞与城堡领主大厅（40 座边境要塞）...
-mno_sv_to_villages|5. 1521 历史村庄与平原乡野（90 个聚落外景）...
+mno_sv_to_redlist|2. 【红名单】S&S 机制聚落场景（34 座聚落 / 35 个红名单场景，换皮重点排查）...
+mno_sv_to_secrets|4. 【异次元秘境】大地图隐藏维度（发条盐洞/巴特镇/迷宫/鲸腹/罗宾汉等）...
+mno_sv_to_towns|6. 1521 历史城镇街道漫步（18 座历史首府与商埠街道）...
+mno_sv_to_castles|7. 1521 历史要塞与城堡领主大厅（40 座边境要塞）...
+mno_sv_to_villages|8. 1521 历史村庄与平原乡野（90 个聚落外景）...
 mno_sv_main_back|返回报告菜单 / 营地界面。
 menu_sv_redlist|【红名单】S&S 专属机制聚落场景专区：这 35 个场景包含硬编码的机关物件、暗门或特殊出生点，替换场景前必须核查！
 mno_sv_rl_go_towns|1. 城镇红名单场景（12 座城镇 / 13 个场景：贝尔格莱德街道/酒馆、布达杂货铺、萨格勒布监狱等）...
 mno_sv_rl_go_castles|2. 城堡红名单场景（5 座要塞：斯梅代雷沃蛇桩、布兰/胡内多阿拉/维丁大厅等）...
 mno_sv_rl_go_vil1|3. 村庄红名单场景 第一部分（9 个村庄：利姆诺斯波塞冬神殿、哈采格象棋塔、切佩尔等）...
 mno_sv_rl_go_vil2|4. 村庄红名单场景 第二部分（8 个村庄：科兹洛杜伊冥府大门、斯纳戈夫金甲虫、图尔努等）...
-mno_sv_rl_go_all_p1|5. 顺序遍历全 35 个红名单场景（第 1-18 项：城镇与城堡）...
+mno_sv_rl_go_all_p1|5. 顺序遍历全 35 个红名单场景（全 4 页无缝走查）...
 mno_sv_rl_go_all_p2|6. 顺序遍历全 35 个红名单场景（第 19-35 项：全部村庄）...
-mno_sv_rl_back_hub|返回场景查看器主目录。
+mno_sv_rl_back_hub|【返回场景查看器主目录】
 mno_sv_rlt_1|1. 贝尔格莱德街道_(Belgrade_Center) 【机制: 隐藏小木箱】
 mno_sv_rlt_2|2. 贝尔格莱德酒馆_(Belgrade_Tavern) 【机制: 暗门与出生点16】
 mno_sv_rlt_3|3. 布达杂货铺_(Buda_Store) 【机制: 阿芒提拉多酒桶 spr_caskofamontillado】
@@ -4001,7 +4001,7 @@ mno_sv_rlc_2|2. 斯梅代雷沃要塞外景_(Smederevo_Exterior) 【机制: 蛇�
 mno_sv_rlc_3|3. 布兰城堡大厅_(Bran_Hall) 【机制: 特殊出生点3】
 mno_sv_rlc_4|4. 胡内多阿拉城堡大厅_(Hunedoara_Hall) 【机制: 特殊出生点3】
 mno_sv_rlc_5|5. 维丁城堡大厅_(Vidin_Hall) 【机制: 特殊出生点3】
-mno_sv_rlc_back|返回红名单专区分类菜单。
+mno_sv_rlc_back|【返回红名单分类菜单】
 menu_sv_rl_castles|红名单城堡要塞场景（共 5 处）：点击即可立即传送进入实机巡查，按 TAB 键原路返回。
 mno_sv_rlv1_1|1. 切佩尔村庄_(Csepel) 【机制: 警长的箭 + 隐藏小木箱】
 mno_sv_rlv1_2|2. 摩哈赤村庄_(Mohacs) 【机制: 特殊出生点5】
@@ -4013,7 +4013,7 @@ mno_sv_rlv1_7|7. 利姆诺斯爱琴海岛村_(Limnos) 【机制: 海神波塞冬
 mno_sv_rlv1_8|8. 罗日尼亚瓦村庄_(Roznava) 【机制: 特殊出生点6, 7】
 mno_sv_rlv1_9|9. 加拉茨村庄_(Galati) 【机制: 暗门出口】
 mno_sv_rlv1_next|下一页：村庄红名单 第二部分...
-mno_sv_rlv1_back|返回红名单专区分类菜单。
+mno_sv_rlv1_back|【返回红名单分类菜单】
 menu_sv_rl_vil1|红名单村庄场景 第一部分（9 处）：包含波塞冬神殿、象棋塔、警长之箭等特殊机关。
 mno_sv_rlv2_1|1. 科兹洛杜伊多瑙河村_(Kozloduy) 【机制: 冥府大门与冥河渡船】
 mno_sv_rlv2_2|2. 斯纳戈夫村庄_(Snagov) 【机制: 金甲虫 spr_goldbug】
@@ -4024,7 +4024,7 @@ mno_sv_rlv2_6|6. 锡利斯特拉村庄_(Silistra) 【机制: 特殊出生点5】
 mno_sv_rlv2_7|7. 曼加利亚黑海村庄_(Mangalia) 【机制: 隐藏小木箱】
 mno_sv_rlv2_8|8. 布勒伊拉多瑙河村_(Braila) 【机制: 隐藏小木箱】
 mno_sv_rlv2_prev|上一页：村庄红名单 第一部分...
-mno_sv_rlv2_back|返回红名单专区分类菜单。
+mno_sv_rlv2_back|【返回红名单分类菜单】
 menu_sv_rl_vil2|红名单村庄场景 第二部分（8 处）：包含冥府大门与冥河渡船、金甲虫、安娜贝尔墓碑等。
 mno_sv_rla1_1|[01] 贝尔格莱德街道_(Belgrade_Center) (隐藏小木箱)
 mno_sv_rla1_2|[02] 贝尔格莱德酒馆_(Belgrade_Tavern) (暗门与出生点16)
@@ -4046,7 +4046,7 @@ mno_sv_rla1_17|[17] 胡内多阿拉城堡大厅_(Hunedoara_Hall) (特殊出生�
 mno_sv_rla1_18|[18] 维丁城堡大厅_(Vidin_Hall) (特殊出生点3)
 mno_sv_rla1_next|下一页：全部红名单场景 第 19-35 项...
 mno_sv_rla1_back|返回红名单总目录。
-menu_sv_rl_all_p1|红名单全场景顺序走查 第 1 页（第 1-18 项：13 座城镇与 5 座要塞）
+menu_sv_rl_all_p1|红名单全场景走查 第 1 页 (01-09: 城镇街景与酒馆)
 mno_sv_rla2_19|[19] 切佩尔村庄_(Csepel) (警长的箭 + 隐藏小木箱)
 mno_sv_rla2_20|[20] 摩哈赤村庄_(Mohacs) (特殊出生点5)
 mno_sv_rla2_21|[21] 哈采格村庄_(Hateg) (国际象棋塔 spr_ChessTower)
@@ -4066,22 +4066,22 @@ mno_sv_rla2_34|[34] 曼加利亚黑海村庄_(Mangalia) (隐藏小木箱)
 mno_sv_rla2_35|[35] 布勒伊拉多瑙河村_(Braila) (隐藏小木箱)
 mno_sv_rla2_prev|上一页：全部红名单场景 第 1-18 项...
 mno_sv_rla2_back|返回红名单总目录。
-menu_sv_rl_all_p2|红名单全场景顺序走查 第 2 页（第 19-35 项：全部 17 座村庄）
-mno_sv_sec1_1|1. 废弃盐矿大地图入口_(Salt_Mine)
-mno_sv_sec1_2|2. 发条大巧匠深层盐洞_(Clockwork_Salt_Cave)
-mno_sv_sec1_3|3. 巴特镇以物易物黑市_(Barter_Town)
-mno_sv_sec1_4|4. 巴特镇地窖酒馆_(Barter_Town_Cellar)
-mno_sv_sec1_5|5. 古物奇珍陈列博物馆_(Ancient_Museum)
-mno_sv_sec1_6|6. 克里特童话迷宫_(Cretan_Labyrinth)
-mno_sv_sec1_7|7. 噩梦立方体维度_(Nightmare_Realm)
-mno_sv_sec1_8|8. 利维坦巨鲸腹内决战场_(Whalebelly)
+menu_sv_rl_all_p2|红名单全场景走查 第 2 页 (10-18: 城镇与全部城堡)
+mno_sv_sec1_1|1. 喀尔巴阡废弃盐矿 (scn_salt_mine)
+mno_sv_sec1_2|2. 大巧匠发条盐洞 (scn_salt_cave)
+mno_sv_sec1_3|3. 巴特镇黑市地面 (scn_barter_town)
+mno_sv_sec1_4|4. 巴特镇地下走私地窖 (scn_barter_town_cellar)
+mno_sv_sec1_5|5. 古物博物馆 (22幅秘境挂毯大厅) (scn_museum)
+mno_sv_sec1_6|6. 克里特牛头人迷宫 (scn_cretanlabyrinth)
+mno_sv_sec1_7|7. 噩梦维度 (scn_nightmarerealm)
+mno_sv_sec1_8|8. 利维坦鲸腹 (scn_whalebelly)
 mno_sv_sec1_9|9. 命运三女神死灵地牢_(Necropolis_Fates)
 mno_sv_sec1_10|10. 妖精国度与换子秘境_(Fairy_Realm)
 mno_sv_sec1_11|11. 波佐尼多瑙河罗宾汉森林_(Sherwood_Forest)
 mno_sv_sec1_12|12. 火烧诺丁汉警长大厦_(Sheriff_Residence_Burning)
-mno_sv_sec1_next|下一页：S&S 秘境维度 第 13-24 处...
-mno_sv_sec1_back|返回场景查看器主目录。
-menu_sv_secrets_1|S&S 专属大地图秘境与隐藏维度 第一部分（12 处）：盐矿、发条盐洞、巴特镇、童话迷宫、噩梦维度、鲸腹等。
+mno_sv_sec1_next|下一页：S&S 秘境维度 第 9-19 处...
+mno_sv_sec1_back|【返回场景查看器主目录】
+menu_sv_secrets_1|S&S 专属大地图秘境与隐藏维度 第一部分（8 处）：盐矿、发条盐洞、巴特镇、迷宫、噩梦维度、鲸腹等。
 mno_sv_sec2_13|13. 象牙神殿_(Ivory_Temple)
 mno_sv_sec2_14|14. 故园庄园外景_(Hiraeth_Homestead)
 mno_sv_sec2_15|15. 故园庄园室内居所_(Homestead_Interior)
@@ -4094,27 +4094,27 @@ mno_sv_sec2_21|21. 曾扎尔快乐公猪酒馆_(The_Happy_Boar)
 mno_sv_sec2_22|22. 四路客栈大地图外景_(Four_Ways_Inn)
 mno_sv_sec2_23|23. 四路客栈私酿酒窖_(Four_Ways_Inn_Cellar)
 mno_sv_sec2_24|24. 五大酷刑场一号试验地_(Torture_Field_1)
-mno_sv_sec2_prev|上一页：S&S 秘境维度 第 1-12 处...
-mno_sv_sec2_back|返回场景查看器主目录。
-menu_sv_secrets_2|S&S 专属大地图秘境与隐藏维度 第二部分（12 处）：象牙神殿、故园庄园、持心者之墓、旧曾扎尔、快乐公猪酒馆等。
-mno_sv_tw_1|1. 特尔戈维什特街道_(Targoviste)
-mno_sv_tw_2|2. 布加勒斯特/贝尔格莱德街道_(Bucharest/Belgrade)
-mno_sv_tw_3|3. 锡比乌街道_(Sibiu)
-mno_sv_tw_4|4. 佩奇街道_(Pecs)
-mno_sv_tw_5|5. 克卢日街道_(Kolozsvar)
-mno_sv_tw_6|6. 布达街道_(Buda)
-mno_sv_tw_7|7. 贝尔格莱德要塞街道_(Belgrade_Fortress)
-mno_sv_tw_8|8. 苏恰瓦街道_(Suceava)
-mno_sv_tw_9|9. 雅西街道_(Jassy)
-mno_sv_tw_10|10. 君士坦丁堡大都市街道_(Constantinople)
-mno_sv_tw_11|11. 霍京街道_(Hotin)
-mno_sv_tw_12|12. 布勒伊拉街道_(Braila)
-mno_sv_tw_13|13. 阿克曼街道_(Akkerman)
-mno_sv_tw_14|14. 埃迪尔内街道_(Edirne)
-mno_sv_tw_15|15. 萨格勒布街道_(Zagreb)
-mno_sv_tw_16|16. 塞格德街道_(Szeged)
-mno_sv_tw_17|17. 索菲亚街道_(Sofia)
-mno_sv_tw_18|18. 萨洛尼卡港口街道_(Salonika)
+mno_sv_sec2_prev|上一页：S&S 秘境维度 第 1-8 处...
+mno_sv_sec2_back|【返回场景查看器主目录】
+menu_sv_secrets_2|S&S 专属大地图秘境与隐藏维度 第二部分（11 处）：绿陨石、妖精国度、罗宾汉绿林、厄舍古宅、故园、象牙神殿等。
+mno_sv_tw_1|1. Targoviste (塔尔戈维什泰)
+mno_sv_tw_2|2. Bucuresti (布加勒斯特)
+mno_sv_tw_3|3. Sibiu / Hermannstadt (锡比乌)
+mno_sv_tw_4|4. Pecs (佩奇)
+mno_sv_tw_5|5. Kolozsvar / Klausenburg (克劳森堡)
+mno_sv_tw_6|6. Buda (布达首府)
+mno_sv_tw_7|7. Belgrade / Nandorfehervar (贝尔格莱德)
+mno_sv_tw_8|8. Suceava (苏恰瓦)
+mno_sv_tw_9|9. Iasi / Jassy (雅西)
+mno_sv_tw_10|10. Konstantiniyye (君士坦丁堡)
+mno_sv_tw_11|11. Hotin / Chocim (霍京)
+mno_sv_tw_12|12. Constanta / Tomis (康斯坦察)
+mno_sv_tw_13|13. Varna (瓦尔纳)
+mno_sv_tw_14|14. Edirne / Adrianople (埃迪尔内)
+mno_sv_tw_15|15. Zagreb / Agram (萨格勒布)
+mno_sv_tw_16|16. Szeged (塞格德)
+mno_sv_tw_17|17. Sofya / Sofia (索非亚)
+mno_sv_tw_18|18. Selanik / Salonika (萨洛尼卡)
 mno_sv_tw_back|返回场景查看器主目录。
 menu_sv_towns_list|1521 历史城镇街道展厅（全 18 座城市街道外景）：实机漫步巡查。
 mno_sv_cas1_1|1. 城堡要塞外景 scn_castle_1_exterior
@@ -4139,7 +4139,7 @@ mno_sv_cas1_19|19. 城堡要塞外景 scn_castle_19_exterior
 mno_sv_cas1_20|20. 城堡要塞外景 scn_castle_20_exterior
 mno_sv_cas1_next|下一页：城堡要塞 第 21-40 座...
 mno_sv_cas1_back|返回场景查看器主目录。
-menu_sv_castles_p1|1521 历史要塞与城堡 第一部分（第 1-20 座城堡外景巡查）
+menu_sv_castles_p1|1521 历史城堡要塞 第 1 页 (01-10)
 mno_sv_cas2_21|21. 城堡要塞外景 scn_castle_21_exterior
 mno_sv_cas2_22|22. 城堡要塞外景 scn_castle_22_exterior
 mno_sv_cas2_23|23. 城堡要塞外景 scn_castle_23_exterior
@@ -4162,7 +4162,7 @@ mno_sv_cas2_39|39. 城堡要塞外景 scn_castle_39_exterior
 mno_sv_cas2_40|40. 城堡要塞外景 scn_castle_40_exterior
 mno_sv_cas2_prev|上一页：城堡要塞 第 1-20 座...
 mno_sv_cas2_back|返回场景查看器主目录。
-menu_sv_castles_p2|1521 历史要塞与城堡 第二部分（第 21-40 座城堡外景巡查）
+menu_sv_castles_p2|1521 历史城堡要塞 第 2 页 (11-20)
 mno_sv_vil_1|1. 村庄场景 scn_village_1
 mno_sv_vil_2|2. 村庄场景 scn_village_2
 mno_sv_vil_3|3. 村庄场景 scn_village_3
@@ -4183,7 +4183,7 @@ mno_sv_vil_17|17. 村庄场景 scn_village_17
 mno_sv_vil_18|18. 村庄场景 scn_village_18
 mno_sv_vil_p1_next|下一页村庄列表...
 mno_sv_vil_p1_back|返回场景查看器主目录。
-menu_sv_villages_p1|1521 历史村庄聚落 第 1 部分（第 1-18 个村庄场景巡查）
+menu_sv_villages_p1|1521 历史村庄聚落 第 1 页（第 1-10 个村庄场景巡查）
 mno_sv_vil_19|19. 村庄场景 scn_village_19
 mno_sv_vil_20|20. 村庄场景 scn_village_20
 mno_sv_vil_21|21. 村庄场景 scn_village_21
@@ -4205,7 +4205,7 @@ mno_sv_vil_36|36. 村庄场景 scn_village_36
 mno_sv_vil_p2_prev|上一页村庄列表...
 mno_sv_vil_p2_next|下一页村庄列表...
 mno_sv_vil_p2_back|返回场景查看器主目录。
-menu_sv_villages_p2|1521 历史村庄聚落 第 2 部分（第 19-36 个村庄场景巡查）
+menu_sv_villages_p2|1521 历史村庄聚落 第 2 页（第 11-20 个村庄场景巡查）
 mno_sv_vil_37|37. 村庄场景 scn_village_37
 mno_sv_vil_38|38. 村庄场景 scn_village_38
 mno_sv_vil_39|39. 村庄场景 scn_village_39
@@ -4227,7 +4227,7 @@ mno_sv_vil_54|54. 村庄场景 scn_village_54
 mno_sv_vil_p3_prev|上一页村庄列表...
 mno_sv_vil_p3_next|下一页村庄列表...
 mno_sv_vil_p3_back|返回场景查看器主目录。
-menu_sv_villages_p3|1521 历史村庄聚落 第 3 部分（第 37-54 个村庄场景巡查）
+menu_sv_villages_p3|1521 历史村庄聚落 第 3 页（第 21-30 个村庄场景巡查）
 mno_sv_vil_55|55. 村庄场景 scn_village_55
 mno_sv_vil_56|56. 村庄场景 scn_village_56
 mno_sv_vil_57|57. 村庄场景 scn_village_57
@@ -4249,7 +4249,7 @@ mno_sv_vil_72|72. 村庄场景 scn_village_72
 mno_sv_vil_p4_prev|上一页村庄列表...
 mno_sv_vil_p4_next|下一页村庄列表...
 mno_sv_vil_p4_back|返回场景查看器主目录。
-menu_sv_villages_p4|1521 历史村庄聚落 第 4 部分（第 55-72 个村庄场景巡查）
+menu_sv_villages_p4|1521 历史村庄聚落 第 4 页（第 31-40 个村庄场景巡查）
 mno_sv_vil_73|73. 村庄场景 scn_village_73
 mno_sv_vil_74|74. 村庄场景 scn_village_74
 mno_sv_vil_75|75. 村庄场景 scn_village_75
@@ -4270,6 +4270,225 @@ mno_sv_vil_89|89. 村庄场景 scn_village_89
 mno_sv_vil_90|90. 村庄场景 scn_village_90
 mno_sv_vil_p5_prev|上一页村庄列表...
 mno_sv_vil_p5_back|返回场景查看器主目录。
-menu_sv_villages_p5|1521 历史村庄聚落 第 5 部分（第 73-90 个村庄场景巡查）
+menu_sv_villages_p5|1521 历史村庄聚落 第 5 页（第 41-50 个村庄场景巡查）
 mno_scene_viewer|查看场景与特殊地点（场景查看器）
 mno_camp_scene_viewer|探索场景与特殊地点（场景查看器）
+mno_sv_to_undead|1. ★【亡灵城与冥府维度】厄瑞玻斯·冥府之门（含全部 9 个嵌套子场景）...
+mno_sv_to_dungeons|3. 【地下城与密室】聚落地下墓穴/秘密地窖/圣物室（布达/雅西/埃迪尔内等）...
+mno_sv_to_zendar_inn|5. 【旧曾扎尔与四方客栈】古典废墟与快乐公猪客栈复合体...
+mno_sv_uc_center|亡灵城·中心广场与主街道 (scn_town_19_center) 【机制: 喷血池/拉斯普京/筛盐场】
+mno_sv_uc_castle|亡灵城·领主大厅 (scn_town_19_castle) 【机制: 万魔之父堤丰王座】
+mno_sv_uc_tavern|亡灵城·冥府酒馆 (scn_town_19_tavern) 【机制: 亡灵之饮与死灵客】
+mno_sv_uc_store|亡灵城·死灵工坊与商铺 (scn_town_19_store) 【机制: 棉花糖坩埚】
+mno_sv_uc_arena|亡灵城·冥府角斗场 (scn_town_19_arena) 【机制: 白骨决斗】
+mno_sv_uc_prison|亡灵城·冥府地牢 (scn_town_19_prison) 【机制: 冥河死囚牢】
+mno_sv_uc_walls|亡灵城·攻城防线城墙 (scn_town_19_walls) 【机制: 亡灵城防体系】
+mno_sv_uc_alley|亡灵城·暗巷街道 (scn_town_19_alley) 【机制: 潜行暗巷】
+mno_sv_uc_fates|冥府腹地·命运三女神神殿 (scn_necropolis_fates) 【机制: 死灵飞升圣地】
+menu_sv_undead_city|【亡灵城与冥府之门】厄瑞玻斯 (The Unknown / Town 19) 实机展厅：S&S 第六阵营亡灵之都。包含中心广场喷血池、万魔之父堤丰王座大厅、冥府酒馆、棉花糖坩埚工坊、白骨决斗角斗场、冥河死囚牢、城防城墙与命运三女神殿。按 TAB 键原路返回。
+mno_sv_uc_back|【返回场景查看器主目录】
+mno_sv_rl_go_towns_p1|1. 城镇红名单场景（12 座城镇 / 13 个场景：贝尔格莱德街道/酒馆、布达杂货铺、萨格勒布监狱等）...
+mno_rlt_1|贝尔格莱德街道 (Belgrade) 【机制: 箱子与出生点】
+mno_rlt_2|贝尔格莱德酒馆 (Belgrade) 【机制: 密道与 16 号出生点】
+mno_rlt_3|布达杂货铺 (Buda) 【机制: 阿蒙蒂亚度酒桶暗道】
+mno_rlt_4|克劳森堡街道 (Kolozsvar) 【机制: 箱子与出生点】
+mno_rlt_5|萨格勒布地牢 (Zagreb) 【机制: 第 13 级台阶暗门】
+mno_rlt_6|布拉索夫酒馆 (Kronstadt) 【机制: 第 13 级台阶暗门】
+mno_rlt_7|康斯坦察街道 (Braila) 【机制: 8 号特殊出生点】
+menu_sv_rl_towns_p1|红名单城镇场景 第 1 页（共 7 处）：点击即可立即传送进入实机巡查，按 TAB 键原路返回。
+mno_sv_rlt1_back|【返回红名单分类菜单】
+mno_sv_rlt1_next|下一页：城镇红名单 第 8-13 项...
+mno_rlt_8|瓦尔纳街道 (Akkerman) 【机制: 8 号特殊出生点】
+mno_rlt_9|尼什街道 (Edirne) 【机制: 大箱子】
+mno_rlt_10|索非亚领主大厅 (Sofia) 【机制: 第 13 级台阶暗门】
+mno_rlt_11|普罗夫迪夫街道 (Szeged) 【机制: 8 号特殊出生点】
+mno_rlt_12|埃迪尔内酒馆 (Edirne) 【机制: 被窃的信件】
+mno_rlt_13|君士坦丁堡街道 (Constantinople) 【机制: 维纳斯暗门】
+menu_sv_rl_towns_p2|红名单城镇场景 第 2 页（共 6 处）：点击即可立即传送进入实机巡查，按 TAB 键原路返回。
+mno_sv_rlt2_back|【返回红名单分类菜单】
+mno_sv_rlt2_prev|上一页：城镇红名单 第 1-7 项...
+mno_rlc_1|斯皮什要塞地牢 (Bran) 【机制: 1 号出生点】
+mno_rlc_2|斯梅代雷沃要塞 (Hotin) 【机制: 蛇假人与地牢口】
+mno_rlc_3|布兰城堡领主大厅 (Bran) 【机制: 3 号特殊出生点】
+mno_rlc_4|胡内多阿拉城堡领主大厅 (Hunedoara) 【机制: 3 号特殊出生点】
+mno_rlc_5|维丁城堡领主大厅 (Severin) 【机制: 3 号特殊出生点】
+mno_rlv1_1|切佩尔村 (Csepel) 【机制: 郡长之箭与箱子】
+mno_rlv1_2|摩哈赤村 (Mohacs) 【机制: 5 号特殊出生点】
+mno_rlv1_3|哈采格村 (Hateg) 【机制: 象棋塔机关】
+mno_rlv1_4|瓦兰诺村 (Varanno) 【机制: 5 号特殊出生点】
+mno_rlv1_5|多布拉村 (Dobra) 【机制: 5 号特殊出生点】
+mno_rlv1_6|托罗茨科村 (Rimetea) 【机制: 女巫小屋】
+mno_rlv1_7|利姆诺斯村 (Limnos) 【机制: 波塞冬神殿遗迹与海螺】
+mno_rlv1_8|克拉多沃村 (Kladovo) 【机制: 5 号特殊出生点】
+mno_rlv1_9|弗拉涅村 (Vranje) 【机制: 5 号特殊出生点】
+mno_rlv2_1|科兹洛杜伊村 (Kozloduy) 【机制: 冥府大门与冥河渡船】
+mno_rlv2_2|罗扎耶村 (Rozaje) 【机制: 5 号特殊出生点】
+mno_rlv2_3|斯特鲁米察村 (Strumica) 【机制: 5 号特殊出生点】
+mno_rlv2_4|卡瓦拉村 (Kavala) 【机制: 5 号特殊出生点】
+mno_rlv2_5|斯纳戈夫村 (Snagov) 【机制: 金甲虫机关】
+mno_rlv2_6|图尔努村 (Turnu) 【机制: 安娜贝尔墓碑】
+mno_rlv2_7|鲁塞村 (Ruse) 【机制: 5 号特殊出生点】
+mno_rlv2_8|拉兹格勒村 (Razgrad) 【机制: 5 号特殊出生点】
+mno_menu_sv_rl_all_p1_rlt_1|贝尔格莱德街道 (Belgrade) 【机制: 箱子与出生点】
+mno_menu_sv_rl_all_p1_rlt_2|贝尔格莱德酒馆 (Belgrade) 【机制: 密道与 16 号出生点】
+mno_menu_sv_rl_all_p1_rlt_3|布达杂货铺 (Buda) 【机制: 阿蒙蒂亚度酒桶暗道】
+mno_menu_sv_rl_all_p1_rlt_4|克劳森堡街道 (Kolozsvar) 【机制: 箱子与出生点】
+mno_menu_sv_rl_all_p1_rlt_5|萨格勒布地牢 (Zagreb) 【机制: 第 13 级台阶暗门】
+mno_menu_sv_rl_all_p1_rlt_6|布拉索夫酒馆 (Kronstadt) 【机制: 第 13 级台阶暗门】
+mno_menu_sv_rl_all_p1_rlt_7|康斯坦察街道 (Braila) 【机制: 8 号特殊出生点】
+mno_menu_sv_rl_all_p1_rlt_8|瓦尔纳街道 (Akkerman) 【机制: 8 号特殊出生点】
+mno_menu_sv_rl_all_p1_rlt_9|尼什街道 (Edirne) 【机制: 大箱子】
+mno_menu_sv_rl_all_p1_back|【返回红名单总目录】
+mno_menu_sv_rl_all_p1_next|下一页...
+mno_menu_sv_rl_all_p2_rlt_10|索非亚领主大厅 (Sofia) 【机制: 第 13 级台阶暗门】
+mno_menu_sv_rl_all_p2_rlt_11|普罗夫迪夫街道 (Szeged) 【机制: 8 号特殊出生点】
+mno_menu_sv_rl_all_p2_rlt_12|埃迪尔内酒馆 (Edirne) 【机制: 被窃的信件】
+mno_menu_sv_rl_all_p2_rlt_13|君士坦丁堡街道 (Constantinople) 【机制: 维纳斯暗门】
+mno_menu_sv_rl_all_p2_rlc_1|斯皮什要塞地牢 (Bran) 【机制: 1 号出生点】
+mno_menu_sv_rl_all_p2_rlc_2|斯梅代雷沃要塞 (Hotin) 【机制: 蛇假人与地牢口】
+mno_menu_sv_rl_all_p2_rlc_3|布兰城堡领主大厅 (Bran) 【机制: 3 号特殊出生点】
+mno_menu_sv_rl_all_p2_rlc_4|胡内多阿拉城堡领主大厅 (Hunedoara) 【机制: 3 号特殊出生点】
+mno_menu_sv_rl_all_p2_rlc_5|维丁城堡领主大厅 (Severin) 【机制: 3 号特殊出生点】
+mno_menu_sv_rl_all_p2_back|【返回红名单总目录】
+mno_menu_sv_rl_all_p2_prev|上一页...
+mno_menu_sv_rl_all_p2_next|下一页...
+mno_menu_sv_rl_all_p3_rlv1_1|切佩尔村 (Csepel) 【机制: 郡长之箭与箱子】
+mno_menu_sv_rl_all_p3_rlv1_2|摩哈赤村 (Mohacs) 【机制: 5 号特殊出生点】
+mno_menu_sv_rl_all_p3_rlv1_3|哈采格村 (Hateg) 【机制: 象棋塔机关】
+mno_menu_sv_rl_all_p3_rlv1_4|瓦兰诺村 (Varanno) 【机制: 5 号特殊出生点】
+mno_menu_sv_rl_all_p3_rlv1_5|多布拉村 (Dobra) 【机制: 5 号特殊出生点】
+mno_menu_sv_rl_all_p3_rlv1_6|托罗茨科村 (Rimetea) 【机制: 女巫小屋】
+mno_menu_sv_rl_all_p3_rlv1_7|利姆诺斯村 (Limnos) 【机制: 波塞冬神殿遗迹与海螺】
+mno_menu_sv_rl_all_p3_rlv1_8|克拉多沃村 (Kladovo) 【机制: 5 号特殊出生点】
+mno_menu_sv_rl_all_p3_rlv1_9|弗拉涅村 (Vranje) 【机制: 5 号特殊出生点】
+menu_sv_rl_all_p3|红名单全场景走查 第 3 页 (19-27: 村庄特殊机关 P1)
+mno_menu_sv_rl_all_p3_back|【返回红名单总目录】
+mno_menu_sv_rl_all_p3_prev|上一页...
+mno_menu_sv_rl_all_p3_next|下一页...
+mno_menu_sv_rl_all_p4_rlv2_1|科兹洛杜伊村 (Kozloduy) 【机制: 冥府大门与冥河渡船】
+mno_menu_sv_rl_all_p4_rlv2_2|罗扎耶村 (Rozaje) 【机制: 5 号特殊出生点】
+mno_menu_sv_rl_all_p4_rlv2_3|斯特鲁米察村 (Strumica) 【机制: 5 号特殊出生点】
+mno_menu_sv_rl_all_p4_rlv2_4|卡瓦拉村 (Kavala) 【机制: 5 号特殊出生点】
+mno_menu_sv_rl_all_p4_rlv2_5|斯纳戈夫村 (Snagov) 【机制: 金甲虫机关】
+mno_menu_sv_rl_all_p4_rlv2_6|图尔努村 (Turnu) 【机制: 安娜贝尔墓碑】
+mno_menu_sv_rl_all_p4_rlv2_7|鲁塞村 (Ruse) 【机制: 5 号特殊出生点】
+mno_menu_sv_rl_all_p4_rlv2_8|拉兹格勒村 (Razgrad) 【机制: 5 号特殊出生点】
+menu_sv_rl_all_p4|红名单全场景走查 第 4 页 (28-35: 村庄特殊机关 P2)
+mno_menu_sv_rl_all_p4_back|【返回红名单总目录】
+mno_menu_sv_rl_all_p4_prev|上一页...
+mno_sv_dg_buda|1. 布达地下墓穴 (scn_town_6_catacombs) 【机制: 藏骸所与骷髅秘道】
+mno_sv_dg_jassy|2. 雅西秘密地窖 (scn_town_9_basement) 【机制: 阿蒙蒂亚度酒桶】
+mno_sv_dg_edirne_rel|3. 埃迪尔内圣物室 (scn_town_14_reliquary) 【机制: 圣物陈列室】
+mno_sv_dg_edirne_nik|4. 埃迪尔内尼古拉地下圣所 (scn_town_14_reliquary_nikola) 【机制: 尼古拉密室】
+mno_sv_dg_vil67|5. 村庄隐者秘洞 (scn_village_67_cave) 【机制: 洞穴藏身处】
+mno_sv_dg_vil43|6. 村庄古代墓穴 (scn_village_43_tomb) 【机制: 地底墓穴】
+mno_sv_dg_dhorak|7. 多拉克要塞地宫 (scn_dhorak_keep) 【机制: 废弃古要塞】
+menu_sv_dungeons|【地下城与密室】聚落地下墓穴/秘密地窖/圣物室：布达地下墓穴、雅西阿蒙蒂亚度酒窖、埃迪尔内圣物室/尼古拉密室、村庄古代墓穴等隐藏空间。按 TAB 键原路返回。
+mno_sv_dg_back|【返回场景查看器主目录】
+mno_sv_sec2_1|9. 绿陨石坠落坑 (scn_greenmeteorite)
+mno_sv_sec2_2|10. 妖精国度 (scn_fairyrealm)
+mno_sv_sec2_3|11. 罗宾汉Pressburg绿林 (scn_sherwood)
+mno_sv_sec2_4|12. 盗贼密林营地 (scn_sherwood2)
+mno_sv_sec2_5|13. 厄舍庄园枯木林 (scn_village_4_usherwood)
+mno_sv_sec2_6|14. 厄舍庄园古宅室内 (scn_village_4_mansion)
+mno_sv_sec2_7|15. 故园庄园外景 (scn_homestead)
+mno_sv_sec2_8|16. 故园古宅室内 (scn_interior_homestead)
+mno_sv_sec2_9|17. 象牙神殿 (scn_ivory_temple)
+mno_sv_sec2_10|18. 堕落反英雄祭坛 (scn_fallenantihero)
+mno_sv_sec2_11|19. 持心者之墓 (scn_heartbearer_tomb)
+mno_sv_zi_center|1. 旧曾扎尔·城镇中心广场 (scn_zendar_center)
+mno_sv_zi_arena|2. 旧曾扎尔·古典角斗场 (scn_zendar_arena)
+mno_sv_zi_merchant|3. 旧曾扎尔·商铺市场 (scn_zendar_merchant)
+mno_sv_zi_reliquary|4. 旧曾扎尔·秘密圣物室 (scn_zendar_reliquary)
+mno_sv_zi_fwi|5. 四方客栈·外景 (scn_four_ways_inn)
+mno_sv_zi_boar|6. 四方客栈·快乐公猪酒馆 (scn_the_happy_boar)
+mno_sv_zi_cellar|7. 四方客栈·地下走私地窖 (scn_four_ways_inn_cellar)
+menu_sv_zendar_inn|【旧曾扎尔与四方客栈】古典废墟与快乐公猪客栈复合体：曾扎尔广场/角斗场/市场/圣物室，四方客栈外景/快乐公猪酒馆/地下地窖。按 TAB 原路返回。
+mno_sv_zi_back|【返回场景查看器主目录】
+menu_sv_towns_p1|1521 历史城镇街道展厅 第 1 页（第 1-9 座城市街道外景）：实机漫步巡查。
+mno_sv_tw1_back|【返回场景查看器主目录】
+mno_sv_tw1_next|下一页：城镇街道 第 10-18 座...
+menu_sv_towns_p2|1521 历史城镇街道展厅 第 2 页（第 10-18 座城市街道外景）：实机漫步巡查。
+mno_sv_tw2_back|【返回场景查看器主目录】
+mno_sv_tw2_prev|上一页：城镇街道 第 1-9 座...
+mno_sv_cas_1|1. 城堡要塞外景 scn_castle_1_exterior
+mno_sv_cas_2|2. 城堡要塞外景 scn_castle_2_exterior
+mno_sv_cas_3|3. 城堡要塞外景 scn_castle_3_exterior
+mno_sv_cas_4|4. 城堡要塞外景 scn_castle_4_exterior
+mno_sv_cas_5|5. 城堡要塞外景 scn_castle_5_exterior
+mno_sv_cas_6|6. 城堡要塞外景 scn_castle_6_exterior
+mno_sv_cas_7|7. 城堡要塞外景 scn_castle_7_exterior
+mno_sv_cas_8|8. 城堡要塞外景 scn_castle_8_exterior
+mno_sv_cas_9|9. 城堡要塞外景 scn_castle_9_exterior
+mno_sv_cas_10|10. 城堡要塞外景 scn_castle_10_exterior
+mno_menu_sv_castles_p1_back|【返回场景查看器主目录】
+mno_menu_sv_castles_p1_next|下一页城堡列表...
+mno_sv_cas_11|11. 城堡要塞外景 scn_castle_11_exterior
+mno_sv_cas_12|12. 城堡要塞外景 scn_castle_12_exterior
+mno_sv_cas_13|13. 城堡要塞外景 scn_castle_13_exterior
+mno_sv_cas_14|14. 城堡要塞外景 scn_castle_14_exterior
+mno_sv_cas_15|15. 城堡要塞外景 scn_castle_15_exterior
+mno_sv_cas_16|16. 城堡要塞外景 scn_castle_16_exterior
+mno_sv_cas_17|17. 城堡要塞外景 scn_castle_17_exterior
+mno_sv_cas_18|18. 城堡要塞外景 scn_castle_18_exterior
+mno_sv_cas_19|19. 城堡要塞外景 scn_castle_19_exterior
+mno_sv_cas_20|20. 城堡要塞外景 scn_castle_20_exterior
+mno_menu_sv_castles_p2_back|【返回场景查看器主目录】
+mno_menu_sv_castles_p2_prev|上一页城堡列表...
+mno_menu_sv_castles_p2_next|下一页城堡列表...
+mno_sv_cas_21|21. 城堡要塞外景 scn_castle_21_exterior
+mno_sv_cas_22|22. 城堡要塞外景 scn_castle_22_exterior
+mno_sv_cas_23|23. 城堡要塞外景 scn_castle_23_exterior
+mno_sv_cas_24|24. 城堡要塞外景 scn_castle_24_exterior
+mno_sv_cas_25|25. 城堡要塞外景 scn_castle_25_exterior
+mno_sv_cas_26|26. 城堡要塞外景 scn_castle_26_exterior
+mno_sv_cas_27|27. 城堡要塞外景 scn_castle_27_exterior
+mno_sv_cas_28|28. 城堡要塞外景 scn_castle_28_exterior
+mno_sv_cas_29|29. 城堡要塞外景 scn_castle_29_exterior
+mno_sv_cas_30|30. 城堡要塞外景 scn_castle_30_exterior
+menu_sv_castles_p3|1521 历史城堡要塞 第 3 页 (21-30)
+mno_menu_sv_castles_p3_back|【返回场景查看器主目录】
+mno_menu_sv_castles_p3_prev|上一页城堡列表...
+mno_menu_sv_castles_p3_next|下一页城堡列表...
+mno_sv_cas_31|31. 城堡要塞外景 scn_castle_31_exterior
+mno_sv_cas_32|32. 城堡要塞外景 scn_castle_32_exterior
+mno_sv_cas_33|33. 城堡要塞外景 scn_castle_33_exterior
+mno_sv_cas_34|34. 城堡要塞外景 scn_castle_34_exterior
+mno_sv_cas_35|35. 城堡要塞外景 scn_castle_35_exterior
+mno_sv_cas_36|36. 城堡要塞外景 scn_castle_36_exterior
+mno_sv_cas_37|37. 城堡要塞外景 scn_castle_37_exterior
+mno_sv_cas_38|38. 城堡要塞外景 scn_castle_38_exterior
+mno_sv_cas_39|39. 城堡要塞外景 scn_castle_39_exterior
+mno_sv_cas_40|40. 城堡要塞外景 scn_castle_40_exterior
+menu_sv_castles_p4|1521 历史城堡要塞 第 4 页 (31-40)
+mno_menu_sv_castles_p4_back|【返回场景查看器主目录】
+mno_menu_sv_castles_p4_prev|上一页城堡列表...
+mno_menu_sv_villages_p1_back|【返回场景查看器主目录】
+mno_menu_sv_villages_p1_next|下一页村庄列表...
+mno_menu_sv_villages_p2_back|【返回场景查看器主目录】
+mno_menu_sv_villages_p2_prev|上一页村庄列表...
+mno_menu_sv_villages_p2_next|下一页村庄列表...
+mno_menu_sv_villages_p3_back|【返回场景查看器主目录】
+mno_menu_sv_villages_p3_prev|上一页村庄列表...
+mno_menu_sv_villages_p3_next|下一页村庄列表...
+mno_menu_sv_villages_p4_back|【返回场景查看器主目录】
+mno_menu_sv_villages_p4_prev|上一页村庄列表...
+mno_menu_sv_villages_p4_next|下一页村庄列表...
+mno_menu_sv_villages_p5_back|【返回场景查看器主目录】
+mno_menu_sv_villages_p5_prev|上一页村庄列表...
+mno_menu_sv_villages_p5_next|下一页村庄列表...
+menu_sv_villages_p6|1521 历史村庄聚落 第 6 页（第 51-60 个村庄场景巡查）
+mno_menu_sv_villages_p6_back|【返回场景查看器主目录】
+mno_menu_sv_villages_p6_prev|上一页村庄列表...
+mno_menu_sv_villages_p6_next|下一页村庄列表...
+menu_sv_villages_p7|1521 历史村庄聚落 第 7 页（第 61-70 个村庄场景巡查）
+mno_menu_sv_villages_p7_back|【返回场景查看器主目录】
+mno_menu_sv_villages_p7_prev|上一页村庄列表...
+mno_menu_sv_villages_p7_next|下一页村庄列表...
+menu_sv_villages_p8|1521 历史村庄聚落 第 8 页（第 71-80 个村庄场景巡查）
+mno_menu_sv_villages_p8_back|【返回场景查看器主目录】
+mno_menu_sv_villages_p8_prev|上一页村庄列表...
+mno_menu_sv_villages_p8_next|下一页村庄列表...
+menu_sv_villages_p9|1521 历史村庄聚落 第 9 页（第 81-90 个村庄场景巡查）
+mno_menu_sv_villages_p9_back|【返回场景查看器主目录】
+mno_menu_sv_villages_p9_prev|上一页村庄列表...
