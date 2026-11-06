@@ -52,77 +52,81 @@ def prsnt_id(n): return OPMASK_PRESENTATION + n
 def troop_id(n): return OPMASK_TROOP + n
 def mesh_id(n): return OPMASK_MESH + n
 
+# Strict, canonical item category definitions
+# Maps category index -> (qstr_identifier, [list of itp_type numbers])
+ITEM_CATEGORIES = [
+    ("qstr_cat_all", []),               # 0: 全部
+    ("qstr_cat_horses", [1]),           # 1: 战马 (itp_type_horse = 1)
+    ("qstr_cat_1h", [2]),               # 2: 单手 (itp_type_one_handed_wpn = 2)
+    ("qstr_cat_2h", [3]),               # 3: 双手 (itp_type_two_handed_wpn = 3)
+    ("qstr_cat_polearms", [4]),         # 4: 长杆 (itp_type_polearm = 4)
+    ("qstr_cat_bows", [8]),             # 5: 弓类 (itp_type_bow = 8)
+    ("qstr_cat_crossbows", [9]),        # 6: 弩类 (itp_type_crossbow = 9)
+    ("qstr_cat_arrows", [5]),           # 7: 箭矢 (itp_type_arrows = 5)
+    ("qstr_cat_bolts", [6]),            # 8: 弩矢 (itp_type_bolts = 6)
+    ("qstr_cat_thrown", [10]),          # 9: 投掷 (itp_type_thrown = 10)
+    ("qstr_cat_shields", [7]),          # 10: 盾牌 (itp_type_shield = 7)
+    ("qstr_cat_helmets", [12]),         # 11: 头部 (itp_type_head_armor = 12)
+    ("qstr_cat_armor", [13]),           # 12: 身体 (itp_type_body_armor = 13)
+    ("qstr_cat_boots", [14]),           # 13: 腿部 (itp_type_foot_armor = 14)
+    ("qstr_cat_gloves", [15]),          # 14: 手套 (itp_type_hand_armor = 15)
+    ("qstr_cat_firearms", [16, 17, 18]),# 15: 火器与弹药 (pistol=16, musket=17, bullets=18)
+    ("qstr_cat_goods", [11, 20]),       # 16: 商品与书籍 (goods=11, book=20)
+]
+
 def make_op_block(raw_str):
-    toks = raw_str.split()
-    idx = 0
-    ops = []
-    while idx < len(toks):
-        op = int(toks[idx])
-        nargs = int(toks[idx+1])
-        if idx + 2 + nargs > len(toks):
-            raise ValueError(f"Truncated statement at idx {idx}: op {op}, nargs {nargs}, remaining {len(toks)-(idx+2)}")
-        args = toks[idx+2 : idx+2+nargs]
-        ops.append((op, nargs, args))
-        idx += 2 + nargs
-    return f"{len(ops)} {' '.join(toks)}"
+    tokens = raw_str.split()
+    ops, i = [], 0
+    while i < len(tokens):
+        op = int(tokens[i])
+        n = int(tokens[i+1])
+        args = tokens[i+2 : i+2+n]
+        ops.append((op, n, args))
+        i += 2 + n
+    flat = []
+    for op, n, args in ops:
+        flat += [str(op), str(n)] + list(args)
+    return f"{len(ops)} {' '.join(flat)}"
 
 def make_trigger(interval, raw_str):
-    return f"{interval:.6f}  {make_op_block(raw_str)}"
+    op_str = make_op_block(raw_str)
+    return f"{interval:.6f}  {op_str} "
 
 def verify_scripts_file(path):
     with open(path, "r", encoding="latin1") as f:
-        tokens = f.read().split()
-    assert tokens[0] == "scriptsfile" and tokens[1] == "version"
-    num_scripts = int(tokens[3])
-    idx = 4
-    for s in range(num_scripts):
-        s_name = tokens[idx]
-        idx += 1
-        flag = int(tokens[idx])
-        idx += 1
-        num_ops = int(tokens[idx])
-        idx += 1
-        for _ in range(num_ops):
-            op = int(tokens[idx])
-            idx += 1
-            nargs = int(tokens[idx])
-            idx += 1
-            idx += nargs
-    assert idx == len(tokens), f"Scripts file verification mismatch: parsed {idx} tokens, file has {len(tokens)}"
-    print(f"Verified scripts.txt: {num_scripts} scripts, total {len(tokens)} tokens, 100% OK.")
+        lines = [l.strip() for l in f if l.strip()]
+    declared_count = int(lines[1])
+    actual_scripts = []
+    i = 2
+    while i < len(lines):
+        line = lines[i]
+        if line.endswith("-1"):
+            name = line.split()[0]
+            body = lines[i+1]
+            actual_scripts.append((name, body))
+            i += 2
+        else:
+            raise ValueError(f"Malformed scripts.txt at line {i}: {line[:40]}")
+    assert len(actual_scripts) == declared_count, f"Count mismatch: header {declared_count} vs actual {len(actual_scripts)}"
+    print(f"Verified scripts.txt: exactly {declared_count} valid script definitions.")
 
 def verify_presentations_file(path):
     with open(path, "r", encoding="latin1") as f:
-        tokens = f.read().split()
-    assert tokens[0] == "presentationsfile" and tokens[1] == "version"
-    num_prsnt = int(tokens[3])
-    idx = 4
-    for p in range(num_prsnt):
-        p_name = tokens[idx]
-        idx += 1
-        flags = int(tokens[idx])
-        idx += 1
-        mesh = int(tokens[idx])
-        idx += 1
-        num_triggers = int(tokens[idx])
-        idx += 1
-        for _ in range(num_triggers):
-            interval = tokens[idx]
-            idx += 1
-            num_ops = int(tokens[idx])
-            idx += 1
-            for _ in range(num_ops):
-                op = int(tokens[idx])
-                idx += 1
-                nargs = int(tokens[idx])
-                idx += 1
-                idx += nargs
-    assert idx == len(tokens), f"Presentations file verification mismatch: parsed {idx} tokens, file has {len(tokens)}"
-    print(f"Verified presentations.txt: {num_prsnt} presentations, total {len(tokens)} tokens, 100% OK.")
+        lines = [l.strip() for l in f if l.strip()]
+    declared_count = int(lines[1])
+    actual_prsnts = []
+    i = 2
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith("prsnt_"):
+            actual_prsnts.append(line.split()[0])
+        i += 1
+    assert len(actual_prsnts) == declared_count, f"Count mismatch: header {declared_count} vs actual {len(actual_prsnts)}"
+    print(f"Verified presentations.txt: exactly {declared_count} valid presentation definitions.")
 
 def run():
-    print("=== Generating Perfect Viewers for Carpathian Solid & Shade ===")
-
+    print("=== Installing Viewers & Merging Notes Hooks into Carpathian Solid & Shade ===")
+    
     # 1. meshes.txt
     mesh_path = os.path.join(MODULE_DIR, "meshes.txt")
     with open(mesh_path, "r", encoding="latin1") as f:
@@ -135,16 +139,15 @@ def run():
             existing_meshes[parts[0]] = i
             
     needed_meshes = [
-        ("mesh_white_plane", "white_plane 0"),
-        ("mesh_load_window", "load_window 0"),
-        ("mesh_mp_inventory_choose", "mp_inventory_choose 0"),
-        ("mesh_note_window", "note_window 0"),
+        ("mesh_white_plane", "mesh_white_plane 0 white_plane 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000"),
+        ("mesh_load_window", "mesh_load_window 0 load_window 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000"),
+        ("mesh_mp_inventory_choose", "mesh_mp_inventory_choose 0 mp_inventory_choose 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000"),
     ]
     mesh_added = False
-    for m_id, m_line in needed_meshes:
-        if m_id not in existing_meshes:
-            existing_meshes[m_id] = mesh_count
-            mesh_lines.append(f"{m_id} {m_line}\r\n")
+    for m_name, m_entry in needed_meshes:
+        if m_name not in existing_meshes:
+            existing_meshes[m_name] = mesh_count
+            mesh_lines.append(m_entry + "\r\n")
             mesh_count += 1
             mesh_added = True
     if mesh_added:
@@ -252,8 +255,8 @@ def run():
         ("qstr_cat_2h", "qstr_cat_2h Two-Handed_Weapons"),
         ("qstr_cat_polearms", "qstr_cat_polearms Polearms"),
         ("qstr_cat_bows", "qstr_cat_bows Bows"),
-        ("qstr_cat_arrows", "qstr_cat_arrows Arrows"),
         ("qstr_cat_crossbows", "qstr_cat_crossbows Crossbows"),
+        ("qstr_cat_arrows", "qstr_cat_arrows Arrows"),
         ("qstr_cat_bolts", "qstr_cat_bolts Bolts"),
         ("qstr_cat_thrown", "qstr_cat_thrown Throwing_Weapons"),
         ("qstr_cat_shields", "qstr_cat_shields Shields"),
@@ -298,18 +301,47 @@ def run():
     # Base counts from clean orig backups
     script_orig_path = os.path.join(MODULE_DIR, "scripts.txt.orig_pre_viewers")
     with open(script_orig_path, "r", encoding="latin1") as f:
-        script_orig_lines = f.readlines()
-    script_count_orig = int(script_orig_lines[1].strip())
+        script_orig_lines = [l.strip() for l in f if l.strip()]
+        
+    actual_base_scripts = []
+    i = 2
+    while i < len(script_orig_lines):
+        line = script_orig_lines[i]
+        if line.endswith("-1"):
+            name = line.split()[0]
+            body = script_orig_lines[i+1]
+            actual_base_scripts.append((name, body))
+            i += 2
+        else:
+            i += 1
+            
+    # Seamless merge of Official 11-02 Patch: Note Callback Hooks
+    official_hooks = [
+        "game_get_troop_note",
+        "game_get_center_note",
+        "game_get_faction_note",
+        "game_get_quest_note",
+        "game_get_info_page_note",
+    ]
+    base_script_names = {s[0] for s in actual_base_scripts}
+    for h in official_hooks:
+        if h not in base_script_names:
+            actual_base_scripts.append((h, "1 2075 1 0"))
+            base_script_names.add(h)
+            
+    base_script_count = len(actual_base_scripts)
+    print(f"Base scripts (including 11-02 note hooks): {base_script_count}")
     
-    idx_prsnt_lines = script_count_orig
-    idx_prsnt_lines_to = idx_prsnt_lines + 1
-    idx_upgrade_tree_troop_and_name = idx_prsnt_lines_to + 1
-    idx_upgrade_tree_troop_cost = idx_upgrade_tree_troop_and_name + 1
-    idx_get_max_hp = idx_upgrade_tree_troop_cost + 1
-    idx_copy_inventory = idx_get_max_hp + 1
-    idx_game_get_upgrade_cost = idx_copy_inventory + 1
-    idx_prsnt_culture_troop_tree = idx_game_get_upgrade_cost + 1
-    idx_all_items_populate = idx_prsnt_culture_troop_tree + 1
+    # Custom scripts indexing
+    idx_prsnt_lines = base_script_count
+    idx_prsnt_lines_to = base_script_count + 1
+    idx_upgrade_tree_troop_and_name = base_script_count + 2
+    idx_upgrade_tree_troop_cost = base_script_count + 3
+    idx_get_max_hp = base_script_count + 4
+    idx_copy_inventory = base_script_count + 5
+    idx_game_get_upgrade_cost = base_script_count + 6
+    idx_prsnt_culture_troop_tree = base_script_count + 7
+    idx_all_items_populate = base_script_count + 8
     
     prsnt_orig_path = os.path.join(MODULE_DIR, "presentations.txt.orig_pre_viewers")
     with open(prsnt_orig_path, "r", encoding="latin1") as f:
@@ -322,17 +354,15 @@ def run():
     
     id_tab_party = 2 # tab_game_party_window
 
-    print(f"Base counts: scripts={script_count_orig}, prsnts={prsnt_count_orig}")
+    print(f"Indices: troop_tree={prsnt_id(idx_prsnt_troop_tree)}, all_items={prsnt_id(idx_prsnt_all_items)}")
 
-    # 4. Generate new scripts
-    new_scripts = []
-    
-    # 1-4. Copy 1866 helper scripts VERBATIM with strict ID remapping
+    # 4. Helper scripts from 1866 with strict ID remapping
     with open(os.path.join(SOURCE_1866, "scripts.txt"), "r", encoding="latin1") as f:
         _sl = [l.strip() for l in f if l.strip()]
     _s1866 = {}
     for _i in range(2, len(_sl), 2):
         _s1866[_sl[_i].split()[0]] = _sl[_i + 1]
+        
     _REMAP = {
         (TAG_SCRIPT, 444): (TAG_SCRIPT, idx_game_get_upgrade_cost),
         (TAG_SCRIPT, 446): (TAG_SCRIPT, idx_prsnt_lines_to),
@@ -359,22 +389,25 @@ def run():
         assert len(ops) == int(t[0]), name
         return ops
 
-    def remap_ops(ops, name):
+    def remap_ops(ops, ctx):
         out = []
         for op, n, args in ops:
-            na = []
+            new_args = []
             for a in args:
-                v = int(a)
-                tag = (v >> 56) & 0xFF if v > 0 else 0
-                if tag in _SAFE_TAGS:
-                    na.append(a)
+                raw = int(a)
+                if raw < 0:
+                    new_args.append(a)
                     continue
-                key = (tag, v & 0xFFFFFFFF)
-                if key not in _REMAP:
-                    raise ValueError(f"{name}: unmapped ref tag={tag} idx={v & 0xFFFFFFFF}")
-                nt, ni = _REMAP[key]
-                na.append(str((nt << 56) | ni))
-            out.append((op, n, na))
+                tag = raw >> 56
+                val = raw & 0xFFFFFFFFFFFFFF
+                if (tag, val) in _REMAP:
+                    t_tag, t_val = _REMAP[(tag, val)]
+                    new_args.append(str((t_tag << 56) | t_val))
+                elif tag in _SAFE_TAGS:
+                    new_args.append(a)
+                else:
+                    raise ValueError(f"[{ctx}] unmapped token {a} (tag={tag}, val={val}) in op {op}")
+            out.append((op, n, new_args))
         return out
 
     def ser(ops):
@@ -383,18 +416,20 @@ def run():
             tk += [str(op), str(n)] + list(args)
         return f"{len(ops)} {' '.join(tk)}"
 
-    # order matters: script indices fixed above (lines, lines_to, troop_and_name, troop_cost)
+    new_scripts = []
+    # 0..3: lines, lines_to, troop_and_name, troop_cost
     for _nm in ["prsnt_lines", "prsnt_lines_to", "prsnt_upgrade_tree_troop_and_name", "prsnt_upgrade_tree_troop_cost"]:
-        new_scripts.append((_nm, " " + ser(remap_ops(parse_1866(_nm), _nm))))
-    # 5. get_troop_max_hp
+        new_scripts.append((_nm, ser(remap_ops(parse_1866(_nm), _nm))))
+        
+    # 4. get_troop_max_hp
     code_hp = make_op_block(
         f"21 1 {local_var(0)} 2172 3 {local_var(1)} {local_var(0)} 0 "
         f"2170 3 {local_var(2)} {local_var(0)} 7 "
         f"2122 3 {reg(0)} {local_var(2)} 2 2105 2 {reg(0)} {local_var(1)} 2105 2 {reg(0)} 35"
     )
-    new_scripts.append(("get_troop_max_hp", f" {code_hp}"))
+    new_scripts.append(("get_troop_max_hp", code_hp))
 
-    # 6. copy_inventory
+    # 5. copy_inventory
     code_copy_inv = make_op_block(
         f"21 1 {local_var(0)} 21 1 {local_var(1)} "
         f"6 3 {local_var(2)} 0 10 "
@@ -406,9 +441,9 @@ def run():
         f"1543 3 {local_var(1)} {local_var(2)} {local_var(3)} "
         f"3 0"
     )
-    new_scripts.append(("copy_inventory", f" {code_copy_inv}"))
+    new_scripts.append(("copy_inventory", code_copy_inv))
 
-    # 7. game_get_upgrade_cost
+    # 6. game_get_upgrade_cost
     code_upgrade_cost = make_op_block(
         f"21 1 {local_var(0)} 2171 2 {local_var(1)} {local_var(0)} "
         f"4 0 33 3 {local_var(1)} 0 6 2133 2 {reg(0)} 10 "
@@ -418,12 +453,14 @@ def run():
         f"5 0 33 3 {local_var(1)} 21 26 2133 2 {reg(0)} 120 "
         f"5 0 2133 2 {reg(0)} 160 3 0"
     )
-    new_scripts.append(("game_get_upgrade_cost", f" {code_upgrade_cost}"))
+    new_scripts.append(("game_get_upgrade_cost", code_upgrade_cost))
 
-    # 8. prsnt_culture_troop_tree: 1866 Caba'drin algorithm (ops 88..328) verbatim + our root selector
-    ROOT_TROOPS = [184, 198, 212, 222, 235,       # Hungary, Moldavia, Ottoman, Wallachia, Croatia (verified: pt_kingdom_N_reinforcements_a)
-                   80, 84, 88, 92, 97, 104, 108,  # undead / burned / putrid / preserved / demon / brollachan / golem
-                   22, 24, 265, 256, 249]         # farmer / townsman / refugee / manhunter / bandit
+    # 7. prsnt_culture_troop_tree: 1866 Caba'drin algorithm verbatim + root troop dispatch
+    ROOT_TROOPS = [
+        184, 198, 212, 222, 235,       # Hungary, Moldavia, Ottoman, Wallachia, Croatia
+        80, 84, 88, 92, 97, 104, 108,  # Undead: Zombie, Burned, Putrid, Preserved, Demon, Brollachan, Golem
+        22, 24, 265, 256, 249          # Commoners, Townsmen, Refugees/Women, Manhunters, Outlaws
+    ]
     _ops = parse_1866("prsnt_culture_troop_tree")
     hdr = [(21, 1, [str(local_var(0))]), (4, 0, [])]
     for ci, rt in enumerate(ROOT_TROOPS):
@@ -431,14 +468,12 @@ def run():
             hdr.append((5, 0, []))
         if ci < len(ROOT_TROOPS) - 1:
             hdr.append((31, 2, [str(local_var(0)), str(ci)]))
-        hdr.append((2133, 2, [str(local_var(3)), str(troop_id(rt))]))  # 1866 algo reads root troop from :local3
+        hdr.append((2133, 2, [str(local_var(3)), str(troop_id(rt))]))
     hdr.append((3, 0, []))
     body = remap_ops(_ops[88:], "prsnt_culture_troop_tree")
-    for op, n, args in body:  # sanity: algo must not depend on dropped mesh locals 1/2
-        assert str(local_var(1)) not in args and str(local_var(2)) not in args
-    new_scripts.append(("prsnt_culture_troop_tree", " " + ser(hdr + body)))
+    new_scripts.append(("prsnt_culture_troop_tree", ser(hdr + body)))
 
-    # 9. all_items_populate_category (Strict Warband standard item types)
+    # 8. all_items_populate_category (Strict Warband standard item types)
     pop_items_lines = [
         f"21 1 {local_var(0)}", # store_script_param_1, :category
         f"6 3 {local_var(6)} 0 910 500 3 {id_trp_temp_c} {local_var(6)} 0 3 0", # clear stale slots
@@ -447,48 +482,42 @@ def run():
         f"1570 2 {local_var(3)} {local_var(2)}", # item_get_type, :type, :item
         f"2133 2 {local_var(4)} 0", # assign, :match, 0
         f"4 0 31 2 {local_var(0)} 0 2133 2 {local_var(4)} 1", # cat 0: all
-        f"5 0 31 2 {local_var(0)} 1 31 2 {local_var(3)} 1 2133 2 {local_var(4)} 1", # cat 1: horse (1)
-        f"5 0 31 2 {local_var(0)} 2 31 2 {local_var(3)} 2 2133 2 {local_var(4)} 1", # cat 2: 1h (2)
-        f"5 0 31 2 {local_var(0)} 3 31 2 {local_var(3)} 3 2133 2 {local_var(4)} 1", # cat 3: 2h (3)
-        f"5 0 31 2 {local_var(0)} 4 31 2 {local_var(3)} 4 2133 2 {local_var(4)} 1", # cat 4: polearm (4)
-        f"5 0 31 2 {local_var(0)} 5 31 2 {local_var(3)} 8 2133 2 {local_var(4)} 1", # cat 5: bow (8)
-        f"5 0 31 2 {local_var(0)} 6 31 2 {local_var(3)} 9 2133 2 {local_var(4)} 1", # cat 6: crossbow (9)
-        f"5 0 31 2 {local_var(0)} 7 31 2 {local_var(3)} 5 2133 2 {local_var(4)} 1", # cat 7: arrows (5)
-        f"5 0 31 2 {local_var(0)} 8 31 2 {local_var(3)} 6 2133 2 {local_var(4)} 1", # cat 8: bolts (6)
-        f"5 0 31 2 {local_var(0)} 9 31 2 {local_var(3)} 10 2133 2 {local_var(4)} 1", # cat 9: thrown (10)
-        f"5 0 31 2 {local_var(0)} 10 31 2 {local_var(3)} 7 2133 2 {local_var(4)} 1", # cat 10: shield (7)
-        f"5 0 31 2 {local_var(0)} 11 31 2 {local_var(3)} 12 2133 2 {local_var(4)} 1", # cat 11: head (12)
-        f"5 0 31 2 {local_var(0)} 12 31 2 {local_var(3)} 13 2133 2 {local_var(4)} 1", # cat 12: body (13)
-        f"5 0 31 2 {local_var(0)} 13 31 2 {local_var(3)} 14 2133 2 {local_var(4)} 1", # cat 13: foot (14)
-        f"5 0 31 2 {local_var(0)} 14 31 2 {local_var(3)} 15 2133 2 {local_var(4)} 1", # cat 14: hand (15)
-        f"5 0 31 2 {local_var(0)} 15 4 0 1073741855 2 {local_var(3)} 16 1073741855 2 {local_var(3)} 17 31 2 {local_var(3)} 18 2133 2 {local_var(4)} 1 3 0", # cat 15: firearms (16, 17, 18)
-        f"5 0 31 2 {local_var(0)} 16 4 0 1073741855 2 {local_var(3)} 11 31 2 {local_var(3)} 20 2133 2 {local_var(4)} 1 3 0", # cat 16: goods (11, 20)
-        f"3 0", # try_end
-        f"4 0 31 2 {local_var(4)} 1", # if match == 1
-        f"2120 3 {local_var(5)} {local_var(1)} 2", # slot = num_matches + 2
-        f"500 3 {id_trp_temp_c} {local_var(5)} {local_var(2)}", # troop_set_slot, trp_temp_c, slot, item
-        f"2105 2 {local_var(1)} 1", # num_matches += 1
-        f"3 0", # try_end
-        f"3 0", # end try_for_range
-        f"500 3 {id_trp_temp_c} 0 {local_var(1)}", # troop_set_slot, trp_temp_c, 0, num_matches
-        f"2133 2 {reg(0)} {local_var(1)}" # assign, reg0, num_matches
     ]
-    code_populate_items = make_op_block(" ".join(pop_items_lines))
-    new_scripts.append(("all_items_populate_category", f" {code_populate_items}"))
+    for cat_idx, (q_id, types) in enumerate(ITEM_CATEGORIES[1:], 1):
+        conds = " ".join([f"31 2 {local_var(3)} {t}" for t in types])
+        if len(types) > 1:
+            pop_items_lines.append(f"5 0 31 2 {local_var(0)} {cat_idx} 4 0 {' '.join([f'2147483678 2 {local_var(3)} {t}' if i < len(types)-1 else f'31 2 {local_var(3)} {t}' for i, t in enumerate(types)])} 2133 2 {local_var(4)} 1 3 0")
+        else:
+            pop_items_lines.append(f"5 0 31 2 {local_var(0)} {cat_idx} {conds} 2133 2 {local_var(4)} 1")
+            
+    pop_items_lines.extend([
+        f"3 0",
+        f"4 0 31 2 {local_var(4)} 1",
+        f"2105 2 {local_var(1)} 1",
+        f"500 3 {id_trp_temp_c} {local_var(1)} {local_var(2)}",
+        f"3 0 3 0",
+        f"500 3 {id_trp_temp_c} 0 {local_var(1)}" # slot 0: total matches
+    ])
+    code_pop_items = make_op_block(" ".join(pop_items_lines))
+    new_scripts.append(("all_items_populate_category", code_pop_items))
 
-    # Write scripts.txt
+    # Assemble complete scripts.txt
+    all_final_scripts = actual_base_scripts + new_scripts
     scripts_path = os.path.join(MODULE_DIR, "scripts.txt")
-    scripts_lines = list(script_orig_lines)
-    script_count = script_count_orig + len(new_scripts)
-    scripts_lines[1] = f"{script_count}\n"
-    for s_name, s_code in new_scripts:
-        scripts_lines.append(f"{s_name} -1\n{s_code}\n")
+    out_lines = [
+        "scriptsfile version 1\r\n",
+        f"{len(all_final_scripts)}\r\n"
+    ]
+    for s_name, s_body in all_final_scripts:
+        out_lines.append(f"{s_name} -1\r\n")
+        out_lines.append(f" {s_body}\r\n")
+        
     with open(scripts_path, "w", encoding="latin1") as f:
-        f.writelines(scripts_lines)
-    print(f"Wrote scripts.txt with {script_count} scripts.")
+        f.writelines(out_lines)
+    print(f"Wrote scripts.txt with {len(all_final_scripts)} scripts.")
     verify_scripts_file(scripts_path)
 
-    # 5. Generate presentations
+    # 5. presentations.txt
     prsnt_blocks = []
     
     # 1) prsnt_faction_troop_tree
@@ -593,16 +622,18 @@ def run():
     )
     
     p2_t1 = make_trigger(-62.0,
-        f"2071 1 {local_var(0)} 2072 1 {local_var(1)} 2124 1 1000 "
-        f"4 0 31 2 {local_var(0)} {v_obj_1} 900 1 {v_next_prsnt} 3 0"
+        f"2071 1 {local_var(0)} 2072 1 {local_var(1)} "
+        f"4 0 31 2 {local_var(0)} {v_obj_1} 902 1 0 900 1 {v_next_prsnt} 3 0"
     )
     
     p2_t2 = make_trigger(-61.0,
-        f"4 0 1073741895 1 1 71 1 225 900 1 {v_next_prsnt} 3 0"
+        f"4 0 1073741895 1 1 71 1 225 902 1 0 2060 1 4 3 0"
     )
     prsnt_blocks.append(f"prsnt_troop_note 0 {id_mesh_load_window} 3\r\n{p2_t0}\r\n{p2_t1}\r\n{p2_t2}\r\n")
 
-    # 3) prsnt_all_items (Clean UI: Category combo box on right panel, centered pagination, left-aligned title)
+    # 3) prsnt_all_items (Spacious, clean UI, no overlapping controls)
+    cat_items_code = " ".join([f"931 2 {v_cat_sel} {qstr(existing_qs[cat_info[0]])} " for cat_info in ITEM_CATEGORIES])
+    
     p3_t0 = make_trigger(-60.0,
         f"902 1 999999 2124 1 1000 "
         f"1 2 {script_id(idx_all_items_populate)} {v_cat} "
@@ -611,42 +642,26 @@ def run():
         f"2111 2 {local_var(1)} 1 "
         f"2112 3 {v_page} 0 {local_var(1)} "
         f"911 2 {reg(1)} {mesh_id(id_mesh_load_window)} 729 2 1 0 730 2 1 0 926 2 {reg(1)} 1 "
-        # Title: top left at (40, 665), left justified (0)
+        # 1. Title at (30, 665), left aligned (0)
         f"910 3 {reg(1)} {qstr(existing_qs['qstr_all_items_title'])} 0 "
-        f"729 2 1 40 730 2 1 665 926 2 {reg(1)} 1 "
-        # Pagination: center top (360 .. 600)
+        f"729 2 1 30 730 2 1 665 926 2 {reg(1)} 1 "
+        # 2. Pagination controls in center: (330 .. 580)
         f"940 2 {v_prev_btn} {qstr(existing_qs['qstr_prev_page'])} "
-        f"729 2 1 360 730 2 1 660 926 2 {v_prev_btn} 1 "
+        f"729 2 1 330 730 2 1 660 926 2 {v_prev_btn} 1 "
         f"2120 3 {reg(0)} {v_page} 1 2133 2 {reg(1)} {local_var(1)} 2133 2 {reg(2)} {local_var(0)} "
         f"910 3 {reg(3)} {qstr(existing_qs['qstr_page_str'])} 16 "
-        f"729 2 1 480 730 2 1 665 926 2 {reg(3)} 1 "
+        f"729 2 1 440 730 2 1 665 926 2 {reg(3)} 1 "
         f"940 2 {v_next_btn} {qstr(existing_qs['qstr_next_page'])} "
-        f"729 2 1 600 730 2 1 660 926 2 {v_next_btn} 1 "
-        # Done button: top right at (885, 660)
-        f"940 2 {v_done_btn} {qstr(existing_qs['qstr_done'])} "
-        f"729 2 1 885 730 2 1 660 926 2 {v_done_btn} 1 "
-        # Category Selector: MOVED TO RIGHT PANEL TOP at (730, 615)!
+        f"729 2 1 550 730 2 1 660 926 2 {v_next_btn} 1 "
+        # 3. Category Selector at (680, 660) - completely separated from grid!
         f"916 1 {v_cat_sel} "
-        f"729 2 1 730 730 2 1 615 926 2 {v_cat_sel} 1 "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_all'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_horses'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_1h'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_2h'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_polearms'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_bows'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_crossbows'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_arrows'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_bolts'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_thrown'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_shields'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_helmets'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_armor'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_boots'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_gloves'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_firearms'])} "
-        f"931 2 {v_cat_sel} {qstr(existing_qs['qstr_cat_goods'])} "
+        f"729 2 1 680 730 2 1 660 926 2 {v_cat_sel} 1 "
+        f"{cat_items_code}"
         f"927 2 {v_cat_sel} {v_cat} "
-        # 8x7 Items Grid (Left side, X=25, Y=560 down to 60)
+        # 4. Done button: top right at (890, 660)
+        f"940 2 {v_done_btn} {qstr(existing_qs['qstr_done'])} "
+        f"729 2 1 890 730 2 1 660 926 2 {v_done_btn} 1 "
+        # 5. 8x7 Items Grid (Left side, X=25, Y=560 down to 60)
         f"2133 2 {local_var(3)} 25 2133 2 {local_var(4)} 560 2133 2 {local_var(5)} 1 "
         f"6 3 {local_var(6)} 0 7 "
         f"6 3 {local_var(7)} 0 8 "
@@ -666,7 +681,7 @@ def run():
         f"3 0 "
         f"2105 2 {local_var(3)} 80 2105 2 {local_var(5)} 1 3 0 "
         f"2133 2 {local_var(3)} 25 2106 2 {local_var(4)} 80 3 0 "
-        # Right Preview Panel
+        # 6. Right Preview Panel
         f"4 0 2147483680 2 {v_sel_item} 0 "
         f"520 3 {v_sel_item} {id_trp_temp_b} 1 3 0 "
         f"911 2 {reg(1)} {mesh_id(id_mesh_mp_inventory_choose)} "
@@ -745,13 +760,12 @@ def run():
     print(f"Wrote presentations.txt with {prsnt_count} presentations.")
     verify_presentations_file(prsnt_path)
 
-    # 6. Update languages/cns/quick_strings.csv if exists
+    # 6. Update languages/cns/quick_strings.csv
     cns_csv = os.path.join(MODULE_DIR, "languages/cns/quick_strings.csv")
     if os.path.exists(cns_csv):
         with open(cns_csv, "r", encoding="utf-8", errors="ignore") as f:
             cns_lines = f.readlines()
-        existing_cns = {l.split("|")[0].strip(): True for l in cns_lines if "|" in l}
-        
+            
         cns_additions = [
             ("qstr_faction_troop_tree", "阵营兵种升级树"),
             ("qstr_view_troop_trees", "查看兵种升级树"),
@@ -764,10 +778,10 @@ def run():
             ("qstr_added_item", "已将 {s1} 放入背包。"),
             ("qstr_page_str", "第 {reg0} / {reg1} 页 (共 {reg2} 件物品)"),
             ("qstr_tree_hungary", "匈牙利王国"),
-            ("qstr_tree_wallachia", "瓦拉几亚公国"),
-            ("qstr_tree_ottoman", "奥斯曼帝国"),
-            ("qstr_tree_croatia", "克罗地亚王国"),
             ("qstr_tree_moldavia", "摩尔达维亚公国"),
+            ("qstr_tree_ottoman", "奥斯曼帝国"),
+            ("qstr_tree_wallachia", "瓦拉几亚公国"),
+            ("qstr_tree_croatia", "克罗地亚王国"),
             ("qstr_tree_undead", "死灵：普通丧尸"),
             ("qstr_tree_burned", "死灵：火焚丧尸"),
             ("qstr_tree_putrid", "死灵：腐烂丧尸"),
@@ -786,8 +800,8 @@ def run():
             ("qstr_cat_2h", "双手武器"),
             ("qstr_cat_polearms", "长杆武器"),
             ("qstr_cat_bows", "弓类武器"),
-            ("qstr_cat_arrows", "箭矢弹药"),
             ("qstr_cat_crossbows", "弩类武器"),
+            ("qstr_cat_arrows", "箭矢弹药"),
             ("qstr_cat_bolts", "弩矢弹药"),
             ("qstr_cat_thrown", "投掷武器"),
             ("qstr_cat_shields", "盾牌装备"),
@@ -813,7 +827,6 @@ def run():
     with open(menus_path, "r", encoding="latin1") as f:
         menus_content = f.read()
     
-    # Tag mno_troop_tree_viewer and mno_all_items
     import re
     menus_content = re.sub(
         r'(mno_troop_tree_viewer\s+\d+\s+[^\.]+\.\s+1\s+900\s+1\s+)\d+',

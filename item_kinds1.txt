@@ -676,15 +676,15 @@ itemsfile version 3
  0
 0
 
- itm_garlic Radoghir_Garlic Radoghir_Garlic 1  garlic_b 0  11 0 1 0 10.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ itm_garlic Neamt_Garlic Neamt_Garlic 1  garlic_b 0  11 0 1 0 10.000000 100 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
- itm_aconite Tehlrog_Aconite Tehlrog_Aconite 1  blue_flower 0  11 0 1 0 10.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ itm_aconite Poenari_Aconite Poenari_Aconite 1  blue_flower 0  11 0 1 0 10.000000 100 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
- itm_mullein Chalbek_Mullein Chalbek_Mullein 1  buddy_plant 0  11 0 1 0 10.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ itm_mullein Braila_Mullein Braila_Mullein 1  buddy_plant 0  11 0 1 0 10.000000 100 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 

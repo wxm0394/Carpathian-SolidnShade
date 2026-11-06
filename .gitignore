@@ -1,6 +1,6 @@
 # Temporary and backup files
 .backup*
-*.bak
+*.bak*
 *~
 *.swp
 *.tmp
@@ -8,3 +8,8 @@
 Thumbs.db
 .backup_cns_orig/
 *.orig_pre_viewers
+__pycache__/
+*.pyc
+
+# 1.011 original mod reference directory (local forensic baseline)
+1011版本体/
