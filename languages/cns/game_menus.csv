@@ -3966,3 +3966,310 @@ menu_fallen_close|黑男爵表示周围一带看起来确实非常眼熟。你�
 mno_fallenclose_continue|好……
 menu_fallen_found|黑男爵叫停了整支队伍——就是这里！那位反英雄陨落之地……
 mno_fallenfound_continue|太好了！
+menu_scene_viewer|场景查看器与实机展厅：你可以随时传送进入任意聚落与地下秘境进行实机核查。在场景中按 TAB 随时原路返回本菜单。
+mno_sv_to_redlist|1. 【红名单】S&S 机制聚落场景（34 座聚落 / 35 个红名单场景，换皮重点排查）...
+mno_sv_to_secrets|2. S&S 专属大地图秘境与隐藏维度（盐矿/大巧匠/巴特镇/迷宫/鲸腹/罗宾汉等 24 处）...
+mno_sv_to_towns|3. 1521 历史城镇街道漫步（18 座历史首府与商埠街道）...
+mno_sv_to_castles|4. 1521 历史要塞与城堡领主大厅（40 座边境要塞）...
+mno_sv_to_villages|5. 1521 历史村庄与平原乡野（90 个聚落外景）...
+mno_sv_main_back|返回报告菜单 / 营地界面。
+menu_sv_redlist|【红名单】S&S 专属机制聚落场景专区：这 35 个场景包含硬编码的机关物件、暗门或特殊出生点，替换场景前必须核查！
+mno_sv_rl_go_towns|1. 城镇红名单场景（12 座城镇 / 13 个场景：贝尔格莱德街道/酒馆、布达杂货铺、萨格勒布监狱等）...
+mno_sv_rl_go_castles|2. 城堡红名单场景（5 座要塞：斯梅代雷沃蛇桩、布兰/胡内多阿拉/维丁大厅等）...
+mno_sv_rl_go_vil1|3. 村庄红名单场景 第一部分（9 个村庄：利姆诺斯波塞冬神殿、哈采格象棋塔、切佩尔等）...
+mno_sv_rl_go_vil2|4. 村庄红名单场景 第二部分（8 个村庄：科兹洛杜伊冥府大门、斯纳戈夫金甲虫、图尔努等）...
+mno_sv_rl_go_all_p1|5. 顺序遍历全 35 个红名单场景（第 1-18 项：城镇与城堡）...
+mno_sv_rl_go_all_p2|6. 顺序遍历全 35 个红名单场景（第 19-35 项：全部村庄）...
+mno_sv_rl_back_hub|返回场景查看器主目录。
+mno_sv_rlt_1|1. 贝尔格莱德街道_(Belgrade_Center) 【机制: 隐藏小木箱】
+mno_sv_rlt_2|2. 贝尔格莱德酒馆_(Belgrade_Tavern) 【机制: 暗门与出生点16】
+mno_sv_rlt_3|3. 布达杂货铺_(Buda_Store) 【机制: 阿芒提拉多酒桶 spr_caskofamontillado】
+mno_sv_rlt_4|4. 克卢日街道_(Klausenburg_Center) 【机制: 隐藏小木箱】
+mno_sv_rlt_5|5. 萨格勒布监狱_(Zagreb_Prison) 【机制: 暗门通往第13阶梯 spr_thirteen】
+mno_sv_rlt_6|6. 布拉索夫酒馆_(Brasov_Tavern) 【机制: 暗门通往第13阶梯 spr_thirteen】
+mno_sv_rlt_7|7. 康斯坦察街道_(Constanta_Center) 【机制: 特殊出生点8】
+mno_sv_rlt_8|8. 瓦尔纳街道_(Varna_Center) 【机制: 特殊出生点8】
+mno_sv_rlt_9|9. 尼什街道_(Nis_Center) 【机制: 隐藏大宝箱】
+mno_sv_rlt_10|10. 索菲亚城堡大厅_(Sofia_Castle) 【机制: 暗门通往第13阶梯 spr_thirteen】
+mno_sv_rlt_11|11. 普罗夫迪夫街道_(Plovdiv_Center) 【机制: 特殊出生点8】
+mno_sv_rlt_12|12. 埃迪尔内酒馆_(Edirne_Tavern) 【机制: 失窃信件 spr_purloinedletter】
+mno_sv_rlt_13|13. 君士坦丁堡街道_(Constantinople_Center) 【机制: 米洛的维纳斯 spr_VenusDeMilo】
+mno_sv_rlt_back|返回红名单专区分类菜单。
+menu_sv_rl_towns|红名单城镇场景（共 13 处）：点击即可立即传送进入实机巡查，按 TAB 键原路返回。
+mno_sv_rlc_1|1. 斯皮什监狱_(Szepes_Prison) 【机制: 特殊出生点1】
+mno_sv_rlc_2|2. 斯梅代雷沃要塞外景_(Smederevo_Exterior) 【机制: 蛇模型木人桩 spr_snakedummy】
+mno_sv_rlc_3|3. 布兰城堡大厅_(Bran_Hall) 【机制: 特殊出生点3】
+mno_sv_rlc_4|4. 胡内多阿拉城堡大厅_(Hunedoara_Hall) 【机制: 特殊出生点3】
+mno_sv_rlc_5|5. 维丁城堡大厅_(Vidin_Hall) 【机制: 特殊出生点3】
+mno_sv_rlc_back|返回红名单专区分类菜单。
+menu_sv_rl_castles|红名单城堡要塞场景（共 5 处）：点击即可立即传送进入实机巡查，按 TAB 键原路返回。
+mno_sv_rlv1_1|1. 切佩尔村庄_(Csepel) 【机制: 警长的箭 + 隐藏小木箱】
+mno_sv_rlv1_2|2. 摩哈赤村庄_(Mohacs) 【机制: 特殊出生点5】
+mno_sv_rlv1_3|3. 哈采格村庄_(Hateg) 【机制: 国际象棋塔 spr_ChessTower】
+mno_sv_rlv1_4|4. 瓦劳诺村庄_(Varanno) 【机制: 特殊出生点5】
+mno_sv_rlv1_5|5. 多布拉村庄_(Dobra) 【机制: 特殊出生点5】
+mno_sv_rlv1_6|6. 里梅泰亚村庄_(Rimetea) 【机制: 女巫小屋 spr_hut】
+mno_sv_rlv1_7|7. 利姆诺斯爱琴海岛村_(Limnos) 【机制: 海神波塞冬神殿遗迹与怪异贝壳】
+mno_sv_rlv1_8|8. 罗日尼亚瓦村庄_(Roznava) 【机制: 特殊出生点6, 7】
+mno_sv_rlv1_9|9. 加拉茨村庄_(Galati) 【机制: 暗门出口】
+mno_sv_rlv1_next|下一页：村庄红名单 第二部分...
+mno_sv_rlv1_back|返回红名单专区分类菜单。
+menu_sv_rl_vil1|红名单村庄场景 第一部分（9 处）：包含波塞冬神殿、象棋塔、警长之箭等特殊机关。
+mno_sv_rlv2_1|1. 科兹洛杜伊多瑙河村_(Kozloduy) 【机制: 冥府大门与冥河渡船】
+mno_sv_rlv2_2|2. 斯纳戈夫村庄_(Snagov) 【机制: 金甲虫 spr_goldbug】
+mno_sv_rlv2_3|3. 久尔久村庄_(Giurgiu) 【机制: 特殊出生点5】
+mno_sv_rlv2_4|4. 图尔努村庄_(Turnu) 【机制: 安娜贝尔墓碑 + 隐藏小木箱】
+mno_sv_rlv2_5|5. 卡拉法特村庄_(Calafat) 【机制: 暗门出口】
+mno_sv_rlv2_6|6. 锡利斯特拉村庄_(Silistra) 【机制: 特殊出生点5】
+mno_sv_rlv2_7|7. 曼加利亚黑海村庄_(Mangalia) 【机制: 隐藏小木箱】
+mno_sv_rlv2_8|8. 布勒伊拉多瑙河村_(Braila) 【机制: 隐藏小木箱】
+mno_sv_rlv2_prev|上一页：村庄红名单 第一部分...
+mno_sv_rlv2_back|返回红名单专区分类菜单。
+menu_sv_rl_vil2|红名单村庄场景 第二部分（8 处）：包含冥府大门与冥河渡船、金甲虫、安娜贝尔墓碑等。
+mno_sv_rla1_1|[01] 贝尔格莱德街道_(Belgrade_Center) (隐藏小木箱)
+mno_sv_rla1_2|[02] 贝尔格莱德酒馆_(Belgrade_Tavern) (暗门与出生点16)
+mno_sv_rla1_3|[03] 布达杂货铺_(Buda_Store) (阿芒提拉多酒桶 spr_caskofamontillado)
+mno_sv_rla1_4|[04] 克卢日街道_(Klausenburg_Center) (隐藏小木箱)
+mno_sv_rla1_5|[05] 萨格勒布监狱_(Zagreb_Prison) (暗门通往第13阶梯 spr_thirteen)
+mno_sv_rla1_6|[06] 布拉索夫酒馆_(Brasov_Tavern) (暗门通往第13阶梯 spr_thirteen)
+mno_sv_rla1_7|[07] 康斯坦察街道_(Constanta_Center) (特殊出生点8)
+mno_sv_rla1_8|[08] 瓦尔纳街道_(Varna_Center) (特殊出生点8)
+mno_sv_rla1_9|[09] 尼什街道_(Nis_Center) (隐藏大宝箱)
+mno_sv_rla1_10|[10] 索菲亚城堡大厅_(Sofia_Castle) (暗门通往第13阶梯 spr_thirteen)
+mno_sv_rla1_11|[11] 普罗夫迪夫街道_(Plovdiv_Center) (特殊出生点8)
+mno_sv_rla1_12|[12] 埃迪尔内酒馆_(Edirne_Tavern) (失窃信件 spr_purloinedletter)
+mno_sv_rla1_13|[13] 君士坦丁堡街道_(Constantinople_Center) (米洛的维纳斯 spr_VenusDeMilo)
+mno_sv_rla1_14|[14] 斯皮什监狱_(Szepes_Prison) (特殊出生点1)
+mno_sv_rla1_15|[15] 斯梅代雷沃要塞外景_(Smederevo_Exterior) (蛇模型木人桩 spr_snakedummy)
+mno_sv_rla1_16|[16] 布兰城堡大厅_(Bran_Hall) (特殊出生点3)
+mno_sv_rla1_17|[17] 胡内多阿拉城堡大厅_(Hunedoara_Hall) (特殊出生点3)
+mno_sv_rla1_18|[18] 维丁城堡大厅_(Vidin_Hall) (特殊出生点3)
+mno_sv_rla1_next|下一页：全部红名单场景 第 19-35 项...
+mno_sv_rla1_back|返回红名单总目录。
+menu_sv_rl_all_p1|红名单全场景顺序走查 第 1 页（第 1-18 项：13 座城镇与 5 座要塞）
+mno_sv_rla2_19|[19] 切佩尔村庄_(Csepel) (警长的箭 + 隐藏小木箱)
+mno_sv_rla2_20|[20] 摩哈赤村庄_(Mohacs) (特殊出生点5)
+mno_sv_rla2_21|[21] 哈采格村庄_(Hateg) (国际象棋塔 spr_ChessTower)
+mno_sv_rla2_22|[22] 瓦劳诺村庄_(Varanno) (特殊出生点5)
+mno_sv_rla2_23|[23] 多布拉村庄_(Dobra) (特殊出生点5)
+mno_sv_rla2_24|[24] 里梅泰亚村庄_(Rimetea) (女巫小屋 spr_hut)
+mno_sv_rla2_25|[25] 利姆诺斯爱琴海岛村_(Limnos) (海神波塞冬神殿遗迹与怪异贝壳)
+mno_sv_rla2_26|[26] 罗日尼亚瓦村庄_(Roznava) (特殊出生点6, 7)
+mno_sv_rla2_27|[27] 加拉茨村庄_(Galati) (暗门出口)
+mno_sv_rla2_28|[28] 科兹洛杜伊多瑙河村_(Kozloduy) (冥府大门与冥河渡船)
+mno_sv_rla2_29|[29] 斯纳戈夫村庄_(Snagov) (金甲虫 spr_goldbug)
+mno_sv_rla2_30|[30] 久尔久村庄_(Giurgiu) (特殊出生点5)
+mno_sv_rla2_31|[31] 图尔努村庄_(Turnu) (安娜贝尔墓碑 + 隐藏小木箱)
+mno_sv_rla2_32|[32] 卡拉法特村庄_(Calafat) (暗门出口)
+mno_sv_rla2_33|[33] 锡利斯特拉村庄_(Silistra) (特殊出生点5)
+mno_sv_rla2_34|[34] 曼加利亚黑海村庄_(Mangalia) (隐藏小木箱)
+mno_sv_rla2_35|[35] 布勒伊拉多瑙河村_(Braila) (隐藏小木箱)
+mno_sv_rla2_prev|上一页：全部红名单场景 第 1-18 项...
+mno_sv_rla2_back|返回红名单总目录。
+menu_sv_rl_all_p2|红名单全场景顺序走查 第 2 页（第 19-35 项：全部 17 座村庄）
+mno_sv_sec1_1|1. 废弃盐矿大地图入口_(Salt_Mine)
+mno_sv_sec1_2|2. 发条大巧匠深层盐洞_(Clockwork_Salt_Cave)
+mno_sv_sec1_3|3. 巴特镇以物易物黑市_(Barter_Town)
+mno_sv_sec1_4|4. 巴特镇地窖酒馆_(Barter_Town_Cellar)
+mno_sv_sec1_5|5. 古物奇珍陈列博物馆_(Ancient_Museum)
+mno_sv_sec1_6|6. 克里特童话迷宫_(Cretan_Labyrinth)
+mno_sv_sec1_7|7. 噩梦立方体维度_(Nightmare_Realm)
+mno_sv_sec1_8|8. 利维坦巨鲸腹内决战场_(Whalebelly)
+mno_sv_sec1_9|9. 命运三女神死灵地牢_(Necropolis_Fates)
+mno_sv_sec1_10|10. 妖精国度与换子秘境_(Fairy_Realm)
+mno_sv_sec1_11|11. 波佐尼多瑙河罗宾汉森林_(Sherwood_Forest)
+mno_sv_sec1_12|12. 火烧诺丁汉警长大厦_(Sheriff_Residence_Burning)
+mno_sv_sec1_next|下一页：S&S 秘境维度 第 13-24 处...
+mno_sv_sec1_back|返回场景查看器主目录。
+menu_sv_secrets_1|S&S 专属大地图秘境与隐藏维度 第一部分（12 处）：盐矿、发条盐洞、巴特镇、童话迷宫、噩梦维度、鲸腹等。
+mno_sv_sec2_13|13. 象牙神殿_(Ivory_Temple)
+mno_sv_sec2_14|14. 故园庄园外景_(Hiraeth_Homestead)
+mno_sv_sec2_15|15. 故园庄园室内居所_(Homestead_Interior)
+mno_sv_sec2_16|16. 持心者之墓_(Heartbearer_Tomb)
+mno_sv_sec2_17|17. 陨落的反英雄秘穴_(Fallen_Antihero_Lair)
+mno_sv_sec2_18|18. 旧曾扎尔市中心广场_(Old_Zendar_Center)
+mno_sv_sec2_19|19. 曾扎尔格斗竞技场_(Zendar_Arena)
+mno_sv_sec2_20|20. 曾扎尔圣物陈列室_(Zendar_Reliquary)
+mno_sv_sec2_21|21. 曾扎尔快乐公猪酒馆_(The_Happy_Boar)
+mno_sv_sec2_22|22. 四路客栈大地图外景_(Four_Ways_Inn)
+mno_sv_sec2_23|23. 四路客栈私酿酒窖_(Four_Ways_Inn_Cellar)
+mno_sv_sec2_24|24. 五大酷刑场一号试验地_(Torture_Field_1)
+mno_sv_sec2_prev|上一页：S&S 秘境维度 第 1-12 处...
+mno_sv_sec2_back|返回场景查看器主目录。
+menu_sv_secrets_2|S&S 专属大地图秘境与隐藏维度 第二部分（12 处）：象牙神殿、故园庄园、持心者之墓、旧曾扎尔、快乐公猪酒馆等。
+mno_sv_tw_1|1. 特尔戈维什特街道_(Targoviste)
+mno_sv_tw_2|2. 布加勒斯特/贝尔格莱德街道_(Bucharest/Belgrade)
+mno_sv_tw_3|3. 锡比乌街道_(Sibiu)
+mno_sv_tw_4|4. 佩奇街道_(Pecs)
+mno_sv_tw_5|5. 克卢日街道_(Kolozsvar)
+mno_sv_tw_6|6. 布达街道_(Buda)
+mno_sv_tw_7|7. 贝尔格莱德要塞街道_(Belgrade_Fortress)
+mno_sv_tw_8|8. 苏恰瓦街道_(Suceava)
+mno_sv_tw_9|9. 雅西街道_(Jassy)
+mno_sv_tw_10|10. 君士坦丁堡大都市街道_(Constantinople)
+mno_sv_tw_11|11. 霍京街道_(Hotin)
+mno_sv_tw_12|12. 布勒伊拉街道_(Braila)
+mno_sv_tw_13|13. 阿克曼街道_(Akkerman)
+mno_sv_tw_14|14. 埃迪尔内街道_(Edirne)
+mno_sv_tw_15|15. 萨格勒布街道_(Zagreb)
+mno_sv_tw_16|16. 塞格德街道_(Szeged)
+mno_sv_tw_17|17. 索菲亚街道_(Sofia)
+mno_sv_tw_18|18. 萨洛尼卡港口街道_(Salonika)
+mno_sv_tw_back|返回场景查看器主目录。
+menu_sv_towns_list|1521 历史城镇街道展厅（全 18 座城市街道外景）：实机漫步巡查。
+mno_sv_cas1_1|1. 城堡要塞外景 scn_castle_1_exterior
+mno_sv_cas1_2|2. 城堡要塞外景 scn_castle_2_exterior
+mno_sv_cas1_3|3. 城堡要塞外景 scn_castle_3_exterior
+mno_sv_cas1_4|4. 城堡要塞外景 scn_castle_4_exterior
+mno_sv_cas1_5|5. 城堡要塞外景 scn_castle_5_exterior
+mno_sv_cas1_6|6. 城堡要塞外景 scn_castle_6_exterior
+mno_sv_cas1_7|7. 城堡要塞外景 scn_castle_7_exterior
+mno_sv_cas1_8|8. 城堡要塞外景 scn_castle_8_exterior
+mno_sv_cas1_9|9. 城堡要塞外景 scn_castle_9_exterior
+mno_sv_cas1_10|10. 城堡要塞外景 scn_castle_10_exterior
+mno_sv_cas1_11|11. 城堡要塞外景 scn_castle_11_exterior
+mno_sv_cas1_12|12. 城堡要塞外景 scn_castle_12_exterior
+mno_sv_cas1_13|13. 城堡要塞外景 scn_castle_13_exterior
+mno_sv_cas1_14|14. 城堡要塞外景 scn_castle_14_exterior
+mno_sv_cas1_15|15. 城堡要塞外景 scn_castle_15_exterior
+mno_sv_cas1_16|16. 城堡要塞外景 scn_castle_16_exterior
+mno_sv_cas1_17|17. 城堡要塞外景 scn_castle_17_exterior
+mno_sv_cas1_18|18. 城堡要塞外景 scn_castle_18_exterior
+mno_sv_cas1_19|19. 城堡要塞外景 scn_castle_19_exterior
+mno_sv_cas1_20|20. 城堡要塞外景 scn_castle_20_exterior
+mno_sv_cas1_next|下一页：城堡要塞 第 21-40 座...
+mno_sv_cas1_back|返回场景查看器主目录。
+menu_sv_castles_p1|1521 历史要塞与城堡 第一部分（第 1-20 座城堡外景巡查）
+mno_sv_cas2_21|21. 城堡要塞外景 scn_castle_21_exterior
+mno_sv_cas2_22|22. 城堡要塞外景 scn_castle_22_exterior
+mno_sv_cas2_23|23. 城堡要塞外景 scn_castle_23_exterior
+mno_sv_cas2_24|24. 城堡要塞外景 scn_castle_24_exterior
+mno_sv_cas2_25|25. 城堡要塞外景 scn_castle_25_exterior
+mno_sv_cas2_26|26. 城堡要塞外景 scn_castle_26_exterior
+mno_sv_cas2_27|27. 城堡要塞外景 scn_castle_27_exterior
+mno_sv_cas2_28|28. 城堡要塞外景 scn_castle_28_exterior
+mno_sv_cas2_29|29. 城堡要塞外景 scn_castle_29_exterior
+mno_sv_cas2_30|30. 城堡要塞外景 scn_castle_30_exterior
+mno_sv_cas2_31|31. 城堡要塞外景 scn_castle_31_exterior
+mno_sv_cas2_32|32. 城堡要塞外景 scn_castle_32_exterior
+mno_sv_cas2_33|33. 城堡要塞外景 scn_castle_33_exterior
+mno_sv_cas2_34|34. 城堡要塞外景 scn_castle_34_exterior
+mno_sv_cas2_35|35. 城堡要塞外景 scn_castle_35_exterior
+mno_sv_cas2_36|36. 城堡要塞外景 scn_castle_36_exterior
+mno_sv_cas2_37|37. 城堡要塞外景 scn_castle_37_exterior
+mno_sv_cas2_38|38. 城堡要塞外景 scn_castle_38_exterior
+mno_sv_cas2_39|39. 城堡要塞外景 scn_castle_39_exterior
+mno_sv_cas2_40|40. 城堡要塞外景 scn_castle_40_exterior
+mno_sv_cas2_prev|上一页：城堡要塞 第 1-20 座...
+mno_sv_cas2_back|返回场景查看器主目录。
+menu_sv_castles_p2|1521 历史要塞与城堡 第二部分（第 21-40 座城堡外景巡查）
+mno_sv_vil_1|1. 村庄场景 scn_village_1
+mno_sv_vil_2|2. 村庄场景 scn_village_2
+mno_sv_vil_3|3. 村庄场景 scn_village_3
+mno_sv_vil_4|4. 村庄场景 scn_village_4
+mno_sv_vil_5|5. 村庄场景 scn_village_5
+mno_sv_vil_6|6. 村庄场景 scn_village_6
+mno_sv_vil_7|7. 村庄场景 scn_village_7
+mno_sv_vil_8|8. 村庄场景 scn_village_8
+mno_sv_vil_9|9. 村庄场景 scn_village_9
+mno_sv_vil_10|10. 村庄场景 scn_village_10
+mno_sv_vil_11|11. 村庄场景 scn_village_11
+mno_sv_vil_12|12. 村庄场景 scn_village_12
+mno_sv_vil_13|13. 村庄场景 scn_village_13
+mno_sv_vil_14|14. 村庄场景 scn_village_14
+mno_sv_vil_15|15. 村庄场景 scn_village_15
+mno_sv_vil_16|16. 村庄场景 scn_village_16
+mno_sv_vil_17|17. 村庄场景 scn_village_17
+mno_sv_vil_18|18. 村庄场景 scn_village_18
+mno_sv_vil_p1_next|下一页村庄列表...
+mno_sv_vil_p1_back|返回场景查看器主目录。
+menu_sv_villages_p1|1521 历史村庄聚落 第 1 部分（第 1-18 个村庄场景巡查）
+mno_sv_vil_19|19. 村庄场景 scn_village_19
+mno_sv_vil_20|20. 村庄场景 scn_village_20
+mno_sv_vil_21|21. 村庄场景 scn_village_21
+mno_sv_vil_22|22. 村庄场景 scn_village_22
+mno_sv_vil_23|23. 村庄场景 scn_village_23
+mno_sv_vil_24|24. 村庄场景 scn_village_24
+mno_sv_vil_25|25. 村庄场景 scn_village_25
+mno_sv_vil_26|26. 村庄场景 scn_village_26
+mno_sv_vil_27|27. 村庄场景 scn_village_27
+mno_sv_vil_28|28. 村庄场景 scn_village_28
+mno_sv_vil_29|29. 村庄场景 scn_village_29
+mno_sv_vil_30|30. 村庄场景 scn_village_30
+mno_sv_vil_31|31. 村庄场景 scn_village_31
+mno_sv_vil_32|32. 村庄场景 scn_village_32
+mno_sv_vil_33|33. 村庄场景 scn_village_33
+mno_sv_vil_34|34. 村庄场景 scn_village_34
+mno_sv_vil_35|35. 村庄场景 scn_village_35
+mno_sv_vil_36|36. 村庄场景 scn_village_36
+mno_sv_vil_p2_prev|上一页村庄列表...
+mno_sv_vil_p2_next|下一页村庄列表...
+mno_sv_vil_p2_back|返回场景查看器主目录。
+menu_sv_villages_p2|1521 历史村庄聚落 第 2 部分（第 19-36 个村庄场景巡查）
+mno_sv_vil_37|37. 村庄场景 scn_village_37
+mno_sv_vil_38|38. 村庄场景 scn_village_38
+mno_sv_vil_39|39. 村庄场景 scn_village_39
+mno_sv_vil_40|40. 村庄场景 scn_village_40
+mno_sv_vil_41|41. 村庄场景 scn_village_41
+mno_sv_vil_42|42. 村庄场景 scn_village_42
+mno_sv_vil_43|43. 村庄场景 scn_village_43
+mno_sv_vil_44|44. 村庄场景 scn_village_44
+mno_sv_vil_45|45. 村庄场景 scn_village_45
+mno_sv_vil_46|46. 村庄场景 scn_village_46
+mno_sv_vil_47|47. 村庄场景 scn_village_47
+mno_sv_vil_48|48. 村庄场景 scn_village_48
+mno_sv_vil_49|49. 村庄场景 scn_village_49
+mno_sv_vil_50|50. 村庄场景 scn_village_50
+mno_sv_vil_51|51. 村庄场景 scn_village_51
+mno_sv_vil_52|52. 村庄场景 scn_village_52
+mno_sv_vil_53|53. 村庄场景 scn_village_53
+mno_sv_vil_54|54. 村庄场景 scn_village_54
+mno_sv_vil_p3_prev|上一页村庄列表...
+mno_sv_vil_p3_next|下一页村庄列表...
+mno_sv_vil_p3_back|返回场景查看器主目录。
+menu_sv_villages_p3|1521 历史村庄聚落 第 3 部分（第 37-54 个村庄场景巡查）
+mno_sv_vil_55|55. 村庄场景 scn_village_55
+mno_sv_vil_56|56. 村庄场景 scn_village_56
+mno_sv_vil_57|57. 村庄场景 scn_village_57
+mno_sv_vil_58|58. 村庄场景 scn_village_58
+mno_sv_vil_59|59. 村庄场景 scn_village_59
+mno_sv_vil_60|60. 村庄场景 scn_village_60
+mno_sv_vil_61|61. 村庄场景 scn_village_61
+mno_sv_vil_62|62. 村庄场景 scn_village_62
+mno_sv_vil_63|63. 村庄场景 scn_village_63
+mno_sv_vil_64|64. 村庄场景 scn_village_64
+mno_sv_vil_65|65. 村庄场景 scn_village_65
+mno_sv_vil_66|66. 村庄场景 scn_village_66
+mno_sv_vil_67|67. 村庄场景 scn_village_67
+mno_sv_vil_68|68. 村庄场景 scn_village_68
+mno_sv_vil_69|69. 村庄场景 scn_village_69
+mno_sv_vil_70|70. 村庄场景 scn_village_70
+mno_sv_vil_71|71. 村庄场景 scn_village_71
+mno_sv_vil_72|72. 村庄场景 scn_village_72
+mno_sv_vil_p4_prev|上一页村庄列表...
+mno_sv_vil_p4_next|下一页村庄列表...
+mno_sv_vil_p4_back|返回场景查看器主目录。
+menu_sv_villages_p4|1521 历史村庄聚落 第 4 部分（第 55-72 个村庄场景巡查）
+mno_sv_vil_73|73. 村庄场景 scn_village_73
+mno_sv_vil_74|74. 村庄场景 scn_village_74
+mno_sv_vil_75|75. 村庄场景 scn_village_75
+mno_sv_vil_76|76. 村庄场景 scn_village_76
+mno_sv_vil_77|77. 村庄场景 scn_village_77
+mno_sv_vil_78|78. 村庄场景 scn_village_78
+mno_sv_vil_79|79. 村庄场景 scn_village_79
+mno_sv_vil_80|80. 村庄场景 scn_village_80
+mno_sv_vil_81|81. 村庄场景 scn_village_81
+mno_sv_vil_82|82. 村庄场景 scn_village_82
+mno_sv_vil_83|83. 村庄场景 scn_village_83
+mno_sv_vil_84|84. 村庄场景 scn_village_84
+mno_sv_vil_85|85. 村庄场景 scn_village_85
+mno_sv_vil_86|86. 村庄场景 scn_village_86
+mno_sv_vil_87|87. 村庄场景 scn_village_87
+mno_sv_vil_88|88. 村庄场景 scn_village_88
+mno_sv_vil_89|89. 村庄场景 scn_village_89
+mno_sv_vil_90|90. 村庄场景 scn_village_90
+mno_sv_vil_p5_prev|上一页村庄列表...
+mno_sv_vil_p5_back|返回场景查看器主目录。
+menu_sv_villages_p5|1521 历史村庄聚落 第 5 部分（第 73-90 个村庄场景巡查）
+mno_scene_viewer|查看场景与特殊地点（场景查看器）
+mno_camp_scene_viewer|探索场景与特殊地点（场景查看器）
