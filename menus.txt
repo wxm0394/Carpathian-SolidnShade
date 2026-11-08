@@ -2638,7 +2638,7 @@ menu_scene_viewer 0 Scene_Viewer_Showroom:_Enter_any_settlement_or_hidden_realm.
  mno_sv_to_castles  0  7._1521_Historical_Castles_&_Fortresses_(40_Strongholds)...  1 2060 1 864691128455136567  . 
  mno_sv_to_villages  0  8._1521_Historical_Villages_&_Camps_(90_Settlements)...  1 2060 1 864691128455136574  . 
  mno_sv_to_reports  0  Return_to_Reports_Menu.  1 2060 1 864691128455135236  . 
- mno_sv_to_map  0  Return_to_World_Map.  1 2052 0  . 
+ mno_sv_to_map  0  Return_to_World_Map.  1 2040 0  . 
 menu_sv_undead_city 0 Undead_City_&_Erebus_Netherworld_(The_Unknown):_Select_a_sub-scene_to_enter._(Press_TAB_to_return) none 0 10
  mno_sv_uc_back  0  [Back_to_Scene_Viewer_Hub]  1 2060 1 864691128455136544  . 
  mno_sv_uc_center  0  1._Center_Square_&_Blood_Fountain  4 1304 1 864691128455136545 1911 1 792633534417207296 1910 1 720575940379279420 2048 0  . 

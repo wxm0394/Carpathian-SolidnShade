@@ -194,7 +194,7 @@ def main():
         # 【关键修复】使用原生 jump_to_menu 返回报告菜单 (2060 1 val_reports_menu)，百分之百有效生效！
         f" mno_sv_to_reports  0  Return_to_Reports_Menu.  1 2060 1 {val_reports_menu}  . \n",
         # 同时提供大地图返回选项 (2052 0: change_screen_map)
-        " mno_sv_to_map  0  Return_to_World_Map.  1 2052 0  . \n",
+        " mno_sv_to_map  0  Return_to_World_Map.  1 2040 0  . \n",
     ]
     new_menus_txt.append(f"{m0_id} 0 {m0_text} none 0 {len(m0_opts)}\n" + "".join(m0_opts))
     cns_entries[m0_id] = "场景查看器与实机展厅：你可以随时传送进入任意聚落与地下秘境进行实机核查。在场景中按 TAB 随时原路返回本菜单。"

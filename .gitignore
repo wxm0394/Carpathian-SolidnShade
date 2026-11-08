@@ -13,3 +13,6 @@ __pycache__/
 
 # 1.011 original mod reference directory (local forensic baseline)
 1011版本体/
+
+backup/
+map_guard.py

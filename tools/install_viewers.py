@@ -476,9 +476,9 @@ def run():
     # 8. all_items_populate_category (Strict Warband standard item types)
     pop_items_lines = [
         f"21 1 {local_var(0)}", # store_script_param_1, :category
-        f"6 3 {local_var(6)} 0 910 500 3 {id_trp_temp_c} {local_var(6)} 0 3 0", # clear stale slots
+        f"6 3 {local_var(6)} 0 8100 500 3 {id_trp_temp_c} {local_var(6)} 0 3 0", # clear stale slots
         f"2133 2 {local_var(1)} 0", # assign, :num_matches, 0
-        f"6 3 {local_var(2)} 1 902", # try_for_range, :item, 1, 902
+        f"6 3 {local_var(2)} 1 8000", # try_for_range, :item, 1, 8000
         f"1570 2 {local_var(3)} {local_var(2)}", # item_get_type, :type, :item
         f"2133 2 {local_var(4)} 0", # assign, :match, 0
         f"4 0 31 2 {local_var(0)} 0 2133 2 {local_var(4)} 1", # cat 0: all
@@ -486,7 +486,7 @@ def run():
     for cat_idx, (q_id, types) in enumerate(ITEM_CATEGORIES[1:], 1):
         conds = " ".join([f"31 2 {local_var(3)} {t}" for t in types])
         if len(types) > 1:
-            pop_items_lines.append(f"5 0 31 2 {local_var(0)} {cat_idx} 4 0 {' '.join([f'2147483678 2 {local_var(3)} {t}' if i < len(types)-1 else f'31 2 {local_var(3)} {t}' for i, t in enumerate(types)])} 2133 2 {local_var(4)} 1 3 0")
+            pop_items_lines.append(f"5 0 31 2 {local_var(0)} {cat_idx} 4 0 {' '.join([f'1073741855 2 {local_var(3)} {t}' if i < len(types)-1 else f'31 2 {local_var(3)} {t}' for i, t in enumerate(types)])} 2133 2 {local_var(4)} 1 3 0")
         else:
             pop_items_lines.append(f"5 0 31 2 {local_var(0)} {cat_idx} {conds} 2133 2 {local_var(4)} 1")
             
@@ -647,12 +647,12 @@ def run():
         f"729 2 1 30 730 2 1 665 926 2 {reg(1)} 1 "
         # 2. Pagination controls in center: (330 .. 580)
         f"940 2 {v_prev_btn} {qstr(existing_qs['qstr_prev_page'])} "
-        f"729 2 1 330 730 2 1 660 926 2 {v_prev_btn} 1 "
+        f"729 2 1 260 730 2 1 660 926 2 {v_prev_btn} 1 "
         f"2120 3 {reg(0)} {v_page} 1 2133 2 {reg(1)} {local_var(1)} 2133 2 {reg(2)} {local_var(0)} "
         f"910 3 {reg(3)} {qstr(existing_qs['qstr_page_str'])} 16 "
         f"729 2 1 440 730 2 1 665 926 2 {reg(3)} 1 "
         f"940 2 {v_next_btn} {qstr(existing_qs['qstr_next_page'])} "
-        f"729 2 1 550 730 2 1 660 926 2 {v_next_btn} 1 "
+        f"729 2 1 620 730 2 1 660 926 2 {v_next_btn} 1 "
         # 3. Category Selector at (680, 660) - completely separated from grid!
         f"916 1 {v_cat_sel} "
         f"729 2 1 680 730 2 1 660 926 2 {v_cat_sel} 1 "
@@ -703,7 +703,7 @@ def run():
         f"4 0 31 2 {local_var(1)} 0 "
         f"6 3 {local_var(2)} 1 57 "
         f"2120 3 {local_var(4)} {local_var(2)} 60 "
-        f"4 0 1073741855 3 {id_trp_temp_a} {local_var(2)} {local_var(0)} 540 3 {id_trp_temp_a} {local_var(4)} {local_var(0)} "
+        f"4 0 1073742364 3 {id_trp_temp_a} {local_var(2)} {local_var(0)} 540 3 {id_trp_temp_a} {local_var(4)} {local_var(0)} "
         f"520 3 {local_var(3)} {id_trp_temp_b} {local_var(2)} "
         f"4 0 32 2 {local_var(3)} 0 "
         f"946 2 0 {local_var(0)} 972 4 {local_var(3)} {v_imod} 0 100 "
@@ -712,7 +712,7 @@ def run():
         f"5 0 "
         f"6 3 {local_var(2)} 1 57 "
         f"2120 3 {local_var(4)} {local_var(2)} 60 "
-        f"4 0 1073741855 3 {id_trp_temp_a} {local_var(2)} {local_var(0)} 540 3 {id_trp_temp_a} {local_var(4)} {local_var(0)} "
+        f"4 0 1073742364 3 {id_trp_temp_a} {local_var(2)} {local_var(0)} 540 3 {id_trp_temp_a} {local_var(4)} {local_var(0)} "
         f"4 0 31 2 {v_tooltip_slot} {local_var(2)} 971 0 3 0 "
         f"3 0 3 0 3 0"
     )
@@ -735,7 +735,7 @@ def run():
         f"5 0 "
         f"6 3 {local_var(2)} 1 57 "
         f"2120 3 {local_var(4)} {local_var(2)} 60 "
-        f"4 0 1073741855 3 {id_trp_temp_a} {local_var(2)} {local_var(0)} 540 3 {id_trp_temp_a} {local_var(4)} {local_var(0)} "
+        f"4 0 1073742364 3 {id_trp_temp_a} {local_var(2)} {local_var(0)} 540 3 {id_trp_temp_a} {local_var(4)} {local_var(0)} "
         f"520 3 {local_var(3)} {id_trp_temp_b} {local_var(2)} "
         f"4 0 32 2 {local_var(3)} 0 "
         f"2133 2 {v_sel_item} {local_var(3)} "
