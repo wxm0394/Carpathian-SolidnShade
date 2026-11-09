@@ -4758,3 +4758,80 @@ mno_menu_sv_villages_p15_vil_90|90. 布泽乌 (Buzau) [scn_village_90]
 menu_sv_villages_p15|1521 历史村庄聚落 第 15 页 (第 85-90 个村庄)
 mno_menu_sv_villages_p15_back|【返回场景查看器主目录】
 mno_menu_sv_villages_p15_prev|上一页村庄列表...
+mno_sv_to_vasnar_preview|9.【瓦斯那世界】4座候选城镇场景实机预展 (包含全部子场景)...
+menu_sv_vasnar_preview|瓦斯那世界城镇场景实机预展：请选择你想实地漫游核查的城镇。场景内按 TAB 随时原路返回。
+mno_sv_vp_back|【返回场景查看器大厅】
+mno_sv_vp_dh|1. 德拉肯海尔庄园 (Drakenheir Manor - 8个子场景)...
+mno_sv_vp_vi|2. 维登斯 (Videns - 8个子场景)...
+mno_sv_vp_eb|3. 威托尔 (Wittal - 8个子场景)...
+mno_sv_vp_so|4. 索菲亚 (Sofya - 8个子场景)...
+menu_sv_vp_drakenheir|德拉肯海尔庄园 (Drakenheir Manor)：请选择你想进入的子场景。在场景中按 TAB 随时返回。
+mno_sv_vp_drakenheir_back|【返回瓦斯那城镇预展菜单】
+mno_sv_vp_drakenheir_center|1. 城镇街道中心 (Center)
+mno_sv_vp_drakenheir_walls|2. 城墙攻城防守 (Walls)
+mno_sv_vp_drakenheir_castle|3. 领主大厅与王座 (Castle)
+mno_sv_vp_drakenheir_tavern|4. 酒馆 (Tavern)
+mno_sv_vp_drakenheir_store|5. 杂货商铺 (Store)
+mno_sv_vp_drakenheir_arena|6. 竞技场 (Arena)
+mno_sv_vp_drakenheir_prison|7. 地牢监狱 (Prison)
+mno_sv_vp_drakenheir_alley|8. 阴暗小巷 (Alley)
+menu_sv_vp_videns|维登斯 (Videns)：请选择你想进入的子场景。在场景中按 TAB 随时返回。
+mno_sv_vp_videns_back|【返回瓦斯那城镇预展菜单】
+mno_sv_vp_videns_center|1. 城镇街道中心 (Center)
+mno_sv_vp_videns_walls|2. 城墙攻城防守 (Walls)
+mno_sv_vp_videns_castle|3. 领主大厅与王座 (Castle)
+mno_sv_vp_videns_tavern|4. 酒馆 (Tavern)
+mno_sv_vp_videns_store|5. 杂货商铺 (Store)
+mno_sv_vp_videns_arena|6. 竞技场 (Arena)
+mno_sv_vp_videns_prison|7. 地牢监狱 (Prison)
+mno_sv_vp_videns_alley|8. 阴暗小巷 (Alley)
+menu_sv_vp_ebenhof|威托尔 (Wittal)：请选择你想进入的子场景。在场景中按 TAB 随时返回。
+mno_sv_vp_ebenhof_back|【返回瓦斯那城镇预展菜单】
+mno_sv_vp_ebenhof_center|1. 城镇街道中心 (Center)
+mno_sv_vp_ebenhof_walls|2. 城墙攻城防守 (Walls)
+mno_sv_vp_ebenhof_castle|3. 领主大厅与王座 (Castle)
+mno_sv_vp_ebenhof_tavern|4. 酒馆 (Tavern)
+mno_sv_vp_ebenhof_store|5. 杂货商铺 (Store)
+mno_sv_vp_ebenhof_arena|6. 竞技场 (Arena)
+mno_sv_vp_ebenhof_prison|7. 地牢监狱 (Prison)
+mno_sv_vp_ebenhof_alley|8. 阴暗小巷 (Alley)
+menu_sv_vp_sofya|索菲亚 (Sofya)：请选择你想进入的子场景。在场景中按 TAB 随时返回。
+mno_sv_vp_sofya_back|【返回瓦斯那城镇预展菜单】
+mno_sv_vp_sofya_center|1. 城镇街道中心 (Center)
+mno_sv_vp_sofya_walls|2. 城墙攻城防守 (Walls)
+mno_sv_vp_sofya_castle|3. 领主大厅与王座 (Castle)
+mno_sv_vp_sofya_tavern|4. 酒馆 (Tavern)
+mno_sv_vp_sofya_store|5. 杂货商铺 (Store)
+mno_sv_vp_sofya_arena|6. 竞技场 (Arena)
+mno_sv_vp_sofya_prison|7. 地牢监狱 (Prison)
+mno_sv_vp_sofya_alley|8. 阴暗小巷 (Alley)
+mno_sv_vp_sh|5. 新沙瑞兹·君士坦丁堡候选 (三合一超大城区 & 分区预展)...
+menu_sv_vp_shariz|沙瑞兹·君士坦丁堡候选：请选择你想进入的实机场景。在场景中按 TAB 随时返回。
+mno_sv_vp_sh_back|【返回候选城镇预展菜单】
+mno_sv_vp_sh_merged|1.【新沙瑞兹·君士坦丁堡】三合一无缝超大城区街道漫游 (推荐)
+mno_sv_vp_sh_suburbs|2.【原版分区对比】1. 外围城郊街区 (Suburbs)
+mno_sv_vp_sh_center|3.【原版分区对比】2. 市中心商业街区 (Center)
+mno_sv_vp_sh_church|4.【原版分区对比】3. 大圣殿与教堂广场 (Church Square)
+mno_sv_vp_ot|6.【奥斯曼风云 2.50】君士坦丁堡·科斯坦蒂尼耶实机预展 (8个子场景)...
+mno_sv_vp_1257|7.【1257AD】中世纪拜占庭君士坦丁堡实机漫游 (圣索菲亚大教堂/金门/玛格瑙拉宫)...
+menu_sv_vp_ot_const|奥斯曼君士坦丁堡 (科斯坦蒂尼耶 - Ottoman Scenario)：请选择你想进入的子场景。在场景中按 TAB 随时返回。
+mno_sv_vp_ot_back|【返回候选城镇预展菜单】
+mno_sv_vp_ot_center|1. 城镇街道中心 (Center - 拜占庭皇宫/大教堂/大巴扎/宣礼塔)
+mno_sv_vp_ot_walls|2. 城墙攻城防守 (Walls - 狄奥多西拜占庭要塞城门防线)
+mno_sv_vp_ot_castle|3. 托普卡帕领主大殿 (Castle)
+mno_sv_vp_ot_tavern|4. 酒馆 (Tavern)
+mno_sv_vp_ot_store|5. 杂货商铺 (Store)
+mno_sv_vp_ot_arena|6. 竞技场 (Arena)
+mno_sv_vp_ot_prison|7. 地牢监狱 (Prison)
+mno_sv_vp_ot_alley|8. 阴暗小巷 (Alley)
+mno_sv_vp_destiny|8.【天命：大争之世】石锤部落君士坦丁堡实机预展 (8个子场景)...
+menu_sv_vp_destiny_const|天命君士坦丁堡 (Destiny-EpicWar1.0)：请选择你想进入的子场景。在场景中按 TAB 随时返回。
+mno_sv_vp_destiny_back|【返回候选城镇预展菜单】
+mno_sv_vp_destiny_center|1. 城镇街道中心 (Center - 罗马广场/十二世纪大教堂/引水渠/金角湾)
+mno_sv_vp_destiny_walls|2. 城墙攻城防守 (Walls - 狄奥多西城垛塔楼防线)
+mno_sv_vp_destiny_castle|3. 领主大厅与王座 (Castle)
+mno_sv_vp_destiny_tavern|4. 酒馆 (Tavern)
+mno_sv_vp_destiny_store|5. 杂货商铺 (Store)
+mno_sv_vp_destiny_arena|6. 竞技场 (Arena)
+mno_sv_vp_destiny_prison|7. 地牢监狱 (Prison)
+mno_sv_vp_destiny_alley|8. 阴暗小巷 (Alley)

@@ -16,3 +16,5 @@ __pycache__/
 
 backup/
 map_guard.py
+
+backup_pre_*/

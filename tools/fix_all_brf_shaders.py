@@ -4,6 +4,14 @@ MOD_DIR = "/home/wxm/GOG Games/Mount Blade Warband/game/Modules/Carpathian Solid
 RES_DIR = os.path.join(MOD_DIR, "Resource")
 
 SHADER_MAP = {
+    # Static architecture & interior shaders (Primary culprit of white walls and blown-out architecture)
+    "bump_static": "standart_shader_nobump_nospec",
+    "bumpmap_interior": "standart_shader_nobump_nospec",
+    "bump_static_nospec": "standart_shader_nobump_nospec",
+
+    # Specular bump shaders
+    "specular_shader_bump": "specular_shader",
+
     # Skin bump nospec high shaders (Primary culprit of white armors)
     "standart_shader_skin_bump_nospec_high": "standart_shader_nobump_nospec",
     "standart_shader_skin_bump_nospec": "standart_shader_nobump_nospec",
